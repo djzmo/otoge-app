@@ -1,0 +1,666 @@
+[
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "ATTACK GAME CENTER",
+		"address": "190-14,SIMGOK 2-DONG,WONMI-GU,BUCHEON-SI,GYONGGI-DO,KOREA",
+		"lat": 37.48707287119401,
+		"lng": 126.78292517578984,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "21300"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "BEATLAB T",
+		"address": "1029，Dongil-ro，Nowon-gu，Seoul",
+		"lat": 37.6219281,
+		"lng": 127.0738431,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19597"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "BEOMGYE GAME HEAVEN",
+		"address": "55,Pyeongchon-daero223beon-gil,Dongan-gu, Anyang-si,Gyeonggi-do",
+		"lat": 37.3926298,
+		"lng": 126.9768046,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20457"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "BIG GAME LAND",
+		"address": "120-1, Gumijungang-ro, Gumi-si,Gyeongsangbuk-do",
+		"lat": 36.1269696,
+		"lng": 128.335257,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19848"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "BUCHEON ATTACK",
+		"address": "28, Buil-ro 469beon-gil, Bucheon-si, Gyeonggi-do",
+		"lat": 37.4870906,
+		"lng": 126.7828212,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20461"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "BUSAN BOW GAME",
+		"address": "48-2, Geumjeong-ro 60beon-gil, Geumjeong-gu, Busan",
+		"lat": 35.2292051,
+		"lng": 129.0889504,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20240"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "CYMUSIC GAMEWORLD",
+		"address": "62，Gungdong-ro 18beon-gil，Yuseong-gu，Daejeon",
+		"lat": 36.3626742,
+		"lng": 127.3507811,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19580"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "DAEHAKRO WOORI 1",
+		"address": "24, Daemyeong-gil, Jongno-gu, Seoul",
+		"lat": 37.5833734,
+		"lng": 127.0002483,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20479"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "FUNNYLAND",
+		"address": "46-1, Eoulmadang-ro, Mapo-gu, Seoul",
+		"lat": 37.5491266,
+		"lng": 126.921008,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19871"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "G2ZONE YEONGDEUNGPO",
+		"address": "16, Yeongjung-ro 4-gil, Yeongdeungpo-gu, Seoul, Korea",
+		"lat": 37.5172567,
+		"lng": 126.9080386,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19479"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "GAME LAND",
+		"address": "B1,38,Hwasin-ro272beon-gil,Deogyang-gu,Goyang-si,Gyeonggi-do",
+		"lat": 37.6874014,
+		"lng": 126.864964,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20265"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "GAME-D",
+		"address": "10,Suyeong-ro 298beon-gil,Nam-gu,Busan",
+		"lat": 35.1362742,
+		"lng": 129.0989805,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20241"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "GWANGJU GAMEPLAZA",
+		"address": "5, Chungjangnoan-gil, Dong-gu, Gwangju",
+		"lat": 35.1461042,
+		"lng": 126.9231228,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20319"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "INCHEON CALIOPE GAMELAND",
+		"address": "141, 35, Nongogae-ro 123beon-gil, Namdong-gu, Incheon",
+		"lat": 37.4014752,
+		"lng": 126.7220566,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20268"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "JUAN CPU",
+		"address": "31, Michuhol-daero 734beon-gil,Michuhol-gu, Incheon",
+		"lat": 37.4630241,
+		"lng": 126.6821976,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19762"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "KONKUK FUN CITY",
+		"address": "81, Dongil-ro 22-gil, Gwangjin-gu, Seoul",
+		"lat": 37.5414065,
+		"lng": 127.068776,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20482"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "MARS TRAVEL GAME",
+		"address": "59, Seowonnam-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do",
+		"lat": 36.6221372,
+		"lng": 127.4813167,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19865"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "MASAN NEW WORLD GAME",
+		"address": "6,Hapseongseo4-gil,Masanhoewon-gu,Changwon-si,Gyeongsangnam-do",
+		"lat": 35.2206349,
+		"lng": 128.5795296,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20437"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "METRO GAME CENTER",
+		"address": "5-205, 2100, Dalgubeol-daero, Jung-gu, Daegu",
+		"lat": 35.8646637,
+		"lng": 128.5979695,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19846"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "NOLJA GAME",
+		"address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
+		"lat": 35.8698745,
+		"lng": 128.5926402,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19890"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "NORYANGJIN AMUSETOWN",
+		"address": "26, Manyang-ro 14ga-gil, Dongjak-gu, Seoul",
+		"lat": 37.5127094,
+		"lng": 126.9449436,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20468"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "PSYMUSIC GAMEWORLD",
+		"address": "B1, 408-1 ,Gung-dong, Yuseong-gu, Daejeon",
+		"lat": 36.3626742,
+		"lng": 127.3507811,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19567"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "ROYAL GAME",
+		"address": "454-1, Jungang-daero, Jung-gu, Daegu",
+		"lat": 35.8735075,
+		"lng": 128.5948787,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20443"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "SAMBO GAME LAND",
+		"address": "61, Seojeon-ro 10beon-gil, Busanjin-gu, Busan",
+		"lat": 35.1552641,
+		"lng": 129.0606925,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20439"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "SAMSEONGYO WOORI 2",
+		"address": "14, Samseongyo-ro 10-gil, Seongbuk-gu, Seoul",
+		"lat": 37.5873226,
+		"lng": 127.0090045,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20478"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "SHINSEGYE GAMELAND",
+		"address": "122-14, Hapseong1-dong,Masanhoewon,Changwon,Gyeongsangnam-do",
+		"lat": 35.2206349,
+		"lng": 128.5795296,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19568"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "SINCHEON PPYONGPPYONG GAME LAND",
+		"address": "46, Baekjegobun-ro 7-gil, Songpa-gu, Seoul",
+		"lat": 37.510478,
+		"lng": 127.0838773,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20476"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "SUWON JJANGORAKSIL",
+		"address": "923-1, Deogyeong-daero, Paldal-gu, Suwon-si, Gyeonggi-do",
+		"lat": 37.2860983,
+		"lng": 127.0349995,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20322"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "THE BUNKER GAMEZONE",
+		"address": "34, Daehak-ro, Yuseong-gu, Daejeon",
+		"lat": 36.3564331,
+		"lng": 127.3430268,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20417"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "YEONGDEUNGPO ACTION",
+		"address": "15,YEONGJUNG-RO,YEONGDEUNGPO-GU,SEOUL",
+		"lat": 37.517007,
+		"lng": 126.9041419,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20475"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "YEONGTONG JJANG",
+		"address": "111, 30, BANDAL-RO 7BEON-GIL, YEONGTONG-GU, SUWON-SI,GYEONGGI-DO",
+		"lat": 37.2531471,
+		"lng": 127.0748957,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20156"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "YEONSINNAE JJANGGU GAME",
+		"address": "8-8, Yeonseo-ro 29-gil, Eunpyeong-gu, Seoul",
+		"lat": 37.6189525,
+		"lng": 126.9196972,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20469"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "ZZANG GAME DAEGU DONGSUNG-RO",
+		"address": "35-1, Dongseong-ro, Jung-gu, Daegu",
+		"lat": 35.8700487,
+		"lng": 128.5955018,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20205"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "ZZANG GAME DONGSUNG-RO 2ND",
+		"address": "1F 36，Dongseong-ro 6-gil，Jung-gu，Daegu，Korea",
+		"lat": 35.8685735,
+		"lng": 128.5972614,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "19668"
+		}
+	},
+	{
+		"country": "KR",
+		"area": "Korea",
+		"storeName": "ZZANG ORAKSIL HONGDAE",
+		"address": "69, Eoulmadang-ro, Mapo-gu, Seoul",
+		"lat": 37.5512385,
+		"lng": 126.9210941,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1005",
+			"allNetSid": "20471"
+		}
+	}
+]

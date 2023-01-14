@@ -1,0 +1,311 @@
+[
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "COBAY 1U CROSS FIRE",
+		"address": "5F,1U SC.,1LEBUH BDR UTAMA,BDR UTAMA,PETALING JAYA,SELANGOR",
+		"lat": 3.150353802510335,
+		"lng": 101.61586605767206,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "24199"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "COBAY DPULSE CYBERJAYA",
+		"address": "LOT SF08 DPULSE SC,CYBER12,63000 CYBERJAYA,SELANGOR",
+		"lat": 2.9221743,
+		"lng": 101.6510948,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19798"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "COBAY WANGSA WALK",
+		"address": "TINGKAT2,WANGSA WALK1,JL.WANGSADELIMA12,WANGSA MAJU,KL.",
+		"lat": 3.19755264267931,
+		"lng": 101.74162109999997,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "23862"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE @ EKO CHERAS",
+		"address": "S17&S18,2F,EkoCherasMall,TamanMutiaraBarat,56000Cheras9Miles,KL.",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "20190"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE @MELAKA CHENG",
+		"address": "F2,First Floor,Lotus Melaka Cheng,Taman Paya Rumput 75460 Melaka",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19146"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE @SUNWAY PYRAMID",
+		"address": "SUNWAY,PYRAMID LG3IR03,BANDARSUNWAY,SELANGOR",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "20587"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE S2",
+		"address": "LOT F01 &F02 AEON SEREMBAN2 SC 112 SEREMBAN NEGERI SEMBILAN",
+		"lat": 0,
+		"lng": 0,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19799"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@EAST COAST MALL",
+		"address": "LOT L3 36,LEVEL3,EAST COAST MALL,JALAN ,25300 KUANTAN,PAHANG",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19800"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@MINES",
+		"address": "L1-07/08,THE MINES SHOPPING FAIR,MINES RESORTCITY,SERI KEMBANGAN",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "24761"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@PARADIGMMALL JOHOR BAHRU",
+		"address": "4FPARADIGM MALL,JOHOR BAHRU,LEVEL2,JALAN SKUDAI 81200JOHOR",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19796"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@SUNWAY CARNIVAL MALL",
+		"address": "3068 JalanTodak,Seberang Jaya 13700 Perai Pulau Pinang",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19791"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@SUNWAY PUTRA",
+		"address": "4-6-4-12,4F,SunwayPutraMall,No.100,JalanPutra,50350Kuala Lumpur,",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19795"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@TESCO BAGAN AJAM",
+		"address": "G3,TESCO BAGAN AJAM ,LOT 2816,12300 BUTTERWORTH PULAU PINANG",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19801"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@TESCO KEPONG",
+		"address": "TESCO KEPONG F1 PLAYLAND JALAN 7A 62A,,52200KEPONG KUALA LUMPUR",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19797"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@TESCO MERGONG",
+		"address": "Tesco Mergong jalan Lencong Barat 05050Alorstetar Kedah",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19789"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@TOPPEN",
+		"address": "33,Jalan Harmonium,Taman Desa Tebrau,81100Johor Bahru",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19793"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "FUN SCAPE@VELOCITY MALL",
+		"address": "3-89 3rd SUNWAY VELOCITY MALL LINGKARAN SV,MALURI KUALA LUMPUR",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19632"
+		}
+	},
+	{
+		"country": "MY",
+		"area": "Malaysia",
+		"storeName": "VISION CITY VIDEO GAMES PARK",
+		"address": "VisonCityVideoGamesPark,ResortsWorldGenting,69000,Pahang Darul M",
+		"lat": 3.423871,
+		"lng": 101.792679,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1004",
+			"allNetSid": "19787"
+		}
+	}
+]

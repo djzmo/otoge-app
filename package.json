@@ -1,0 +1,13 @@
+{
+  "name": "@otoge.app/root",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djzmo/otoge.app.git"
+  },
+  "author": "Yana Nugraha <me@djzmo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^6.4.1"
+  }
+}

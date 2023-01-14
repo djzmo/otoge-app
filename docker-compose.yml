@@ -1,0 +1,41 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: base-dev
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - REDIS_URL=redis://:redis@redis:6379
+    volumes:
+      - ./packages/api:/app/packages/api
+      - ./data:/app/packages/api/data
+      - /app/node_modules
+      - /app/packages/api/node_modules
+      - /app/packages/web/node_modules
+    command: lerna run dev --scope=@otoge.app/api
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: base-dev
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - REACT_APP_GOOGLE_MAPS_API_KEY=
+    volumes:
+      - ./packages/web:/app/packages/web
+      - /app/node_modules
+      - /app/packages/api/node_modules
+      - /app/packages/web/node_modules
+    command: lerna run start --scope=@otoge.app/web
+  redis:
+    image: redis/redis-stack
+    ports:
+      - "6379:6379"
+      - "8001:8001"
+    environment:
+      - REDIS_ARGS=--requirepass redis

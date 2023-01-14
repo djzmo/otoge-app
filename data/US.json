@@ -1,0 +1,716 @@
+[
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(ARLINGTON)",
+		"address": "3811 SOUTH COOPER ST. SUITE 6004 ARLINGTON, TX 76015",
+		"lat": 32.6796797,
+		"lng": -97.1295441,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "21467"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(BROADWAY MALL)",
+		"address": "358 NORTH BROADWAY MALL,SUITE 1950 HICKSVILLE, NY 11801",
+		"lat": 40.7732181,
+		"lng": -73.5295087,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20641"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(BURBANK TOWN CENTER)",
+		"address": "201 E Magnolia Blvd, Suite 145 Burbank CA91502",
+		"lat": 34.1833774,
+		"lng": -118.3124048,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19785"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(CORONADO CENTER)",
+		"address": "6600 Menaul NE Suite 2000-2 Albuquerque NM",
+		"lat": 35.1071051,
+		"lng": -106.5702173,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20334"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(CUMBERLAND MALL)",
+		"address": "2860 Cumberland Mall, Suite 1500 Atlanta, GA 30339",
+		"lat": 33.8799947,
+		"lng": -84.4680649,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19562"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(DEPTFORD MALL)",
+		"address": "1750 Deptford Center Road, Space #2350 Deptford Township NJ,",
+		"lat": 39.8314319,
+		"lng": -75.0978249,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19645"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(EASTRIDGE SHOPPING)",
+		"address": "2200 EASTRIDGE LOOP, SUITE 2094,SAN JOSE, CA 95122",
+		"lat": 37.3255349,
+		"lng": -121.8133811,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "21247"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(EXTON SQUARE MALL)",
+		"address": "172 EXTON SQUARE PARKWAY D100,EXTON, PA 19341",
+		"lat": 40.0329129,
+		"lng": -75.6267116,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20784"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(FAIRFIELD COMMONS)",
+		"address": "2727 Fairfield Commons, Suite ANC1A Beavercreek OH 45431",
+		"lat": 39.7672589,
+		"lng": -84.0566336,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19989"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(FASHION DISTRICT)",
+		"address": "1001 MARKET STREET 3010PHILADELPHIA PA 19107",
+		"lat": 39.9519835,
+		"lng": -75.1571648,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19972"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(FOUR SEASONS TOWN CENTRE)",
+		"address": "410 Four Seasons Town Centre Suite 125 Greensboro,NC 27407",
+		"lat": 36.0392769,
+		"lng": -79.8384279,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20487"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(FOX VALLEY MALL)",
+		"address": "2480 FOX VALLEY CENTER AURORA,IL 60504",
+		"lat": 41.7588775,
+		"lng": -88.2126401,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20724"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(GALLERIA AT CRYSTAL RUN)",
+		"address": "GALLERIA AT CRYSTAL RUN 1GALLERIA DR, SUITE01 MIDDLETOWN NY10941",
+		"lat": 41.452837,
+		"lng": -74.3683538,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20570"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(GATEWAYMALL)",
+		"address": "6100 O Street,Suite 190A Lincoln NE,68505",
+		"lat": 40.8156596,
+		"lng": -96.6350068,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20165"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(GRAPEVINE MILLS)",
+		"address": "3000 GRAPEVINE MILLS PKWY,GRAPEVINE, TX 76051",
+		"lat": 32.9661607,
+		"lng": -97.0425031,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20972"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(GREAT LAKES CROSSING)",
+		"address": "GREAT LAKES CROSSING4220BALDWINRD SUITE A502AUBURNHILLS,MI48326",
+		"lat": 42.702464,
+		"lng": -83.305411,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20569"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(GREAT LAKES MALL)",
+		"address": "7850 Mentor Ave Suite 200A MentoR OH 44060",
+		"lat": 41.6570654,
+		"lng": -81.3604541,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20402"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(HOLYOKE MALL)",
+		"address": "50 Holyoke Street, Space J210 Holyoke MA 01040",
+		"lat": 42.1676302,
+		"lng": -72.6413569,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20120"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(JEFFERSON MALL)",
+		"address": "4809 Outer Loop Louisville KY, 40219",
+		"lat": 38.1419096,
+		"lng": -85.6697266,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20177"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(LAKEWOOD)",
+		"address": "401 LAKEWOOD CENTER MALL LAKEWOOD, CA",
+		"lat": 33.85039688291566,
+		"lng": -118.1385807121643,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "22693"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(MAINE MALL)",
+		"address": "364 Maine Mall Road, S200 Portland ME 04106",
+		"lat": 43.6342134,
+		"lng": -70.3367879,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20344"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(MEADOWS MALL)",
+		"address": "4000 Meadows Ln Meadows Mall Las Vegas",
+		"lat": 36.172672,
+		"lng": -115.194732,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20009"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(MILLCREEK MALL)",
+		"address": "5800 Peach St., Unit #825, Erie, PA 16509",
+		"lat": 42.0669047,
+		"lng": -80.0988507,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20228"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(NORTHRIDGE MALL)",
+		"address": "1600 Northridge Mall, #200, Salinas, CA",
+		"lat": 36.7169,
+		"lng": -121.658187,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20227"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(NORTHRIVERSIDE MALL)",
+		"address": "7503 W Cermak Rd North Riverside IL, 60546",
+		"lat": 41.8501667,
+		"lng": -87.8123863,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20164"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(NORTHWOODS MALL)",
+		"address": "2200 W WAR MEMORIAL DR PEORIA,IL61613",
+		"lat": 40.7399472,
+		"lng": -89.6285208,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20545"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(PARK CITY CENTER)",
+		"address": "200 Park City Center Lancaster,PA 17601",
+		"lat": 40.0688229,
+		"lng": -76.3388131,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19508"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(PARK PLACE MALL)",
+		"address": "5950 E Broadway Blvd Park PlaceMall Suite 110 Tucson AZ 85711",
+		"lat": 32.2204809,
+		"lng": -110.8637691,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20010"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(PEMBROKE LAKES MALL)",
+		"address": "12055 Pines BLVD, Pembroke Pines, FL 33026",
+		"lat": 26.010591,
+		"lng": -80.307858,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19226"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(POTOMAC MILLS)",
+		"address": "2700 Potomac Mills Circle, Suite 882 Woodbridge VA22192",
+		"lat": 38.6433621,
+		"lng": -77.2961829,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19683"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(PUENTE HILLS)",
+		"address": "1600S AZUSA AVE.SUITE285 CITY OF INDUSTORY, CA",
+		"lat": 33.9935867,
+		"lng": -117.9274765,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "22695"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SHOPS AT SOUTH TOWN)",
+		"address": "10450 S.Street Sandy,UT 84070",
+		"lat": 40.5614329,
+		"lng": -111.8793313,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20229"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SOUTH HILL MALL)",
+		"address": "3500 S Meridian, Suite 900, Puyallup, WA 98373",
+		"lat": 47.1573499,
+		"lng": -122.3005397,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19224"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SOUTH WEST PLAZA)",
+		"address": "8501 WEST BOWLES AVE., SPACE1183 LITTLETON, CO 80123",
+		"lat": 39.6119798,
+		"lng": -105.0956537,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20768"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SOUTHCENTER MALL)",
+		"address": "2351 SOUTHCENTER MALL TUKWILA,WA 98188",
+		"lat": 47.4576967,
+		"lng": -122.2611286,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20980"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SOUTHLAND MALL)",
+		"address": "545 SOUTHLAND MALL DR.HAYWARD CA 94545",
+		"lat": 37.6509859,
+		"lng": -122.1036974,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20062"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SOUTHRIDGE MALL)",
+		"address": "5200 S 76th Street,SuiteCGreendale WI 53129",
+		"lat": 42.9502674,
+		"lng": -88.0057293,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20139"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(SUNVALLEY MALL)",
+		"address": "185 SUNVALLEY MALL CONCORDCA 94520",
+		"lat": 37.9671559,
+		"lng": -122.0617194,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "20877"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(TOWN EAST SQUARE )",
+		"address": "7700 East Kellogg Drive, Suite G03J,Wichita,KS 67207",
+		"lat": 37.6826997,
+		"lng": -97.2474183,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19757"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1（TOWSON TOWN CENTER）",
+		"address": "825 Dulaney Valley Road, Suite 1190　Towson　MD　21204",
+		"lat": 39.4042658,
+		"lng": -76.5990278,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19988"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(VALLEY RIVER CENTER)",
+		"address": "600ValleyRiverCenter,Suite100,Eugene,OR 97401",
+		"lat": 44.0669886,
+		"lng": -123.1047543,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19873"
+		}
+	},
+	{
+		"country": "US",
+		"area": "USA",
+		"storeName": "ROUND1(VANCOUVER)",
+		"address": "8800 NE Vancouver Mall Dr., Suite 100Vancouver WA 98662",
+		"lat": 45.6573284,
+		"lng": -122.5830218,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1009",
+			"allNetSid": "19642"
+		}
+	}
+]

@@ -1,0 +1,127 @@
+[
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "ALIBABA 3",
+		"address": "E 206, 2ND, MYANMAR CENTER, KABAAYE PAGODA ROAD, BAHAN,YANGON",
+		"lat": 16.8152865,
+		"lng": 96.1559192,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19697"
+		}
+	},
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "ALIBABA 4",
+		"address": "3RD FLOOR, JUNCTION SQUARE, KAMARYUT, YANGON",
+		"lat": 16.8171212,
+		"lng": 96.130712,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19696"
+		}
+	},
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "ALIBABA 7",
+		"address": "4TH FLOOR, JUNCTION CITY, PABEDAN TOWNSHIP,YANGON",
+		"lat": 16.7790825,
+		"lng": 96.1543205,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19694"
+		}
+	},
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "ARCADE HERO",
+		"address": "2ND FLOOR, OCEAN CENTER, PAZUNDAUNG TOWNSHIP, YANGON",
+		"lat": 16.774124,
+		"lng": 96.1784676,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19692"
+		}
+	},
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "ARCADIA 2",
+		"address": "4TH FLOOR, JUNCTION MAWTIN, LANMADAW TOWNSHIP, YANGON",
+		"lat": 16.7779102,
+		"lng": 96.1412829,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19693"
+		}
+	},
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "GAZE AMUSEMENT",
+		"address": "4th Floor, City Square Center, TaungGyi, Shan State",
+		"lat": 20.7832527,
+		"lng": 97.036497,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19659"
+		}
+	},
+	{
+		"country": "MM",
+		"area": "Myanmar",
+		"storeName": "THE MOVE(ALIBABA)",
+		"address": "73 Street, Between 105 x 107, Chan Mya Thar Si Township",
+		"lat": 21.9427482,
+		"lng": 96.0935648,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1013",
+			"allNetSid": "19187"
+		}
+	}
+]

@@ -1,0 +1,172 @@
+[
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(GALAXY MALL)",
+		"address": "GALAXYMAL LT.3NO.302-303,JL.DINDAHTIMURNO.37MULYOREJOSURABAYA",
+		"lat": -7.275592,
+		"lng": 112.782234,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "21071"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(GALERIA BALI LT.2)",
+		"address": "GaleriaMallBaliLt.2,Jl.RayaByPassIGustiNgurahRai,Simpang",
+		"lat": -8.4095178,
+		"lng": 115.188916,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "20381"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(KELAPA GADING MALL3)",
+		"address": "KELAPAGADINGML3L2No.ENTERTAINMENTJLBULEVAR.BLOK.M,PERMAI-14240",
+		"lat": -6.156673,
+		"lng": 106.909268,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "20736"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(LIPPO MALL PURI)",
+		"address": "LIPPO ML PURI,UNIT L1-07KEL KEMBANGAN SELATAN CBD PURI INDAH JKT",
+		"lat": -6.190158,
+		"lng": 106.738733,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "20734"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(MARGO CITY MALL)",
+		"address": "MARGO CITY PLASA , JL. MARGONDARAYA NO 358 - DEPOK 16423",
+		"lat": -6.3730937,
+		"lng": 106.8347512,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "21301"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(PLUIT EMPORIUM)",
+		"address": "EMPORIUM PLUIT MAL(KAWASAN CBD)LT.4,PLUIT S.RAYA,JAKARTA UTARA",
+		"lat": -6.127580884337185,
+		"lng": 106.79076082065433,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "21073"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(PLUIT VILLAGE LT.4)",
+		"address": "Pluit Village Lt. 4,Jl. Pluit Indah Raya,Jakarta - Utara",
+		"lat": -6.1164684,
+		"lng": 106.789632,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "20378"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(SUMMARECON BEKASI)",
+		"address": "SUMARECONMAL BEKASI.JL.BOULEVARDAHMAD YANI BLOKM-BEKASI-17142",
+		"lat": -6.226200084486441,
+		"lng": 107.00093653599856,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "21072"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(SUMMARECON SERPONG)",
+		"address": "SUMARECON MAL SERPONG LT 2.JL.BOULEVARD CENTRA GADING SERPONG",
+		"lat": -6.241002,
+		"lng": 106.628151,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "20735"
+		}
+	},
+	{
+		"country": "ID",
+		"area": "Indonesia",
+		"storeName": "TIMEZONE(SUPERMALL KARAWACI)",
+		"address": "L.S.KARAWACI LT.DASAR,105BULEVAR00-00LIPPO KARAWACI1200TANGERANG",
+		"lat": -6.2270749408806445,
+		"lng": 106.60704502593387,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1007",
+			"allNetSid": "21074"
+		}
+	}
+]

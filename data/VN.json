@@ -1,0 +1,218 @@
+[
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "DREAM GAMES HA DONG",
+		"address": "3F Aeon Mall Ha Dong,Duong Noi Ward,Ha Dong Dist.,Hanoi City",
+		"lat": 20.955835,
+		"lng": 105.7563658,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19122"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "DREAM GAMES(BINH TAN)",
+		"address": "AeonMallBinhTan,BinhTri DongBward,BinhTanDist.,HoChiMinhCity",
+		"lat": 10.7427069,
+		"lng": 106.6119055,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19836"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "DREAM GAMES(HAI PHONG LE CHAN)",
+		"address": "3F,Aeonmall Hai Phong Le Chan,10,Vo Nguyen Giap St.,Kenh Duong W",
+		"lat": 20.8324943,
+		"lng": 106.682241,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19420"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "DREAM GAMES(LONG BIEN)",
+		"address": "AeonMallHimlamComp,PhucDongandLongBienWards,LongBienDist, Hanoi",
+		"lat": 21.0277644,
+		"lng": 105.8341598,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19837"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "DREAM GAMES(TAN PHU CELADON)",
+		"address": "AeonMall,30BoBaoTanThangSt.,SonKyward,TanPhuDist,Ho Chi Minh",
+		"lat": 0,
+		"lng": 0,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19838"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "LANG XI TRUM NOWZONE",
+		"address": "Nowzone Shopping Mall,235 Nguyen Van Cu Str,Ho Chi Minh City",
+		"lat": 10.7641313,
+		"lng": 106.6825438,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19466"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "LANG XI TRUM VIVO",
+		"address": "SC Vivo Shopping Mall,1058 Nguyen Van Linh Str,Ho Chi Minh city",
+		"lat": 10.7302321,
+		"lng": 106.7033975,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19465"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "TIMEZONE AEON HAI PHONG",
+		"address": "T339,3F,AeonMall Hai Phong,KenhDuong w.,Le Chan Dist,Hai Phong",
+		"lat": 20.8324937,
+		"lng": 106.6822778,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19557"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "TIMEZONE(AEON BINH DUONG)",
+		"address": "Aeon Mall Binh Duong Canary,Binh Giao,Thuan Giao,Thuan An City",
+		"lat": 10.9323347,
+		"lng": 106.7119938,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19471"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "TIMEZONE(AEON HA DONG)",
+		"address": "AEONMALL,HoangVanThuStreet DuongNoiWard,HaDong District, Ha Noi",
+		"lat": 21.0277644,
+		"lng": 105.8341598,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19834"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "TIMEZONE(AEON TAN PHU)",
+		"address": "AEONMALL, 30 Bo Bao Tan Thang Street, Son Ky Ward, Tan Phu Dist.",
+		"lat": 10.8013663,
+		"lng": 106.6172025,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19833"
+		}
+	},
+	{
+		"country": "VN",
+		"area": "Viet Nam",
+		"storeName": "TIMEZONE(ESTELLA)",
+		"address": "Estella Place, 88 Song Hanh Street, An Phu Ward, 2 District",
+		"lat": 10.8020658,
+		"lng": 106.7484709,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1011",
+			"allNetSid": "19832"
+		}
+	}
+]

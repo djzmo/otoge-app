@@ -1,0 +1,348 @@
+[
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "CLUB SYNERGY (SM MEGAMALL)",
+		"address": "LGF SM MEGAMALL, JULIA VARGAS COR EDSA, MANDALUYONG CITY",
+		"lat": 14.5851052,
+		"lng": 121.0569621,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19751"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "Q POWERSTATION(ROCKWELL)",
+		"address": "AMAPOLA STREET, POBLACION, MAKATI CITY",
+		"lat": 14.5631709,
+		"lng": 121.0406843,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19830"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QPOWERSTATION (MALLOFASIA)",
+		"address": "3/F North Wing Expansion Area, SM Mall of Asia,OceanDrive,PASAY",
+		"lat": 14.5349838,
+		"lng": 120.9826825,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19819"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QPOWERSTATION(ESTANCIA)",
+		"address": "3RD FL., ESTANCIA MALL, CAPITOLCOMMONS, PASIG CITY",
+		"lat": 14.576609,
+		"lng": 121.06354,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19783"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QPOWERSTATION(PODIUM)",
+		"address": "4TH FL.,THE PODIUM MALL,18ADB AVE.CORJULIA VARGAS, MANDALUYONG",
+		"lat": 14.585312,
+		"lng": 121.0592867,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19782"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QPOWERSTATION(SANTOLAN)",
+		"address": "3RD FL., SANTOLAN TOWN PLAZA MALL, LITTLE BAGUIO, SAN JUAN CITY",
+		"lat": 14.6041985,
+		"lng": 121.0339139,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19784"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QPOWERSTATION(SHANGRILA)",
+		"address": "EASTWING EDSA CORNER SHAW BOULEVARD, MANDALUYONG CITY",
+		"lat": 14.5812818,
+		"lng": 121.0538687,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19822"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM (SM NOVALICHES GF)",
+		"address": "GF SM NOVALICHES, QUIRINO HWY.,NOVALICHES, QUEZON CITY",
+		"lat": 14.708228,
+		"lng": 121.0373958,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19750"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM (SM SOUTHMALL)",
+		"address": "LGF SM SOUTHMALL, ALMANZA, LAS PINAS CITY",
+		"lat": 14.432971,
+		"lng": 121.0101074,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19749"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM BACOLOD EXP)",
+		"address": "SM BACOLOD EXP, SM CITY BACOLOD, RECLAMATION AREA, BACOLOD CITY",
+		"lat": 10.6707928,
+		"lng": 122.9426587,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19818"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM BACOOR)",
+		"address": "LGF SM BACOOR, CORNER AGUINALDO& TIRONA HWAY, BACOOR CAVITE",
+		"lat": 14.4448137,
+		"lng": 120.9517372,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19823"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM BAGUIO)",
+		"address": "3/F SM BAGUIO, LUNETA HILL SESSION ROAD, BAGUIO CITY",
+		"lat": 16.4088814,
+		"lng": 120.5991997,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19828"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM CALAMBA)",
+		"address": "NATIONAL HIGHWAY BRGY.REAL.CALAMBA CITY",
+		"lat": 14.2204469,
+		"lng": 121.1393586,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19827"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM CLARK)",
+		"address": "SM CLARK M.A.ROXAS ST.,MALABANIAS,ANGELES CITY",
+		"lat": 15.1690253,
+		"lng": 120.580085,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19824"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM DASMARINAS)",
+		"address": "Dasmarinas, 4114 Cavite, Phillipines",
+		"lat": 14.2990183,
+		"lng": 120.9589699,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19741"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM MANILA)",
+		"address": "CORNER ARROCEROS, ERMITA, METROMANILA",
+		"lat": 14.5910393,
+		"lng": 120.9818685,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19826"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM MARIKINA)",
+		"address": "BARANGAY CALUMPANG, BARANGKA, MARIKINA CITY",
+		"lat": 14.6249216,
+		"lng": 121.0865346,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19821"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM NORTH EDSA)",
+		"address": "SM NORHT EDSA, QUEZON CITY",
+		"lat": 14.6567726,
+		"lng": 121.0291307,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19831"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SM SAN LAZARO)",
+		"address": "A.H LACSON STREET, SAN LAZARO,METRO MANILA",
+		"lat": 14.610796,
+		"lng": 120.9917042,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19829"
+		}
+	},
+	{
+		"country": "PH",
+		"area": "Philippines",
+		"storeName": "QUANTUM(SMLIPA)",
+		"address": "2nd FL. SM LIPA,BATANGAS CITY",
+		"lat": 13.9540966,
+		"lng": 121.1635398,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1010",
+			"allNetSid": "19167"
+		}
+	}
+]

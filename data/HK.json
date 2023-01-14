@@ -1,0 +1,373 @@
+[
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "CHON SHING GAME CENTER",
+		"address": "BF.,HALESON BUILDING, 1JUBILEESTREET, CENTRAL, HONG KONG.",
+		"lat": 22.284155088877945,
+		"lng": 114.15484294361852,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24245"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "ELECTRONIC PLAZA",
+		"address": "G/F&COCKLOFT,130 FUK WA ST.,SHAM SHUI PO, KOWLOON",
+		"lat": 22.331478159747025,
+		"lng": 114.16259515609863,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24290"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "GAMEZONE(KWUN TONG PLAZA)",
+		"address": "1/F,KWUN TONG PLAZA,68HOI YUEN ROAD, KWUNTONG, KOWLOON",
+		"lat": 22.3111759,
+		"lng": 114.226019,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24741"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "GAMEZONE(MONG KOK)",
+		"address": "BF., ARGYLE CENTRE PHASE I,65 ARGYLE ST, MONGKOK, KOWLOON",
+		"lat": 22.319519999131476,
+		"lng": 114.17147698678582,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24738"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "GOLD STAR(NATHAN ROAD)",
+		"address": "B,WING WONG BLDG., 557-559NATHAN RD., YAU MA TEI, KOWLOON",
+		"lat": 22.31416854721141,
+		"lng": 114.17019317126324,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24092"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "GOLD STAR(TSUEN WAN)",
+		"address": "3F,E WING, NAN FUNG CENTRE, 264-298CASTLE PEAK RD.,TSUEN WAN N.T",
+		"lat": 22.37384895354829,
+		"lng": 114.11634806771849,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24723"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "GOLDEN ERA GAME CENTRE",
+		"address": "2/F, GOLDEN ERA PLAZA, 39SAI YEE STREET, MONGKOK, KOWLOON",
+		"lat": 22.318361,
+		"lng": 114.17173,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24735"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "HOLLYWOOD GAME ZONE",
+		"address": "383, LEVEL 3, PLAZA HOLLYWOODDIAMOND HILL, KOWLOON,",
+		"lat": 22.340705829210233,
+		"lng": 114.20210956108889,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24742"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "IGAME(TAI PO)",
+		"address": "B,TAI PO SPORTS ASSOCIATION 2ON CHEUNG RD.,TAI PO,N.T",
+		"lat": 22.453709597930793,
+		"lng": 114.16726877255235,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "22378"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "INTERNATIONAL GAMES CENTRE",
+		"address": "SHOP A15 39,40&41G/F,TAI ON BLDG57-87SHAU KEI WAN RD,SAI WAN HO",
+		"lat": 22.282874437083635,
+		"lng": 114.22202897611032,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24118"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "JUMBO GAME",
+		"address": "BASEMENT, 82 OLD MAIN STREET,ABERDEEN, HONG KONG,",
+		"lat": 22.24836405873899,
+		"lng": 114.15624415707782,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24718"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "LUCKY GAME CENTRE",
+		"address": "G/F HONG SHUN BLDG., 166 WOOSUNG ST.,YAU MA TEI ,KOWLOON.",
+		"lat": 22.303849675172525,
+		"lng": 114.17025487478782,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24115"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "PIK FU GAME CENTRE",
+		"address": "SHOP LG1,26-30 WO YI HOP ROAD, KWAI CHUNG,N.T",
+		"lat": 22.3658113,
+		"lng": 114.1371543,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "19227"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "POWER CITY(TIN SHUI WAI)",
+		"address": "G68-72 G/F,PHASE 1 KINGSWOOD GINZA, TIN SHUI WAI, N.T.",
+		"lat": 22.4569941,
+		"lng": 114.0046892,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "20490"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "SALEM GAME CENTRE",
+		"address": "C2 G/F.,FUN CITY, 7LEK YUEN ST.,SHA TIN ,NT.",
+		"lat": 22.384135773369003,
+		"lng": 114.19230466622821,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24112"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "SMART GAME(MONG KOK)",
+		"address": "1/F & 2/F, NO. 60-104SOY STREET, MONGKOK, KOWLOON,",
+		"lat": 22.316904650568752,
+		"lng": 114.17231174508902,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24721"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "SMART GAME(WAN CHAI)",
+		"address": "G/F,GREAT SMART TOWER,NO.230 WAN CHAI ROAD,HONG KONG",
+		"lat": 22.278089,
+		"lng": 114.178909,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "20681"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "SUPER KING GAME CENTRE",
+		"address": "B/F,WEST COAST BLDG, 290-296UN CHAU ST.,CHEUNG SHA WAN,KW",
+		"lat": 22.33567930472421,
+		"lng": 114.15912209538442,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "24481"
+		}
+	},
+	{
+		"country": "HK",
+		"area": "Hong Kong",
+		"storeName": "TIN TIN GAME CENTRE(TUEN MUN)",
+		"address": "SHOP B, G/F., SAI BO BUILDING, 5 TSING PAK PATH, TUEN MUN, NT",
+		"lat": 22.4016026,
+		"lng": 113.9781571,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1002",
+			"allNetSid": "19930"
+		}
+	}
+]

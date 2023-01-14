@@ -1,0 +1,139 @@
+[
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "ECHO GAMES(FUTURE RANGSIT)",
+		"address": "94 PRAHONYOTHIN RD. PRACHATIPATTANYABURI PRATHUMTANI",
+		"lat": 13.989292232022285,
+		"lng": 100.61794439391792,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "22395"
+		}
+	},
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "ECHO GAMES(ZPELL)",
+		"address": "PL2.3.SHP01094PRAHONYOTHINRD,PRACHATIPAT,TANYABURI,PRATHUMTHANI",
+		"lat": 13.9887697,
+		"lng": 100.617352,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "20677"
+		}
+	},
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "EX10(LADPRAO)",
+		"address": "1693 PHAHOLYOTHIN RD. LADYAO,CHATUCHAK, BANGKOK",
+		"lat": 13.828598,
+		"lng": 100.559712,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "20594"
+		}
+	},
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "EX10(MAYA CHIANGMAI)",
+		"address": "55/5 M.5 CHANGPHEUK  ,MEANG, CHIANGMAI",
+		"lat": 18.802693294748057,
+		"lng": 98.96729548067322,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "22393"
+		}
+	},
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "EX10(MBK)",
+		"address": "MBK CENTERBLDG.,444 PHAYATHAI RD.,PATHUM WAN BANGKOK",
+		"lat": 13.744329269815859,
+		"lng": 100.5299973165794,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "21537"
+		}
+	},
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "EX10(THE MALL BANGKAPI)",
+		"address": "3522 LADPRAW RD., KLONGCHAN, BANGKAPI , BANGKOK",
+		"lat": 13.766272406735338,
+		"lng": 100.6426132597901,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "22391"
+		}
+	},
+	{
+		"country": "TH",
+		"area": "Thailand",
+		"storeName": "GIGA PARK",
+		"address": "No.14/9 Tesgo-Lutus Extra Bangna-Trad, Bang Kaseo Sub-Dist.,",
+		"lat": 13.6542149,
+		"lng": 100.6772822,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1006",
+			"allNetSid": "19165"
+		}
+	}
+]

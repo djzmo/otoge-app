@@ -1,0 +1,62 @@
+[
+	{
+		"country": "MO",
+		"area": "Macau",
+		"storeName": "ASIA CITY AMUSEMENT GAME",
+		"address": "AV.DE HORTA E COSTA 89-93 EDFCENTRO COMERCIAL,COSTA,MACAU",
+		"lat": 22.204515,
+		"lng": 113.544906,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1008",
+			"allNetSid": "21572"
+		}
+	},
+	{
+		"country": "MO",
+		"area": "Macau",
+		"storeName": "GAME WORLD(CHIAO KUONG)",
+		"address": "R.GRACIOSA 57 R/C+SL, FLAT H,ED. IND. CHIAO KUONG, MACAU",
+		"lat": 22.21026144594399,
+		"lng": 113.5525421110483,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1008",
+			"allNetSid": "24124"
+		}
+	},
+	{
+		"country": "MO",
+		"area": "Macau",
+		"storeName": "YURAKUCHO",
+		"address": "N 5-7A,Rua de Sacadura Cabral N14-18B,R/C E,EDF.POU SENG",
+		"lat": 22.1991168,
+		"lng": 113.5469361,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1008",
+			"allNetSid": "19358"
+		}
+	}
+]

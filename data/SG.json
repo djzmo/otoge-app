@@ -1,0 +1,352 @@
+[
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "ANG MO KIO HUB",
+		"address": "53 ANG MO KIO AUE 3 HOH 06 569933",
+		"lat": 1.3691149,
+		"lng": 103.8454342,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19875"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "COW PLAY COW MOO",
+		"address": "1 Pasir Ris Close,#04-102,Singapole 519599",
+		"lat": 1.3769815,
+		"lng": 103.9544216,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19602"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "COW PLAY COW MOO(SUNTEC CITY)",
+		"address": "Sun Tec City 3Temasek Boulevard, 02-408/409,Singapore 038983",
+		"lat": 1.29503,
+		"lng": 103.8583026,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19880"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "FAT CAT(HILLION)",
+		"address": "Hillion Mall #01-28.17 Petir Rd, Singapore 678278",
+		"lat": 1.3784819,
+		"lng": 103.7632117,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19428"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "HEART BEAT BEDOK MALL",
+		"address": "11 Bedok North Street1",
+		"lat": 1.3269753,
+		"lng": 103.9321493,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19876"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "PACO FUNWORLD(BUGIS PLUS)",
+		"address": "Bugis Plus201 VictoriaStreet,#05-07Singapore",
+		"lat": 1.2996018,
+		"lng": 103.8542325,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19877"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "PACO FUNWORLD(KALLANG WAVE MALL)",
+		"address": "1 Stadium Place 01-59102 Singapore 397628",
+		"lat": 1.3025249,
+		"lng": 103.8736219,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19934"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "PLAY UNITED",
+		"address": "10 tampines Central 1 #05-18/19/20 Singapore 529536",
+		"lat": 1.354212,
+		"lng": 103.9450352,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19204"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE JURONG POINT",
+		"address": "1 Jurong West Central 2, #02-45, Singapore 648886",
+		"lat": 1.3399257,
+		"lng": 103.7062886,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19170"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE PARKWAY PARADE",
+		"address": "80,MARINE PARADE RD,#B1-17 PARKWAY PARADE SINGAPORE 449269",
+		"lat": 1.30172,
+		"lng": 103.90524,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19874"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE(CAUSEWAY POINT)",
+		"address": "1 WOODLANDS SQUARE #07-02CAUSEWAY POINT SINGAPORE",
+		"lat": 1.4361030739343446,
+		"lng": 103.7859563747993,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "24433"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE(NORTH POINT)",
+		"address": "930 YISHUN AVE.2 #03-30,NORTHPOINT, SINGAPORE",
+		"lat": 1.4293518119672943,
+		"lng": 103.83577637119868,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "21435"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE(OUR TAMPINES HUB)",
+		"address": "51TAMPINES AVENUE4#B1-13OUR TAMPINES HUB SINGAPORE 529684",
+		"lat": 1.3459383,
+		"lng": 103.9382917,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "20789"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE(PLAZA SINGAPURA)",
+		"address": "#07-02/03  68 ORCHARD ROAD,SINGAPORE 238839",
+		"lat": 1.3006193000000066,
+		"lng": 103.8449113635071,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "21089"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "TIMEZONE(WESTGATE)",
+		"address": "3 Gateway Drive,#B1-45/46 Westgate Singapore 608532",
+		"lat": 1.3345,
+		"lng": 103.74275,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19416"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "VC FLAGSHIP PLUS",
+		"address": "1Harbourfront Walk,#02-205 VivoCity,Singapore 098585",
+		"lat": 1.2640606,
+		"lng": 103.8223506,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19417"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "VIRTUALAND BUGIS+",
+		"address": "201 Victoria Street , #05-04/05/06 Bugis+, Singapore 188067",
+		"lat": 1.2998,
+		"lng": 103.85455,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "20578"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "VIRTUALAND(NEX)",
+		"address": "23, SERANGOON CENTRAL #04-65 NEX SINGAPORE",
+		"lat": 1.350771369527377,
+		"lng": 103.87222576571082,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "24160"
+		}
+	},
+	{
+		"country": "SG",
+		"area": "Singapore",
+		"storeName": "ZONE-X(EAST POINT MALL)",
+		"address": "EastPoint Mall 3 Simei Street 6,B1-01102 Singapore 528833l",
+		"lat": 1.3427145,
+		"lng": 103.9530415,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1003",
+			"allNetSid": "19882"
+		}
+	}
+]

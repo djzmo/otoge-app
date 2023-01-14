@@ -1,0 +1,403 @@
+[
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "FORTRESS　MELBOURNE",
+		"address": "23 CALEDONIAN LANE, MELBOURNE, VICTORIA, AUSTRALIA 3000",
+		"lat": -37.8121261,
+		"lng": 144.9640502,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19214"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "FUNLAND　CALAMVALE",
+		"address": "SHOP T78, CALAMVALE SC., 662 COMPTON RD. CALAMVALE, QLD 4116",
+		"lat": -27.6125629,
+		"lng": 153.0543472,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19213"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "IPLAY CAROUSEL",
+		"address": "SHOP MM223, 1382 ALBANY HWY, CANNINGTON, WA AUSTRALIA  6107",
+		"lat": -32.0199279,
+		"lng": 115.9388969,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19217"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KINGPIN CANBERRA",
+		"address": "Canberra Centre Bunda Street,Canberra City ACT 2608",
+		"lat": -35.2802271,
+		"lng": 149.1332559,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19453"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KINGPIN NORTH STRATHFIELD",
+		"address": "3-5 George St. North Strathfield NSW 2173",
+		"lat": -33.8632365,
+		"lng": 151.0889051,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19347"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KINGPIN(CROWN)",
+		"address": "Malbourne,CrownEntertainmentComplex,WhitemanSt,Southbank,VIC3006",
+		"lat": -37.829,
+		"lng": 144.957,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19809"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KOKO AMUSEMENT 505",
+		"address": "505 George St,.Sydney 2000,NSW",
+		"lat": -33.8741317,
+		"lng": 151.2064431,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19342"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KOKO AMUSEMENT 614",
+		"address": "Basement 614 George ST Sydney NSW 2000",
+		"lat": -33.8757593,
+		"lng": 151.2067759,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19464"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KOKO AMUSEMENT BURWOOD",
+		"address": "lot29 27-31 belmore St,.Burwood,2134,NSW",
+		"lat": -33.8784196,
+		"lng": 151.102158,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19341"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "KOKO HURSTVILLE",
+		"address": "G03/288 Forest Road, HurstvilleNSW",
+		"lat": -33.9669703,
+		"lng": 151.1032215,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19129"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE CHATSWOOD",
+		"address": "Level6 Westfield Chatswood,1 Anderson Street,Chatswood,NSW 2067",
+		"lat": -33.7973628,
+		"lng": 151.1831083,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19443"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE EPPING",
+		"address": "Pacific Epping,571-583 High St,Epping VIC 3077,Australia",
+		"lat": -37.6536169,
+		"lng": 145.0183772,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19158"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE INDOOROOPILLY",
+		"address": "Indooroopilly Shopping Centre 322 Moggill Rd, QLD 4068",
+		"lat": -27.4994475,
+		"lng": 152.9723122,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19190"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE PARRAMATTA",
+		"address": "Shop 4070, Westfield Parramatta, 175 Church St., NSW 2150",
+		"lat": -33.8173782,
+		"lng": 151.0016557,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19191"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE(CENTRAL)",
+		"address": "Level 2, Central Park Mall, 28 Broadway, Chippendale,NSW2008",
+		"lat": -33.884581,
+		"lng": 151.2006823,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19806"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE(HAYMARKET)",
+		"address": "Level 3 Market City, 9-13 Hay Street, Haymerket, Sydney, NSW2020",
+		"lat": -33.8797944,
+		"lng": 151.2033833,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19807"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE(HIGHPOINT)",
+		"address": "Level 1 Highpoint SC,120-200Rosamond Rd,Maribyrnong,VIC3032",
+		"lat": -37.7695602,
+		"lng": 144.8820803,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19808"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE(MACQUARIE)",
+		"address": "MacquarieCentre,CornerofHerringRd&WaterlooRd,NorthRyde,NSW2113",
+		"lat": -33.7763709,
+		"lng": 151.1200451,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19805"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TIMEZONE(NORTHBRIDGE)",
+		"address": "31 Lake Street, Northbridge, WA6003",
+		"lat": -31.9475043,
+		"lng": 115.8567513,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19802"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "TOTALLY GAME SOUTHLAND",
+		"address": "1239 Nepean Hwy, Cheltenham, VIC 3192",
+		"lat": -37.9586107,
+		"lng": 145.0538166,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19463"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "ZONE BOWLING TOP RYDE",
+		"address": "GRD M5,Top Ryde City Shopping Centre,Blaxland Rd.&Devlin St.NSW",
+		"lat": -33.8122148,
+		"lng": 151.1062214,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19399"
+		}
+	},
+	{
+		"country": "AU",
+		"area": "Australia",
+		"storeName": "ZONEBOWLING(GARDEN CITY)",
+		"address": "Westfield Garden City, Kessels Rd, Upper Mount Gravatt QLD 4122",
+		"lat": -27.5626135,
+		"lng": 153.0822254,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1012",
+			"allNetSid": "19804"
+		}
+	}
+]

@@ -1,0 +1,990 @@
+[
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "50 Music Game Station (Shilin)",
+		"address": "2F.No.48,Sec.1,YangdeBlvd.,ShilinDist.,TaipeiCity11146,Taiwan",
+		"lat": 25.0950492,
+		"lng": 121.5246077,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19927"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "Clip world @ Fengjia",
+		"address": "No.14, Wunhua Rd., Situn Dist.,Taichung City 407032, Taiwan",
+		"lat": null,
+		"lng": null,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19552"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "CLUB SEGA(TIGER CITY)",
+		"address": "B2F, NO.120, SEC.3,HENANRD.,SitunDistrict,TaichungCity",
+		"lat": 24.16432379452521,
+		"lng": 120.6378632413223,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24698"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "DIBEIBAO(WEI SHIUO)",
+		"address": "2F,NO20,SONGSHOU RD.,XINYI DIST.TAIPEI CITY110,TAIWAN(R.O.C.)",
+		"lat": 25.035363417138427,
+		"lng": 121.56708280674593,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "21522"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "DINO GAME CENTER(MODE MALL)",
+		"address": "9F., NO.186, SEC. 4, FUXING RD.,EAST DIST.,TAICHUNG CITY",
+		"lat": 24.136139755097407,
+		"lng": 120.68772742883607,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24428"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "DINO WORLD(TaiNan GuoHwa)",
+		"address": "No.118,Sec.2,Minquan Rd.,West Central Dist.,TainanCity70050",
+		"lat": 22.9950112,
+		"lng": 120.2030591,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19700"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "ESLITE WUCHANG",
+		"address": "NO.77,SEC.2, WUCHANG ST.,WANHUADIST., TAIPEI CITY",
+		"lat": 25.045255255452265,
+		"lng": 121.50578694727346,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24033"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "FUN WORLD LINKOU",
+		"address": "NO.2,LN.402,SEC.1,WENHUA 3RD RD.LINKOU DIST.,NEW TAIPEI CITY244",
+		"lat": 25.074029866067782,
+		"lng": 121.36925322087268,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "21295"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "FUN WORLD SYNTREND",
+		"address": "7F., No.2, Sec. 3, Civic Blvd.,Zhongzheng Dist.TaipeiCity10058,",
+		"lat": 25.045098,
+		"lng": 121.5613131,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19738"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "GIGO LALAPORT TAICHUNG",
+		"address": "3F., No.700, Jinde Rd., East Dist., Taichung City 401004",
+		"lat": 24.1339393,
+		"lng": 120.6924444,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19126"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "GIGO LALAPORT TAICHUNG",
+		"address": "3F., No.700, Jinde Rd., East Dist., Taichung City 401004",
+		"lat": 24.1339393,
+		"lng": 120.6924444,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19124"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "GUOBIN AMUSEMENT PARK",
+		"address": "2F., No.66,Sec.1,Zhonghua E.Rd.East Dist.,TainanCity Taiwan",
+		"lat": 24.3330551,
+		"lng": 120.7404083,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19606"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HALA  XINYANG",
+		"address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+		"lat": 25.0445923,
+		"lng": 121.5167157,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19759"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HALA PLANET",
+		"address": "130,Sec.4,RooseveltRd.Zhongzheng Dist., Taipei City 100, Taiwan",
+		"lat": 25.0421407,
+		"lng": 121.5198716,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20325"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HALA PLANET NANYA",
+		"address": "1F,No31-5,Nanya E Rd.Banqiao Dist.New Taipei City 220053",
+		"lat": 25.0056896,
+		"lng": 121.455297,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19533"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HALA PLANET RAOHE",
+		"address": "No.202, Raohe St., Songshan Dist., Taipei City 105058",
+		"lat": 25.050693,
+		"lng": 121.5770277,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19206"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HALA PLANET XIMEN",
+		"address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
+		"lat": 25.0436445,
+		"lng": 121.508661,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20138"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HAPPY100 (E DA)",
+		"address": "3F,No.12,Sec.1,XuechengRd DashuDist.KaohsiungCity84048,Taiwan",
+		"lat": 22.708371,
+		"lng": 120.4242401,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19954"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HAPPY100(KAOHSIUNG DREAM MALL)",
+		"address": "9F., NO.789, ZHONGHUA 5TH RD.,QIANZHEN DIST., KAOHSIUNG CITY",
+		"lat": 22.59500628631977,
+		"lng": 120.30778165033189,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "22921"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HAPPY100(Pingtung Station)",
+		"address": "No.62, Gongyong Rd., Pingtung City, Pingtung County 90081, TWN",
+		"lat": 22.6688851,
+		"lng": 120.4843584,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20149"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HDDS",
+		"address": "1F., No.96, Rihsin Rd., JhongliDist., Taoyuan City 320041",
+		"lat": 24.9553806,
+		"lng": 121.2300015,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19406"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HURO CITY LINK",
+		"address": "6F,NO369-C,SEC7,ZHONGXIAO E.RD.NANGANG DIST.,TAIPEI CITY115,TWN",
+		"lat": 25.0525582,
+		"lng": 121.60451799999998,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20654"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "HURO WORLD(SANHE FLAGSHIP)",
+		"address": "2F.,NO.26,ZHONGYANG N. RD.,SANCHONG DIST., NEW TAIPEI CITY",
+		"lat": 25.064337,
+		"lng": 121.500585,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24132"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "INFINITY WORLD",
+		"address": "No.22-50-1 Zhongshan Rd. Banqiao Dist. New Taipei City 220073",
+		"lat": 25.0093347,
+		"lng": 121.4611035,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19524"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "IRON HORSE KNIGHT",
+		"address": "NO.78, SEC.2, CHONGXIN RD.,SANCHONG DIST., NEW TAIPEI CITY",
+		"lat": 25.061810520499403,
+		"lng": 121.49729207731548,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "23879"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "JAVA PLACE",
+		"address": "1F.No.48,Sec.1,YangdeBlvd.Shilin Dist.TaipeiCity11146,Taiwan",
+		"lat": 25.0950492,
+		"lng": 121.5246077,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19884"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "JAVA PLANET(YOUNG-HE LE-HUA)",
+		"address": "No. 22, Yongping Rd., Yonghe Dist., New Taipei City, Taiwan",
+		"lat": 25.008979,
+		"lng": 121.513393,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19422"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "LIBAO COMPANY",
+		"address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
+		"lat": 25.0677905,
+		"lng": 121.4820754,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20525"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "LOVEJIS LION KEELUNG",
+		"address": "5F., No.177, Sin 1st Rd., Jhongjheng Dist., Keelung City 20241",
+		"lat": 0,
+		"lng": 0,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20492"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "LOVEJIS LION TAOYUAN",
+		"address": "4F., NO.47,ZHONGZHENG RD.,TAOYUAN DIST.,TAOYUAN CITY330, TAIWAN",
+		"lat": 24.990799,
+		"lng": 121.31281,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20577"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "NEW CITY(JHONGLI)",
+		"address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+		"lat": 24.9584889,
+		"lng": 121.22036309999999,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24066"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "PLUS SEGA",
+		"address": "2F, No.356, Sec.1,Wenhua3rdRd,LinkouDist,NewTaipeiCity,Taiwan",
+		"lat": 0,
+		"lng": 0,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20505"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "PRO FISHER",
+		"address": "1F.,No.253,Zhonghe Rd.,Zhongli Dist.,Taoyuan City 320001,Taiwan",
+		"lat": 24.9531345,
+		"lng": 121.223354,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19359"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "RED HAT ELEPHANT (TAOYUAN)",
+		"address": "9F.,No.61JhongjhengRd.TaoyuanDist.,TaoyuanCity33041,Taiwan",
+		"lat": 24.9934099,
+		"lng": 121.2969674,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19926"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "RED HAT ELEPHANT(FENGYUAN)",
+		"address": "10F., NO.2, FUXING RD., FENGYUAN DIST.,TAICHUNG CITY 420, TAIWAN",
+		"lat": 24.250721,
+		"lng": 120.720649,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "22323"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "RED HAT ELEPHANT(JHONGLI SOGO)",
+		"address": "11F,NO.357YUANHUA RD., JHONGLI CITY, TAOYUAN COUNTY",
+		"lat": 24.962581,
+		"lng": 121.223555,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "22352"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "RED HAT ELEPHANT(TAICHUNG SOGO)",
+		"address": "17F.,NO.459,SEC. 2, TAIWAN BLVD,WEST DIST., TAICHUNG CITY",
+		"lat": 24.15551244046583,
+		"lng": 120.66184910796926,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "22657"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SEGA WORLD(DAJIANG)",
+		"address": "3F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+		"lat": 25.001361004041502,
+		"lng": 121.22857505489117,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24700"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SHARK CATCHER",
+		"address": "13-1,13-2,1F,No100,Sec1,CivicBlvd,ZhongzhengDist.TaipeiCity10041",
+		"lat": 25.0477641,
+		"lng": 121.5242471,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19726"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SHIRONEKOYA",
+		"address": "No.127, Fuxing Rd., Taoyuan Dist., TaoyuanCity33066,Taiwan",
+		"lat": 24.990303,
+		"lng": 121.312723,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19675"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SHIRONEKOYA(HSINCHU)",
+		"address": "1F., No.76, Xinyi St., East Dist., Hsinchu City 300025, Taiwan",
+		"lat": 24.8032086,
+		"lng": 120.9706468,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19469"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SHIRONEKOYA(TAICHUNG)",
+		"address": "1F.,No.7,Ln. 6,Yucai St.,North Dist.,Taichung City,Taiwan",
+		"lat": 24.1502189,
+		"lng": 120.6849391,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19234"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SIN YI CITY HUWEI",
+		"address": "1F., NO.80, XINXING RD., HUWEI TOWNSHIP, YUNLIN COUNTY 632",
+		"lat": 23.7094406,
+		"lng": 120.4346892,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20555"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SIN YI CITY MIAODONG",
+		"address": "1F., NO.4, LN. 167, ZHONGZHENG RD.FENGYUAN DIST.,TAICHUNG CITY",
+		"lat": 24.2511067,
+		"lng": 120.71917280000002,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "22493"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "SIN YI CITY ZHANQIAN",
+		"address": "NO.12,SANMIN RD.,FENGYUAN DIST.TAICHUNG CITY 420,TAIWAN",
+		"lat": 24.2513923,
+		"lng": 120.72102560000008,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "21498"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "STAR JAVA",
+		"address": "No.186,Raohe St.,Songshan Dist,Taipei City 105-67,Taiwan",
+		"lat": 25.0506881,
+		"lng": 121.5765572,
+		"cabinets": [
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "19565"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "WAWA EMPIRE(FENJIA)",
+		"address": "NO.18, LN.461,FUXING RD.,XITUNDIST.,TAICHUNG CITY407,TAIWAN",
+		"lat": 24.18034070005878,
+		"lng": 120.6455915423279,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24135"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "WAWA EMPIRE(YIJHONG)",
+		"address": "1F,NO.9,ZUNXIAN ST., NORTH DIST.TAICHUNG CITY 404,TAIWAN(R.O.C.)",
+		"lat": 24.1488236,
+		"lng": 120.6853439,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "21127"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "X50 MUSIC GAME STATION",
+		"address": "1F,No.134,Section2,Wuchang Street,Wanhua District,Taipei City",
+		"lat": 25.0329694,
+		"lng": 121.5654177,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "20079"
+		}
+	},
+	{
+		"country": "TW",
+		"area": "Taiwan",
+		"storeName": "YOUNG KEY PARADISE(DATONG)",
+		"address": "RM.37,NO.100,SEC.1, CIVIC BLBD.,DATONG DIST., TAIPEI CITY",
+		"lat": 25.049106763832135,
+		"lng": 121.51556932710514,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "MAIMAI_DX_INTERNATIONAL"
+			},
+			{
+				"game": "CHUNITHM_NEW_INTERNATIONAL"
+			}
+		],
+		"context": {
+			"allNetCt": "1001",
+			"allNetSid": "24024"
+		}
+	}
+]
