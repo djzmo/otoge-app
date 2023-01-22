@@ -32,7 +32,7 @@ services:
       - /app/node_modules
       - /app/packages/api/node_modules
       - /app/packages/web/node_modules
-    command: lerna run start --scope=@otoge.app/web
+    command: lerna run dev --scope=@otoge.app/web
   redis:
     image: redis/redis-stack
     ports:
