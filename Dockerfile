@@ -1,16 +1,13 @@
 FROM node:18 as builder
 WORKDIR /app
-COPY package.json lerna.json ./
-RUN npm install -g lerna
-RUN npm install
 COPY . .
+RUN npm install -g lerna
+RUN npm install --legacy-peer-deps
 
 FROM builder as base-dev
-RUN lerna bootstrap
 RUN lerna run build --scope=@otoge.app/shared
 
 FROM builder as base-prod
-RUN lerna bootstrap -- --production
 RUN lerna run build --stream --parallel
 
 FROM node:18 as api

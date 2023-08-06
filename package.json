@@ -8,6 +8,12 @@
   "author": "Yana Nugraha <me@djzmo.com>",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^6.4.1"
-  }
+    "lerna": "^7.1.4"
+  },
+  "workspaces": [
+    "packages/api",
+    "packages/script",
+    "packages/shared",
+    "packages/web"
+  ]
 }
