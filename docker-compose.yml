@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-      target: base-dev
+      target: base
     ports:
       - "3000:3000"
     environment:
@@ -20,7 +20,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-      target: base-dev
+      target: base
     ports:
       - "8080:8080"
     environment:

@@ -12,7 +12,7 @@
   },
   "workspaces": [
     "packages/api",
-    "packages/script",
+    "packages/scripts",
     "packages/shared",
     "packages/web"
   ]
