@@ -1,13 +1,11 @@
-FROM node:18 as builder
+FROM node:18 as base
 WORKDIR /app
 COPY . .
 RUN npm install -g lerna
 RUN npm install --legacy-peer-deps
-
-FROM builder as base-dev
 RUN lerna run build --scope=@otoge.app/shared
 
-FROM builder as base-api
+FROM base as base-api
 RUN lerna run build --scope=@otoge.app/api
 
 FROM node:18 as api
@@ -20,7 +18,7 @@ COPY --from=base-api /app/node_modules/ ./node_modules
 EXPOSE 3000
 CMD npm start
 
-FROM builder as base-web
+FROM base as base-web
 # ENV REACT_APP_GOOGLE_MAPS_API_KEY=
 # ENV REACT_APP_API_BASE_URL=
 RUN lerna run build --scope=@otoge.app/web
