@@ -1,16 +1,18 @@
 {
   "name": "@otoge.app/scripts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .ts .",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts)\"",
-    "fetch:allnet": "ts-node src/FetchAllnet.ts"
+    "fetch:allnet": "ts-node src/FetchAllnet.ts",
+    "fetch:eamusement": "ts-node src/FetchEAmusement.ts"
   },
   "dependencies": {
     "@otoge.app/shared": "*",
     "axios": "^1.2.2",
     "cheerio": "^1.0.0-rc.12",
+    "domhandler": "^5.0.3",
     "kuroshiro": "^1.2.0",
     "kuroshiro-analyzer-kuromoji": "^1.1.0"
   },
