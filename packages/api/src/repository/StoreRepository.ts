@@ -1,4 +1,4 @@
-import { Store } from "@otoge.app/shared"
+import { GameEnum, Store } from "@otoge.app/shared"
 import { Client } from "redis-om"
 import { StoreSchema } from "../schema/StoreSchema"
 import { readdirSync, readFileSync } from "fs"
@@ -55,7 +55,10 @@ export default class StoreRepository {
     })
   }
 
-  async searchByQueryString(query: string): Promise<Store[]> {
+  async searchByQueryString(
+    query: string,
+    gameFilter: GameEnum[] = []
+  ): Promise<Store[]> {
     const ids = await this.innerRepository
       .search()
       .where("storeName")
@@ -73,13 +76,15 @@ export default class StoreRepository {
       .or("country")
       .matches(query + "*")
       .returnAllIds()
-    return ids.map(id => this.masterData[this.masterIndexMapping[id]])
+    const result = ids.map(id => this.masterData[this.masterIndexMapping[id]])
+    return this.filterItemsByGame(result, gameFilter)
   }
 
   async searchByPosition(
     lat: number,
     lng: number,
-    radiusInKm: number
+    radiusInKm: number,
+    gameFilter: GameEnum[] = []
   ): Promise<Store[]> {
     try {
       const ids = await this.innerRepository
@@ -89,10 +94,24 @@ export default class StoreRepository {
           circle => circle.origin(lng, lat).radius(radiusInKm).kilometers
         )
         .returnAllIds()
-      return ids.map(id => this.masterData[this.masterIndexMapping[id]])
+      const result = ids.map(id => this.masterData[this.masterIndexMapping[id]])
+      return this.filterItemsByGame(result, gameFilter)
     } catch (e) {
       console.error(e)
       return []
     }
+  }
+
+  private filterItemsByGame(
+    items: Store[],
+    gameFilter: GameEnum[] = []
+  ): Store[] {
+    return gameFilter.length > 0
+      ? items.filter(store =>
+          gameFilter.every(game =>
+            store.cabinets.some(cabinet => cabinet.game === game)
+          )
+        )
+      : items
   }
 }
