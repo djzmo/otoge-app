@@ -4,6 +4,8 @@ import * as cheerio from "cheerio"
 import { existsSync } from "fs"
 import * as fs from "fs/promises"
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
+import { toHalfWidthAlphanumeric } from "./util/CharUtil"
+import { mergeStores } from "./util/StoreUtil"
 // TODO: Provide kuroshiro and kuromoji type definitions
 // @ts-ignore
 import Kuroshiro from "kuroshiro"
@@ -133,8 +135,8 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
       const entry: Store = {
         country,
         area,
-        storeName,
-        address,
+        storeName: toHalfWidthAlphanumeric(storeName),
+        address: toHalfWidthAlphanumeric(address),
         lat: parseFloat(mapLatLng[0]),
         lng: parseFloat(mapLatLng[1]),
         cabinets,
@@ -179,8 +181,6 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
     process.stdout.write(hasWarn ? "\n" : "OK\n")
   }
 
-  // Merge strategy: if a store is already in the database, we only update the
-  // null fields except for `cabinets`. Otherwise, we add to the database.
   for (const country in result) {
     const targetFile = `${outputDir}/${country}.json`
     const existingData = existsSync(targetFile)
@@ -190,56 +190,12 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 
     if (existingData) {
       const existingDataParsed: Store[] = JSON.parse(existingData)
-      const existingWithSid = existingDataParsed.filter(
-        store => store.context.allNetSid != undefined
+      const mergedData = mergeStores(
+        existingDataParsed,
+        newData,
+        gameEnum,
+        "allNetSid"
       )
-      const existingWithoutSid = existingDataParsed.filter(
-        store => store.context.allNetSid == undefined
-      )
-
-      const existingBySid: { [sid: string]: Store } = Object.fromEntries(
-        existingWithSid.map(store => [store.context.allNetSid, store])
-      )
-      const newBySid: { [sid: string]: Store } = Object.fromEntries(
-        newData.map(store => [store.context.allNetSid, store])
-      )
-
-      const existingSids = Object.keys(existingBySid)
-      const newSids = Object.keys(newBySid)
-      const differenceSids = newSids.filter(sid => !existingSids.includes(sid))
-
-      for (const sid of existingSids) {
-        const cabinets = existingBySid[sid].cabinets.filter(
-          (cabinet: CabinetInfo) => cabinet.game === gameEnum
-        )
-
-        if (newSids.includes(sid)) {
-          if (cabinets.length === 0) {
-            existingBySid[sid].cabinets.push({ game: gameEnum })
-          }
-          if (existingBySid[sid].alternateStoreName == null) {
-            existingBySid[sid].alternateStoreName =
-              newBySid[sid].alternateStoreName
-          }
-          if (existingBySid[sid].alternateArea == null) {
-            existingBySid[sid].alternateArea = newBySid[sid].alternateArea
-          }
-          if (existingBySid[sid].alternateAddress == null) {
-            existingBySid[sid].alternateAddress = newBySid[sid].alternateAddress
-          }
-        } else if (cabinets.length > 0) {
-          existingBySid[sid].cabinets = existingBySid[sid].cabinets.filter(
-            (cabinet: CabinetInfo) => cabinet.game !== gameEnum
-          )
-        }
-      }
-
-      const difference = differenceSids.map(sid => newBySid[sid])
-      const mergedData: Store[] = [
-        ...Object.values(existingBySid),
-        ...existingWithoutSid,
-        ...difference,
-      ]
       const sortedData = mergedData.sort((a: Store, b: Store) =>
         a.storeName.localeCompare(b.storeName)
       )
