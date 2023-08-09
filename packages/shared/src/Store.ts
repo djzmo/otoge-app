@@ -9,8 +9,10 @@ export default interface Store {
   alternateStoreName?: string
   address: string
   alternateAddress?: string
-  lat: number
-  lng: number
+  access?: string
+  lat?: number
+  lng?: number
+  openingHours?: string
   cabinets: CabinetInfo[]
   context: ContextInfo
 }
