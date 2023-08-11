@@ -1,7 +1,4 @@
-// TODO: Provide kuroshiro and kuromoji type definitions
-// @ts-ignore
 import Kuroshiro from "kuroshiro"
-// @ts-ignore
 import KuromojiAnalyzer from "kuroshiro-analyzer-kuromoji"
 
 export const toHalfWidthAlphanumeric = (text: string) => {
@@ -16,20 +13,17 @@ export const toHalfWidthAlphanumeric = (text: string) => {
   return text.replace(/[！-～]/g, char => convertChar(char))
 }
 
-let kuroshiro: Kuroshiro = null
-const romanizationOptions = {
-  to: "romaji",
-  mode: "spaced",
-  romajiSystem: "passport",
-}
+const kuroshiro: Kuroshiro = new Kuroshiro()
+kuroshiro.init(new KuromojiAnalyzer())
 
-export const createRomanization = (text: string) => {
-  if (kuroshiro == null) {
-    kuroshiro = new Kuroshiro()
-    kuroshiro.init(new KuromojiAnalyzer())
-  }
-  return kuroshiro
-    .convert(text, romanizationOptions)
+export const createRomanization = async (text: string) => {
+  return (
+    await kuroshiro.convert(text, {
+      to: "romaji",
+      mode: "spaced",
+      romajiSystem: "passport",
+    })
+  )
     .normalize("NFKC")
     .toUpperCase()
     .trim()

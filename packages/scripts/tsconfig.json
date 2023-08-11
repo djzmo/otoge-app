@@ -3,7 +3,10 @@
   "compilerOptions": {
     "paths": {
       "*": ["types/*"]
-    }
+    },
+    "typeRoots": [
+      "typings",
+    ]
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*", "typings/**/*"]
 }
