@@ -2,7 +2,7 @@ import axios from "axios"
 import * as cheerio from "cheerio"
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
 import { writeResult } from "./util/StoreUtil"
-import { normalizeDashes, toHalfWidthAlphanumeric } from "./util/TextUtil"
+import { normalizeSymbols, toHalfWidthAlphanumeric } from "./util/TextUtil"
 
 const outputDir = "../../data"
 
@@ -117,10 +117,10 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 
       for (const store of storeList) {
         const fdesc = store.attribs["data-fdesc"]
-        const storeName = normalizeDashes(
+        const storeName = normalizeSymbols(
           toHalfWidthAlphanumeric(store.attribs["data-name"])
         )
-        const address = normalizeDashes(
+        const address = normalizeSymbols(
           toHalfWidthAlphanumeric(store.attribs["data-address"])
         )
         const access = store.attribs["data-access"]

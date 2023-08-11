@@ -2,7 +2,7 @@ import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
 import { normalize } from "@geolonia/normalize-japanese-addresses"
 import {
   createRomanization,
-  normalizeDashes,
+  normalizeSymbols,
   toHalfWidthAlphanumeric,
 } from "./TextUtil"
 import { existsSync } from "fs"
@@ -11,32 +11,41 @@ import fs from "fs/promises"
 export const updateStore = (
   existing: Store,
   candidate: Store,
-  gameEnum: GameEnum
+  gameEnum: GameEnum,
+  updateStoreName = false
 ): Store => {
   const merged = Object.assign({}, existing)
   const cabinets = merged.cabinets.filter(
     (cabinet: CabinetInfo) => cabinet.game === gameEnum
   )
-  const existingNameHw = normalizeDashes(
+  const existingNameHw = normalizeSymbols(
     toHalfWidthAlphanumeric(existing.storeName)
   )
-  const candidateNameHw = normalizeDashes(
+  const candidateNameHw = normalizeSymbols(
     toHalfWidthAlphanumeric(candidate.storeName)
   )
-  const existingAddressHw = normalizeDashes(
+  const existingAddressHw = normalizeSymbols(
     toHalfWidthAlphanumeric(existing.address)
   )
-  const candidateAddressHw = normalizeDashes(
+  const candidateAddressHw = normalizeSymbols(
     toHalfWidthAlphanumeric(candidate.address)
   )
   if (cabinets.length === 0) {
     merged.cabinets.push({ game: gameEnum })
   }
-  if (
-    existingNameHw === candidateNameHw &&
-    existing.storeName !== candidate.storeName
-  ) {
+  if (updateStoreName) {
     merged.storeName = candidateNameHw
+    merged.alternateStoreName = candidate.alternateStoreName
+  } else {
+    if (
+      existingNameHw === candidateNameHw &&
+      existing.storeName !== candidate.storeName
+    ) {
+      merged.storeName = candidateNameHw
+    }
+    if (existing.alternateStoreName == null) {
+      merged.alternateStoreName = candidate.alternateStoreName
+    }
   }
   if (
     existingAddressHw === candidateAddressHw &&
@@ -49,9 +58,6 @@ export const updateStore = (
   }
   if (existing.openingHours == null) {
     merged.openingHours = candidate.openingHours
-  }
-  if (existing.alternateStoreName == null) {
-    merged.alternateStoreName = candidate.alternateStoreName
   }
   if (existing.alternateArea == null) {
     merged.alternateArea = candidate.alternateArea
@@ -114,7 +120,7 @@ export const mergeStores = (
     }
     const masterIndex = masterIdToIndex[id]
     const candidateIndex = candidateIdToIndex[id]
-    master[masterIndex] = updateStore(existing, candidate, gameEnum)
+    master[masterIndex] = updateStore(existing, candidate, gameEnum, true)
     processedCandidateIndex.push(candidateIndex)
   }
 
@@ -182,14 +188,14 @@ export const enrichStore = async (store: Store) => {
     }
   }
   if (store.country === "JP") {
-    if (store.alternateArea?.length === 0) {
-      store.alternateArea = createRomanization(store.area)
+    if (store.alternateArea == null) {
+      store.alternateArea = await createRomanization(store.area)
     }
-    if (store.alternateStoreName?.length === 0) {
-      store.alternateStoreName = createRomanization(store.storeName)
+    if (store.alternateStoreName == null) {
+      store.alternateStoreName = await createRomanization(store.storeName)
     }
-    if (store.alternateAddress?.length === 0) {
-      store.alternateAddress = createRomanization(store.address)
+    if (store.alternateAddress == null) {
+      store.alternateAddress = await createRomanization(store.address)
     }
   }
   return store
@@ -225,7 +231,7 @@ export const writeResult = async (
         a.storeName.localeCompare(b.storeName)
       )
     }
-    sortedData.map(enrichStore)
-    await fs.writeFile(targetFile, JSON.stringify(sortedData, null, "\t"))
+    const enrichedData = await Promise.all(sortedData.map(enrichStore))
+    await fs.writeFile(targetFile, JSON.stringify(enrichedData, null, "\t"))
   }
 }

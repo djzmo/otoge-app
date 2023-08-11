@@ -2,7 +2,7 @@ import axios from "axios"
 import { Text } from "domhandler"
 import * as cheerio from "cheerio"
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
-import { normalizeDashes, toHalfWidthAlphanumeric } from "./util/TextUtil"
+import { normalizeSymbols, toHalfWidthAlphanumeric } from "./util/TextUtil"
 import { writeResult } from "./util/StoreUtil"
 
 const outputDir = "../../data"
@@ -78,10 +78,10 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
     const storeList = $areaPage("ul.store_list > li")
     for (const store of storeList) {
       const li = cheerio.load(store)
-      const storeName = normalizeDashes(
+      const storeName = normalizeSymbols(
         toHalfWidthAlphanumeric(li("span.store_name").text())
       )
-      const address = normalizeDashes(
+      const address = normalizeSymbols(
         toHalfWidthAlphanumeric(li("span.store_address").text())
       )
 

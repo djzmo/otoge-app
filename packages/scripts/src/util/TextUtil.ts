@@ -30,6 +30,11 @@ export const createRomanization = async (text: string) => {
     .replace(/ +(?= )/g, "")
 }
 
-export const normalizeDashes = (text: string) => {
-  return text.replaceAll(/([—−])/g, "-")
+export const normalizeSymbols = (text: string) => {
+  return (
+    text
+      .replaceAll(/([—−])/g, "-")
+      // eslint-disable-next-line no-irregular-whitespace
+      .replaceAll(/(　)/g, " ")
+  )
 }
