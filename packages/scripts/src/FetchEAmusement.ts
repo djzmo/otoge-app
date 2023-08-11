@@ -1,15 +1,8 @@
 import axios from "axios"
 import * as cheerio from "cheerio"
-import { existsSync } from "fs"
-import * as fs from "fs/promises"
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
-import { updateStore } from "./util/StoreUtil"
-import { toHalfWidthAlphanumeric } from "./util/CharUtil"
-// TODO: Provide kuroshiro and kuromoji type definitions
-// @ts-ignore
-import Kuroshiro from "kuroshiro"
-// @ts-ignore
-import KuromojiAnalyzer from "kuroshiro-analyzer-kuromoji"
+import { writeResult } from "./util/StoreUtil"
+import { toHalfWidthAlphanumeric } from "./util/TextUtil"
 
 const outputDir = "../../data"
 
@@ -80,14 +73,6 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 }
 
 ;(async () => {
-  const kuroshiro = new Kuroshiro()
-  await kuroshiro.init(new KuromojiAnalyzer())
-  const romanizationOptions = {
-    to: "romaji",
-    mode: "spaced",
-    romajiSystem: "passport",
-  }
-
   const gameId = process.argv.length >= 3 ? process.argv[2] : "SDVX_VM"
 
   if (!(gameId in gameIdMapping)) {
@@ -103,174 +88,76 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 
   // Fetch based on `fetchList` and store in `result`.
   // e.g. ["JP-01", "JP-02", ..., "JP-47"]
-  for (const pref of fetchList) {
-    process.stdout.write(`Fetching gkey=${gameId}, pref=${pref}.. `)
+  for (const pref of ["JP-13"]) {
+    let currentPage = 1
+    let pageCount = 1
 
-    const { data } = await axios.get(
-      `https://p.eagate.573.jp/game/facility/search/p/list.html?finder=area&gkey=${gameId}&pref=${pref}`,
-      {
-        headers: {
-          Cookie: "facility_dspcount=50",
-        },
+    while (currentPage <= pageCount) {
+      process.stdout.write(
+        `Fetching gkey=${gameId}, pref=${pref}, page=${currentPage} `
+      )
+      const { data } = await axios.get(
+        `https://p.eagate.573.jp/game/facility/search/p/list.html?finder=area&gkey=${gameId}&pref=${pref}&page=${currentPage}`,
+        {
+          headers: {
+            Cookie: "facility_dspcount=50",
+          },
+        }
+      )
+      const country = pref.substring(0, pref.indexOf("-"))
+      const $prefPage = cheerio.load(data)
+      const storeList = $prefPage(".cl_shop_bloc")
+
+      currentPage++
+      pageCount = $prefPage(".cl_pager_number").length
+      if (pageCount === 0) {
+        pageCount = 1
       }
-    )
-    const country = pref.substring(0, pref.indexOf("-"))
-    const $prefPage = cheerio.load(data)
-    const storeList = $prefPage(".cl_shop_bloc")
-    for (const store of storeList) {
-      const fdesc = store.attribs["data-fdesc"]
-      const storeName = store.attribs["data-name"]
-      const address = store.attribs["data-address"]
-      const access = store.attribs["data-access"]
-      const openingHours = store.attribs["data-operationtime"]
-      const lat = store.attribs["data-latitude"]
-      const lng = store.attribs["data-longitude"]
+      process.stdout.write(`of ${pageCount}..`)
 
-      const area = areaMapping[pref]
-      const cabinets: CabinetInfo[] = [{ game: GameEnum[gameEnum] }]
+      for (const store of storeList) {
+        const fdesc = store.attribs["data-fdesc"]
+        const storeName = toHalfWidthAlphanumeric(
+          store.attribs["data-name"]
+        ).replaceAll("−", "-")
+        const address = toHalfWidthAlphanumeric(
+          store.attribs["data-address"]
+        ).replaceAll("−", "-")
+        const access = store.attribs["data-access"]
+        const openingHours = store.attribs["data-operationtime"]
+        const lat = store.attribs["data-latitude"]
+        const lng = store.attribs["data-longitude"]
 
-      const entry: Store = {
-        country,
-        area,
-        storeName: toHalfWidthAlphanumeric(storeName),
-        address,
-        access: access.length > 0 ? access : null,
-        openingHours: openingHours.length > 0 ? openingHours : null,
-        lat: parseFloat(lat),
-        lng: parseFloat(lng),
-        cabinets,
-        context: {
-          eAmusementFdesc: fdesc,
-        },
-      }
+        const area = areaMapping[pref]
+        const cabinets: CabinetInfo[] = [{ game: GameEnum[gameEnum] }]
 
-      if (country === "JP") {
-        entry.alternateArea = (
-          await kuroshiro.convert(area, romanizationOptions)
-        )
-          .normalize("NFKC")
-          .toUpperCase()
-          .trim()
-          .replace(/ +(?= )/g, "")
-        entry.alternateStoreName = (
-          await kuroshiro.convert(storeName, romanizationOptions)
-        )
-          .normalize("NFKC")
-          .toUpperCase()
-          .trim()
-          .replace(/ +(?= )/g, "")
-        entry.alternateAddress = (
-          await kuroshiro.convert(address, romanizationOptions)
-        )
-          .normalize("NFKC")
-          .toUpperCase()
-          .trim()
-          .replace(/ +(?= )/g, "")
-      }
+        const entry: Store = {
+          country,
+          area,
+          storeName,
+          address,
+          access: access.length > 0 ? access : undefined,
+          openingHours: openingHours.length > 0 ? openingHours : undefined,
+          lat: parseFloat(lat),
+          lng: parseFloat(lng),
+          cabinets,
+          context: {
+            eAmusementFdesc: fdesc,
+          },
+        }
 
-      if (!(country in result)) {
-        result[country] = []
+        if (!(country in result)) {
+          result[country] = []
+        }
+
+        result[country].push(entry)
       }
 
-      result[country].push(entry)
+      process.stdout.write("OK\n")
     }
 
-    process.stdout.write("OK\n")
     break
   }
 
-  // Merge strategy: if a store is already in the database, we only update the
-  // null fields except for `cabinets`. Otherwise, we add to the database.
-  for (const country in result) {
-    const targetFile = `${outputDir}/${country}.json`
-    const existingData = existsSync(targetFile)
-      ? await fs.readFile(targetFile, "utf8")
-      : null
-    const newData = result[country]
-
-    if (existingData) {
-      const master: Store[] = JSON.parse(existingData)
-      const processedCandidateIndex: number[] = []
-
-      const removeProcessed = () => {
-        const processedCandidates = processedCandidateIndex.map(
-          index => newData[index]
-        )
-        for (const candidate of processedCandidates) {
-          newData.splice(newData.indexOf(candidate), 1)
-        }
-        processedCandidateIndex.splice(0, processedCandidateIndex.length)
-      }
-
-      // By fdesc
-      const candidateIdToIndex = Object.fromEntries(
-        newData.map((store, index) => [store.context.eAmusementFdesc, index])
-      )
-      const masterIdToIndex: { [id: string]: number } = {}
-      const candidateById: { [id: string]: Store } = Object.fromEntries(
-        newData.map(store => [store.context.eAmusementFdesc, store])
-      )
-      const masterById: { [id: string]: Store } = Object.fromEntries(
-        master.map((store, index) => {
-          if (store.context.eAmusementFdesc == null) {
-            return []
-          }
-          masterIdToIndex[store.context.eAmusementFdesc] = index
-          return [store.context.eAmusementFdesc, store]
-        })
-      )
-      for (const [id, candidate] of Object.entries(candidateById)) {
-        const existing = masterById[id]
-        if (existing == null) {
-          continue
-        }
-        const masterIndex = masterIdToIndex[id]
-        const candidateIndex = candidateIdToIndex[id]
-        master[masterIndex] = updateStore(existing, candidate, gameEnum)
-        processedCandidateIndex.push(candidateIndex)
-      }
-
-      removeProcessed()
-
-      // By exact store name
-      if (newData.length > 0) {
-        const candidateNameToIndex = Object.fromEntries(
-          newData.map((store, index) => [store.storeName, index])
-        )
-        const masterNameToIndex: { [storeName: string]: number } = {}
-        const candidateByName = Object.fromEntries(
-          newData.map(store => [store.storeName, store])
-        )
-        const masterByName = Object.fromEntries(
-          master.map((store, index) => {
-            masterNameToIndex[store.storeName] = index
-            return [store.storeName, store]
-          })
-        )
-        for (const [storeName, candidate] of Object.entries(candidateByName)) {
-          const existing = masterByName[storeName]
-          if (existing == null) {
-            continue
-          }
-          const masterIndex = masterNameToIndex[storeName]
-          const candidateIndex = candidateNameToIndex[storeName]
-          master[masterIndex] = updateStore(existing, candidate, gameEnum)
-          processedCandidateIndex.push(candidateIndex)
-        }
-      }
-
-      removeProcessed()
-
-      const mergedData: Store[] = [...master, ...newData]
-      const sortedData = mergedData.sort((a: Store, b: Store) =>
-        a.storeName.localeCompare(b.storeName)
-      )
-      await fs.writeFile(targetFile, JSON.stringify(sortedData, null, "\t"))
-    } else {
-      const sortedData = newData.sort((a: Store, b: Store) =>
-        a.storeName.localeCompare(b.storeName)
-      )
-      await fs.writeFile(targetFile, JSON.stringify(sortedData, null, "\t"))
-    }
-  }
+  await writeResult(result, gameEnum, "eAmusementFdesc", outputDir)
 })()

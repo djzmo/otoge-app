@@ -1,16 +1,9 @@
 import axios from "axios"
 import { Text } from "domhandler"
 import * as cheerio from "cheerio"
-import { existsSync } from "fs"
-import * as fs from "fs/promises"
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
-import { toHalfWidthAlphanumeric } from "./util/CharUtil"
-import { mergeStores } from "./util/StoreUtil"
-// TODO: Provide kuroshiro and kuromoji type definitions
-// @ts-ignore
-import Kuroshiro from "kuroshiro"
-// @ts-ignore
-import KuromojiAnalyzer from "kuroshiro-analyzer-kuromoji"
+import { toHalfWidthAlphanumeric } from "./util/TextUtil"
+import { writeResult } from "./util/StoreUtil"
 
 const outputDir = "../../data"
 
@@ -44,14 +37,6 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 }
 
 ;(async () => {
-  const kuroshiro = new Kuroshiro()
-  await kuroshiro.init(new KuromojiAnalyzer())
-  const romanizationOptions = {
-    to: "romaji",
-    mode: "spaced",
-    romajiSystem: "passport",
-  }
-
   const gameId = process.argv.length >= 3 ? process.argv[2] : "96"
 
   if (!(gameId in gameIdMapping)) {
@@ -93,8 +78,12 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
     const storeList = $areaPage("ul.store_list > li")
     for (const store of storeList) {
       const li = cheerio.load(store)
-      const storeName = li("span.store_name").text()
-      const address = li("span.store_address").text()
+      const storeName = toHalfWidthAlphanumeric(
+        li("span.store_name").text()
+      ).replaceAll("−", "-")
+      const address = toHalfWidthAlphanumeric(
+        li("span.store_address").text()
+      ).replaceAll("−", "-")
 
       const detailsUrlStrMatches = li(".bt_details_en")
         .attr("onclick")
@@ -121,13 +110,12 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
       }
 
       const mapUrl = new URL("https:" + mapUrlStrMatches[1])
-      const mapLatLng = mapUrl.searchParams.get("q")?.split("@")[1]?.split(",")
-
-      if (mapLatLng == null) {
-        process.stdout.write(`\nlat/lng is null for ${storeName}.. SKIPPED`)
-        hasWarn = true
-        continue
-      }
+      const mapLatLng = mapUrl.searchParams
+        .get("q")
+        ?.split("@")[1]
+        ?.split(",")
+        ?.map(val => parseFloat(val))
+      const [lat, lng] = mapLatLng || [undefined, undefined]
 
       const cabinets: CabinetInfo[] = [{ game: GameEnum[gameEnum] }]
 
@@ -135,40 +123,16 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
       const entry: Store = {
         country,
         area,
-        storeName: toHalfWidthAlphanumeric(storeName),
-        address: toHalfWidthAlphanumeric(address),
-        lat: parseFloat(mapLatLng[0]),
-        lng: parseFloat(mapLatLng[1]),
+        storeName,
+        address,
+        lat,
+        lng,
         cabinets,
         context: {
           allNetCt: ct,
           allNetAt: at,
           allNetSid: sid || undefined,
         },
-      }
-
-      if (ct === "1000") {
-        entry.alternateArea = (
-          await kuroshiro.convert(area, romanizationOptions)
-        )
-          .normalize("NFKC")
-          .toUpperCase()
-          .trim()
-          .replace(/ +(?= )/g, "")
-        entry.alternateStoreName = (
-          await kuroshiro.convert(storeName, romanizationOptions)
-        )
-          .normalize("NFKC")
-          .toUpperCase()
-          .trim()
-          .replace(/ +(?= )/g, "")
-        entry.alternateAddress = (
-          await kuroshiro.convert(address, romanizationOptions)
-        )
-          .normalize("NFKC")
-          .toUpperCase()
-          .trim()
-          .replace(/ +(?= )/g, "")
       }
 
       if (!(country in result)) {
@@ -181,30 +145,5 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
     process.stdout.write(hasWarn ? "\n" : "OK\n")
   }
 
-  for (const country in result) {
-    const targetFile = `${outputDir}/${country}.json`
-    const existingData = existsSync(targetFile)
-      ? await fs.readFile(targetFile, "utf8")
-      : null
-    const newData = result[country]
-
-    if (existingData) {
-      const existingDataParsed: Store[] = JSON.parse(existingData)
-      const mergedData = mergeStores(
-        existingDataParsed,
-        newData,
-        gameEnum,
-        "allNetSid"
-      )
-      const sortedData = mergedData.sort((a: Store, b: Store) =>
-        a.storeName.localeCompare(b.storeName)
-      )
-      await fs.writeFile(targetFile, JSON.stringify(sortedData, null, "\t"))
-    } else {
-      const sortedData = newData.sort((a: Store, b: Store) =>
-        a.storeName.localeCompare(b.storeName)
-      )
-      await fs.writeFile(targetFile, JSON.stringify(sortedData, null, "\t"))
-    }
-  }
+  await writeResult(result, gameEnum, "allNetSid", outputDir)
 })()

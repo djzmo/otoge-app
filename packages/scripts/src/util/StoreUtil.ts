@@ -1,5 +1,8 @@
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
-import { toHalfWidthAlphanumeric } from "./CharUtil"
+import { normalize } from "@geolonia/normalize-japanese-addresses"
+import { createRomanization, toHalfWidthAlphanumeric } from "./TextUtil"
+import { existsSync } from "fs"
+import fs from "fs/promises"
 
 export const updateStore = (
   existing: Store,
@@ -10,10 +13,19 @@ export const updateStore = (
   const cabinets = merged.cabinets.filter(
     (cabinet: CabinetInfo) => cabinet.game === gameEnum
   )
-  const existingNameHw = toHalfWidthAlphanumeric(existing.storeName)
-  const candidateNameHw = toHalfWidthAlphanumeric(candidate.storeName)
-  const existingAddressHw = toHalfWidthAlphanumeric(existing.address)
-  const candidateAddressHw = toHalfWidthAlphanumeric(candidate.address)
+  const existingNameHw = toHalfWidthAlphanumeric(existing.storeName).replaceAll(
+    "−",
+    "-"
+  )
+  const candidateNameHw = toHalfWidthAlphanumeric(
+    candidate.storeName
+  ).replaceAll("−", "-")
+  const existingAddressHw = toHalfWidthAlphanumeric(
+    existing.address
+  ).replaceAll("−", "-")
+  const candidateAddressHw = toHalfWidthAlphanumeric(
+    candidate.address
+  ).replaceAll("−", "-")
   if (cabinets.length === 0) {
     merged.cabinets.push({ game: gameEnum })
   }
@@ -55,11 +67,14 @@ export const mergeStores = (
   contextIdKey: string
 ): Store[] => {
   const getContextId = (store: Store, contextKey: string) =>
-    store.context.allNetSid
+    contextKey === "allNetSid" ? store.context.allNetSid : store.context.eAmusementFdesc
 
   const processedCandidateIndex: number[] = []
 
   const removeProcessed = () => {
+    if (processedCandidateIndex.length === 0) {
+      return
+    }
     const processedCandidates = processedCandidateIndex.map(
       index => candidates[index]
     )
@@ -129,5 +144,79 @@ export const mergeStores = (
 
   removeProcessed()
 
+  // By address
+  if (candidates.length > 0) {
+    for (const candidate of candidates) {
+      const foundList = master.filter(compare => {
+        return (compare.address.includes(candidate.address) || candidate.address.includes(compare.address)) &&
+            (compare.storeName.includes(candidate.storeName) || candidate.storeName.includes(compare.storeName))
+      })
+      if (foundList.length === 1) {
+        const existing = foundList[0]
+        const masterIndex = master.indexOf(existing)
+        const candidateIndex = candidates.indexOf(candidate)
+        master[masterIndex] = updateStore(existing, candidate, gameEnum)
+        processedCandidateIndex.push(candidateIndex)
+      }
+    }
+  }
+
   return [...master, ...candidates]
+}
+
+export const enrichStore = async (store: Store) => {
+  if (store.lat == null || store.lng == null) {
+    const result = await normalize(store.address)
+    if (result != null && result.lat != null && result.lng != null) {
+      store.lat = result.lat
+      store.lng = result.lng
+    }
+  }
+  if (store.country === "JP") {
+    if (store.alternateArea?.length === 0) {
+      store.alternateArea = createRomanization(store.area)
+    }
+    if (store.alternateStoreName?.length === 0) {
+      store.alternateStoreName = createRomanization(store.storeName)
+    }
+    if (store.alternateAddress?.length === 0) {
+      store.alternateAddress = createRomanization(store.address)
+    }
+  }
+  return store
+}
+
+export const writeResult = async (
+  result: { [country: string]: Store[] },
+  gameEnum: GameEnum,
+  contextIdKey: string,
+  outputDir: string
+) => {
+  for (const country in result) {
+    const targetFile = `${outputDir}/${country}.json`
+    const existingData = existsSync(targetFile)
+      ? await fs.readFile(targetFile, "utf8")
+      : null
+    const newData = result[country]
+    let sortedData: Store[] = existingData
+      ? newData.sort((a: Store, b: Store) =>
+          a.storeName.localeCompare(b.storeName)
+        )
+      : []
+
+    if (existingData) {
+      const existingDataParsed: Store[] = JSON.parse(existingData)
+      const mergedData = mergeStores(
+        existingDataParsed,
+        newData,
+        gameEnum,
+        contextIdKey
+      )
+      sortedData = mergedData.sort((a: Store, b: Store) =>
+        a.storeName.localeCompare(b.storeName)
+      )
+    }
+    sortedData.map(enrichStore)
+    await fs.writeFile(targetFile, JSON.stringify(sortedData, null, "\t"))
+  }
 }
