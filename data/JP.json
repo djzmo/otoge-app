@@ -128,6 +128,33 @@
 	{
 		"country": "JP",
 		"area": "愛知県",
+		"storeName": "ADXマミー出川店",
+		"address": "愛知県春日井市不二ヶ丘1丁目5番地",
+		"lat": 35.2673215,
+		"lng": 137.0126718,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "24867"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "ADX MAMI TEGAWA TEN",
+		"alternateAddress": "AICHI KEN KASUGAI SHI FUJI KE OKA 1 CHOME 5 BANCHI"
+	},
+	{
+		"country": "JP",
+		"area": "愛知県",
 		"storeName": "ADXマミー岡崎店",
 		"address": "愛知県岡崎市井田新町6-1",
 		"lat": 34.977030771170874,
@@ -149,16 +176,16 @@
 			"allNetSid": "24571"
 		},
 		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "AD X MAMI OKAZAKI TEN",
+		"alternateStoreName": "ADX MAMI OKAZAKI TEN",
 		"alternateAddress": "AICHI KEN OKAZAKI SHI IDASHIN MACHI 6 − 1"
 	},
 	{
 		"country": "JP",
-		"area": "愛知県",
-		"storeName": "ＡＤＸマミー春日井Ｒ１５５出川店",
-		"address": "愛知県春日井市不二ヶ丘1丁目5番地",
-		"lat": 35.2673215,
-		"lng": 137.0126718,
+		"area": "東京都",
+		"storeName": "Amusement&Game MAGHREB",
+		"address": "東京都多摩市落合1-41-1マグレブウェスト1階・2階",
+		"lat": 35.6245439,
+		"lng": 139.4256174,
 		"cabinets": [
 			{
 				"game": "ONGEKI"
@@ -172,12 +199,12 @@
 		],
 		"context": {
 			"allNetCt": "1000",
-			"allNetAt": "22",
-			"allNetSid": "24867"
+			"allNetAt": "12",
+			"allNetSid": "22923"
 		},
-		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "AD X MAMI KASUGAI R 1 5 5 TEGAWA TEN",
-		"alternateAddress": "AICHI KEN KASUGAI SHI FUJI KE OKA 1 CHOME 5 BANCHI"
+		"alternateArea": "TOKYO TO",
+		"alternateStoreName": "AMUSEMENT & GAME MAGHREB",
+		"alternateAddress": "TOKYO TO TAMA SHI OCHIAI 1 − 4 1 − 1 MAGUREBUUESUTO 1 KAI ・ 2 KAI"
 	},
 	{
 		"country": "JP",
@@ -206,7 +233,7 @@
 			"allNetSid": "25477"
 		},
 		"alternateArea": "KAGOSHIMA KEN",
-		"alternateStoreName": "AMUSEMENTCITYG − STA",
+		"alternateStoreName": "AMUSEMENTCITYG - STA",
 		"alternateAddress": "KAGOSHIMA KEN SATSUMA SENDAI SHI MUKODAHON MACHI 4 9 BAN"
 	},
 	{
@@ -236,7 +263,7 @@
 			"allNetSid": "26035"
 		},
 		"alternateArea": "IBARAKI KEN",
-		"alternateStoreName": "A M JAMU JAMU TSUKUBA TEN",
+		"alternateStoreName": "AM JAMU JAMU TSUKUBA TEN",
 		"alternateAddress": "IBARAKI KEN TSUKUBA SHI TAKEZONO 1 — 9 − 2 DEIZUTAUN TSUKUBA CHIKA 1 F"
 	},
 	{
@@ -260,7 +287,7 @@
 			"allNetSid": "25228"
 		},
 		"alternateArea": "IBARAKI KEN",
-		"alternateStoreName": "A M JAMU JAMU HITACHINAKA HONTEN",
+		"alternateStoreName": "AM JAMU JAMU HITACHINAKA HONTEN",
 		"alternateAddress": "IBARAKI KEN HITACHINAKA SHI TANAKAUSHIRO 4 0 − 2"
 	},
 	{
@@ -284,7 +311,7 @@
 			"allNetSid": "26623"
 		},
 		"alternateArea": "IBARAKI KEN",
-		"alternateStoreName": "A M JAMU JAMU KAMISU TEN",
+		"alternateStoreName": "AM JAMU JAMU KAMISU TEN",
 		"alternateAddress": "IBARAKI KEN KAMISU SHI KAMISU 1 8 − 1"
 	},
 	{
@@ -757,33 +784,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "長崎県",
-		"storeName": "G-stage浜町",
-		"address": "長崎県長崎市浜町2-26",
-		"lat": 32.7448472,
-		"lng": 129.8775421,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "41",
-			"allNetSid": "21022"
-		},
-		"alternateArea": "NAGASAKI KEN",
-		"alternateStoreName": "G - STAGE HAMACHO",
-		"alternateAddress": "NAGASAKI KEN NAGASAKI SHI HAMACHO 2 - 26"
-	},
-	{
-		"country": "JP",
 		"area": "大阪府",
 		"storeName": "G-palaあべの",
 		"address": "大阪府大阪市阿倍野区阿倍野筋3-10-1あべのベルタ2F",
@@ -806,7 +806,7 @@
 			"allNetSid": "24785"
 		},
 		"alternateArea": "OSAKA FU",
-		"alternateStoreName": "G − PALA ABENO",
+		"alternateStoreName": "G - PALA ABENO",
 		"alternateAddress": "OSAKA FU OSAKA SHI ABENO KU ABENOSUJI 3 − 1 0 − 1 ABENO BERUTA 2 F"
 	},
 	{
@@ -833,7 +833,7 @@
 			"allNetSid": "21510"
 		},
 		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − PALA KOKURA",
+		"alternateStoreName": "G - PALA KOKURA",
 		"alternateAddress": "FUKUOKA KEN KITAKYUSHU SHI KOKURAMINAMI KU KAMIKUZUHARA 1 − 14 − 1"
 	},
 	{
@@ -866,7 +866,7 @@
 			"allNetSid": "29030"
 		},
 		"alternateArea": "OITA KEN",
-		"alternateStoreName": "G − PALA NITTA",
+		"alternateStoreName": "G - PALA NITTA",
 		"alternateAddress": "OITA KEN NITTA SHI TOMODA 997 - 1"
 	},
 	{
@@ -893,7 +893,7 @@
 			"allNetSid": "29022"
 		},
 		"alternateArea": "NAGASAKI KEN",
-		"alternateStoreName": "G − PALA TOGITSU",
+		"alternateStoreName": "G - PALA TOGITSU",
 		"alternateAddress": "NAGASAKI KEN NISHISONOKI GUN TOGITSU MACHI NODAGO 5 9 GO"
 	},
 	{
@@ -920,7 +920,7 @@
 			"allNetSid": "29127"
 		},
 		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − STAGE NANA KUMA TEN",
+		"alternateStoreName": "G - STAGE NANA KUMA TEN",
 		"alternateAddress": "FUKUOKA KEN FUKUOKA SHI SHIROMINAMI KU NANA KUMA 8 − 4 − 8"
 	},
 	{
@@ -947,8 +947,35 @@
 			"allNetSid": "23037"
 		},
 		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − STAGE KOKURA",
+		"alternateStoreName": "G - STAGE KOKURA",
 		"alternateAddress": "FUKUOKA KEN KITAKYUSHU SHI KOKURAKITA KU ASANO 2 - 14 - 5 ARU ARU CITY 2 KAI"
+	},
+	{
+		"country": "JP",
+		"area": "長崎県",
+		"storeName": "G-stage浜町",
+		"address": "長崎県長崎市浜町2-26",
+		"lat": 32.7448472,
+		"lng": 129.8775421,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "41",
+			"allNetSid": "21022"
+		},
+		"alternateArea": "NAGASAKI KEN",
+		"alternateStoreName": "G - STAGE HAMACHO",
+		"alternateAddress": "NAGASAKI KEN NAGASAKI SHI HAMACHO 2 - 26"
 	},
 	{
 		"country": "JP",
@@ -1001,7 +1028,7 @@
 			"allNetSid": "29148"
 		},
 		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − STAGE IZUKA TEN",
+		"alternateStoreName": "G - STAGE IZUKA TEN",
 		"alternateAddress": "FUKUOKA KEN IZUKA SHI EDAKUNI 6 8 0 − 2"
 	},
 	{
@@ -1516,6 +1543,90 @@
 	},
 	{
 		"country": "JP",
+		"area": "熊本県",
+		"storeName": "GiGOアミュプラザくまもと",
+		"address": "熊本県熊本市西区春日三丁目15番26号6F　618区画",
+		"lat": 32.7889001,
+		"lng": 130.688284,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "42",
+			"allNetSid": "19491"
+		},
+		"alternateArea": "KUMAMOTO KEN",
+		"alternateStoreName": "GIGO AMYUPURAZA KUMA MOTO",
+		"alternateAddress": "KUMAMOTO KEN KUMAMOTO SHI NISHI KU KASUGA SAN CHOME 1 5 BAN 2 6 GO 6 F 6 1 8 KUKAKU"
+	},
+	{
+		"country": "JP",
+		"area": "宮崎県",
+		"storeName": "GiGOアミュプラザみやざき",
+		"address": "宮崎県宮崎市老松2丁目2番22号アミュプラザみやざき　うみ館",
+		"lat": 31.9142659,
+		"lng": 131.4315529,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "44",
+			"allNetSid": "19622"
+		},
+		"alternateArea": "MIYAZAKI KEN",
+		"alternateStoreName": "GIGO AMYUPURAZA MIYA ZAKI",
+		"alternateAddress": "MIYAZAKI KEN MIYAZAKI SHI OIMATSU 2 CHOME 2 BAN 2 2 GO AMYUPURAZA MIYA ZAKI UMI KAN"
+	},
+	{
+		"country": "JP",
+		"area": "東京都",
+		"storeName": "GiGOアリオ葛西",
+		"address": "東京都江戸川区東葛西9-3-3イトーヨーカドー3F",
+		"lat": 35.6525142654189,
+		"lng": 139.8817871559586,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "12",
+			"allNetSid": "25773"
+		},
+		"alternateArea": "TOKYO TO",
+		"alternateStoreName": "GIGO ARIO KASAI",
+		"alternateAddress": "TOKYO TO EDOGAWA KU HIGASHIKASAI 9 - 3 - 3 ITOYOKADO 3 F"
+	},
+	{
+		"country": "JP",
 		"area": "石川県",
 		"storeName": "GiGOアルプラザ金沢",
 		"address": "石川県金沢市諸江町30-1",
@@ -1774,6 +1885,33 @@
 	},
 	{
 		"country": "JP",
+		"area": "愛知県",
+		"storeName": "GiGOイオンモール木曽川",
+		"address": "愛知県一宮市木曽川町黒田八ヶ池25-1　イオンモール木曽川3F",
+		"lat": 35.34896885845113,
+		"lng": 136.7735999073791,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "26046"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "GIGO ION MORU KISOGAWA",
+		"alternateAddress": "AICHI KEN ICHINOMIYA SHI KISOGAWA MACHI KURODA HACHI KE CHI 25 - 1 ION MORU KISOGAWA 3 F"
+	},
+	{
+		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGOイオンモール銚子",
 		"address": "千葉県銚子市三崎町2-2660-1イオンモール銚子2F",
@@ -1883,7 +2021,7 @@
 			"allNetSid": "23320"
 		},
 		"alternateArea": "KANAGAWA KEN",
-		"alternateStoreName": "GIGO ITO — YOKADO KOBUCHI",
+		"alternateStoreName": "GIGO ITO - YOKADO KOBUCHI",
 		"alternateAddress": "KANAGAWA KEN SAGAMIHARA SHI MINAMI KU KOBUCHI 3 − 1 3 − 3 3 ITOYOKADO 3 F"
 	},
 	{
@@ -4402,6 +4540,36 @@
 	},
 	{
 		"country": "JP",
+		"area": "大阪府",
+		"storeName": "GiGO東梅田",
+		"address": "大阪府大阪市北区堂山町9-28",
+		"lat": 34.7031007,
+		"lng": 135.5039563,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "26",
+			"allNetSid": "29223"
+		},
+		"alternateArea": "OSAKA FU",
+		"alternateStoreName": "GIGO HIGASHIUMEDA",
+		"alternateAddress": "OSAKA FU OSAKA SHI KITA KU DOYAMA MACHI 9 - 28"
+	},
+	{
+		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "GiGO松山",
 		"address": "愛媛県松山市枝松5-7-32",
@@ -4894,6 +5062,36 @@
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "GIGO EBINA",
 		"alternateAddress": "KANAGAWA KEN EBINA SHI CHUO ICHI CHOME 4 BAN 3 1 GO EBINA PURAZABIRU 1 KAI"
+	},
+	{
+		"country": "JP",
+		"area": "東京都",
+		"storeName": "GiGO渋谷宮益坂",
+		"address": "東京都渋谷区渋谷1-14-14EST1階・7階",
+		"lat": 35.6600164,
+		"lng": 139.7025897,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "12",
+			"allNetSid": "29331"
+		},
+		"alternateArea": "TOKYO TO",
+		"alternateStoreName": "GIGO SHIBUYA MIYA MASUZAKA",
+		"alternateAddress": "TOKYO TO SHIBUYA KU SHIBUYA 1 − 1 4 − 1 4 EST 1 KAI ・ 7 KAI"
 	},
 	{
 		"country": "JP",
@@ -5917,6 +6115,36 @@
 	},
 	{
 		"country": "JP",
+		"area": "長野県",
+		"storeName": "GiGO豊科",
+		"address": "長野県安曇野市豊科南穂高1115",
+		"lat": 36.303112181520255,
+		"lng": 137.92271440125273,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "19",
+			"allNetSid": "27347"
+		},
+		"alternateArea": "NAGANO KEN",
+		"alternateStoreName": "GIGO TOYOSHINA",
+		"alternateAddress": "NAGANO KEN AZUMI NOICHI TOYOSHINA MINAMIHOTAKA 1115"
+	},
+	{
+		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO赤羽",
 		"address": "東京都北区赤羽1-7-9赤羽第一葉山ビルB1",
@@ -6115,6 +6343,63 @@
 		"alternateArea": "GUMMA KEN",
 		"alternateStoreName": "GIGO TATEBAYASHI",
 		"alternateAddress": "GUMMA KEN TATEBAYASHI SHI KOKUWAHARA MACHI 9 4 9 − 1"
+	},
+	{
+		"country": "JP",
+		"area": "大分県",
+		"storeName": "GiGO高城",
+		"address": "大分県大分市牧1-161-8",
+		"lat": 33.24170942189051,
+		"lng": 131.63726538280332,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "43",
+			"allNetSid": "29138"
+		},
+		"alternateArea": "OITA KEN",
+		"alternateStoreName": "GIGO TAKAGI",
+		"alternateAddress": "OITA KEN OITA SHI MAKI 1 - 161 - 8"
+	},
+	{
+		"country": "JP",
+		"area": "岐阜県",
+		"storeName": "GiGO高山",
+		"address": "岐阜県高山市上岡本町7-7",
+		"lat": 36.1426267,
+		"lng": 137.2436265,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "20",
+			"allNetSid": "29229"
+		},
+		"alternateArea": "GIFU KEN",
+		"alternateStoreName": "GIGO KOZAN",
+		"alternateAddress": "GIFU KEN TAKAYAMA SHI KAMIOKAMOTO MACHI 7 - 7"
 	},
 	{
 		"country": "JP",
@@ -6766,7 +7051,12 @@
 			"allNetCt": "1000",
 			"allNetAt": "22",
 			"allNetSid": "28608"
-		}
+		},
+		"lat": 35.005164,
+		"lng": 137.001404,
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "M ' S PARK KARIYA TEN",
+		"alternateAddress": "AICHI KEN KARIYA SHI INABA MACHI 3 - 206"
 	},
 	{
 		"country": "JP",
@@ -6782,7 +7072,12 @@
 			"allNetCt": "1000",
 			"allNetAt": "22",
 			"allNetSid": "28609"
-		}
+		},
+		"lat": 35.055214,
+		"lng": 137.140734,
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "M ' S PARK TOYODA TEN",
+		"alternateAddress": "AICHI KEN TOYODA SHI KOTOBUKI MACHI 3 - 21 , 22"
 	},
 	{
 		"country": "JP",
@@ -9661,7 +9956,7 @@
 			"allNetSid": "25910"
 		},
 		"alternateArea": "FUKUSHIMA KEN",
-		"alternateStoreName": "SOYU E − STUDIO SUKAGAWA TEN",
+		"alternateStoreName": "SOYU E - STUDIO SUKAGAWA TEN",
 		"alternateAddress": "FUKUSHIMA KEN SUKAGAWA SHI FURUKAWA 1 0 5 ION TAUN SUKAGAWA B MUNE NAI"
 	},
 	{
@@ -10185,33 +10480,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "埼玉県",
-		"storeName": "THE 3RD PLANET フレスポ八潮店",
-		"address": "埼玉県八潮市大瀬1-1-3 フレスポ八潮3F",
-		"lat": 35.80854559380593,
-		"lng": 139.84387915092623,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "10",
-			"allNetSid": "25742"
-		},
-		"alternateArea": "SAITAMA KEN",
-		"alternateStoreName": "THE 3 RD PLANET FURESUPO HACHI SHIO TEN",
-		"alternateAddress": "SAITAMA KEN YASHIO SHI OSE 1 - 1 - 3 FURESUPO HACHI SHIO 3 F"
-	},
-	{
-		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "THE 3RD PLANET 大津店",
 		"address": "滋賀県大津市打出浜１４−３０打出浜商業施設６Ｆ",
@@ -10401,57 +10669,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "鹿児島県",
-		"storeName": "THE 3RD PLANETジャングルパーク鹿児島店",
-		"address": "鹿児島県鹿児島市与次郎1-11-1フレスポジャングルパーク2F",
-		"lat": 31.5700372,
-		"lng": 130.5650325,
-		"cabinets": [
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "45",
-			"allNetSid": "25538"
-		},
-		"alternateArea": "KAGOSHIMA KEN",
-		"alternateStoreName": "THE 3 RD PLANET JANGURU PAKU KAGOSHIMA TEN",
-		"alternateAddress": "KAGOSHIMA KEN KAGOSHIMA SHI YOJIRO 1 - 11 - 1 FURESUPOJANGURUPAKU 2 F"
-	},
-	{
-		"country": "JP",
-		"area": "静岡県",
-		"storeName": "ＴＨＥ　３ＲＤ　ＰＬＡＮＥＴ富士",
-		"address": "静岡県富士市永田町２−９９",
-		"lat": 35.1624456,
-		"lng": 138.6692789,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "21",
-			"allNetSid": "28979"
-		},
-		"alternateArea": "SHIZUOKA KEN",
-		"alternateStoreName": "T H E 3 R D PLANET FUJI",
-		"alternateAddress": "SHIZUOKA KEN FUJI SHI NAGATACHO 2 − 9 9"
-	},
-	{
-		"country": "JP",
 		"area": "熊本県",
 		"storeName": "THE3RDPLANET下通り店",
 		"address": "熊本県熊本市中央区手取本町4番12号",
@@ -10506,6 +10723,33 @@
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "VAMP NAKAGAWA TEN",
 		"alternateAddress": "AICHI KEN NAGOYA SHI NAKAGAWA KU SHINYA 1 − 2 007"
+	},
+	{
+		"country": "JP",
+		"area": "東京都",
+		"storeName": "WORLD　GAME　CIRCUS",
+		"address": "東京都立川市羽衣町2-4-13羽衣長田ビル101WGC",
+		"lat": 35.6964221,
+		"lng": 139.4288034,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "12",
+			"allNetSid": "19698"
+		},
+		"alternateArea": "TOKYO TO",
+		"alternateStoreName": "WORLD GAME CIRCUS",
+		"alternateAddress": "TOKYO TO TATSUKAWA SHI HAGOROMO MACHI 2 − 4 − 1 3 HAGOROMO NAGATA BIRU 1 0 1 WGC"
 	},
 	{
 		"country": "JP",
@@ -11122,7 +11366,7 @@
 			"allNetSid": "25281"
 		},
 		"alternateArea": "HOKKAIDO",
-		"alternateStoreName": "ADOAZU SAPPORO KITA 4 2 JO",
+		"alternateStoreName": "ADOAZU SAPPORO KITA 42 JO",
 		"alternateAddress": "HOKKAIDO SAPPORO SHI HIGASHI KU KITA 4 2 JO HIGASHI 7 − 1 − 1 SHIMA BIRU 2 KAI"
 	},
 	{
@@ -14053,7 +14297,7 @@
 			"allNetSid": "28673"
 		},
 		"alternateArea": "EHIME KEN",
-		"alternateStoreName": "AMYUZUMENTO PAKU M G KISUKE",
+		"alternateStoreName": "AMYUZUMENTO PAKU MG KISUKE",
 		"alternateAddress": "EHIME KEN MATSUYAMA SHI MIYATA MACHI 4 KISUKEBOKKUSU NAI 1 KAI"
 	},
 	{
@@ -14197,7 +14441,7 @@
 			"allNetSid": "22420"
 		},
 		"alternateArea": "EHIME KEN",
-		"alternateStoreName": "AMYUZUMENTO PAKU M G DAI KAIDO",
+		"alternateStoreName": "AMYUZUMENTO PAKU MG OKAIDO",
 		"alternateAddress": "EHIME KEN MATSUYAMA SHI OKAIDO 1 − 4 − 1 7"
 	},
 	{
@@ -14616,6 +14860,33 @@
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "AMYUZUMENTOPURAZAWAIDO",
 		"alternateAddress": "AICHI KEN TOKAI SHI NAWA MACHI NI BAN WARI JO 16 - 2"
+	},
+	{
+		"country": "JP",
+		"area": "愛知県",
+		"storeName": "アミューズメントワールドメトロポリス小牧",
+		"address": "愛知県小牧市間々片山１８１",
+		"lat": 35.295934327516086,
+		"lng": 136.90561661664128,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "26295"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "AMYUZUMENTOWARUDOMETOROPORISU OMAKI",
+		"alternateAddress": "AICHI KEN OMAKI SHI MAMA KATAYAMA 1 8 1"
 	},
 	{
 		"country": "JP",
@@ -16308,36 +16579,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "大阪府",
-		"storeName": "クラブセガ東梅田",
-		"address": "大阪府大阪市北区堂山町9-28",
-		"lat": 34.7031007,
-		"lng": 135.5039563,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "26",
-			"allNetSid": "29223"
-		},
-		"alternateArea": "OSAKA FU",
-		"alternateStoreName": "KURABU SEGA HIGASHIUMEDA",
-		"alternateAddress": "OSAKA FU OSAKA SHI KITA KU DOYAMA MACHI 9 - 28"
-	},
-	{
-		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ゲーム　アルカナ",
 		"address": "愛知県稲沢市朝府町2-33",
@@ -16890,33 +17131,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "東京都",
-		"storeName": "ゲームセンターＷＩＬＬ　ＷＧＣ",
-		"address": "東京都立川市羽衣町2-4-13羽衣長田ビル101WGC",
-		"lat": 35.6964221,
-		"lng": 139.4288034,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "12",
-			"allNetSid": "19698"
-		},
-		"alternateArea": "TOKYO TO",
-		"alternateStoreName": "GEMUSENTA WILL WGC",
-		"alternateAddress": "TOKYO TO TATSUKAWA SHI HAGOROMO MACHI 2 − 4 − 1 3 HAGOROMO NAGATA BIRU 1 0 1 WGC"
-	},
-	{
-		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ゲームセンターアルファー",
 		"address": "千葉県柏市柏１−１−１１丸井ビルＢ１Ｆ",
@@ -16956,36 +17170,6 @@
 		"alternateArea": "NIGATA KEN",
 		"alternateStoreName": "GEMUSENTA TEKUNOPORISU",
 		"alternateAddress": "NIGATA KEN NAGAOKA SHI KANAME MACHI 1 - 8 - 50"
-	},
-	{
-		"country": "JP",
-		"area": "大阪府",
-		"storeName": "ゲームセンタートップラン東大阪店",
-		"address": "大阪府東大阪市東鴻池町1-6-30イオンタウン東大阪店2F",
-		"lat": 34.6938172,
-		"lng": 135.6175909,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "26",
-			"allNetSid": "21189"
-		},
-		"alternateArea": "OSAKA FU",
-		"alternateStoreName": "GEMUSENTA TOPPU RAN HIGASHIOSAKA TEN",
-		"alternateAddress": "OSAKA FU HIGASHIOSAKA SHI HIGASHIKONOIKE MACHI 1 − 6 − 3 0 ION TAUN HIGASHIOSAKA TEN 2 F"
 	},
 	{
 		"country": "JP",
@@ -17280,36 +17464,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "岐阜県",
-		"storeName": "ゲームハウスアリババ",
-		"address": "岐阜県大垣市池尻町940-1",
-		"lat": 35.3840722,
-		"lng": 136.5956108,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "CHUNITHM"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "20",
-			"allNetSid": "27703"
-		},
-		"alternateArea": "GIFU KEN",
-		"alternateStoreName": "GEMUHAUSUARIBABA",
-		"alternateAddress": "GIFU KEN OGAKI SHI IKEJIRI MACHI 9 4 0 − 1"
-	},
-	{
-		"country": "JP",
 		"area": "茨城県",
 		"storeName": "ゲームパニックつくば",
 		"address": "茨城県土浦市中村東1-1-1サンタスワールド内",
@@ -17415,6 +17569,36 @@
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "GEMU PANIKKU OSU",
 		"alternateAddress": "AICHI KEN NAGOYA SHI NAKA KU OSU 3 - 30 - 93 MEGA TAUN B 1 F"
+	},
+	{
+		"country": "JP",
+		"area": "愛知県",
+		"storeName": "ゲームパニック大高",
+		"address": "愛知県名古屋市緑区忠治山201番地",
+		"lat": 35.0485212,
+		"lng": 136.9497129,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "28834"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "GEMU PANIKKU DAI DAKA",
+		"alternateAddress": "AICHI KEN NAGOYA SHI MIDORI KU TADA CHISAN 201 BANCHI"
 	},
 	{
 		"country": "JP",
@@ -18012,6 +18196,36 @@
 	},
 	{
 		"country": "JP",
+		"area": "茨城県",
+		"storeName": "ゲームメガ日立店",
+		"address": "茨城県日立市東多賀町5-10-10",
+		"lat": 36.548234,
+		"lng": 140.6305081,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "7",
+			"allNetSid": "25514"
+		},
+		"alternateArea": "IBARAKI KEN",
+		"alternateStoreName": "GEMU MEGA HITACHI TEN",
+		"alternateAddress": "IBARAKI KEN HITACHI SHI HIGASHITAGA MACHI 5 - 10 - 10"
+	},
+	{
+		"country": "JP",
 		"area": "大分県",
 		"storeName": "ゲームラボ　サイドセブン",
 		"address": "大分県大分市上宗方南1丁目649-1",
@@ -18366,6 +18580,36 @@
 	},
 	{
 		"country": "JP",
+		"area": "岐阜県",
+		"storeName": "コミ丸アリババ大垣店",
+		"address": "岐阜県大垣市池尻町940-1",
+		"lat": 35.3840722,
+		"lng": 136.5956108,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "CHUNITHM"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "20",
+			"allNetSid": "27703"
+		},
+		"alternateArea": "GIFU KEN",
+		"alternateStoreName": "KOMI MARU ARI BABA OGAKI TEN",
+		"alternateAddress": "GIFU KEN OGAKI SHI IKEJIRI MACHI 9 4 0 − 1"
+	},
+	{
+		"country": "JP",
 		"area": "愛知県",
 		"storeName": "コムテックスクウェア",
 		"address": "愛知県名古屋市中区金山1-16-8",
@@ -18480,33 +18724,6 @@
 	},
 	{
 		"country": "JP",
-		"area": "東京都",
-		"storeName": "ザ・サードプラネット多摩センター店",
-		"address": "東京都多摩市落合1-41-1マグレブウェスト1階・2階",
-		"lat": 35.6245439,
-		"lng": 139.4256174,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "12",
-			"allNetSid": "22923"
-		},
-		"alternateArea": "TOKYO TO",
-		"alternateStoreName": "ZA・SADOPURANETTO TAMA SENTA TEN",
-		"alternateAddress": "TOKYO TO TAMA SHI OCHIAI 1 − 4 1 − 1 MAGUREBUUESUTO 1 KAI ・ 2 KAI"
-	},
-	{
-		"country": "JP",
 		"area": "富山県",
 		"storeName": "サービスエリアIN高岡",
 		"address": "富山県高岡市下石瀬857-1",
@@ -18579,6 +18796,84 @@
 	},
 	{
 		"country": "JP",
+		"area": "埼玉県",
+		"storeName": "サープラ八潮あそびタウン",
+		"address": "埼玉県八潮市大瀬1-1-3 フレスポ八潮3F",
+		"lat": 35.80854559380593,
+		"lng": 139.84387915092623,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "10",
+			"allNetSid": "25742"
+		},
+		"alternateArea": "SAITAMA KEN",
+		"alternateStoreName": "SAPURA HACHI SHIO ASOBI TAUN",
+		"alternateAddress": "SAITAMA KEN YASHIO SHI OSE 1 - 1 - 3 FURESUPO HACHI SHIO 3 F"
+	},
+	{
+		"country": "JP",
+		"area": "静岡県",
+		"storeName": "サープラ富士あそびタウン",
+		"address": "静岡県富士市永田町２−９９",
+		"lat": 35.1624456,
+		"lng": 138.6692789,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "21",
+			"allNetSid": "28979"
+		},
+		"alternateArea": "SHIZUOKA KEN",
+		"alternateStoreName": "SAPURA FUJI ASOBI TAUN",
+		"alternateAddress": "SHIZUOKA KEN FUJI SHI NAGATACHO 2 − 9 9"
+	},
+	{
+		"country": "JP",
+		"area": "福岡県",
+		"storeName": "サープラ新宮あそびタウン",
+		"address": "福岡県糟屋郡新宮町美咲3-1-40新宮ドーム1F",
+		"lat": 33.7061821,
+		"lng": 130.4405711,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "39",
+			"allNetSid": "21404"
+		},
+		"alternateArea": "FUKUOKA KEN",
+		"alternateStoreName": "SAPURA SHINGU ASOBI TAUN",
+		"alternateAddress": "FUKUOKA KEN KASUYA GUN SHINGU MACHI MISAKI 3 - 1 - 40 SHINGU DOMU 1 F"
+	},
+	{
+		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "サープラ横浜あそびタウン",
 		"address": "神奈川県横浜市都筑区中川中央1-25-1NPモール6F",
@@ -18600,6 +18895,30 @@
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "SAPURA YOKOHAMA ASOBI TAUN",
 		"alternateAddress": "KANAGAWA KEN YOKOHAMA SHI TSUZUKI KU NAKAGAWACHUO 1 − 2 5 − 1 NP MORU 6 F"
+	},
+	{
+		"country": "JP",
+		"area": "鹿児島県",
+		"storeName": "サープラ鹿児島あそびタウン",
+		"address": "鹿児島県鹿児島市与次郎1-11-1フレスポジャングルパーク2F",
+		"lat": 31.5700372,
+		"lng": 130.5650325,
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "45",
+			"allNetSid": "25538"
+		},
+		"alternateArea": "KAGOSHIMA KEN",
+		"alternateStoreName": "SAPURA KAGOSHIMA ASOBI TAUN",
+		"alternateAddress": "KAGOSHIMA KEN KAGOSHIMA SHI YOJIRO 1 - 11 - 1 FURESUPOJANGURUPAKU 2 F"
 	},
 	{
 		"country": "JP",
@@ -18678,30 +18997,6 @@
 		"alternateArea": "KAGOSHIMA KEN",
 		"alternateStoreName": "SANGEMUSU TEMMON KAN TEN",
 		"alternateAddress": "KAGOSHIMA KEN KAGOSHIMA SHI SENNICHI MACHI 5 - 6"
-	},
-	{
-		"country": "JP",
-		"area": "福岡県",
-		"storeName": "サンゲームス新宮店",
-		"address": "福岡県糟屋郡新宮町美咲3-1-40新宮ドーム1F",
-		"lat": 33.7061821,
-		"lng": 130.4405711,
-		"cabinets": [
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "39",
-			"allNetSid": "21404"
-		},
-		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "SANGEMUSU SHINGU TEN",
-		"alternateAddress": "FUKUOKA KEN KASUYA GUN SHINGU MACHI MISAKI 3 - 1 - 40 SHINGU DOMU 1 F"
 	},
 	{
 		"country": "JP",
@@ -20074,7 +20369,7 @@
 			"allNetSid": "29184"
 		},
 		"alternateArea": "OSAKA FU",
-		"alternateStoreName": "SUPOTSU SENTA 2 1 SEIKI",
+		"alternateStoreName": "SUPOTSU SENTA 21 SEIKI",
 		"alternateAddress": "OSAKA FU SAKAI SHI MINAMI KU IWAMURO 108 - 1"
 	},
 	{
@@ -20154,204 +20449,6 @@
 		"alternateArea": "FUKUOKA KEN",
 		"alternateStoreName": "SUMAIRU SUTESHON TOBATA TEN",
 		"alternateAddress": "FUKUOKA KEN KITAKYUSHU SHI TOBATA KU SHIOI MACHI 2 − 2 ION TOBATA 3 F"
-	},
-	{
-		"country": "JP",
-		"area": "熊本県",
-		"storeName": "セガアミュプラザくまもと",
-		"address": "熊本県熊本市西区春日三丁目15番26号6F　618区画",
-		"lat": 32.7889001,
-		"lng": 130.688284,
-		"cabinets": [
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "42",
-			"allNetSid": "19491"
-		},
-		"alternateArea": "KUMAMOTO KEN",
-		"alternateStoreName": "SEGAAMYUPURAZA KUMA MOTO",
-		"alternateAddress": "KUMAMOTO KEN KUMAMOTO SHI NISHI KU KASUGA SAN CHOME 1 5 BAN 2 6 GO 6 F 6 1 8 KUKAKU"
-	},
-	{
-		"country": "JP",
-		"area": "宮崎県",
-		"storeName": "セガアミュプラザみやざき",
-		"address": "宮崎県宮崎市老松2丁目2番22号アミュプラザみやざき　うみ館",
-		"lat": 31.9142659,
-		"lng": 131.4315529,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "44",
-			"allNetSid": "19622"
-		},
-		"alternateArea": "MIYAZAKI KEN",
-		"alternateStoreName": "SEGAAMYUPURAZA MIYA ZAKI",
-		"alternateAddress": "MIYAZAKI KEN MIYAZAKI SHI OIMATSU 2 CHOME 2 BAN 2 2 GO AMYUPURAZA MIYA ZAKI UMI KAN"
-	},
-	{
-		"country": "JP",
-		"area": "愛知県",
-		"storeName": "セガイオンモール木曽川",
-		"address": "愛知県一宮市木曽川町黒田八ヶ池25-1　イオンモール木曽川3F",
-		"lat": 35.34896885845113,
-		"lng": 136.7735999073791,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "22",
-			"allNetSid": "26046"
-		},
-		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "SEGAIOMMORU KISOGAWA",
-		"alternateAddress": "AICHI KEN ICHINOMIYA SHI KISOGAWA MACHI KURODA HACHI KE CHI 25 - 1 ION MORU KISOGAWA 3 F"
-	},
-	{
-		"country": "JP",
-		"area": "東京都",
-		"storeName": "セガワールド葛西",
-		"address": "東京都江戸川区東葛西9-3-3イトーヨーカドー3F",
-		"lat": 35.6525142654189,
-		"lng": 139.8817871559586,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "12",
-			"allNetSid": "25773"
-		},
-		"alternateArea": "TOKYO TO",
-		"alternateStoreName": "SEGA WARUDO KASAI",
-		"alternateAddress": "TOKYO TO EDOGAWA KU HIGASHIKASAI 9 - 3 - 3 ITOYOKADO 3 F"
-	},
-	{
-		"country": "JP",
-		"area": "長野県",
-		"storeName": "セガワールド豊科",
-		"address": "長野県安曇野市豊科南穂高1115",
-		"lat": 36.303112181520255,
-		"lng": 137.92271440125273,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "19",
-			"allNetSid": "27347"
-		},
-		"alternateArea": "NAGANO KEN",
-		"alternateStoreName": "SEGA WARUDO TOYOSHINA",
-		"alternateAddress": "NAGANO KEN AZUMI NOICHI TOYOSHINA MINAMIHOTAKA 1115"
-	},
-	{
-		"country": "JP",
-		"area": "大分県",
-		"storeName": "セガワールド高城",
-		"address": "大分県大分市牧1-161-8",
-		"lat": 33.24170942189051,
-		"lng": 131.63726538280332,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "43",
-			"allNetSid": "29138"
-		},
-		"alternateArea": "OITA KEN",
-		"alternateStoreName": "SEGA WARUDO TAKAGI",
-		"alternateAddress": "OITA KEN OITA SHI MAKI 1 - 161 - 8"
-	},
-	{
-		"country": "JP",
-		"area": "岐阜県",
-		"storeName": "セガワールド高山",
-		"address": "岐阜県高山市上岡本町7-7",
-		"lat": 36.1426267,
-		"lng": 137.2436265,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "20",
-			"allNetSid": "29229"
-		},
-		"alternateArea": "GIFU KEN",
-		"alternateStoreName": "SEGA WARUDO KOZAN",
-		"alternateAddress": "GIFU KEN TAKAYAMA SHI KAMIOKAMOTO MACHI 7 - 7"
 	},
 	{
 		"country": "JP",
@@ -21121,7 +21218,7 @@
 			"allNetSid": "19441"
 		},
 		"alternateArea": "GUMMA KEN",
-		"alternateStoreName": "TAITO — F SUTESHON TAKASAKI O — PA TEN",
+		"alternateStoreName": "TAITO - F SUTESHON TAKASAKI O - PA TEN",
 		"alternateAddress": "GUMMA KEN TAKASAKI SHI YASHIMA MACHI 4 6 − 1 TAKASAKI O — PA 7 KAI"
 	},
 	{
@@ -22110,33 +22207,6 @@
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "TAITOIOMMORU KUSHIRO SHOWA TEN",
 		"alternateAddress": "HOKKAIDO KUSHIRO SHI SHOWA CHUO 4 − 1 8 − 1 ION MORU KUSHIRO SHOWA 2 F"
-	},
-	{
-		"country": "JP",
-		"area": "愛知県",
-		"storeName": "タイトーキッズランドＧＡＺＡ",
-		"address": "愛知県豊田市喜多町1-140GAZA3階",
-		"lat": 35.0880302,
-		"lng": 137.1572653,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "22",
-			"allNetSid": "24209"
-		},
-		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "TAITOKIZZURANDO GAZA",
-		"alternateAddress": "AICHI KEN TOYODA SHI KITA MACHI 1 − 1 4 0 GAZA 3 KAI"
 	},
 	{
 		"country": "JP",
@@ -23337,6 +23407,33 @@
 	},
 	{
 		"country": "JP",
+		"area": "愛知県",
+		"storeName": "タイトーステーション豊田GAZA",
+		"address": "愛知県豊田市喜多町1-140GAZA3階",
+		"lat": 35.0880302,
+		"lng": 137.1572653,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "24209"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "TAITO SUTESHON TOYODA GAZA",
+		"alternateAddress": "AICHI KEN TOYODA SHI KITA MACHI 1 − 1 4 0 GAZA 3 KAI"
+	},
+	{
+		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション錦糸町楽天地店",
 		"address": "東京都墨田区江東橋4-27-14楽天地ビルB1F",
@@ -24081,6 +24178,36 @@
 	},
 	{
 		"country": "JP",
+		"area": "大阪府",
+		"storeName": "トップラン東大阪店",
+		"address": "大阪府東大阪市東鴻池町1-6-30イオンタウン東大阪店2F",
+		"lat": 34.6938172,
+		"lng": 135.6175909,
+		"cabinets": [
+			{
+				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "26",
+			"allNetSid": "21189"
+		},
+		"alternateArea": "OSAKA FU",
+		"alternateStoreName": "TOPPU RAN HIGASHIOSAKA TEN",
+		"alternateAddress": "OSAKA FU HIGASHIOSAKA SHI HIGASHIKONOIKE MACHI 1 − 6 − 3 0 ION TAUN HIGASHIOSAKA TEN 2 F"
+	},
+	{
+		"country": "JP",
 		"area": "秋田県",
 		"storeName": "トム・ソーヤのなかまたち五城目店",
 		"address": "秋田県南秋田郡五城目町大字大川西野字田屋前138ｲｵﾝSC五城目店",
@@ -24795,36 +24922,6 @@
 		"alternateArea": "TOKYO TO",
 		"alternateStoreName": "HAITEKURANDOKYUDEN",
 		"alternateAddress": "TOKYO TO ADACHI KU NISHIARAISAKAE MACHI 2 - 7 - 2"
-	},
-	{
-		"country": "JP",
-		"area": "東京都",
-		"storeName": "ハイテクランドセガ渋谷",
-		"address": "東京都渋谷区渋谷1-14-14EST1階・7階",
-		"lat": 35.6600164,
-		"lng": 139.7025897,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "12",
-			"allNetSid": "29331"
-		},
-		"alternateArea": "TOKYO TO",
-		"alternateStoreName": "HAITEKURANDOSEGA SHIBUYA",
-		"alternateAddress": "TOKYO TO SHIBUYA KU SHIBUYA 1 − 1 4 − 1 4 EST 1 KAI ・ 7 KAI"
 	},
 	{
 		"country": "JP",
@@ -25935,36 +26032,6 @@
 		"alternateArea": "IBARAKI KEN",
 		"alternateStoreName": "PINKU PANSA TSUCHIURA TEN",
 		"alternateAddress": "IBARAKI KEN TSUCHIURA SHI KIDAMARI 4 5 8 5 − 3"
-	},
-	{
-		"country": "JP",
-		"area": "茨城県",
-		"storeName": "ピンクパンサー日立店",
-		"address": "茨城県日立市東多賀町5-10-10",
-		"lat": 36.548234,
-		"lng": 140.6305081,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "7",
-			"allNetSid": "25514"
-		},
-		"alternateArea": "IBARAKI KEN",
-		"alternateStoreName": "PINKU PANSA HITACHI TEN",
-		"alternateAddress": "IBARAKI KEN HITACHI SHI HIGASHITAGA MACHI 5 - 10 - 10"
 	},
 	{
 		"country": "JP",
@@ -27315,6 +27382,33 @@
 	},
 	{
 		"country": "JP",
+		"area": "千葉県",
+		"storeName": "フリスポ佐原",
+		"address": "千葉県香取市佐原イ-4200",
+		"lat": 35.90114563918007,
+		"lng": 140.493510670639,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "11",
+			"allNetSid": "25697"
+		},
+		"alternateArea": "CHIBA KEN",
+		"alternateStoreName": "FURISUPO SAWARA",
+		"alternateAddress": "CHIBA KEN KANDORI SHI SAWARAI - 4200"
+	},
+	{
+		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "プリモピア鴻巣店",
 		"address": "埼玉県鴻巣市北新宿225-1ウニクス鴻巣1階",
@@ -28009,7 +28103,7 @@
 			"allNetSid": "25114"
 		},
 		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "POTO 2 4 YAGOTO TEN",
+		"alternateStoreName": "POTO 24 YAGOTO TEN",
 		"alternateAddress": "AICHI KEN NAGOYA SHI SHOWA KU HIROJI MACHI KITA SEKI ZAKA 102 BANCHI 4"
 	},
 	{
@@ -28039,7 +28133,7 @@
 			"allNetSid": "26823"
 		},
 		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "POTO 2 4 KODA TEN",
+		"alternateStoreName": "POTO 24 KODA TEN",
 		"alternateAddress": "AICHI KEN NUKATA GUN KODA MACHI AI MI OKI GEN 1 - 3"
 	},
 	{
@@ -28069,7 +28163,7 @@
 			"allNetSid": "28610"
 		},
 		"alternateArea": "SHIZUOKA KEN",
-		"alternateStoreName": "POTO 2 4 HAMAMATSU TEN",
+		"alternateStoreName": "POTO 24 HAMAMATSU TEN",
 		"alternateAddress": "SHIZUOKA KEN HAMAMATSU SHI NISHI KU TSUBOI MACHI 4183 - 1"
 	},
 	{
@@ -31432,7 +31526,7 @@
 			"allNetSid": "25223"
 		},
 		"alternateArea": "HOKKAIDO",
-		"alternateStoreName": "RAUNDOWAN SAPPORO KITA 2 1 JO TEN",
+		"alternateStoreName": "RAUNDOWAN SAPPORO KITA 21 JO TEN",
 		"alternateAddress": "HOKKAIDO SAPPORO SHI HIGASHI KU KITANIJUICHIJOHIGASHI 1 − 1 − 2 1"
 	},
 	{
@@ -32806,33 +32900,6 @@
 	{
 		"country": "JP",
 		"area": "千葉県",
-		"storeName": "佐原ミナミボウル",
-		"address": "千葉県香取市佐原イ-4200",
-		"lat": 35.90114563918007,
-		"lng": 140.493510670639,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "11",
-			"allNetSid": "25697"
-		},
-		"alternateArea": "CHIBA KEN",
-		"alternateStoreName": "SAHARA MINAMI BORU",
-		"alternateAddress": "CHIBA KEN KANDORI SHI SAWARAI - 4200"
-	},
-	{
-		"country": "JP",
-		"area": "千葉県",
 		"storeName": "八街ヤングボウル",
 		"address": "千葉県八街市八街ほ-380番地11",
 		"lat": 35.65208134514584,
@@ -33030,36 +33097,6 @@
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "NAGOYA REJA RANDO UCHIDABASHI TEN",
 		"alternateAddress": "AICHI KEN NAGOYA SHI MINAMI KU UCHIDABASHI 2 - 26 - 22"
-	},
-	{
-		"country": "JP",
-		"area": "愛知県",
-		"storeName": "名古屋レジャーランド大高店",
-		"address": "愛知県名古屋市緑区忠治山201番地",
-		"lat": 35.0485212,
-		"lng": 136.9497129,
-		"cabinets": [
-			{
-				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
-			},
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "22",
-			"allNetSid": "28834"
-		},
-		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "NAGOYA REJA RANDO ODAKA TEN",
-		"alternateAddress": "AICHI KEN NAGOYA SHI MIDORI KU TADA CHISAN 201 BANCHI"
 	},
 	{
 		"country": "JP",
@@ -33573,33 +33610,6 @@
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "OGAWA YAN GUBOURU",
 		"alternateAddress": "SAITAMA KEN HIKI GUN OGAWA MACHI AOYAMA 7 4 9"
-	},
-	{
-		"country": "JP",
-		"area": "愛知県",
-		"storeName": "小牧メトロポリス",
-		"address": "愛知県小牧市間々片山１８１",
-		"lat": 35.295934327516086,
-		"lng": 136.90561661664128,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "22",
-			"allNetSid": "26295"
-		},
-		"alternateArea": "AICHI KEN",
-		"alternateStoreName": "KOMAKI METOROPORISU",
-		"alternateAddress": "AICHI KEN OMAKI SHI MAMA KATAYAMA 1 8 1"
 	},
 	{
 		"country": "JP",
@@ -34162,7 +34172,7 @@
 			"allNetSid": "28936"
 		},
 		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "RAKUICHI RAKUZA 2 1 0 TORIASU TEN",
+		"alternateStoreName": "RAKUICHI RAKUZA 210 TORIASU TEN",
 		"alternateAddress": "FUKUOKA KEN KASUYA GUN HISAYAMA MACHI DAIJI YAMADA 9 9 0"
 	},
 	{
