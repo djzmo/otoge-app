@@ -1,6 +1,10 @@
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
 import { normalize } from "@geolonia/normalize-japanese-addresses"
-import { createRomanization, toHalfWidthAlphanumeric } from "./TextUtil"
+import {
+  createRomanization,
+  normalizeDashes,
+  toHalfWidthAlphanumeric,
+} from "./TextUtil"
 import { existsSync } from "fs"
 import fs from "fs/promises"
 
@@ -13,19 +17,18 @@ export const updateStore = (
   const cabinets = merged.cabinets.filter(
     (cabinet: CabinetInfo) => cabinet.game === gameEnum
   )
-  const existingNameHw = toHalfWidthAlphanumeric(existing.storeName).replaceAll(
-    "−",
-    "-"
+  const existingNameHw = normalizeDashes(
+    toHalfWidthAlphanumeric(existing.storeName)
   )
-  const candidateNameHw = toHalfWidthAlphanumeric(
-    candidate.storeName
-  ).replaceAll("−", "-")
-  const existingAddressHw = toHalfWidthAlphanumeric(
-    existing.address
-  ).replaceAll("−", "-")
-  const candidateAddressHw = toHalfWidthAlphanumeric(
-    candidate.address
-  ).replaceAll("−", "-")
+  const candidateNameHw = normalizeDashes(
+    toHalfWidthAlphanumeric(candidate.storeName)
+  )
+  const existingAddressHw = normalizeDashes(
+    toHalfWidthAlphanumeric(existing.address)
+  )
+  const candidateAddressHw = normalizeDashes(
+    toHalfWidthAlphanumeric(candidate.address)
+  )
   if (cabinets.length === 0) {
     merged.cabinets.push({ game: gameEnum })
   }
@@ -67,7 +70,9 @@ export const mergeStores = (
   contextIdKey: string
 ): Store[] => {
   const getContextId = (store: Store, contextKey: string) =>
-    contextKey === "allNetSid" ? store.context.allNetSid : store.context.eAmusementFdesc
+    contextKey === "allNetSid"
+      ? store.context.allNetSid
+      : store.context.eAmusementFdesc
 
   const processedCandidateIndex: number[] = []
 
@@ -148,8 +153,12 @@ export const mergeStores = (
   if (candidates.length > 0) {
     for (const candidate of candidates) {
       const foundList = master.filter(compare => {
-        return (compare.address.includes(candidate.address) || candidate.address.includes(compare.address)) &&
-            (compare.storeName.includes(candidate.storeName) || candidate.storeName.includes(compare.storeName))
+        return (
+          (compare.address.includes(candidate.address) ||
+            candidate.address.includes(compare.address)) &&
+          (compare.storeName.includes(candidate.storeName) ||
+            candidate.storeName.includes(compare.storeName))
+        )
       })
       if (foundList.length === 1) {
         const existing = foundList[0]

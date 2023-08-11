@@ -129,7 +129,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ADXマミー岡崎店",
-		"address": "愛知県岡崎市井田新町6−1",
+		"address": "愛知県岡崎市井田新町6-1",
 		"lat": 34.977030771170874,
 		"lng": 137.16171953795924,
 		"cabinets": [
@@ -182,7 +182,7 @@
 	{
 		"country": "JP",
 		"area": "鹿児島県",
-		"storeName": "AmusementcityG−STA",
+		"storeName": "AmusementcityG-STA",
 		"address": "鹿児島県薩摩川内市向田本町49番",
 		"lat": 31.815807337301123,
 		"lng": 130.30740182481463,
@@ -213,7 +213,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "AMジャムジャムつくば店",
-		"address": "茨城県つくば市竹園1—9−2デイズタウンつくば地下1F",
+		"address": "茨城県つくば市竹園1-9-2デイズタウンつくば地下1F",
 		"lat": 36.07772936300693,
 		"lng": 140.11533164180298,
 		"cabinets": [
@@ -243,7 +243,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "AMジャムジャムひたちなか本店",
-		"address": "茨城県ひたちなか市田中後40−2",
+		"address": "茨城県ひたちなか市田中後40-2",
 		"lat": 36.34750772741275,
 		"lng": 140.58008936560668,
 		"cabinets": [
@@ -267,7 +267,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "AMジャムジャム神栖店",
-		"address": "茨城県神栖市神栖1ー8−1",
+		"address": "茨城県神栖市神栖1ー8-1",
 		"lat": 35.8979951,
 		"lng": 140.6444094,
 		"cabinets": [
@@ -360,7 +360,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "BIGBANG函館",
-		"address": "北海道函館市梁川町9−3テキサスビル3F",
+		"address": "北海道函館市梁川町9-3テキサスビル3F",
 		"lat": 41.78903779046837,
 		"lng": 140.74438390245098,
 		"cabinets": [
@@ -390,7 +390,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "BIGBANG北見店",
-		"address": "北海道北見市中央三輪7丁目446−1",
+		"address": "北海道北見市中央三輪7丁目446-1",
 		"lat": 43.79707114010737,
 		"lng": 143.851401946627,
 		"cabinets": [
@@ -420,7 +420,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "BIGBANG室蘭",
-		"address": "北海道室蘭市中島本町2−8−1",
+		"address": "北海道室蘭市中島本町2-8-1",
 		"lat": 42.35352635249717,
 		"lng": 141.01454196745908,
 		"cabinets": [
@@ -450,7 +450,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "BIGBANG釧路",
-		"address": "北海道釧路郡釧路町木場2−1",
+		"address": "北海道釧路郡釧路町木場2-1",
 		"lat": 43.008918973170516,
 		"lng": 144.40800352460633,
 		"cabinets": [
@@ -480,7 +480,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "BINGO一関",
-		"address": "岩手県一関市山目字中野92−1",
+		"address": "岩手県一関市山目字中野92-1",
 		"lat": 38.933759975927046,
 		"lng": 141.11832127116395,
 		"cabinets": [
@@ -537,7 +537,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ENTERTAINMENT FIELD ららぽーとEXPOCITY店",
-		"address": "大阪府吹田市千里万博公園2−1ららぽーとEXPOCITY3F",
+		"address": "大阪府吹田市千里万博公園2-1ららぽーとEXPOCITY3F",
 		"lat": 34.8054029,
 		"lng": 135.5354552,
 		"cabinets": [
@@ -564,7 +564,7 @@
 		"country": "JP",
 		"area": "佐賀県",
 		"storeName": "FASボウリングセンター",
-		"address": "佐賀県唐津市栄町2581−1FASボウリングセンター",
+		"address": "佐賀県唐津市栄町2581-1FASボウリングセンター",
 		"lat": 33.446105,
 		"lng": 129.9792689,
 		"cabinets": [
@@ -648,7 +648,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "FESTA上尾店",
-		"address": "埼玉県上尾市愛宕3−1−40バリュープラザ上尾愛宕店2F",
+		"address": "埼玉県上尾市愛宕3-1-40バリュープラザ上尾愛宕店2F",
 		"lat": 35.9646627,
 		"lng": 139.5967779,
 		"cabinets": [
@@ -675,7 +675,7 @@
 		"country": "JP",
 		"area": "熊本県",
 		"storeName": "FESTA人吉店",
-		"address": "熊本県人吉市宝来町1307−1HITOYOSHI−REX内",
+		"address": "熊本県人吉市宝来町1307-1HITOYOSHI-REX内",
 		"lat": 32.21203300536845,
 		"lng": 130.748296308004,
 		"cabinets": [
@@ -702,7 +702,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "FESTA古河店",
-		"address": "茨城県古河市松並2−18−10マーケットシティ古河",
+		"address": "茨城県古河市松並2-18-10マーケットシティ古河",
 		"lat": 36.209713594169415,
 		"lng": 139.709653102655,
 		"cabinets": [
@@ -785,8 +785,8 @@
 	{
 		"country": "JP",
 		"area": "大阪府",
-		"storeName": "G−palaあべの",
-		"address": "大阪府大阪市阿倍野区阿倍野筋3−10−1あべのベルタ2F",
+		"storeName": "G-palaあべの",
+		"address": "大阪府大阪市阿倍野区阿倍野筋3-10-1あべのベルタ2F",
 		"lat": 34.64230804215337,
 		"lng": 135.51129129297635,
 		"cabinets": [
@@ -812,8 +812,8 @@
 	{
 		"country": "JP",
 		"area": "福岡県",
-		"storeName": "G−pala小倉",
-		"address": "福岡県北九州市小倉南区上葛原1−14−1",
+		"storeName": "G-pala小倉",
+		"address": "福岡県北九州市小倉南区上葛原1-14-1",
 		"lat": 33.83965267669321,
 		"lng": 130.9113354521454,
 		"cabinets": [
@@ -839,7 +839,7 @@
 	{
 		"country": "JP",
 		"area": "大分県",
-		"storeName": "G−pala日田",
+		"storeName": "G-pala日田",
 		"address": "大分県日田市友田997-1",
 		"lat": 33.32581354140554,
 		"lng": 130.91165950013885,
@@ -872,7 +872,7 @@
 	{
 		"country": "JP",
 		"area": "長崎県",
-		"storeName": "G−pala時津",
+		"storeName": "G-pala時津",
 		"address": "長崎県西彼杵郡時津町野田郷59号",
 		"lat": 32.82435462734485,
 		"lng": 129.84781194857942,
@@ -895,6 +895,114 @@
 		"alternateArea": "NAGASAKI KEN",
 		"alternateStoreName": "G − PALA TOGITSU",
 		"alternateAddress": "NAGASAKI KEN NISHISONOKI GUN TOGITSU MACHI NODAGO 5 9 GO"
+	},
+	{
+		"country": "JP",
+		"area": "福岡県",
+		"storeName": "G-STAGE七隈店",
+		"address": "福岡県福岡市城南区七隈8-4-8",
+		"lat": 33.5512334,
+		"lng": 130.3643444,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "39",
+			"allNetSid": "29127"
+		},
+		"alternateArea": "FUKUOKA KEN",
+		"alternateStoreName": "G − STAGE NANA KUMA TEN",
+		"alternateAddress": "FUKUOKA KEN FUKUOKA SHI SHIROMINAMI KU NANA KUMA 8 − 4 − 8"
+	},
+	{
+		"country": "JP",
+		"area": "福岡県",
+		"storeName": "G-STAGE小倉",
+		"address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
+		"lat": 33.8875419,
+		"lng": 130.8847304,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "39",
+			"allNetSid": "23037"
+		},
+		"alternateArea": "FUKUOKA KEN",
+		"alternateStoreName": "G − STAGE KOKURA",
+		"alternateAddress": "FUKUOKA KEN KITAKYUSHU SHI KOKURAKITA KU ASANO 2 - 14 - 5 ARU ARU CITY 2 KAI"
+	},
+	{
+		"country": "JP",
+		"area": "長崎県",
+		"storeName": "G-stage浜町",
+		"address": "長崎県長崎市浜町2-26",
+		"lat": 32.7448472,
+		"lng": 129.8775421,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "41",
+			"allNetSid": "21022"
+		},
+		"alternateArea": "NAGASAKI KEN",
+		"alternateStoreName": "G - STAGE HAMACHO",
+		"alternateAddress": "NAGASAKI KEN NAGASAKI SHI HAMACHO 2 - 26"
+	},
+	{
+		"country": "JP",
+		"area": "福岡県",
+		"storeName": "G-STAGE飯塚店",
+		"address": "福岡県飯塚市枝国680-2",
+		"lat": 33.63648676671448,
+		"lng": 130.67602538531946,
+		"cabinets": [
+			{
+				"game": "ONGEKI"
+			},
+			{
+				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "CHUNITHM_NEW"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "39",
+			"allNetSid": "29148"
+		},
+		"alternateArea": "FUKUOKA KEN",
+		"alternateStoreName": "G − STAGE IZUKA TEN",
+		"alternateAddress": "FUKUOKA KEN IZUKA SHI EDAKUNI 6 8 0 − 2"
 	},
 	{
 		"country": "JP",
@@ -922,87 +1030,6 @@
 		"alternateArea": "HYOGO KEN",
 		"alternateStoreName": "G − PALA HANAKITA TEN",
 		"alternateAddress": "HYOGO KEN HIMEJI SHI MASUISHIN MACHI 1 − 6 2 F"
-	},
-	{
-		"country": "JP",
-		"area": "福岡県",
-		"storeName": "G−STAGE七隈店",
-		"address": "福岡県福岡市城南区七隈8−4−8",
-		"lat": 33.5512334,
-		"lng": 130.3643444,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "39",
-			"allNetSid": "29127"
-		},
-		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − STAGE NANA KUMA TEN",
-		"alternateAddress": "FUKUOKA KEN FUKUOKA SHI SHIROMINAMI KU NANA KUMA 8 − 4 − 8"
-	},
-	{
-		"country": "JP",
-		"area": "福岡県",
-		"storeName": "G−STAGE小倉",
-		"address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
-		"lat": 33.8875419,
-		"lng": 130.8847304,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "39",
-			"allNetSid": "23037"
-		},
-		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − STAGE KOKURA",
-		"alternateAddress": "FUKUOKA KEN KITAKYUSHU SHI KOKURAKITA KU ASANO 2 - 14 - 5 ARU ARU CITY 2 KAI"
-	},
-	{
-		"country": "JP",
-		"area": "福岡県",
-		"storeName": "G−STAGE飯塚店",
-		"address": "福岡県飯塚市枝国680−2",
-		"lat": 33.63648676671448,
-		"lng": 130.67602538531946,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			},
-			{
-				"game": "MAIMAI_DX"
-			},
-			{
-				"game": "CHUNITHM_NEW"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "39",
-			"allNetSid": "29148"
-		},
-		"alternateArea": "FUKUOKA KEN",
-		"alternateStoreName": "G − STAGE IZUKA TEN",
-		"alternateAddress": "FUKUOKA KEN IZUKA SHI EDAKUNI 6 8 0 − 2"
 	},
 	{
 		"country": "JP",
@@ -1089,7 +1116,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "GAME　FIELD守山店",
-		"address": "滋賀県守山市今浜町2620−5ピエリ守山1F",
+		"address": "滋賀県守山市今浜町2620-5ピエリ守山1F",
 		"lat": 35.12300610809187,
 		"lng": 135.94560257724606,
 		"cabinets": [
@@ -1113,7 +1140,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GAME PADDOCK+1",
-		"address": "茨城県古河市小堤1916−1",
+		"address": "茨城県古河市小堤1916-1",
 		"lat": 36.2067383,
 		"lng": 139.7578725,
 		"cabinets": [
@@ -1164,7 +1191,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GAME　SQUARE茂原店",
-		"address": "千葉県茂原市六ツ野八貫野2785−1ライフガーデン茂原内",
+		"address": "千葉県茂原市六ツ野八貫野2785-1ライフガーデン茂原内",
 		"lat": 35.431064430311665,
 		"lng": 140.30992533784558,
 		"cabinets": [
@@ -1215,7 +1242,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "GAMEBANK仙台泉店",
-		"address": "宮城県仙台市泉区大沢2−5−4",
+		"address": "宮城県仙台市泉区大沢2-5-4",
 		"lat": 38.3527525,
 		"lng": 140.877403,
 		"cabinets": [
@@ -1245,7 +1272,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GameField千城台店",
-		"address": "千葉県千葉市若葉区千城台北3丁目21−1イコアス千城台3F",
+		"address": "千葉県千葉市若葉区千城台北3丁目21-1イコアス千城台3F",
 		"lat": 35.6222355,
 		"lng": 140.1893642,
 		"cabinets": [
@@ -1272,7 +1299,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "GiGOLECT広島",
-		"address": "広島県広島市西区扇町2−1−45LECT2F",
+		"address": "広島県広島市西区扇町2-1-45LECT2F",
 		"lat": 34.371942994472754,
 		"lng": 132.40745622760005,
 		"cabinets": [
@@ -1383,7 +1410,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "GiGOアドバンスモール松阪",
-		"address": "三重県松阪市田村町235−1",
+		"address": "三重県松阪市田村町235-1",
 		"lat": 34.55389737480224,
 		"lng": 136.51466078203123,
 		"cabinets": [
@@ -1413,7 +1440,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGOあべのアポロ3階",
-		"address": "大阪府大阪市阿倍野区阿倍野筋1−5−31アポロビル3F",
+		"address": "大阪府大阪市阿倍野区阿倍野筋1-5-31アポロビル3F",
 		"lat": 34.6465681,
 		"lng": 135.5117823,
 		"cabinets": [
@@ -1467,7 +1494,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "GiGOあまがさきキューズモール",
-		"address": "兵庫県尼崎市潮江1−3−1あまがさきキューズモール内4F",
+		"address": "兵庫県尼崎市潮江1-3-1あまがさきキューズモール内4F",
 		"lat": 34.7335844,
 		"lng": 135.4304428,
 		"cabinets": [
@@ -1491,7 +1518,7 @@
 		"country": "JP",
 		"area": "石川県",
 		"storeName": "GiGOアルプラザ金沢",
-		"address": "石川県金沢市諸江町30−1",
+		"address": "石川県金沢市諸江町30-1",
 		"lat": 36.59108678632905,
 		"lng": 136.64315401268925,
 		"cabinets": [
@@ -1518,7 +1545,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGOイオンスタイル新浦安",
-		"address": "千葉県浦安市入船1−4−1イオンスタイル新浦安4F",
+		"address": "千葉県浦安市入船1-4-1イオンスタイル新浦安4F",
 		"lat": 35.6489954,
 		"lng": 139.9149219,
 		"cabinets": [
@@ -1578,7 +1605,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGOイオンタウン名西",
-		"address": "愛知県名古屋市西区香呑町6−49−1イオンタウン名西2F",
+		"address": "愛知県名古屋市西区香呑町6-49-1イオンタウン名西2F",
 		"lat": 35.20412703203152,
 		"lng": 136.8925984994446,
 		"cabinets": [
@@ -1608,7 +1635,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "GiGOイオンタウン小郡",
-		"address": "山口県山口市小郡前田町3−6イオンタウン小郡内",
+		"address": "山口県山口市小郡前田町3-6イオンタウン小郡内",
 		"lat": 34.0869865,
 		"lng": 131.3986628,
 		"cabinets": [
@@ -1638,7 +1665,7 @@
 		"country": "JP",
 		"area": "石川県",
 		"storeName": "GiGOイオンタウン金沢示野",
-		"address": "石川県金沢市戸板西2−1",
+		"address": "石川県金沢市戸板西2-1",
 		"lat": 36.5792048849774,
 		"lng": 136.61588502365373,
 		"cabinets": [
@@ -1668,7 +1695,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGOイオンモールむさし村山",
-		"address": "東京都武蔵村山市榎1−1−3−2059",
+		"address": "東京都武蔵村山市榎1-1-3-2059",
 		"lat": 35.74674134619979,
 		"lng": 139.3850665018524,
 		"cabinets": [
@@ -1695,7 +1722,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "GiGOイオンモール与野",
-		"address": "埼玉県さいたま市中央区本町西5ー2−9イオンモール与野3F",
+		"address": "埼玉県さいたま市中央区本町西5ー2-9イオンモール与野3F",
 		"lat": 35.89063329770034,
 		"lng": 139.61510160898433,
 		"cabinets": [
@@ -1722,7 +1749,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "GiGOイオンモール岡山",
-		"address": "岡山県岡山市北区下石井1−2−1イオンモール岡山6F",
+		"address": "岡山県岡山市北区下石井1-2-1イオンモール岡山6F",
 		"lat": 34.66204370455914,
 		"lng": 133.91779530307576,
 		"cabinets": [
@@ -1749,7 +1776,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGOイオンモール銚子",
-		"address": "千葉県銚子市三崎町2−2660−1イオンモール銚子2F",
+		"address": "千葉県銚子市三崎町2-2660-1イオンモール銚子2F",
 		"lat": 35.7098939,
 		"lng": 140.7876201,
 		"cabinets": [
@@ -1835,8 +1862,8 @@
 	{
 		"country": "JP",
 		"area": "神奈川県",
-		"storeName": "GiGOイト—ヨーカドー古淵",
-		"address": "神奈川県相模原市南区古淵3−13−33イトーヨーカドー3F",
+		"storeName": "GiGOイト-ヨーカドー古淵",
+		"address": "神奈川県相模原市南区古淵3-13-33イトーヨーカドー3F",
 		"lat": 35.5530135,
 		"lng": 139.4186535,
 		"cabinets": [
@@ -1863,7 +1890,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "GiGOエイスクエア草津",
-		"address": "滋賀県草津市西渋川1−23−23エイスクエアSARA南館2階",
+		"address": "滋賀県草津市西渋川1-23-23エイスクエアSARA南館2階",
 		"lat": 35.0242214,
 		"lng": 135.9597829,
 		"cabinets": [
@@ -1890,7 +1917,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGOギャラリエアピタ知立",
-		"address": "愛知県知立市長篠町大山18−1ギャラリエアピタ1F",
+		"address": "愛知県知立市長篠町大山18-1ギャラリエアピタ1F",
 		"lat": 34.99912370693515,
 		"lng": 137.052842080951,
 		"cabinets": [
@@ -1917,7 +1944,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "GiGOコロワ甲子園",
-		"address": "兵庫県西宮市甲子園高潮町3−3Crowa甲子園3F",
+		"address": "兵庫県西宮市甲子園高潮町3-3Crowa甲子園3F",
 		"lat": 34.7237339,
 		"lng": 135.3618492,
 		"cabinets": [
@@ -1944,7 +1971,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "GiGOサンスパおおむら",
-		"address": "長崎県大村市森園町663−3",
+		"address": "長崎県大村市森園町663-3",
 		"lat": 32.921810296137366,
 		"lng": 129.9374759030411,
 		"cabinets": [
@@ -1971,7 +1998,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "GiGOサントムーン柿田川",
-		"address": "静岡県駿東郡清水町玉川61−2サントムーン柿田川2F",
+		"address": "静岡県駿東郡清水町玉川61-2サントムーン柿田川2F",
 		"lat": 35.10977374865972,
 		"lng": 138.90300075832624,
 		"cabinets": [
@@ -1998,7 +2025,7 @@
 		"country": "JP",
 		"area": "徳島県",
 		"storeName": "GiGOスエヒロボウル徳島",
-		"address": "徳島県徳島市南末広町4−95−2",
+		"address": "徳島県徳島市南末広町4-95-2",
 		"lat": 34.06111240737284,
 		"lng": 134.5727754188755,
 		"cabinets": [
@@ -2058,7 +2085,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGOセンター南",
-		"address": "神奈川県横浜市都筑区茅ヶ崎中央3−25",
+		"address": "神奈川県横浜市都筑区茅ヶ崎中央3-25",
 		"lat": 35.5446019,
 		"lng": 139.5746394,
 		"cabinets": [
@@ -2088,7 +2115,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGOダイナシティ小田原",
-		"address": "神奈川県小田原市中里296−1ダイナシティイーストモール3F",
+		"address": "神奈川県小田原市中里296-1ダイナシティイーストモール3F",
 		"lat": 35.2818014,
 		"lng": 139.1886624,
 		"cabinets": [
@@ -2115,7 +2142,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "GiGOつかしん",
-		"address": "兵庫県尼崎市塚口本町4−8−1つかしん内",
+		"address": "兵庫県尼崎市塚口本町4-8-1つかしん内",
 		"lat": 34.7618838,
 		"lng": 135.4180485,
 		"cabinets": [
@@ -2145,7 +2172,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGOビバモール寝屋川",
-		"address": "大阪府寝屋川市寝屋南2−22−2ビバモール寝屋川モール棟2F",
+		"address": "大阪府寝屋川市寝屋南2-22-2ビバモール寝屋川モール棟2F",
 		"lat": 34.76577203960182,
 		"lng": 135.65065356931154,
 		"cabinets": [
@@ -2175,7 +2202,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGOフェスティバルウォーク蘇我",
-		"address": "千葉県千葉市中央区川崎町51−1ハーバーシティ蘇我FW　1F",
+		"address": "千葉県千葉市中央区川崎町51-1ハーバーシティ蘇我FW　1F",
 		"lat": 35.592599050772186,
 		"lng": 140.11788251076734,
 		"cabinets": [
@@ -2205,7 +2232,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "GiGOフェニックスプラザ摩耶",
-		"address": "兵庫県神戸市灘区味泥町6−1フェニックスプラザ1F",
+		"address": "兵庫県神戸市灘区味泥町6-1フェニックスプラザ1F",
 		"lat": 34.704051,
 		"lng": 135.2280184,
 		"cabinets": [
@@ -2232,7 +2259,7 @@
 		"country": "JP",
 		"area": "高知県",
 		"storeName": "GiGOフジグラン高知",
-		"address": "高知県高知市朝倉東町52−15フジグラン高知3F",
+		"address": "高知県高知市朝倉東町52-15フジグラン高知3F",
 		"lat": 33.54303670615244,
 		"lng": 133.49790661216434,
 		"cabinets": [
@@ -2286,7 +2313,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "GiGOベイドリーム清水",
-		"address": "静岡県静岡市清水区駒越北8−1ベイドリーム清水2F",
+		"address": "静岡県静岡市清水区駒越北8-1ベイドリーム清水2F",
 		"lat": 34.98487435140498,
 		"lng": 138.49946066627047,
 		"cabinets": [
@@ -2421,7 +2448,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "GiGOみらい長崎ココウォーク",
-		"address": "長崎県長崎市茂里町1−55みらい長崎ココウォーク5F",
+		"address": "長崎県長崎市茂里町1-55みらい長崎ココウォーク5F",
 		"lat": 32.7625341,
 		"lng": 129.8646484,
 		"cabinets": [
@@ -2469,7 +2496,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "GiGO上田",
-		"address": "長野県上田市大字上田1847−1",
+		"address": "長野県上田市大字上田1847-1",
 		"lat": 36.412773338736194,
 		"lng": 138.26193523028996,
 		"cabinets": [
@@ -2499,7 +2526,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "GiGO中津",
-		"address": "大分県中津市沖代町1−2−16",
+		"address": "大分県中津市沖代町1-2-16",
 		"lat": 33.591210859151936,
 		"lng": 131.20199903677064,
 		"cabinets": [
@@ -2529,7 +2556,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "GiGO中筋",
-		"address": "広島県広島市安佐南区中筋4−11−7",
+		"address": "広島県広島市安佐南区中筋4-11-7",
 		"lat": 34.45533754708444,
 		"lng": 132.47884605398463,
 		"cabinets": [
@@ -2559,7 +2586,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "GiGO中間",
-		"address": "福岡県中間市上蓮花寺3−1−1",
+		"address": "福岡県中間市上蓮花寺3-1-1",
 		"lat": 33.8230744,
 		"lng": 130.7216062,
 		"cabinets": [
@@ -2589,7 +2616,7 @@
 		"country": "JP",
 		"area": "香川県",
 		"storeName": "GiGO丸亀",
-		"address": "香川県丸亀市蓬莱町56−1",
+		"address": "香川県丸亀市蓬莱町56-1",
 		"lat": 34.294854865373956,
 		"lng": 133.78519849999998,
 		"cabinets": [
@@ -2616,7 +2643,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "GiGO久居",
-		"address": "三重県津市久居明神町字風早2534−1",
+		"address": "三重県津市久居明神町字風早2534-1",
 		"lat": 34.68420479495355,
 		"lng": 136.46684279524538,
 		"cabinets": [
@@ -2646,7 +2673,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO今福",
-		"address": "大阪府大阪市城東区今福東1−9−34",
+		"address": "大阪府大阪市城東区今福東1-9-34",
 		"lat": 34.7009266,
 		"lng": 135.5574414,
 		"cabinets": [
@@ -2676,7 +2703,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "GiGO仙台",
-		"address": "宮城県仙台市青葉区中央2−5−5三経60ビル",
+		"address": "宮城県仙台市青葉区中央2-5-5三経60ビル",
 		"lat": 38.2616214,
 		"lng": 140.8767359,
 		"cabinets": [
@@ -2706,7 +2733,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "GiGO仙台コロナワールド",
-		"address": "宮城県仙台市宮城野区福室字田中前1番53−1",
+		"address": "宮城県仙台市宮城野区福室字田中前1番53-1",
 		"lat": 38.26020937916718,
 		"lng": 140.96935844274867,
 		"cabinets": [
@@ -2766,7 +2793,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "GiGO佐沼",
-		"address": "宮城県登米市迫町佐沼字中江2−5−8",
+		"address": "宮城県登米市迫町佐沼字中江2-5-8",
 		"lat": 38.690444877318974,
 		"lng": 141.18911814232786,
 		"cabinets": [
@@ -2793,7 +2820,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "GiGO倉敷",
-		"address": "岡山県倉敷市西中新田535−2",
+		"address": "岡山県倉敷市西中新田535-2",
 		"lat": 34.58390627626665,
 		"lng": 133.76986515182455,
 		"cabinets": [
@@ -2820,7 +2847,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "GiGO入間",
-		"address": "埼玉県入間市東藤沢2−18",
+		"address": "埼玉県入間市東藤沢2-18",
 		"lat": 35.819205367671685,
 		"lng": 139.41811786627045,
 		"cabinets": [
@@ -2850,7 +2877,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "GiGO八戸",
-		"address": "青森県八戸市城下4−25−14",
+		"address": "青森県八戸市城下4-25-14",
 		"lat": 40.519927672733814,
 		"lng": 141.49829220674587,
 		"cabinets": [
@@ -2877,7 +2904,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO八柱",
-		"address": "千葉県松戸市日暮1−1−1八柱駅第2ビル2F",
+		"address": "千葉県松戸市日暮1-1-1八柱駅第2ビル2F",
 		"lat": 35.7913772,
 		"lng": 139.9377874,
 		"cabinets": [
@@ -2907,7 +2934,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "GiGO別府",
-		"address": "大分県別府市餅ヶ浜町161−2",
+		"address": "大分県別府市餅ヶ浜町161-2",
 		"lat": 33.2955437,
 		"lng": 131.5030742,
 		"cabinets": [
@@ -2967,7 +2994,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "GiGO北山形",
-		"address": "山形県山形市北町1−3−20",
+		"address": "山形県山形市北町1-3-20",
 		"lat": 38.268249140541215,
 		"lng": 140.33135098836055,
 		"cabinets": [
@@ -2997,7 +3024,7 @@
 		"country": "JP",
 		"area": "沖縄県",
 		"storeName": "GiGO北谷",
-		"address": "沖縄県中頭郡北谷町美浜9−8",
+		"address": "沖縄県中頭郡北谷町美浜9-8",
 		"lat": 26.3169305,
 		"lng": 127.7555816,
 		"cabinets": [
@@ -3024,7 +3051,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO千葉",
-		"address": "千葉県千葉市中央区富士見2−4−1",
+		"address": "千葉県千葉市中央区富士見2-4-1",
 		"lat": 35.6115641,
 		"lng": 140.1158508,
 		"cabinets": [
@@ -3054,7 +3081,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO南町田GBPシアター",
-		"address": "東京都町田市鶴間3−4−1ワンダーシアター1階H103区画",
+		"address": "東京都町田市鶴間3-4-1ワンダーシアター1階H103区画",
 		"lat": 35.5098378,
 		"lng": 139.4699593,
 		"cabinets": [
@@ -3108,7 +3135,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "GiGO名取",
-		"address": "宮城県名取市飯野坂字土城堀57−1",
+		"address": "宮城県名取市飯野坂字土城堀57-1",
 		"lat": 38.15656150910931,
 		"lng": 140.8883653619713,
 		"cabinets": [
@@ -3162,7 +3189,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO和泉",
-		"address": "大阪府和泉市肥子町2−4−41",
+		"address": "大阪府和泉市肥子町2-4-41",
 		"lat": 34.4867343,
 		"lng": 135.4180002,
 		"cabinets": [
@@ -3189,7 +3216,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO大森",
-		"address": "東京都大田区山王2−1−5大森駅ララビル2F",
+		"address": "東京都大田区山王2-1-5大森駅ララビル2F",
 		"lat": 35.5900117,
 		"lng": 139.7284234,
 		"cabinets": [
@@ -3243,7 +3270,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "GiGO太田",
-		"address": "群馬県太田市西矢島町575−1",
+		"address": "群馬県太田市西矢島町575-1",
 		"lat": 36.27455388512081,
 		"lng": 139.37808433921737,
 		"cabinets": [
@@ -3300,7 +3327,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "GiGO宇都宮",
-		"address": "栃木県宇都宮市東宿郷5−1−7",
+		"address": "栃木県宇都宮市東宿郷5-1-7",
 		"lat": 36.5583104,
 		"lng": 139.9088155,
 		"cabinets": [
@@ -3330,7 +3357,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO安城",
-		"address": "愛知県安城市百石町2−35−13",
+		"address": "愛知県安城市百石町2-35-13",
 		"lat": 34.9473926,
 		"lng": 137.0731591,
 		"cabinets": [
@@ -3357,7 +3384,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "GiGO小名浜",
-		"address": "福島県いわき市小名浜林城字塚前18−1",
+		"address": "福島県いわき市小名浜林城字塚前18-1",
 		"lat": 36.985930372489236,
 		"lng": 140.89713489999997,
 		"cabinets": [
@@ -3387,7 +3414,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "GiGO小山",
-		"address": "栃木県小山市東城南1−1−18",
+		"address": "栃木県小山市東城南1-1-18",
 		"lat": 36.2989766,
 		"lng": 139.8101635,
 		"cabinets": [
@@ -3417,7 +3444,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO尾西",
-		"address": "愛知県一宮市篭屋3−9−7アソビックスびさい1F",
+		"address": "愛知県一宮市篭屋3-9-7アソビックスびさい1F",
 		"lat": 35.309217775259924,
 		"lng": 136.7715209539673,
 		"cabinets": [
@@ -3447,7 +3474,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "GiGO尾道",
-		"address": "広島県尾道市新浜1−2−13",
+		"address": "広島県尾道市新浜1-2-13",
 		"lat": 34.403039752127754,
 		"lng": 133.18631311595595,
 		"cabinets": [
@@ -3474,7 +3501,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "GiGO岡山藤崎",
-		"address": "岡山県岡山市中区藤崎599−12",
+		"address": "岡山県岡山市中区藤崎599-12",
 		"lat": 34.60886596600631,
 		"lng": 133.97660431225108,
 		"cabinets": [
@@ -3504,7 +3531,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO岡崎",
-		"address": "愛知県岡崎市上地3−50−4",
+		"address": "愛知県岡崎市上地3-50-4",
 		"lat": 34.9113546,
 		"lng": 137.169312,
 		"cabinets": [
@@ -3534,7 +3561,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "GiGO岡谷",
-		"address": "長野県岡谷市塚間町2−1−21",
+		"address": "長野県岡谷市塚間町2-1-21",
 		"lat": 36.06521549690017,
 		"lng": 138.0530268552459,
 		"cabinets": [
@@ -3564,7 +3591,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "GiGO川口",
-		"address": "埼玉県川口市東領家2−2−10",
+		"address": "埼玉県川口市東領家2-2-10",
 		"lat": 35.7948507698797,
 		"lng": 139.74752854232793,
 		"cabinets": [
@@ -3594,7 +3621,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO布施",
-		"address": "大阪府東大阪市長堂1−1−1ロンモール布施内",
+		"address": "大阪府東大阪市長堂1-1-1ロンモール布施内",
 		"lat": 34.66411101292697,
 		"lng": 135.5627448728775,
 		"cabinets": [
@@ -3624,7 +3651,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO幕張",
-		"address": "千葉県千葉市美浜区ひび野1−8メッセ・アミューズ・モール1F",
+		"address": "千葉県千葉市美浜区ひび野1-8メッセ・アミューズ・モール1F",
 		"lat": 35.6499867,
 		"lng": 140.0426445,
 		"cabinets": [
@@ -3654,7 +3681,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "GiGO広",
-		"address": "広島県呉市広中町1−9",
+		"address": "広島県呉市広中町1-9",
 		"lat": 34.2285551,
 		"lng": 132.6294083,
 		"cabinets": [
@@ -3681,7 +3708,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "GiGO広島本通",
-		"address": "広島県広島市中区本通9−30ランドマークビル1F",
+		"address": "広島県広島市中区本通9-30ランドマークビル1F",
 		"lat": 34.39242668335568,
 		"lng": 132.46080075197597,
 		"cabinets": [
@@ -3738,7 +3765,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO府中",
-		"address": "東京都府中市西原町1−6−2フレスポ府中1F・2F",
+		"address": "東京都府中市西原町1-6-2フレスポ府中1F・2F",
 		"lat": 35.6824046,
 		"lng": 139.4603984,
 		"cabinets": [
@@ -3765,7 +3792,7 @@
 		"country": "JP",
 		"area": "宮崎県",
 		"storeName": "GiGO延岡",
-		"address": "宮崎県延岡市平原町5−1492−8",
+		"address": "宮崎県延岡市平原町5-1492-8",
 		"lat": 32.5498259,
 		"lng": 131.6778907,
 		"cabinets": [
@@ -3795,7 +3822,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "GiGO弘前",
-		"address": "青森県弘前市末広1−3−3",
+		"address": "青森県弘前市末広1-3-3",
 		"lat": 40.6040697,
 		"lng": 140.4999194,
 		"cabinets": [
@@ -3852,7 +3879,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO我孫子",
-		"address": "千葉県我孫子市柴崎字天王谷47−1",
+		"address": "千葉県我孫子市柴崎字天王谷47-1",
 		"lat": 35.87827025915278,
 		"lng": 140.03005629147947,
 		"cabinets": [
@@ -3882,7 +3909,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "GiGO所沢",
-		"address": "埼玉県所沢市日吉町8−1",
+		"address": "埼玉県所沢市日吉町8-1",
 		"lat": 35.788476,
 		"lng": 139.471899,
 		"cabinets": [
@@ -3942,7 +3969,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO新三国アルゴ7",
-		"address": "大阪府豊中市神州町1−15",
+		"address": "大阪府豊中市神州町1-15",
 		"lat": 34.7386679,
 		"lng": 135.4794168,
 		"cabinets": [
@@ -3972,7 +3999,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO新大久保",
-		"address": "東京都新宿区百人町2丁目10−1南雲ビルB1F",
+		"address": "東京都新宿区百人町2丁目10-1南雲ビルB1F",
 		"lat": 35.7017862,
 		"lng": 139.6995136,
 		"cabinets": [
@@ -3993,7 +4020,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO新宿歌舞伎町",
-		"address": "東京都新宿区歌舞伎町1−21ー1第二東亜会館1階・2階",
+		"address": "東京都新宿区歌舞伎町1-21ー1第二東亜会館1階・2階",
 		"lat": 35.6952232,
 		"lng": 139.7013134,
 		"cabinets": [
@@ -4020,7 +4047,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO新宿西口",
-		"address": "東京都新宿区西新宿1−12−5B1F・1F",
+		"address": "東京都新宿区西新宿1-12-5B1F・1F",
 		"lat": 35.689529241569375,
 		"lng": 139.6973699957008,
 		"cabinets": [
@@ -4050,7 +4077,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "GiGO新居浜",
-		"address": "愛媛県新居浜市徳常町6−8",
+		"address": "愛媛県新居浜市徳常町6-8",
 		"lat": 33.96410229794188,
 		"lng": 133.27814141595593,
 		"cabinets": [
@@ -4080,7 +4107,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGO新杉田",
-		"address": "神奈川県横浜市磯子区杉田1−1−1らびすた新杉田2F",
+		"address": "神奈川県横浜市磯子区杉田1-1-1らびすた新杉田2F",
 		"lat": 35.38606885149463,
 		"lng": 139.61888845819703,
 		"cabinets": [
@@ -4110,7 +4137,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "GiGO日光",
-		"address": "栃木県日光市芹沼1448−1",
+		"address": "栃木県日光市芹沼1448-1",
 		"lat": 36.74109486411821,
 		"lng": 139.7101396613075,
 		"cabinets": [
@@ -4140,7 +4167,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "GiGO日和田",
-		"address": "福島県郡山市日和田町字西中島7−1",
+		"address": "福島県郡山市日和田町字西中島7-1",
 		"lat": 37.44820074117053,
 		"lng": 140.3804128220902,
 		"cabinets": [
@@ -4170,7 +4197,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GiGO日立",
-		"address": "茨城県日立市田尻町3−26−1",
+		"address": "茨城県日立市田尻町3-26-1",
 		"lat": 36.62643121998619,
 		"lng": 140.66985826878658,
 		"cabinets": [
@@ -4200,7 +4227,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO旭",
-		"address": "千葉県旭市二字野場3150−1",
+		"address": "千葉県旭市二字野場3150-1",
 		"lat": 35.72356951025296,
 		"lng": 140.6395598295776,
 		"cabinets": [
@@ -4230,7 +4257,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "GiGO明石",
-		"address": "兵庫県明石市魚住町清水2464−1",
+		"address": "兵庫県明石市魚住町清水2464-1",
 		"lat": 34.72005653424677,
 		"lng": 134.89683204603273,
 		"cabinets": [
@@ -4287,7 +4314,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGO本厚木",
-		"address": "神奈川県厚木市中町4−15−9",
+		"address": "神奈川県厚木市中町4-15-9",
 		"lat": 35.4390462,
 		"lng": 139.3619056,
 		"cabinets": [
@@ -4317,7 +4344,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO東名ボール",
-		"address": "愛知県瀬戸市西原町2−114",
+		"address": "愛知県瀬戸市西原町2-114",
 		"lat": 35.2092202,
 		"lng": 137.0628682,
 		"cabinets": [
@@ -4347,7 +4374,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO東大阪",
-		"address": "大阪府東大阪市稲田新町3−9−64",
+		"address": "大阪府東大阪市稲田新町3-9-64",
 		"lat": 34.69079425884676,
 		"lng": 135.59131876878655,
 		"cabinets": [
@@ -4377,7 +4404,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "GiGO松山",
-		"address": "愛媛県松山市枝松5−7−32",
+		"address": "愛媛県松山市枝松5-7-32",
 		"lat": 33.828259768436276,
 		"lng": 132.78650301412085,
 		"cabinets": [
@@ -4407,7 +4434,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "GiGO松本",
-		"address": "長野県松本市渚1−7−1なぎさライフサイト内",
+		"address": "長野県松本市渚1-7-1なぎさライフサイト内",
 		"lat": 36.23257036980479,
 		"lng": 137.95589129684413,
 		"cabinets": [
@@ -4437,7 +4464,7 @@
 		"country": "JP",
 		"area": "島根県",
 		"storeName": "GiGO松江",
-		"address": "島根県松江市嫁島町12−15",
+		"address": "島根県松江市嫁島町12-15",
 		"lat": 35.4500922,
 		"lng": 133.0478147,
 		"cabinets": [
@@ -4467,7 +4494,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO枚方",
-		"address": "大阪府枚方市須山町83−1サンシャインプラザ枚方内",
+		"address": "大阪府枚方市須山町83-1サンシャインプラザ枚方内",
 		"lat": 34.8196428,
 		"lng": 135.6755727,
 		"cabinets": [
@@ -4497,7 +4524,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO柏",
-		"address": "千葉県柏市柏1−1−11丸井デパート内B1F",
+		"address": "千葉県柏市柏1-1-11丸井デパート内B1F",
 		"lat": 35.8614881,
 		"lng": 139.9709011,
 		"cabinets": [
@@ -4554,7 +4581,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGO横浜中華街",
-		"address": "神奈川県横浜市中区山下町80−1",
+		"address": "神奈川県横浜市中区山下町80-1",
 		"lat": 35.443812996497954,
 		"lng": 139.64807611534422,
 		"cabinets": [
@@ -4584,7 +4611,7 @@
 		"country": "JP",
 		"area": "福井県",
 		"storeName": "GiGO武生",
-		"address": "福井県越前市新町3−13−4",
+		"address": "福井県越前市新町3-13-4",
 		"lat": 35.9051868,
 		"lng": 136.1534092,
 		"cabinets": [
@@ -4611,7 +4638,7 @@
 		"country": "JP",
 		"area": "佐賀県",
 		"storeName": "GiGO武雄",
-		"address": "佐賀県武雄市武雄町富岡12517−1",
+		"address": "佐賀県武雄市武雄町富岡12517-1",
 		"lat": 33.1993539,
 		"lng": 130.0346461,
 		"cabinets": [
@@ -4641,7 +4668,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GiGO水戸",
-		"address": "茨城県水戸市宮町1−7−44コムボックス310",
+		"address": "茨城県水戸市宮町1-7-44コムボックス310",
 		"lat": 36.3694663,
 		"lng": 140.4745213,
 		"cabinets": [
@@ -4671,7 +4698,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GiGO水戸南",
-		"address": "茨城県水戸市千波町2017−1",
+		"address": "茨城県水戸市千波町2017-1",
 		"lat": 36.350324542678344,
 		"lng": 140.44300017472995,
 		"cabinets": [
@@ -4701,7 +4728,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "GiGO水沢",
-		"address": "岩手県奥州市水沢区佐倉河字鎧田4−1",
+		"address": "岩手県奥州市水沢区佐倉河字鎧田4-1",
 		"lat": 39.15265691424136,
 		"lng": 141.14937215034558,
 		"cabinets": [
@@ -4728,7 +4755,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO池上",
-		"address": "東京都大田区池上6−2−3松山ビル2F",
+		"address": "東京都大田区池上6-2-3松山ビル2F",
 		"lat": 35.5726635,
 		"lng": 139.7021271,
 		"cabinets": [
@@ -4782,7 +4809,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "GiGO沼田",
-		"address": "群馬県沼田市下久屋町1100−1",
+		"address": "群馬県沼田市下久屋町1100-1",
 		"lat": 36.65677554724194,
 		"lng": 139.07806910926206,
 		"cabinets": [
@@ -4812,7 +4839,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "GiGO海田",
-		"address": "広島県安芸郡海田町南大正町3−35",
+		"address": "広島県安芸郡海田町南大正町3-35",
 		"lat": 34.36763663920561,
 		"lng": 132.53367414785043,
 		"cabinets": [
@@ -4872,7 +4899,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "GiGO生桑",
-		"address": "三重県四日市市生桑町字川原崎299−1",
+		"address": "三重県四日市市生桑町字川原崎299-1",
 		"lat": 34.986458956564974,
 		"lng": 136.60162954414557,
 		"cabinets": [
@@ -4902,7 +4929,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "GiGO甲西",
-		"address": "滋賀県湖南市夏見字二ツ橋356−1",
+		"address": "滋賀県湖南市夏見字二ツ橋356-1",
 		"lat": 34.994907335835556,
 		"lng": 136.09721389583126,
 		"cabinets": [
@@ -4932,7 +4959,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO町田",
-		"address": "東京都町田市原町田6−13ー17アーバンミサワビルB1",
+		"address": "東京都町田市原町田6-13ー17アーバンミサワビルB1",
 		"lat": 35.5438675,
 		"lng": 139.4469818,
 		"cabinets": [
@@ -4962,7 +4989,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "GiGO白河",
-		"address": "福島県白河市新高山1−1　メガステージ白河内",
+		"address": "福島県白河市新高山1-1　メガステージ白河内",
 		"lat": 37.119316278493336,
 		"lng": 140.19441793313524,
 		"cabinets": [
@@ -5010,7 +5037,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGO相模大野",
-		"address": "神奈川県相模原市南区相模大野3−13−2東和ビル2F・3F",
+		"address": "神奈川県相模原市南区相模大野3-13-2東和ビル2F・3F",
 		"lat": 35.5321942,
 		"lng": 139.4358387,
 		"cabinets": [
@@ -5040,7 +5067,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GiGO石岡",
-		"address": "茨城県石岡市東大橋中峯1976−1",
+		"address": "茨城県石岡市東大橋中峯1976-1",
 		"lat": 36.1986319157943,
 		"lng": 140.30338608650823,
 		"cabinets": [
@@ -5070,7 +5097,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "GiGO石巻",
-		"address": "宮城県石巻市大街道東4−1−45",
+		"address": "宮城県石巻市大街道東4-1-45",
 		"lat": 38.429407687062785,
 		"lng": 141.2853677773155,
 		"cabinets": [
@@ -5100,7 +5127,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "GiGO神戸umieサウスモール",
-		"address": "兵庫県神戸市中央区東川崎町1ー7−2ダイヤニッセイビル4F",
+		"address": "兵庫県神戸市中央区東川崎町1ー7-2ダイヤニッセイビル4F",
 		"lat": 34.679258323107156,
 		"lng": 135.1827079142945,
 		"cabinets": [
@@ -5151,7 +5178,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO神楽坂",
-		"address": "東京都新宿区神楽坂2−11第2カグラヒルズ1F",
+		"address": "東京都新宿区神楽坂2-11第2カグラヒルズ1F",
 		"lat": 35.7010372,
 		"lng": 139.7420111,
 		"cabinets": [
@@ -5178,7 +5205,7 @@
 		"country": "JP",
 		"area": "福井県",
 		"storeName": "GiGO福井",
-		"address": "福井県福井市丸山1−410",
+		"address": "福井県福井市丸山1-410",
 		"lat": 36.0733530852084,
 		"lng": 136.24298935550542,
 		"cabinets": [
@@ -5238,7 +5265,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "GiGO福岡天神",
-		"address": "福岡県福岡市中央区天神2−7−6DADAビル",
+		"address": "福岡県福岡市中央区天神2-7-6DADAビル",
 		"lat": 33.5898893,
 		"lng": 130.3966097,
 		"cabinets": [
@@ -5268,7 +5295,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "GiGO福島",
-		"address": "福島県福島市本内中井1−2",
+		"address": "福島県福島市本内中井1-2",
 		"lat": 37.785228678064314,
 		"lng": 140.48751231779102,
 		"cabinets": [
@@ -5298,7 +5325,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO福生",
-		"address": "東京都福生市福生1076−1",
+		"address": "東京都福生市福生1076-1",
 		"lat": 35.74469998521767,
 		"lng": 139.32428695767214,
 		"cabinets": [
@@ -5328,7 +5355,7 @@
 		"country": "JP",
 		"area": "秋田県",
 		"storeName": "GiGO秋田",
-		"address": "秋田県秋田市茨島1−1−16",
+		"address": "秋田県秋田市茨島1-1-16",
 		"lat": 39.70423417527011,
 		"lng": 140.10458925767216,
 		"cabinets": [
@@ -5355,7 +5382,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO秋葉原1号館",
-		"address": "東京都千代田区外神田1−10ー9",
+		"address": "東京都千代田区外神田1-10ー9",
 		"lat": 35.698702,
 		"lng": 139.771017,
 		"cabinets": [
@@ -5409,7 +5436,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO秋葉原3号館2",
-		"address": "東京都千代田区外神田1−11−11外神田1丁目ビルディング",
+		"address": "東京都千代田区外神田1-11-11外神田1丁目ビルディング",
 		"lat": 35.6992461,
 		"lng": 139.7709387,
 		"cabinets": [
@@ -5430,7 +5457,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "GiGO稲毛オーツーパーク",
-		"address": "千葉県千葉市稲毛区園生町380−1",
+		"address": "千葉県千葉市稲毛区園生町380-1",
 		"lat": 35.65053167050292,
 		"lng": 140.1191122090538,
 		"cabinets": [
@@ -5460,7 +5487,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO立川",
-		"address": "東京都立川市柴崎町3−2−1サザンビル1・2F",
+		"address": "東京都立川市柴崎町3-2-1サザンビル1・2F",
 		"lat": 35.69751038185614,
 		"lng": 139.41461951653287,
 		"cabinets": [
@@ -5490,7 +5517,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO竹の塚",
-		"address": "東京都足立区竹の塚6−8−6ピーくんPlaza−b",
+		"address": "東京都足立区竹の塚6-8-6ピーくんPlaza-b",
 		"lat": 35.79475055918817,
 		"lng": 139.79249677605742,
 		"cabinets": [
@@ -5517,7 +5544,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "GiGO籠原",
-		"address": "埼玉県熊谷市美土里町1−1−169",
+		"address": "埼玉県熊谷市美土里町1-1-169",
 		"lat": 36.17095044617331,
 		"lng": 139.31825630304104,
 		"cabinets": [
@@ -5547,7 +5574,7 @@
 		"country": "JP",
 		"area": "鳥取県",
 		"storeName": "GiGO米子",
-		"address": "鳥取県米子市両三柳2778−2",
+		"address": "鳥取県米子市両三柳2778-2",
 		"lat": 35.459874,
 		"lng": 133.3221969,
 		"cabinets": [
@@ -5604,7 +5631,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "GiGO綱島",
-		"address": "神奈川県横浜市港北区綱島西2−6−29",
+		"address": "神奈川県横浜市港北区綱島西2-6-29",
 		"lat": 35.53638641319269,
 		"lng": 139.63287816871718,
 		"cabinets": [
@@ -5721,7 +5748,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "GiGO袋井",
-		"address": "静岡県袋井市川井1142−1",
+		"address": "静岡県袋井市川井1142-1",
 		"lat": 34.7463375,
 		"lng": 137.911439,
 		"cabinets": [
@@ -5751,7 +5778,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO西葛西",
-		"address": "東京都江戸川区西葛西5−1−14第一保志ビル",
+		"address": "東京都江戸川区西葛西5-1-14第一保志ビル",
 		"lat": 35.66529684513976,
 		"lng": 139.85926878220903,
 		"cabinets": [
@@ -5778,7 +5805,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "GiGO西那須野",
-		"address": "栃木県那須塩原市南郷屋2−106−27",
+		"address": "栃木県那須塩原市南郷屋2-106-27",
 		"lat": 36.895119,
 		"lng": 139.9822381,
 		"cabinets": [
@@ -5808,7 +5835,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "GiGO諫早",
-		"address": "長崎県諫早市小川町90−1",
+		"address": "長崎県諫早市小川町90-1",
 		"lat": 32.83151063756657,
 		"lng": 130.0552128294304,
 		"cabinets": [
@@ -5835,7 +5862,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO豊橋飯村",
-		"address": "愛知県豊橋市飯村町字西山25−121",
+		"address": "愛知県豊橋市飯村町字西山25-121",
 		"lat": 34.7490943,
 		"lng": 137.4138729,
 		"cabinets": [
@@ -5865,7 +5892,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO豊田",
-		"address": "愛知県豊田市深田町1−65−1",
+		"address": "愛知県豊田市深田町1-65-1",
 		"lat": 35.0678723,
 		"lng": 137.1238001,
 		"cabinets": [
@@ -5892,7 +5919,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO赤羽",
-		"address": "東京都北区赤羽1−7−9赤羽第一葉山ビルB1",
+		"address": "東京都北区赤羽1-7-9赤羽第一葉山ビルB1",
 		"lat": 35.77896072353456,
 		"lng": 139.7222841680882,
 		"cabinets": [
@@ -5922,7 +5949,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO赤羽駅前",
-		"address": "東京都北区赤羽1−2−4",
+		"address": "東京都北区赤羽1-2-4",
 		"lat": 35.7782507,
 		"lng": 139.7215917,
 		"cabinets": [
@@ -5949,7 +5976,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "GiGO金山",
-		"address": "愛知県名古屋市熱田区金山1−19ー2",
+		"address": "愛知県名古屋市熱田区金山1-19ー2",
 		"lat": 35.14268081392454,
 		"lng": 136.902152217791,
 		"cabinets": [
@@ -5976,7 +6003,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "GiGO難波アビオン",
-		"address": "大阪府大阪市浪速区難波中2−3−15　MMOビルB1F〜3F",
+		"address": "大阪府大阪市浪速区難波中2-3-15　MMOビルB1F〜3F",
 		"lat": 34.66273267087078,
 		"lng": 135.50331120793453,
 		"cabinets": [
@@ -6006,7 +6033,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GiGO霞ヶ浦",
-		"address": "茨城県稲敷市西代1473−1",
+		"address": "茨城県稲敷市西代1473-1",
 		"lat": 35.9183324,
 		"lng": 140.4848113,
 		"cabinets": [
@@ -6063,7 +6090,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "GiGO館林",
-		"address": "群馬県館林市小桑原町949−1",
+		"address": "群馬県館林市小桑原町949-1",
 		"lat": 36.235220968803056,
 		"lng": 139.52032869916684,
 		"cabinets": [
@@ -6120,7 +6147,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "GiGO高田馬場",
-		"address": "東京都新宿区高田馬場4−7−5高田馬場グランド東京",
+		"address": "東京都新宿区高田馬場4-7-5高田馬場グランド東京",
 		"lat": 35.7136018,
 		"lng": 139.7037221,
 		"cabinets": [
@@ -6177,7 +6204,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "GiGO龍ケ崎",
-		"address": "茨城県龍ケ崎市藤ケ丘4−2−8",
+		"address": "茨城県龍ケ崎市藤ケ丘4-2-8",
 		"lat": 35.9385388,
 		"lng": 140.1959422,
 		"cabinets": [
@@ -6351,7 +6378,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "HapipiLand十日町",
-		"address": "新潟県十日町市丑735−1",
+		"address": "新潟県十日町市丑735-1",
 		"lat": 37.1362487,
 		"lng": 138.7456428,
 		"cabinets": [
@@ -6423,7 +6450,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "HapipiLand富士八幡町店",
-		"address": "静岡県富士市八幡町6−3　マックスバリュ富士八幡町内",
+		"address": "静岡県富士市八幡町6-3　マックスバリュ富士八幡町内",
 		"lat": 35.1613169,
 		"lng": 138.6493314,
 		"cabinets": [
@@ -6570,7 +6597,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "INTER PARK+1宇都宮",
-		"address": "栃木県宇都宮市インターパーク6−5−1",
+		"address": "栃木県宇都宮市インターパーク6-5-1",
 		"lat": 36.4881173,
 		"lng": 139.905569,
 		"cabinets": [
@@ -6648,7 +6675,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "KS美濃加茂店",
-		"address": "岐阜県美濃加茂市深田町3−11−24 1F",
+		"address": "岐阜県美濃加茂市深田町3-11-24 1F",
 		"lat": 35.4379225,
 		"lng": 137.0031961,
 		"cabinets": [
@@ -6672,7 +6699,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "La・Fiesta",
-		"address": "愛知県豊橋市広小路1−6−2フェイス豊橋ビルB1",
+		"address": "愛知県豊橋市広小路1-6-2フェイス豊橋ビルB1",
 		"lat": 34.7647748,
 		"lng": 137.3837504,
 		"cabinets": [
@@ -6727,6 +6754,38 @@
 	},
 	{
 		"country": "JP",
+		"area": "愛知県",
+		"storeName": "M's PARK刈谷店",
+		"address": "愛知県刈谷市稲場町3-206",
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "28608"
+		}
+	},
+	{
+		"country": "JP",
+		"area": "愛知県",
+		"storeName": "M's PARK豊田店",
+		"address": "愛知県豊田市寿町3-21、22",
+		"cabinets": [
+			{
+				"game": "MAIMAI_DX"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "22",
+			"allNetSid": "28609"
+		}
+	},
+	{
+		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ＭＥＣＨＡ天保山店",
 		"address": "大阪府大阪市港区海岸通１−１−１０天保山マーケットプレイス内",
@@ -6750,7 +6809,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "MF　LINKS　UMEDA",
-		"address": "大阪府大阪市北区大深町4−8ヨドバシカメラLINKS梅田店内",
+		"address": "大阪府大阪市北区大深町4-8ヨドバシカメラLINKS梅田店内",
 		"lat": 34.7031452,
 		"lng": 135.4947306,
 		"cabinets": [
@@ -7020,7 +7079,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "namcoイオンタウン郡山店",
-		"address": "福島県郡山市松木町2−88イオンタウン郡山内",
+		"address": "福島県郡山市松木町2-88イオンタウン郡山内",
 		"lat": 37.38929581959281,
 		"lng": 140.39067530450745,
 		"cabinets": [
@@ -7179,7 +7238,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "namcoイオンモール北戸田店",
-		"address": "埼玉県戸田市美女木東1−3−1ｲｵﾝﾓｰﾙ北戸田ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ内3F",
+		"address": "埼玉県戸田市美女木東1-3-1ｲｵﾝﾓｰﾙ北戸田ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ内3F",
 		"lat": 35.8266137,
 		"lng": 139.6526187,
 		"cabinets": [
@@ -7206,7 +7265,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "namcoイオンモール各務原店",
-		"address": "岐阜県各務原市那加萱場町3−8イオンモール各務原店2F",
+		"address": "岐阜県各務原市那加萱場町3-8イオンモール各務原店2F",
 		"lat": 35.39253853876418,
 		"lng": 136.82306713730964,
 		"cabinets": [
@@ -7410,7 +7469,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "namcoイオンモール鈴鹿",
-		"address": "三重県鈴鹿市庄野羽山4−1−2イオンモール鈴鹿2F",
+		"address": "三重県鈴鹿市庄野羽山4-1-2イオンモール鈴鹿2F",
 		"lat": 34.87151121629745,
 		"lng": 136.53168605092617,
 		"cabinets": [
@@ -7461,7 +7520,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "namcoイオンモール鶴見緑地店",
-		"address": "大阪府大阪市鶴見区鶴見4−17−1鶴見緑地4階",
+		"address": "大阪府大阪市鶴見区鶴見4-17-1鶴見緑地4階",
 		"lat": 34.704187719185114,
 		"lng": 135.56682731111448,
 		"cabinets": [
@@ -7590,7 +7649,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "namcoエアポートウォーク名古屋店",
-		"address": "愛知県西春日井郡豊山町大字豊場字林先1−8エアポートウォーク",
+		"address": "愛知県西春日井郡豊山町大字豊場字林先1-8エアポートウォーク",
 		"lat": 35.2462056,
 		"lng": 136.9248662,
 		"cabinets": [
@@ -7689,7 +7748,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "namcoけやきウォーク前橋",
-		"address": "群馬県前橋市文京町2−1−1けやきウォーク前橋2F",
+		"address": "群馬県前橋市文京町2-1-1けやきウォーク前橋2F",
 		"lat": 36.37914124951254,
 		"lng": 139.07808649318463,
 		"cabinets": [
@@ -7716,7 +7775,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "namcoコースカベイサイドストアーズ",
-		"address": "神奈川県横須賀市本町2−1−12　コースカベイサイド5F",
+		"address": "神奈川県横須賀市本町2-1-12　コースカベイサイド5F",
 		"lat": 35.2832417,
 		"lng": 139.662747,
 		"cabinets": [
@@ -7851,7 +7910,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "namcoビバシティ彦根店",
-		"address": "滋賀県彦根市竹ケ鼻町43−1ビバシティ彦根2F",
+		"address": "滋賀県彦根市竹ケ鼻町43-1ビバシティ彦根2F",
 		"lat": 35.2437061,
 		"lng": 136.2508666,
 		"cabinets": [
@@ -7971,7 +8030,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "namcoマークイズ福岡ももち店",
-		"address": "福岡県福岡市中央区地行浜2−2−1マークイズ福岡ももち店4F",
+		"address": "福岡県福岡市中央区地行浜2-2-1マークイズ福岡ももち店4F",
 		"lat": 33.595973,
 		"lng": 130.3590073,
 		"cabinets": [
@@ -7998,7 +8057,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "namcoマグスミノエ店",
-		"address": "大阪府大阪市住之江区泉1−1−82マグスミノエ1F",
+		"address": "大阪府大阪市住之江区泉1-1-82マグスミノエ1F",
 		"lat": 34.609994369342104,
 		"lng": 135.46828803981168,
 		"cabinets": [
@@ -8271,7 +8330,7 @@
 		"country": "JP",
 		"area": "熊本県",
 		"storeName": "namcoワンダーシティ南熊本店",
-		"address": "熊本県熊本市中央区九品寺6−9−1",
+		"address": "熊本県熊本市中央区九品寺6-9-1",
 		"lat": 32.786892021695884,
 		"lng": 130.71473175330357,
 		"cabinets": [
@@ -8298,7 +8357,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "namco中野店",
-		"address": "東京都中野区中野5−52−15中野ブロードウェイ別館",
+		"address": "東京都中野区中野5-52-15中野ブロードウェイ別館",
 		"lat": 35.709127585925984,
 		"lng": 139.6661370681055,
 		"cabinets": [
@@ -8325,7 +8384,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "namco博多バスターミナル店",
-		"address": "福岡県福岡市博多区博多駅中央街2−1博多バスターミナル7階",
+		"address": "福岡県福岡市博多区博多駅中央街2-1博多バスターミナル7階",
 		"lat": 33.5915216,
 		"lng": 130.4198918,
 		"cabinets": [
@@ -8355,7 +8414,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "namco名古屋駅前店",
-		"address": "愛知県名古屋市中村区椿町6−6ニッセイ名古屋西ビル別館B1",
+		"address": "愛知県名古屋市中村区椿町6-6ニッセイ名古屋西ビル別館B1",
 		"lat": 35.17033150746138,
 		"lng": 136.87941838413087,
 		"cabinets": [
@@ -8409,7 +8468,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "namco宇都宮店",
-		"address": "栃木県宇都宮市簗瀬町1606−1　P&Dビル",
+		"address": "栃木県宇都宮市簗瀬町1606-1　P&Dビル",
 		"lat": 36.5438973,
 		"lng": 139.8915485,
 		"cabinets": [
@@ -8439,7 +8498,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "namco巣鴨店",
-		"address": "東京都豊島区巣鴨1−15−1宮田ビルB2F",
+		"address": "東京都豊島区巣鴨1-15-1宮田ビルB2F",
 		"lat": 35.733162327288184,
 		"lng": 139.73984615704308,
 		"cabinets": [
@@ -8469,7 +8528,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "namco新潟店",
-		"address": "新潟県新潟市中央区南笹口1−1−1　ひもろぎビル2F",
+		"address": "新潟県新潟市中央区南笹口1-1-1　ひもろぎビル2F",
 		"lat": 37.90837978770369,
 		"lng": 139.06390938554807,
 		"cabinets": [
@@ -8550,7 +8609,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "namco松戸店",
-		"address": "千葉県松戸市松戸1230−1ピアザ松戸1F",
+		"address": "千葉県松戸市松戸1230-1ピアザ松戸1F",
 		"lat": 35.7835829,
 		"lng": 139.9007767,
 		"cabinets": [
@@ -8580,7 +8639,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "namco梅田店",
-		"address": "大阪府大阪市北区小松原町3−3OSビル2F",
+		"address": "大阪府大阪市北区小松原町3-3OSビル2F",
 		"lat": 34.70278151741593,
 		"lng": 135.50039603425444,
 		"cabinets": [
@@ -8610,7 +8669,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "namco池袋店RED",
-		"address": "東京都豊島区東池袋1−22−10　HUMAXパビリオン1F",
+		"address": "東京都豊島区東池袋1-22-10　HUMAXパビリオン1F",
 		"lat": 35.7296795,
 		"lng": 139.7157691,
 		"cabinets": [
@@ -8634,7 +8693,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "namco流山おおたかの森S・C店",
-		"address": "千葉県流山市おおたかの森南1−5−1おおたかの森S・C3F",
+		"address": "千葉県流山市おおたかの森南1-5-1おおたかの森S・C3F",
 		"lat": 35.8706658989081,
 		"lng": 139.9261936807037,
 		"cabinets": [
@@ -8691,7 +8750,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "namco王子サンスクエア店",
-		"address": "東京都北区王子1−4−1サンスクエア2階",
+		"address": "東京都北区王子1-4-1サンスクエア2階",
 		"lat": 35.7529737,
 		"lng": 139.7389579,
 		"cabinets": [
@@ -8793,7 +8852,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "namco都筑店",
-		"address": "神奈川県横浜市都筑区川和町846−1",
+		"address": "神奈川県横浜市都筑区川和町846-1",
 		"lat": 35.519845074310325,
 		"lng": 139.55349283068847,
 		"cabinets": [
@@ -8898,7 +8957,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "PALOむつ",
-		"address": "青森県むつ市中央2−7−8　1F",
+		"address": "青森県むつ市中央2-7-8　1F",
 		"lat": 41.2868804145717,
 		"lng": 141.18372967976234,
 		"cabinets": [
@@ -8928,7 +8987,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "PALO久慈",
-		"address": "岩手県久慈市長内町第30地割32−2久慈SC1F",
+		"address": "岩手県久慈市長内町第30地割32-2久慈SC1F",
 		"lat": 40.18986157592543,
 		"lng": 141.78559756403195,
 		"cabinets": [
@@ -8988,7 +9047,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "PALO喜多方",
-		"address": "福島県喜多方市字押切南2−42−1リオンドールガーデンSQ内",
+		"address": "福島県喜多方市字押切南2-42-1リオンドールガーデンSQ内",
 		"lat": 37.64680716977253,
 		"lng": 139.8595921062904,
 		"cabinets": [
@@ -9042,7 +9101,7 @@
 		"country": "JP",
 		"area": "鳥取県",
 		"storeName": "PALO境港",
-		"address": "鳥取県境港市竹内団地81−3",
+		"address": "鳥取県境港市竹内団地81-3",
 		"lat": 35.52244361020353,
 		"lng": 133.25251597368015,
 		"cabinets": [
@@ -9096,7 +9155,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "PALO市川",
-		"address": "千葉県市川市鬼高1−1−1ニッケコルトンプラザ2F",
+		"address": "千葉県市川市鬼高1-1-1ニッケコルトンプラザ2F",
 		"lat": 35.7167873,
 		"lng": 139.9342126,
 		"cabinets": [
@@ -9180,7 +9239,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "PALO桑名",
-		"address": "三重県桑名市新西方1−22イオン2F",
+		"address": "三重県桑名市新西方1-22イオン2F",
 		"lat": 35.072384,
 		"lng": 136.6622437,
 		"cabinets": [
@@ -9210,7 +9269,7 @@
 		"country": "JP",
 		"area": "和歌山県",
 		"storeName": "PALO橋本彩の台",
-		"address": "和歌山県橋本市あやの台1−50−2オー・ストリート綾の台内",
+		"address": "和歌山県橋本市あやの台1-50-2オー・ストリート綾の台内",
 		"lat": 34.33714380137088,
 		"lng": 135.6511830650818,
 		"cabinets": [
@@ -9258,7 +9317,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "PALO滝川",
-		"address": "北海道滝川市東町2丁目29−1　イオン滝川1F",
+		"address": "北海道滝川市東町2丁目29-1　イオン滝川1F",
 		"lat": 43.554168340256204,
 		"lng": 141.93121540317998,
 		"cabinets": [
@@ -9282,7 +9341,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "PALO熊谷",
-		"address": "埼玉県熊谷市本石2−135",
+		"address": "埼玉県熊谷市本石2-135",
 		"lat": 36.14537110766438,
 		"lng": 139.37882910740973,
 		"cabinets": [
@@ -9306,7 +9365,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "PALO石橋",
-		"address": "栃木県下野市下古山3362−1ヨークタウン",
+		"address": "栃木県下野市下古山3362-1ヨークタウン",
 		"lat": 36.468733,
 		"lng": 139.8693837,
 		"cabinets": [
@@ -9360,7 +9419,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "PALO聖蹟桜ヶ丘",
-		"address": "東京都多摩市関戸4−72聖蹟桜ヶ丘オーパ店6F",
+		"address": "東京都多摩市関戸4-72聖蹟桜ヶ丘オーパ店6F",
 		"lat": 35.6496304,
 		"lng": 139.4471508,
 		"cabinets": [
@@ -9390,7 +9449,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "PALO苫小牧",
-		"address": "北海道苫小牧市糸井135−1トライアルG棟トライアル苫小牧店",
+		"address": "北海道苫小牧市糸井135-1トライアルG棟トライアル苫小牧店",
 		"lat": 42.61384583223041,
 		"lng": 141.5240502564834,
 		"cabinets": [
@@ -9447,7 +9506,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "PALO釧路",
-		"address": "北海道釧路郡釧路町桂木1−1−7　イオン釧路店2F",
+		"address": "北海道釧路郡釧路町桂木1-1-7　イオン釧路店2F",
 		"lat": 43.0090999,
 		"lng": 144.4047521,
 		"cabinets": [
@@ -9477,7 +9536,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "PALO防府",
-		"address": "山口県防府市中央町1−3イオン防府店3F",
+		"address": "山口県防府市中央町1-3イオン防府店3F",
 		"lat": 34.0522015,
 		"lng": 131.5696784,
 		"cabinets": [
@@ -9581,7 +9640,7 @@
 	{
 		"country": "JP",
 		"area": "福島県",
-		"storeName": "SOYU　E−STUDIO須賀川店",
+		"storeName": "SOYU　E-STUDIO須賀川店",
 		"address": "福島県須賀川市古河105イオンタウン須賀川B棟内",
 		"lat": 37.2984206,
 		"lng": 140.3852977,
@@ -9777,7 +9836,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "SOYUGameFieldみのおキューズモール店",
-		"address": "大阪府箕面市西宿1−15−30みのおキューズモールC棟2階",
+		"address": "大阪府箕面市西宿1-15-30みのおキューズモールC棟2階",
 		"lat": 34.8330133,
 		"lng": 135.4894015,
 		"cabinets": [
@@ -10257,7 +10316,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "THE 3RD PLANET 長野大通り店",
-		"address": "長野県長野市大字鶴賀権堂町1506−3長電権堂第2ビル1F",
+		"address": "長野県長野市大字鶴賀権堂町1506-3長電権堂第2ビル1F",
 		"lat": 36.654109984581865,
 		"lng": 138.19277402215164,
 		"cabinets": [
@@ -10287,7 +10346,7 @@
 		"country": "JP",
 		"area": "鹿児島県",
 		"storeName": "THE 3RD PLANET 隼人店",
-		"address": "鹿児島県霧島市隼人町見次427−1",
+		"address": "鹿児島県霧島市隼人町見次427-1",
 		"lat": 31.74118251821821,
 		"lng": 130.7376746242981,
 		"cabinets": [
@@ -10422,7 +10481,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "VAMP中川店",
-		"address": "愛知県名古屋市中川区新家1−2007",
+		"address": "愛知県名古屋市中川区新家1-2007",
 		"lat": 35.1559029,
 		"lng": 136.8061309,
 		"cabinets": [
@@ -10482,7 +10541,7 @@
 		"country": "JP",
 		"area": "島根県",
 		"storeName": "youme　CIRCUS出雲店",
-		"address": "島根県出雲市大塚町650−1ゆめタウン出雲店　東館3F",
+		"address": "島根県出雲市大塚町650-1ゆめタウン出雲店　東館3F",
 		"lat": 35.3774033,
 		"lng": 132.756228,
 		"cabinets": [
@@ -10557,7 +10616,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "あそVIVA阪急茨木店",
-		"address": "大阪府茨木市永代町6−2スポーツプラザ茨木2F",
+		"address": "大阪府茨木市永代町6-2スポーツプラザ茨木2F",
 		"lat": 34.8179736,
 		"lng": 135.5763883,
 		"cabinets": [
@@ -10638,7 +10697,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "あそびのひろば　鹿嶋店",
-		"address": "茨城県鹿嶋市宮中290−1ショッピングセンターチェリオ1階",
+		"address": "茨城県鹿嶋市宮中290-1ショッピングセンターチェリオ1階",
 		"lat": 35.959598578005476,
 		"lng": 140.64375415886082,
 		"cabinets": [
@@ -10800,7 +10859,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アドアーズ上野アメ横",
-		"address": "東京都台東区上野4−9−14上野K.KビルB1〜4階",
+		"address": "東京都台東区上野4-9-14上野K.KビルB1〜4階",
 		"lat": 35.710038011614536,
 		"lng": 139.7742682282244,
 		"cabinets": [
@@ -10851,7 +10910,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アドアーズ亀戸店",
-		"address": "東京都江東区亀戸5−2−6サンエービル1〜5階",
+		"address": "東京都江東区亀戸5-2-6サンエービル1〜5階",
 		"lat": 35.698963519867526,
 		"lng": 139.82590365522537,
 		"cabinets": [
@@ -10875,7 +10934,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アドアーズ仙川",
-		"address": "東京都調布市仙川町2−21−12　VICビル7",
+		"address": "東京都調布市仙川町2-21-12　VICビル7",
 		"lat": 35.66249229582408,
 		"lng": 139.58409358570555,
 		"cabinets": [
@@ -10926,7 +10985,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "アドアーズ千葉",
-		"address": "千葉県千葉市中央区富士見2−4−15第一東和ビル",
+		"address": "千葉県千葉市中央区富士見2-4-15第一東和ビル",
 		"lat": 35.6110559,
 		"lng": 140.1163897,
 		"cabinets": [
@@ -10950,7 +11009,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アドアーズ南砂町SUNAMO",
-		"address": "東京都江東区新砂3−4−31",
+		"address": "東京都江東区新砂3-4-31",
 		"lat": 35.6651243966398,
 		"lng": 139.83534668941047,
 		"cabinets": [
@@ -10974,7 +11033,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アドアーズ和光",
-		"address": "埼玉県和光市本町3−5ワコーステーション3　1−3F",
+		"address": "埼玉県和光市本町3-5ワコーステーション3　1-3F",
 		"lat": 35.7883181,
 		"lng": 139.6115733,
 		"cabinets": [
@@ -10998,7 +11057,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "アドアーズ大和店A館",
-		"address": "神奈川県大和市大和東1−4−3大黒屋ビル1、2階",
+		"address": "神奈川県大和市大和東1-4-3大黒屋ビル1、2階",
 		"lat": 35.4705555,
 		"lng": 139.462345,
 		"cabinets": [
@@ -11022,7 +11081,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アドアーズ新小岩",
-		"address": "東京都葛飾区新小岩1−44−4　VORT新小岩ビル",
+		"address": "東京都葛飾区新小岩1-44-4　VORT新小岩ビル",
 		"lat": 35.716296833979555,
 		"lng": 139.85822635581974,
 		"cabinets": [
@@ -11046,7 +11105,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "アドアーズ札幌北42条",
-		"address": "北海道札幌市東区北42条東7−1−1　嶋ビル2階",
+		"address": "北海道札幌市東区北42条東7-1-1　嶋ビル2階",
 		"lat": 43.111964293580535,
 		"lng": 141.3551602123032,
 		"cabinets": [
@@ -11070,7 +11129,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "アドアーズ横須賀",
-		"address": "神奈川県横須賀市本町3−27横須賀APT1階",
+		"address": "神奈川県横須賀市本町3-27横須賀APT1階",
 		"lat": 35.280695294199695,
 		"lng": 139.6622793490044,
 		"cabinets": [
@@ -11094,7 +11153,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "アドアーズ橋本",
-		"address": "神奈川県相模原市緑区橋本3−3−1SINGビル2F",
+		"address": "神奈川県相模原市緑区橋本3-3-1SINGビル2F",
 		"lat": 35.5945224,
 		"lng": 139.3488614,
 		"cabinets": [
@@ -11145,7 +11204,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アドアーズ町田",
-		"address": "東京都町田市原町田6−21−25　大正堂第2ビル1〜4F",
+		"address": "東京都町田市原町田6-21-25　大正堂第2ビル1〜4F",
 		"lat": 35.5428299,
 		"lng": 139.44818168650818,
 		"cabinets": [
@@ -11169,7 +11228,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "アドアーズ船橋",
-		"address": "千葉県船橋市本町1−31−26セブン船橋B1F〜3F",
+		"address": "千葉県船橋市本町1-31-26セブン船橋B1F〜3F",
 		"lat": 35.70058132214141,
 		"lng": 139.98449028961863,
 		"cabinets": [
@@ -11223,7 +11282,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "アドアーズ藤沢北口",
-		"address": "神奈川県藤沢市藤沢460−1　3〜4F",
+		"address": "神奈川県藤沢市藤沢460-1　3〜4F",
 		"lat": 35.3396091,
 		"lng": 139.4862446,
 		"cabinets": [
@@ -11295,7 +11354,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アピナ上尾店",
-		"address": "埼玉県上尾市緑丘3−3−11−2　P・A・P・A上尾SC別棟",
+		"address": "埼玉県上尾市緑丘3-3-11-2　P・A・P・A上尾SC別棟",
 		"lat": 35.98824657086851,
 		"lng": 139.58082229811703,
 		"cabinets": [
@@ -11325,7 +11384,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ上田店",
-		"address": "長野県上田市秋和359−1",
+		"address": "長野県上田市秋和359-1",
 		"lat": 36.41599169266077,
 		"lng": 138.22351052133183,
 		"cabinets": [
@@ -11382,7 +11441,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "アピナ下館店",
-		"address": "茨城県筑西市玉戸1012−3",
+		"address": "茨城県筑西市玉戸1012-3",
 		"lat": 36.295425571270805,
 		"lng": 139.94568928413082,
 		"cabinets": [
@@ -11442,7 +11501,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ佐久インター店",
-		"address": "長野県佐久市岩村田北1−13−1",
+		"address": "長野県佐久市岩村田北1-13-1",
 		"lat": 36.284479719528754,
 		"lng": 138.48233745696734,
 		"cabinets": [
@@ -11472,7 +11531,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アピナ八王子みなみ野店",
-		"address": "東京都八王子市みなみ野1−2−1アクロスモール3F",
+		"address": "東京都八王子市みなみ野1-2-1アクロスモール3F",
 		"lat": 35.63061695421143,
 		"lng": 139.32927201038137,
 		"cabinets": [
@@ -11499,7 +11558,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "アピナ印西店",
-		"address": "千葉県印西市原1−2ビッグホップガーデンモール印西2F",
+		"address": "千葉県印西市原1-2ビッグホップガーデンモール印西2F",
 		"lat": 35.8033914,
 		"lng": 140.1649455,
 		"cabinets": [
@@ -11553,7 +11612,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "アピナ四日市店",
-		"address": "三重県四日市市泊小柳町4−34",
+		"address": "三重県四日市市泊小柳町4-34",
 		"lat": 34.9393248,
 		"lng": 136.6068238,
 		"cabinets": [
@@ -11583,7 +11642,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ塩尻店",
-		"address": "長野県塩尻市広丘野村1794−1",
+		"address": "長野県塩尻市広丘野村1794-1",
 		"lat": 36.1415524,
 		"lng": 137.9538308,
 		"cabinets": [
@@ -11613,7 +11672,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アピナ大宮店",
-		"address": "埼玉県さいたま市大宮区仲町1−19",
+		"address": "埼玉県さいたま市大宮区仲町1-19",
 		"lat": 35.9052678,
 		"lng": 139.6264401,
 		"cabinets": [
@@ -11661,7 +11720,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "アピナ太田店",
-		"address": "群馬県太田市内ケ島町907−1",
+		"address": "群馬県太田市内ケ島町907-1",
 		"lat": 36.2829707,
 		"lng": 139.3984248,
 		"cabinets": [
@@ -11691,7 +11750,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "アピナ姫路店",
-		"address": "兵庫県姫路市東郷町1454−3姫路リオス2階",
+		"address": "兵庫県姫路市東郷町1454-3姫路リオス2階",
 		"lat": 34.8269676,
 		"lng": 134.7151601,
 		"cabinets": [
@@ -11721,7 +11780,7 @@
 		"country": "JP",
 		"area": "富山県",
 		"storeName": "アピナ富山南店",
-		"address": "富山県富山市堀川町355−3　マイプラザ内",
+		"address": "富山県富山市堀川町355-3　マイプラザ内",
 		"lat": 36.664937,
 		"lng": 137.2173196,
 		"cabinets": [
@@ -11751,7 +11810,7 @@
 		"country": "JP",
 		"area": "富山県",
 		"storeName": "アピナ富山新庄店",
-		"address": "富山県富山市荒川3−2−12",
+		"address": "富山県富山市荒川3-2-12",
 		"lat": 36.6953333,
 		"lng": 137.2480711,
 		"cabinets": [
@@ -11781,7 +11840,7 @@
 		"country": "JP",
 		"area": "富山県",
 		"storeName": "アピナ富山豊田店",
-		"address": "富山県富山市豊田町2丁目12−66",
+		"address": "富山県富山市豊田町2丁目12-66",
 		"lat": 36.72101807991903,
 		"lng": 137.23550464498294,
 		"cabinets": [
@@ -11832,7 +11891,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "アピナ小山店",
-		"address": "栃木県小山市駅南町4−27−18",
+		"address": "栃木県小山市駅南町4-27-18",
 		"lat": 36.30040103988819,
 		"lng": 139.80912381163944,
 		"cabinets": [
@@ -11859,7 +11918,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アピナ川越店",
-		"address": "埼玉県川越市泉町1−1　ウニクス南古谷シネマ棟1F",
+		"address": "埼玉県川越市泉町1-1　ウニクス南古谷シネマ棟1F",
 		"lat": 35.90382041470568,
 		"lng": 139.51533459391783,
 		"cabinets": [
@@ -11988,7 +12047,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ松本店",
-		"address": "長野県松本市双葉19−10",
+		"address": "長野県松本市双葉19-10",
 		"lat": 36.2105026,
 		"lng": 137.9615503,
 		"cabinets": [
@@ -12018,7 +12077,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "アピナ橋本店",
-		"address": "神奈川県相模原市緑区西橋本5−1−1ラ・フロール駐車場棟1階",
+		"address": "神奈川県相模原市緑区西橋本5-1-1ラ・フロール駐車場棟1階",
 		"lat": 35.59732138725924,
 		"lng": 139.33731392121808,
 		"cabinets": [
@@ -12048,7 +12107,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "アピナ浜松店",
-		"address": "静岡県浜松市中区葵西2−27−10",
+		"address": "静岡県浜松市中区葵西2-27-10",
 		"lat": 34.76741013656855,
 		"lng": 137.70818477495538,
 		"cabinets": [
@@ -12129,7 +12188,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アピナ荻窪店",
-		"address": "東京都杉並区上荻1−13−10ハクサンビル",
+		"address": "東京都杉並区上荻1-13-10ハクサンビル",
 		"lat": 35.7050135,
 		"lng": 139.6181738,
 		"cabinets": [
@@ -12183,7 +12242,7 @@
 		"country": "JP",
 		"area": "石川県",
 		"storeName": "アピナ野々市バッティングスタジアム",
-		"address": "石川県野々市市若松町5−5",
+		"address": "石川県野々市市若松町5-5",
 		"lat": 36.536747142499486,
 		"lng": 136.61106061349187,
 		"cabinets": [
@@ -12210,7 +12269,7 @@
 		"country": "JP",
 		"area": "石川県",
 		"storeName": "アピナ野々市店",
-		"address": "石川県野々市市白山町4−1イオンタウン野々市店内",
+		"address": "石川県野々市市白山町4-1イオンタウン野々市店内",
 		"lat": 36.527385610438145,
 		"lng": 136.61219689133225,
 		"cabinets": [
@@ -12318,7 +12377,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ長野大橋店",
-		"address": "長野県長野市若里7−9−12",
+		"address": "長野県長野市若里7-9-12",
 		"lat": 36.6265335,
 		"lng": 138.2002093,
 		"cabinets": [
@@ -12345,7 +12404,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ長野川中島店",
-		"address": "長野県長野市川中島町御厨967−1",
+		"address": "長野県長野市川中島町御厨967-1",
 		"lat": 36.5980241,
 		"lng": 138.1574813,
 		"cabinets": [
@@ -12372,7 +12431,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ長野村山店",
-		"address": "長野県長野市村山502−1",
+		"address": "長野県長野市村山502-1",
 		"lat": 36.66794458762274,
 		"lng": 138.26332081155738,
 		"cabinets": [
@@ -12399,7 +12458,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "アピナ飯田店",
-		"address": "長野県飯田市座光寺3728−1",
+		"address": "長野県飯田市座光寺3728-1",
 		"lat": 35.52997382605196,
 		"lng": 137.85970124475398,
 		"cabinets": [
@@ -12429,7 +12488,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "アピナ鶴岡店",
-		"address": "山形県鶴岡市文下字広野1−1",
+		"address": "山形県鶴岡市文下字広野1-1",
 		"lat": 38.7581391693968,
 		"lng": 139.84438268843223,
 		"cabinets": [
@@ -12459,7 +12518,7 @@
 		"country": "JP",
 		"area": "徳島県",
 		"storeName": "アポロゲームセンター沖洲店",
-		"address": "徳島県徳島市南沖洲1−93",
+		"address": "徳島県徳島市南沖洲1-93",
 		"lat": 34.067137798469645,
 		"lng": 134.5828204618324,
 		"cabinets": [
@@ -12483,7 +12542,7 @@
 		"country": "JP",
 		"area": "鳥取県",
 		"storeName": "アミパラがいな店",
-		"address": "鳥取県米子市日ノ出町1−8−13",
+		"address": "鳥取県米子市日ノ出町1-8-13",
 		"lat": 35.4377737,
 		"lng": 133.3391965,
 		"cabinets": [
@@ -12510,7 +12569,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "アミパラここじゃ店",
-		"address": "広島県東広島市西条町下見6−10−19",
+		"address": "広島県東広島市西条町下見6-10-19",
 		"lat": 34.40758549269335,
 		"lng": 132.7155369093357,
 		"cabinets": [
@@ -12540,7 +12599,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "アミパラテクノランド店",
-		"address": "岡山県岡山市北区大和町1−7−12",
+		"address": "岡山県岡山市北区大和町1-7-12",
 		"lat": 34.6791764,
 		"lng": 133.9274976,
 		"cabinets": [
@@ -12567,7 +12626,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "あみぱらんど福山店",
-		"address": "広島県福山市三吉町南2−8−24",
+		"address": "広島県福山市三吉町南2-8-24",
 		"lat": 34.4884797,
 		"lng": 133.378434,
 		"cabinets": [
@@ -12594,7 +12653,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "アミパラ下関店",
-		"address": "山口県下関市長府才川1−42−48",
+		"address": "山口県下関市長府才川1-42-48",
 		"lat": 34.02541169656086,
 		"lng": 131.00750228344975,
 		"cabinets": [
@@ -12621,7 +12680,7 @@
 		"country": "JP",
 		"area": "香川県",
 		"storeName": "アミパラ丸亀店",
-		"address": "香川県丸亀市飯野町西分字川縁甲584−1　ハローズ棟内",
+		"address": "香川県丸亀市飯野町西分字川縁甲584-1　ハローズ棟内",
 		"lat": 34.28480781129378,
 		"lng": 133.82103029947507,
 		"cabinets": [
@@ -12702,7 +12761,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "アミパラ佐世保店",
-		"address": "長崎県佐世保市大塔町18−15",
+		"address": "長崎県佐世保市大塔町18-15",
 		"lat": 33.1500003,
 		"lng": 129.7803082,
 		"cabinets": [
@@ -12759,7 +12818,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "アミパラ光明池店",
-		"address": "大阪府和泉市室堂町824−36",
+		"address": "大阪府和泉市室堂町824-36",
 		"lat": 34.4717247,
 		"lng": 135.4765921,
 		"cabinets": [
@@ -12786,7 +12845,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "アミパラ加古川店",
-		"address": "兵庫県加古川市尾上町今福71−2",
+		"address": "兵庫県加古川市尾上町今福71-2",
 		"lat": 34.75131602409157,
 		"lng": 134.8285724692421,
 		"cabinets": [
@@ -12840,7 +12899,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "アミパラ垂水店",
-		"address": "兵庫県神戸市垂水区名谷町字室山1400−18",
+		"address": "兵庫県神戸市垂水区名谷町字室山1400-18",
 		"lat": 34.66453039771949,
 		"lng": 135.06678803281864,
 		"cabinets": [
@@ -12894,7 +12953,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "アミパラ岡山店",
-		"address": "岡山県岡山市北区青江1丁目13−8",
+		"address": "岡山県岡山市北区青江1丁目13-8",
 		"lat": 34.6362117,
 		"lng": 133.9199885,
 		"cabinets": [
@@ -12951,7 +13010,7 @@
 		"country": "JP",
 		"area": "鳥取県",
 		"storeName": "アミパラ日吉津店",
-		"address": "鳥取県西伯郡日吉津村日吉津1160−1イオン日吉津モール西館2F",
+		"address": "鳥取県西伯郡日吉津村日吉津1160-1イオン日吉津モール西館2F",
 		"lat": 35.44567455548935,
 		"lng": 133.3872245748688,
 		"cabinets": [
@@ -12975,7 +13034,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "アミパラ松山店",
-		"address": "愛媛県松山市生石町655−1",
+		"address": "愛媛県松山市生石町655-1",
 		"lat": 33.83367993228401,
 		"lng": 132.74499599325407,
 		"cabinets": [
@@ -13002,7 +13061,7 @@
 		"country": "JP",
 		"area": "島根県",
 		"storeName": "アミパラ松江店",
-		"address": "島根県松江市東朝日町203−1",
+		"address": "島根県松江市東朝日町203-1",
 		"lat": 35.4637094,
 		"lng": 133.0741923,
 		"cabinets": [
@@ -13056,7 +13115,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "アミパラ津山店",
-		"address": "岡山県津山市河辺1000−1イオンモール津山2F",
+		"address": "岡山県津山市河辺1000-1イオンモール津山2F",
 		"lat": 35.06508151015715,
 		"lng": 134.0464218857055,
 		"cabinets": [
@@ -13083,7 +13142,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "アミパラ神辺店",
-		"address": "広島県福山市神辺町大字新道上字1−2−1",
+		"address": "広島県福山市神辺町大字新道上字1-2-1",
 		"lat": 34.545771080826555,
 		"lng": 133.3586390773155,
 		"cabinets": [
@@ -13185,7 +13244,7 @@
 		"country": "JP",
 		"area": "高知県",
 		"storeName": "アミパラ高知店",
-		"address": "高知県南国市篠原194−1",
+		"address": "高知県南国市篠原194-1",
 		"lat": 33.5679737,
 		"lng": 133.6344573,
 		"cabinets": [
@@ -13242,7 +13301,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アミュージアムOSC店",
-		"address": "東京都練馬区東大泉2−34−1オズスタジオシティ2F",
+		"address": "東京都練馬区東大泉2-34-1オズスタジオシティ2F",
 		"lat": 35.75304058872754,
 		"lng": 139.59483487301634,
 		"cabinets": [
@@ -13299,7 +13358,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アミュージアム川口店",
-		"address": "埼玉県川口市本町2−7−25ミエルかわぐち3F",
+		"address": "埼玉県川口市本町2-7-25ミエルかわぐち3F",
 		"lat": 35.8010343,
 		"lng": 139.727363,
 		"cabinets": [
@@ -13359,7 +13418,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "アミュージアム茂原店",
-		"address": "千葉県茂原市高師1619−1",
+		"address": "千葉県茂原市高師1619-1",
 		"lat": 35.43677641311152,
 		"lng": 140.2844057347961,
 		"cabinets": [
@@ -13515,7 +13574,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "アミューズビバ",
-		"address": "茨城県ひたちなか市東大島2−11−11",
+		"address": "茨城県ひたちなか市東大島2-11-11",
 		"lat": 36.406375,
 		"lng": 140.5318511,
 		"cabinets": [
@@ -13602,7 +13661,7 @@
 		"country": "JP",
 		"area": "奈良県",
 		"storeName": "アミューズメントCUE奈良大和高田店",
-		"address": "奈良県大和高田市東中2−11−16",
+		"address": "奈良県大和高田市東中2-11-16",
 		"lat": 34.499776,
 		"lng": 135.7355951,
 		"cabinets": [
@@ -13686,7 +13745,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "アミューズメントエース津田沼",
-		"address": "千葉県船橋市前原西2−15−1ファシービル",
+		"address": "千葉県船橋市前原西2-15-1ファシービル",
 		"lat": 35.6922777,
 		"lng": 140.0201815,
 		"cabinets": [
@@ -13797,7 +13856,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アミューズメントスペースカプセル",
-		"address": "東京都多摩市永山1−3−4ヒューマックスパビリオン永山B1-2F",
+		"address": "東京都多摩市永山1-3-4ヒューマックスパビリオン永山B1-2F",
 		"lat": 35.631434443561474,
 		"lng": 139.4479250509262,
 		"cabinets": [
@@ -14118,7 +14177,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "アミューズメントパークMG大街道",
-		"address": "愛媛県松山市大街道1−4−17",
+		"address": "愛媛県松山市大街道1-4-17",
 		"lat": 33.8378938,
 		"lng": 132.7698832,
 		"cabinets": [
@@ -14319,7 +14378,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "アミューズメントパークサムワン",
-		"address": "宮城県柴田郡村田町沼辺時牡丹山42−1",
+		"address": "宮城県柴田郡村田町沼辺時牡丹山42-1",
 		"lat": 38.0631002,
 		"lng": 140.7445028,
 		"cabinets": [
@@ -14397,7 +14456,7 @@
 		"country": "JP",
 		"area": "徳島県",
 		"storeName": "アミューズメントパフェパレパレ田宮店",
-		"address": "徳島県徳島市南田宮2−2−46",
+		"address": "徳島県徳島市南田宮2-2-46",
 		"lat": 34.0861319,
 		"lng": 134.5427222,
 		"cabinets": [
@@ -14481,7 +14540,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アミューズメントフィールドバイヨン",
-		"address": "埼玉県ふじみ野市うれし野2−16−1LCモールうれし野2F",
+		"address": "埼玉県ふじみ野市うれし野2-16-1LCモールうれし野2F",
 		"lat": 35.8561384,
 		"lng": 139.5223952,
 		"cabinets": [
@@ -14619,7 +14678,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "アミューズランドモナコ調布駅前店",
-		"address": "東京都調布市布田4−2−22",
+		"address": "東京都調布市布田4-2-22",
 		"lat": 35.6512163258339,
 		"lng": 139.54435173558204,
 		"cabinets": [
@@ -14667,7 +14726,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "アレックス",
-		"address": "山口県宇部市西宇部南3−5−53",
+		"address": "山口県宇部市西宇部南3-5-53",
 		"lat": 33.99938036107416,
 		"lng": 131.22011771349185,
 		"cabinets": [
@@ -14715,7 +14774,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "イオン千歳　キッズパーク",
-		"address": "北海道千歳市栄町6−61",
+		"address": "北海道千歳市栄町6-61",
 		"lat": 42.82885573679237,
 		"lng": 141.64809566613155,
 		"cabinets": [
@@ -14805,7 +14864,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "イスカンダル木更津店",
-		"address": "千葉県木更津市潮見4−1−2",
+		"address": "千葉県木更津市潮見4-1-2",
 		"lat": 35.3696837,
 		"lng": 139.9175383,
 		"cabinets": [
@@ -14835,7 +14894,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "イトーヨーカドー横浜ゲームコーナー",
-		"address": "神奈川県横浜市都筑区池辺4035−1イトーヨーカ堂2F",
+		"address": "神奈川県横浜市都筑区池辺4035-1イトーヨーカ堂2F",
 		"lat": 35.5179093,
 		"lng": 139.5663144,
 		"cabinets": [
@@ -14880,7 +14939,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "イミグランデ日吉店3",
-		"address": "神奈川県横浜市港北区日吉2−2−4",
+		"address": "神奈川県横浜市港北区日吉2-2-4",
 		"lat": 35.5544916,
 		"lng": 139.646611,
 		"cabinets": [
@@ -14934,7 +14993,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "イミグランデ溝口店",
-		"address": "神奈川県川崎市高津区溝口1−14−7　第二カスタムビル",
+		"address": "神奈川県川崎市高津区溝口1-14-7　第二カスタムビル",
 		"lat": 35.60052143249355,
 		"lng": 139.61450566871713,
 		"cabinets": [
@@ -15021,7 +15080,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ウェアハウス三橋店",
-		"address": "埼玉県さいたま市西区三橋6−955−1",
+		"address": "埼玉県さいたま市西区三橋6-955-1",
 		"lat": 35.91579143123197,
 		"lng": 139.59584728836057,
 		"cabinets": [
@@ -15078,7 +15137,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ウェアハウス保木間店",
-		"address": "東京都足立区保木間1−1−19",
+		"address": "東京都足立区保木間1-1-19",
 		"lat": 35.7891796,
 		"lng": 139.8033169,
 		"cabinets": [
@@ -15105,7 +15164,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ウェアハウス入谷店",
-		"address": "東京都足立区入谷7−8−11",
+		"address": "東京都足立区入谷7-8-11",
 		"lat": 35.801119170471175,
 		"lng": 139.76100336319462,
 		"cabinets": [
@@ -15132,7 +15191,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ウェアハウス南流山店",
-		"address": "千葉県流山市南流山4−16−6",
+		"address": "千葉県流山市南流山4-16-6",
 		"lat": 35.8402121,
 		"lng": 139.9050133,
 		"cabinets": [
@@ -15159,7 +15218,7 @@
 		"country": "JP",
 		"area": "高知県",
 		"storeName": "ウェアハウス四万十店",
-		"address": "高知県四万十市右山五月町8−13アピアさつき2F",
+		"address": "高知県四万十市右山五月町8-13アピアさつき2F",
 		"lat": 32.9871096,
 		"lng": 132.9392991,
 		"cabinets": [
@@ -15192,7 +15251,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ウェアハウス岩槻店",
-		"address": "埼玉県さいたま市岩槻区加倉3−3−63",
+		"address": "埼玉県さいたま市岩槻区加倉3-3-63",
 		"lat": 35.941179,
 		"lng": 139.6861123,
 		"cabinets": [
@@ -15219,7 +15278,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ウェアハウス草加店別館",
-		"address": "埼玉県草加市稲荷2−36−33",
+		"address": "埼玉県草加市稲荷2-36-33",
 		"lat": 35.82988312095263,
 		"lng": 139.82058531282803,
 		"cabinets": [
@@ -15249,7 +15308,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ウェアハウス越谷店",
-		"address": "埼玉県越谷市南荻島841−1",
+		"address": "埼玉県越谷市南荻島841-1",
 		"lat": 35.9119605,
 		"lng": 139.7637724,
 		"cabinets": [
@@ -15276,7 +15335,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "エースレーン堅田",
-		"address": "滋賀県大津市今堅田2−40−10",
+		"address": "滋賀県大津市今堅田2-40-10",
 		"lat": 35.1246449,
 		"lng": 135.9194342,
 		"cabinets": [
@@ -15303,7 +15362,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "エースレーン守山",
-		"address": "滋賀県守山市播磨田町231−4ACT守山3番館内",
+		"address": "滋賀県守山市播磨田町231-4ACT守山3番館内",
 		"lat": 35.067889215117354,
 		"lng": 135.99585770978695,
 		"cabinets": [
@@ -15432,7 +15491,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "オークランドボウル春日井",
-		"address": "愛知県春日井市鳥居松町3−11　1階ゲームコーナー",
+		"address": "愛知県春日井市鳥居松町3-11　1階ゲームコーナー",
 		"lat": 35.245669627529054,
 		"lng": 136.96877545026246,
 		"cabinets": [
@@ -15480,7 +15539,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "オリエンタルバッティング可児店",
-		"address": "岐阜県可児市今渡695−1",
+		"address": "岐阜県可児市今渡695-1",
 		"lat": 35.4295361,
 		"lng": 137.0390542,
 		"cabinets": [
@@ -15507,7 +15566,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "オレンジボウルイオン豊川店",
-		"address": "愛知県豊川市開運通2−31",
+		"address": "愛知県豊川市開運通2-31",
 		"lat": 34.8274121,
 		"lng": 137.3844332,
 		"cabinets": [
@@ -15531,7 +15590,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "カプコサーカス新潟東店",
-		"address": "新潟県新潟市東区大形本町3−1−2　ジャスコシティ新潟東",
+		"address": "新潟県新潟市東区大形本町3-1-2　ジャスコシティ新潟東",
 		"lat": 37.9248691,
 		"lng": 139.1146199,
 		"cabinets": [
@@ -15666,7 +15725,7 @@
 		"country": "JP",
 		"area": "奈良県",
 		"storeName": "キッズサーカス奈良柏木店",
-		"address": "奈良県奈良市柏木町456−1",
+		"address": "奈良県奈良市柏木町456-1",
 		"lat": 34.6718191,
 		"lng": 135.7991956,
 		"cabinets": [
@@ -15696,7 +15755,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "キッズパークボンベルタ成田店",
-		"address": "千葉県成田市赤坂2−1−10　ボンベルタ成田3F",
+		"address": "千葉県成田市赤坂2-1-10　ボンベルタ成田3F",
 		"lat": 35.7782683,
 		"lng": 140.2904367,
 		"cabinets": [
@@ -15720,7 +15779,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "キッズランド",
-		"address": "岩手県紫波郡紫波町桜町1丁目12−1　ナックス内キッズランド",
+		"address": "岩手県紫波郡紫波町桜町1丁目12-1　ナックス内キッズランド",
 		"lat": 39.5490768,
 		"lng": 141.165242,
 		"cabinets": [
@@ -15744,7 +15803,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイミュンヘン大橋店",
-		"address": "北海道札幌市豊平区平岸1条23丁目801−1",
+		"address": "北海道札幌市豊平区平岸1条23丁目801-1",
 		"lat": 43.013979,
 		"lng": 141.355013,
 		"cabinets": [
@@ -15795,7 +15854,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ宮の沢店",
-		"address": "北海道札幌市手稲区西宮の沢5条2丁目11−15",
+		"address": "北海道札幌市手稲区西宮の沢5条2丁目11-15",
 		"lat": 43.0963919,
 		"lng": 141.2576566,
 		"cabinets": [
@@ -15819,7 +15878,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ恵庭店",
-		"address": "北海道恵庭市住吉町2丁目9−1",
+		"address": "北海道恵庭市住吉町2丁目9-1",
 		"lat": 42.875904912029085,
 		"lng": 141.58350423743445,
 		"cabinets": [
@@ -15876,7 +15935,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ新札幌店",
-		"address": "北海道札幌市厚別区厚別東五条1ー2−10",
+		"address": "北海道札幌市厚別区厚別東五条1ー2-10",
 		"lat": 43.045261229019154,
 		"lng": 141.47579700000006,
 		"cabinets": [
@@ -15930,7 +15989,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ東苗穂店",
-		"address": "北海道札幌市東区東苗穂6条2丁目1−25",
+		"address": "北海道札幌市東区東苗穂6条2丁目1-25",
 		"lat": 43.09234016092269,
 		"lng": 141.40699743068853,
 		"cabinets": [
@@ -15957,7 +16016,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ栄通店",
-		"address": "北海道札幌市白石区栄通19丁目11−43",
+		"address": "北海道札幌市白石区栄通19丁目11-43",
 		"lat": 43.0253475533429,
 		"lng": 141.43663107853888,
 		"cabinets": [
@@ -15981,7 +16040,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ清田店",
-		"address": "北海道札幌市清田区清田1条1−20−1",
+		"address": "北海道札幌市清田区清田1条1-20-1",
 		"lat": 43.00298407634302,
 		"lng": 141.43639692394254,
 		"cabinets": [
@@ -16065,7 +16124,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "キャッツアイ西葛西店",
-		"address": "東京都江戸川区西葛西4−2−28",
+		"address": "東京都江戸川区西葛西4-2-28",
 		"lat": 35.668324490430166,
 		"lng": 139.8618017146805,
 		"cabinets": [
@@ -16092,7 +16151,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "キャッツアイ静内店",
-		"address": "北海道日高郡新ひだか町静内木場町2丁目1−41",
+		"address": "北海道日高郡新ひだか町静内木場町2丁目1-41",
 		"lat": 42.3414196,
 		"lng": 142.3556497,
 		"cabinets": [
@@ -16119,7 +16178,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ギャラクシーゲート星が浦",
-		"address": "北海道釧路市星が浦大通2−5",
+		"address": "北海道釧路市星が浦大通2-5",
 		"lat": 43.01434808002165,
 		"lng": 144.32014791904908,
 		"cabinets": [
@@ -16281,7 +16340,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ゲーム　アルカナ",
-		"address": "愛知県稲沢市朝府町2−33",
+		"address": "愛知県稲沢市朝府町2-33",
 		"lat": 35.2518633,
 		"lng": 136.7788012,
 		"cabinets": [
@@ -16335,7 +16394,7 @@
 		"country": "JP",
 		"area": "石川県",
 		"storeName": "ゲーム・パラダイス",
-		"address": "石川県金沢市堀川新町5−1ｱﾐｭｰｽﾞﾒﾝﾄｽｸｴｱ3F",
+		"address": "石川県金沢市堀川新町5-1ｱﾐｭｰｽﾞﾒﾝﾄｽｸｴｱ3F",
 		"lat": 36.5805088,
 		"lng": 136.6515853,
 		"cabinets": [
@@ -16410,7 +16469,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ゲームイエストロン",
-		"address": "東京都新宿区新宿3丁目34−9",
+		"address": "東京都新宿区新宿3丁目34-9",
 		"lat": 35.690596,
 		"lng": 139.7023968,
 		"cabinets": [
@@ -16431,7 +16490,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ゲームインファンファン藤沢店",
-		"address": "神奈川県藤沢市鵠沼石上1−3−8",
+		"address": "神奈川県藤沢市鵠沼石上1-3-8",
 		"lat": 35.3365873,
 		"lng": 139.4891721,
 		"cabinets": [
@@ -16542,7 +16601,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ゲームゴジラ",
-		"address": "千葉県柏市柏1−1−11ファミリかしわB1",
+		"address": "千葉県柏市柏1-1-11ファミリかしわB1",
 		"lat": 35.8616855,
 		"lng": 139.9711177,
 		"cabinets": [
@@ -16587,7 +16646,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ゲームコスモ鶴見店",
-		"address": "神奈川県横浜市鶴見区豊岡町17−4",
+		"address": "神奈川県横浜市鶴見区豊岡町17-4",
 		"lat": 35.5092953,
 		"lng": 139.6755125,
 		"cabinets": [
@@ -16833,7 +16892,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ゲームセンターＷＩＬＬ　ＷＧＣ",
-		"address": "東京都立川市羽衣町2−4−13羽衣長田ビル101WGC",
+		"address": "東京都立川市羽衣町2-4-13羽衣長田ビル101WGC",
 		"lat": 35.6964221,
 		"lng": 139.4288034,
 		"cabinets": [
@@ -16902,7 +16961,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ゲームセンタートップラン東大阪店",
-		"address": "大阪府東大阪市東鴻池町1−6−30イオンタウン東大阪店2F",
+		"address": "大阪府東大阪市東鴻池町1-6-30イオンタウン東大阪店2F",
 		"lat": 34.6938172,
 		"lng": 135.6175909,
 		"cabinets": [
@@ -17037,7 +17096,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "ゲームゾーン岡谷店",
-		"address": "長野県岡谷市中央町2−2−1イルプラザ1F",
+		"address": "長野県岡谷市中央町2-2-1イルプラザ1F",
 		"lat": 36.0600624,
 		"lng": 138.0486341,
 		"cabinets": [
@@ -17223,7 +17282,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "ゲームハウスアリババ",
-		"address": "岐阜県大垣市池尻町940−1",
+		"address": "岐阜県大垣市池尻町940-1",
 		"lat": 35.3840722,
 		"lng": 136.5956108,
 		"cabinets": [
@@ -17520,7 +17579,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ゲームファンタジアン岡崎店",
-		"address": "愛知県岡崎市錦町2−4",
+		"address": "愛知県岡崎市錦町2-4",
 		"lat": 34.973372827218675,
 		"lng": 137.15991586071323,
 		"cabinets": [
@@ -17628,7 +17687,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ゲームファンタジア平塚",
-		"address": "神奈川県平塚市紅谷町14−21",
+		"address": "神奈川県平塚市紅谷町14-21",
 		"lat": 35.3285055,
 		"lng": 139.347524,
 		"cabinets": [
@@ -17706,7 +17765,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "ゲームフィールド弘前樋の口店",
-		"address": "青森県弘前市樋の口二丁目9−6イオンタウン弘前樋の口店",
+		"address": "青森県弘前市樋の口二丁目9-6イオンタウン弘前樋の口店",
 		"lat": 40.6027265,
 		"lng": 140.444168,
 		"cabinets": [
@@ -17898,7 +17957,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "ゲームメガつくば店",
-		"address": "茨城県つくば市小野崎177−2",
+		"address": "茨城県つくば市小野崎177-2",
 		"lat": 36.0768508,
 		"lng": 140.1047378,
 		"cabinets": [
@@ -17925,7 +17984,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "ゲームメガみらい平店",
-		"address": "茨城県つくばみらい市陽光台1−14−1",
+		"address": "茨城県つくばみらい市陽光台1-14-1",
 		"lat": 35.995524428765755,
 		"lng": 140.0406751203766,
 		"cabinets": [
@@ -17955,7 +18014,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "ゲームラボ　サイドセブン",
-		"address": "大分県大分市上宗方南1丁目649−1",
+		"address": "大分県大分市上宗方南1丁目649-1",
 		"lat": 33.1952607,
 		"lng": 131.5783681,
 		"cabinets": [
@@ -18006,7 +18065,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ゲームランドちはら台店",
-		"address": "千葉県市原市ちはら台西3−4unimoちはら台2F",
+		"address": "千葉県市原市ちはら台西3-4unimoちはら台2F",
 		"lat": 35.52808471975401,
 		"lng": 140.17172529524532,
 		"cabinets": [
@@ -18087,7 +18146,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "ゲームランド佐沼店",
-		"address": "宮城県登米市南方町新島前46−1イオンタウン佐沼SC",
+		"address": "宮城県登米市南方町新島前46-1イオンタウン佐沼SC",
 		"lat": 38.682591540449216,
 		"lng": 141.18392478042597,
 		"cabinets": [
@@ -18144,7 +18203,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ゲームランド岡崎店",
-		"address": "愛知県岡崎市戸崎町字外山38−5イオンモール岡崎　シネコン棟",
+		"address": "愛知県岡崎市戸崎町字外山38-5イオンモール岡崎　シネコン棟",
 		"lat": 34.9391444631085,
 		"lng": 137.16320019311524,
 		"cabinets": [
@@ -18174,7 +18233,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ゲームランド新さっぽろ",
-		"address": "北海道札幌市厚別区中央2条5丁目7−3 カテプリさっぽろ3階",
+		"address": "北海道札幌市厚別区中央2条5丁目7-3 カテプリさっぽろ3階",
 		"lat": 43.0374407,
 		"lng": 141.4724783,
 		"cabinets": [
@@ -18204,7 +18263,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ゲームランド津田沼店",
-		"address": "千葉県習志野市津田沼1−23−1イオンモール津田沼2F",
+		"address": "千葉県習志野市津田沼1-23-1イオンモール津田沼2F",
 		"lat": 35.6904813,
 		"lng": 140.024784,
 		"cabinets": [
@@ -18231,7 +18290,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "ゲームランド盛岡店",
-		"address": "岩手県盛岡市前潟4−7−1イオンモール盛岡2F",
+		"address": "岩手県盛岡市前潟4-7-1イオンモール盛岡2F",
 		"lat": 39.71160643944135,
 		"lng": 141.09993207144169,
 		"cabinets": [
@@ -18339,7 +18398,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "コムテックタワー",
-		"address": "愛知県名古屋市中村区名駅4−10−20",
+		"address": "愛知県名古屋市中村区名駅4-10-20",
 		"lat": 35.1694446,
 		"lng": 136.8859667,
 		"cabinets": [
@@ -18423,7 +18482,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ザ・サードプラネット多摩センター店",
-		"address": "東京都多摩市落合１−４１−１マグレブウェスト１階・２階",
+		"address": "東京都多摩市落合1-41-1マグレブウェスト1階・2階",
 		"lat": 35.6245439,
 		"lng": 139.4256174,
 		"cabinets": [
@@ -18522,7 +18581,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "サープラ横浜あそびタウン",
-		"address": "神奈川県横浜市都筑区中川中央1−25−1NPモール6F",
+		"address": "神奈川県横浜市都筑区中川中央1-25-1NPモール6F",
 		"lat": 35.5516442,
 		"lng": 139.579457,
 		"cabinets": [
@@ -18792,7 +18851,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "シーサイドリゾートアミューズメントパーク",
-		"address": "栃木県宇都宮市睦町7−3",
+		"address": "栃木県宇都宮市睦町7-3",
 		"lat": 36.5632663,
 		"lng": 139.8603778,
 		"cabinets": [
@@ -18822,7 +18881,7 @@
 		"country": "JP",
 		"area": "島根県",
 		"storeName": "ジーパラ出雲",
-		"address": "島根県出雲市渡橋町784−1",
+		"address": "島根県出雲市渡橋町784-1",
 		"lat": 35.3660626,
 		"lng": 132.7434242,
 		"cabinets": [
@@ -18918,7 +18977,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "ジョイプラザ豊岡店",
-		"address": "兵庫県豊岡市加広町7−32コープデイズ豊岡内",
+		"address": "兵庫県豊岡市加広町7-32コープデイズ豊岡内",
 		"lat": 35.5508414,
 		"lng": 134.8163318,
 		"cabinets": [
@@ -18945,7 +19004,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "ジョイランドアミューズみしま",
-		"address": "静岡県三島市梅名308−6",
+		"address": "静岡県三島市梅名308-6",
 		"lat": 35.09041595077819,
 		"lng": 138.9279397363482,
 		"cabinets": [
@@ -18966,7 +19025,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "ジョイランドアミューズ諏訪店",
-		"address": "静岡県沼津市大諏訪20−2",
+		"address": "静岡県沼津市大諏訪20-2",
 		"lat": 35.10844121558573,
 		"lng": 138.83220780653141,
 		"cabinets": [
@@ -19017,7 +19076,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "シルクハット伊勢佐木町",
-		"address": "神奈川県横浜市中区伊勢佐木町3—96日活会館3階",
+		"address": "神奈川県横浜市中区伊勢佐木町3-96日活会館3階",
 		"lat": 35.44268500395156,
 		"lng": 139.630083119049,
 		"cabinets": [
@@ -19044,7 +19103,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "シルクハット八王子",
-		"address": "東京都八王子市旭町2−5　八王子ツインタワービル3階",
+		"address": "東京都八王子市旭町2-5　八王子ツインタワービル3階",
 		"lat": 35.65640208379338,
 		"lng": 139.3384065104334,
 		"cabinets": [
@@ -19071,7 +19130,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "シルクハット大船",
-		"address": "神奈川県鎌倉市大船1−24　大船駅前ビル1〜3F",
+		"address": "神奈川県鎌倉市大船1-24　大船駅前ビル1〜3F",
 		"lat": 35.353223871708984,
 		"lng": 139.53252627474728,
 		"cabinets": [
@@ -19098,7 +19157,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "シルクハット川口",
-		"address": "埼玉県川口市栄町3−1−16イート川口ビル4F",
+		"address": "埼玉県川口市栄町3-1-16イート川口ビル4F",
 		"lat": 35.8030674709039,
 		"lng": 139.71744521163941,
 		"cabinets": [
@@ -19182,7 +19241,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "シルクハット本厚木",
-		"address": "神奈川県厚木市中町3−4−22第二会田ビル2階",
+		"address": "神奈川県厚木市中町3-4-22第二会田ビル2階",
 		"lat": 35.4400309,
 		"lng": 139.3630066,
 		"cabinets": [
@@ -19209,7 +19268,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "シルクハット横須賀中央",
-		"address": "神奈川県横須賀市若松町1−5プライムビル2階",
+		"address": "神奈川県横須賀市若松町1-5プライムビル2階",
 		"lat": 35.2792441,
 		"lng": 139.6708672,
 		"cabinets": [
@@ -19236,7 +19295,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "シルクハット津田沼",
-		"address": "千葉県習志野市津田沼1−2−1十三ビル地下1階",
+		"address": "千葉県習志野市津田沼1-2-1十三ビル地下1階",
 		"lat": 35.6903923,
 		"lng": 140.0222009,
 		"cabinets": [
@@ -19263,7 +19322,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "シルクハット蒲田西口",
-		"address": "東京都大田区西蒲田7−2−3第二醍醐ビル地下1階〜2階",
+		"address": "東京都大田区西蒲田7-2-3第二醍醐ビル地下1階〜2階",
 		"lat": 35.563073,
 		"lng": 139.71596499999998,
 		"cabinets": [
@@ -19317,7 +19376,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "スーパーノバイオン仙台中山",
-		"address": "宮城県仙台市泉区南中山1−35−57別館3F",
+		"address": "宮城県仙台市泉区南中山1-35-57別館3F",
 		"lat": 38.297896075869346,
 		"lng": 140.8270834629517,
 		"cabinets": [
@@ -19374,7 +19433,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "スーパーノバ仙台利府",
-		"address": "宮城県宮城郡利府町加瀬字新前谷地55−1",
+		"address": "宮城県宮城郡利府町加瀬字新前谷地55-1",
 		"lat": 38.3280286,
 		"lng": 140.9756113,
 		"cabinets": [
@@ -19560,7 +19619,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "スウィーツファクトリーパックン会津若松",
-		"address": "福島県会津若松市幕内南町9−10　MEGAドンキ2階",
+		"address": "福島県会津若松市幕内南町9-10　MEGAドンキ2階",
 		"lat": 37.48348387357307,
 		"lng": 139.9043327597717,
 		"cabinets": [
@@ -19584,7 +19643,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "スウィーツファクトリーパックン長津田店",
-		"address": "神奈川県横浜市緑区長津田みなみ台4−7−1アピタ長津田店2F",
+		"address": "神奈川県横浜市緑区長津田みなみ台4-7-1アピタ長津田店2F",
 		"lat": 35.5184479,
 		"lng": 139.4986498,
 		"cabinets": [
@@ -19608,7 +19667,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "スウィーツファンタジーパックン桶川",
-		"address": "埼玉県桶川市下日出谷東2−15−1ベニバナウォーク2F",
+		"address": "埼玉県桶川市下日出谷東2-15-1ベニバナウォーク2F",
 		"lat": 35.99702002081716,
 		"lng": 139.55064077977067,
 		"cabinets": [
@@ -19728,7 +19787,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "スタジオプリモ山形店",
-		"address": "山形県山形市城南町1−1−1　霞城セントラル2F",
+		"address": "山形県山形市城南町1-1-1　霞城セントラル2F",
 		"lat": 38.2501614,
 		"lng": 140.3267779,
 		"cabinets": [
@@ -19755,7 +19814,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "スタジオプリモ本八幡店",
-		"address": "千葉県市川市八幡2−15−10パティオ5階",
+		"address": "千葉県市川市八幡2-15-10パティオ5階",
 		"lat": 35.7213241,
 		"lng": 139.9275016,
 		"cabinets": [
@@ -19785,7 +19844,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "スタジオプリモ水戸店",
-		"address": "茨城県水戸市宮町1−2−4マイム1F",
+		"address": "茨城県水戸市宮町1-2-4マイム1F",
 		"lat": 36.3714779,
 		"lng": 140.4774261,
 		"cabinets": [
@@ -19812,7 +19871,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "スタジオプリモ沼津",
-		"address": "静岡県沼津市大手町3−4−1沼津ラクーン3F",
+		"address": "静岡県沼津市大手町3-4-1沼津ラクーン3F",
 		"lat": 35.101446,
 		"lng": 138.8595914,
 		"cabinets": [
@@ -19893,7 +19952,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "スペースV1廿日市店",
-		"address": "広島県廿日市市本町4−23",
+		"address": "広島県廿日市市本町4-23",
 		"lat": 34.35179163525024,
 		"lng": 132.3340763772635,
 		"cabinets": [
@@ -20049,7 +20108,7 @@
 		"country": "JP",
 		"area": "熊本県",
 		"storeName": "スポラ菊陽",
-		"address": "熊本県菊池郡菊陽町津久礼駄飼代2617−2",
+		"address": "熊本県菊池郡菊陽町津久礼駄飼代2617-2",
 		"lat": 32.864451600473316,
 		"lng": 130.8090616085983,
 		"cabinets": [
@@ -20079,7 +20138,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "スマイルステーション戸畑店",
-		"address": "福岡県北九州市戸畑区汐井町2−2イオン戸畑3F",
+		"address": "福岡県北九州市戸畑区汐井町2-2イオン戸畑3F",
 		"lat": 33.8959948,
 		"lng": 130.81985,
 		"cabinets": [
@@ -20319,7 +20378,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "ソニックワールド大村店",
-		"address": "長崎県大村市古賀島町383−1",
+		"address": "長崎県大村市古賀島町383-1",
 		"lat": 32.9273122,
 		"lng": 129.9395836,
 		"cabinets": [
@@ -20346,7 +20405,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "ソユーゲームフィールド三川店",
-		"address": "山形県東田川郡三川町大字猪子字和田庫128−1イオン三川1F",
+		"address": "山形県東田川郡三川町大字猪子字和田庫128-1イオン三川1F",
 		"lat": 38.81595693815604,
 		"lng": 139.83545801551793,
 		"cabinets": [
@@ -20373,7 +20432,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ソユーゲームフィールド上大岡店",
-		"address": "神奈川県横浜市港南区上大岡西1−18−3　ミオカリスト館6階",
+		"address": "神奈川県横浜市港南区上大岡西1-18-3　ミオカリスト館6階",
 		"lat": 35.4077804,
 		"lng": 139.5952989,
 		"cabinets": [
@@ -20427,7 +20486,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "ソユーゲームフィールド天童店",
-		"address": "山形県天童市芳賀タウン北4−1−1 イオンモール天童2F",
+		"address": "山形県天童市芳賀タウン北4-1-1 イオンモール天童2F",
 		"lat": 38.344908866929615,
 		"lng": 140.36403914022821,
 		"cabinets": [
@@ -20481,7 +20540,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ソユーゲームフィールド川口店",
-		"address": "埼玉県川口市並木元町1−79　アリオ川口3F",
+		"address": "埼玉県川口市並木元町1-79　アリオ川口3F",
 		"lat": 35.80711807422785,
 		"lng": 139.71413492275394,
 		"cabinets": [
@@ -20508,7 +20567,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ソユーゲームフィールド幕張店",
-		"address": "千葉県千葉市花見川区幕張町4−417−25　IY幕張店2F",
+		"address": "千葉県千葉市花見川区幕張町4-417-25　IY幕張店2F",
 		"lat": 35.6563445,
 		"lng": 140.0512381,
 		"cabinets": [
@@ -20562,7 +20621,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ソユーゲームフィールド旭川駅前店",
-		"address": "北海道旭川市宮下通7−2−5ｲｵﾝﾓｰﾙ旭川駅前4F",
+		"address": "北海道旭川市宮下通7-2-5ｲｵﾝﾓｰﾙ旭川駅前4F",
 		"lat": 43.76400559012282,
 		"lng": 142.3571151023773,
 		"cabinets": [
@@ -20589,7 +20648,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ソユーゲームフィールド木更津店",
-		"address": "千葉県木更津市築地1−4イオンモール木更津2F",
+		"address": "千葉県木更津市築地1-4イオンモール木更津2F",
 		"lat": 35.3660728,
 		"lng": 139.9083423,
 		"cabinets": [
@@ -20751,7 +20810,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "ソユーゲームフィールド釜石店",
-		"address": "岩手県釜石市港町2−1−1イオンタウン釜石店3F",
+		"address": "岩手県釜石市港町2-1-1イオンタウン釜石店3F",
 		"lat": 39.2711987516425,
 		"lng": 141.88180519996945,
 		"cabinets": [
@@ -20778,7 +20837,7 @@
 		"country": "JP",
 		"area": "長野県",
 		"storeName": "ソユーゲームフィールド長野店",
-		"address": "長野県長野市三輪9−43−24イオンタウン長野三輪店",
+		"address": "長野県長野市三輪9-43-24イオンタウン長野三輪店",
 		"lat": 36.66956762957928,
 		"lng": 138.2072748555447,
 		"cabinets": [
@@ -20832,7 +20891,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "ソユースペースファンタジーインフィニ",
-		"address": "青森県弘前市城東北3−10−1さくら野百貨店弘前店4F",
+		"address": "青森県弘前市城東北3-10-1さくら野百貨店弘前店4F",
 		"lat": 40.606686,
 		"lng": 140.4958836,
 		"cabinets": [
@@ -20859,7 +20918,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "ソユーファミリーゲームフィールド花巻店",
-		"address": "岩手県花巻市高木第16地割68−6　銀河モール1F",
+		"address": "岩手県花巻市高木第16地割68-6　銀河モール1F",
 		"lat": 39.3864097,
 		"lng": 141.1359548,
 		"cabinets": [
@@ -20886,7 +20945,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "ソユーファミリーゲームフィールド防府店",
-		"address": "山口県防府市鐘紡町7−1イオンタウン防府1F",
+		"address": "山口県防府市鐘紡町7-1イオンタウン防府1F",
 		"lat": 34.048385012473695,
 		"lng": 131.59020756163727,
 		"cabinets": [
@@ -21041,8 +21100,8 @@
 	{
 		"country": "JP",
 		"area": "群馬県",
-		"storeName": "タイト—Fステーション高崎オ—パ店",
-		"address": "群馬県高崎市八島町46−1　高崎オ—パ7階",
+		"storeName": "タイト-Fステーション高崎オ-パ店",
+		"address": "群馬県高崎市八島町46-1　高崎オ-パ7階",
 		"lat": 36.3230805,
 		"lng": 139.0110729,
 		"cabinets": [
@@ -21069,7 +21128,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "タイトー アミュプラザおおいた店",
-		"address": "大分県大分市要町1−14アミュプラザおおいた4F",
+		"address": "大分県大分市要町1-14アミュプラザおおいた4F",
 		"lat": 33.2330805648512,
 		"lng": 131.60633033436284,
 		"cabinets": [
@@ -21090,7 +21149,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーBIGBOX高田馬場店",
-		"address": "東京都新宿区高田馬場1−35−3　BIGBOX6F",
+		"address": "東京都新宿区高田馬場1-35-3　BIGBOX6F",
 		"lat": 35.7129463,
 		"lng": 139.7042567,
 		"cabinets": [
@@ -21117,7 +21176,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "タイトーFSイオンモール浜松市野店",
-		"address": "静岡県浜松市東区天王町字諏訪1981−3",
+		"address": "静岡県浜松市東区天王町字諏訪1981-3",
 		"lat": 34.73986085403461,
 		"lng": 137.76310944995112,
 		"cabinets": [
@@ -21192,7 +21251,7 @@
 		"country": "JP",
 		"area": "福井県",
 		"storeName": "タイトーFステーションアル・プラザ鯖江店",
-		"address": "福井県鯖江市下河端町16−16−1アルプラザ鯖江アミューズ棟内",
+		"address": "福井県鯖江市下河端町16-16-1アルプラザ鯖江アミューズ棟内",
 		"lat": 35.9693068,
 		"lng": 136.1895131,
 		"cabinets": [
@@ -21219,7 +21278,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "タイトーFステーションイオン富士宮店",
-		"address": "静岡県富士宮市浅間町1−8",
+		"address": "静岡県富士宮市浅間町1-8",
 		"lat": 35.2204706,
 		"lng": 138.6119827,
 		"cabinets": [
@@ -21246,7 +21305,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "タイトーFステーションイオン近江八幡店",
-		"address": "滋賀県近江八幡市鷹飼町南3−7　1階",
+		"address": "滋賀県近江八幡市鷹飼町南3-7　1階",
 		"lat": 35.121822676046214,
 		"lng": 136.10297335554196,
 		"cabinets": [
@@ -21342,7 +21401,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "タイトーFステーションセントポルタ大分店",
-		"address": "大分県大分市中央町2−1−1",
+		"address": "大分県大分市中央町2-1-1",
 		"lat": 33.2354219,
 		"lng": 131.6063391,
 		"cabinets": [
@@ -21426,7 +21485,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "タイトーFステーションマルナカ新倉敷店",
-		"address": "岡山県倉敷市玉島爪崎981−1",
+		"address": "岡山県倉敷市玉島爪崎981-1",
 		"lat": 34.5620321,
 		"lng": 133.6854484,
 		"cabinets": [
@@ -21471,7 +21530,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "タイトーFステーションゆめタウン別府店",
-		"address": "大分県別府市楠町382−7",
+		"address": "大分県別府市楠町382-7",
 		"lat": 33.27631985341461,
 		"lng": 131.50771506190188,
 		"cabinets": [
@@ -21579,7 +21638,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "タイトーFステーション三宮西館店",
-		"address": "兵庫県神戸市中央区三宮町2丁目11−1センタープラザ西館",
+		"address": "兵庫県神戸市中央区三宮町2丁目11-1センタープラザ西館",
 		"lat": 34.6911162,
 		"lng": 135.1911671,
 		"cabinets": [
@@ -21825,7 +21884,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "タイトーFステーション山口メルクス店",
-		"address": "山口県山口市大字黒川82−1ハイパーモールメルクス内",
+		"address": "山口県山口市大字黒川82-1ハイパーモールメルクス内",
 		"lat": 34.13591720514725,
 		"lng": 131.43456022214218,
 		"cabinets": [
@@ -21879,7 +21938,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "タイトーFステーション新松戸店",
-		"address": "千葉県松戸市新松戸3−2−2イオンフードスタイル新松戸店4階",
+		"address": "千葉県松戸市新松戸3-2-2イオンフードスタイル新松戸店4階",
 		"lat": 35.8259306,
 		"lng": 139.9154461,
 		"cabinets": [
@@ -21903,7 +21962,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "タイトーFステーション柏中央",
-		"address": "千葉県柏市十余二249−5",
+		"address": "千葉県柏市十余二249-5",
 		"lat": 35.8820708,
 		"lng": 139.9593512,
 		"cabinets": [
@@ -21930,7 +21989,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "タイトーFステーション燕三条店",
-		"address": "新潟県燕市井土巻3−150イオン県央店アメニティ棟1F",
+		"address": "新潟県燕市井土巻3-150イオン県央店アメニティ棟1F",
 		"lat": 37.651303737175795,
 		"lng": 138.93496127653157,
 		"cabinets": [
@@ -21954,7 +22013,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "タイトーFステーション静岡",
-		"address": "静岡県静岡市葵区呉服町2−5−4　ふしみや第2ビル",
+		"address": "静岡県静岡市葵区呉服町2-5-4　ふしみや第2ビル",
 		"lat": 34.974454099615144,
 		"lng": 138.38324310118867,
 		"cabinets": [
@@ -21984,7 +22043,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "タイトーF郡山オリエントパーク店",
-		"address": "福島県郡山市安積町荒井字大久保35−1",
+		"address": "福島県郡山市安積町荒井字大久保35-1",
 		"lat": 37.3744762,
 		"lng": 140.3487551,
 		"cabinets": [
@@ -22011,7 +22070,7 @@
 		"country": "JP",
 		"area": "鹿児島県",
 		"storeName": "タイトーアミュプラザ鹿児島店",
-		"address": "鹿児島県鹿児島市中央町1−1アミュプラザ鹿児島5F",
+		"address": "鹿児島県鹿児島市中央町1-1アミュプラザ鹿児島5F",
 		"lat": 31.584643023065237,
 		"lng": 130.54273158175351,
 		"cabinets": [
@@ -22035,7 +22094,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "タイトーイオンモール釧路昭和店",
-		"address": "北海道釧路市昭和中央4−18−1　イオンモール釧路昭和2F",
+		"address": "北海道釧路市昭和中央4-18-1　イオンモール釧路昭和2F",
 		"lat": 43.02589893519013,
 		"lng": 144.35929637406616,
 		"cabinets": [
@@ -22056,7 +22115,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "タイトーキッズランドＧＡＺＡ",
-		"address": "愛知県豊田市喜多町1−140GAZA3階",
+		"address": "愛知県豊田市喜多町1-140GAZA3階",
 		"lat": 35.0880302,
 		"lng": 137.1572653,
 		"cabinets": [
@@ -22083,7 +22142,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "タイトーステーション アリオ八尾店",
-		"address": "大阪府八尾市光町2−3　イトーヨーカドーアリオ八尾3F",
+		"address": "大阪府八尾市光町2-3　イトーヨーカドーアリオ八尾3F",
 		"lat": 34.63250804286744,
 		"lng": 135.60575982698367,
 		"cabinets": [
@@ -22107,7 +22166,7 @@
 		"country": "JP",
 		"area": "富山県",
 		"storeName": "タイトーステーション ファボーレ婦中店",
-		"address": "富山県富山市婦中町下轡田165−1フューチャーファボーレ2F",
+		"address": "富山県富山市婦中町下轡田165-1フューチャーファボーレ2F",
 		"lat": 36.66222633195811,
 		"lng": 137.1719943819902,
 		"cabinets": [
@@ -22131,7 +22190,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション 上野アメ横店",
-		"address": "東京都台東区上野4−10−17",
+		"address": "東京都台東区上野4-10-17",
 		"lat": 35.71053384829308,
 		"lng": 139.7744241711639,
 		"cabinets": [
@@ -22155,7 +22214,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "タイトーステーション 仙台クリスロード店",
-		"address": "宮城県仙台市青葉区中央2−3−25",
+		"address": "宮城県仙台市青葉区中央2-3-25",
 		"lat": 38.26100058786955,
 		"lng": 140.8756067312828,
 		"cabinets": [
@@ -22185,7 +22244,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "タイトーステーション 仙台ベガロポリス店",
-		"address": "宮城県仙台市太白区西多賀5−24−1ベガロポリス内",
+		"address": "宮城県仙台市太白区西多賀5-24-1ベガロポリス内",
 		"lat": 38.2198309,
 		"lng": 140.8483092,
 		"cabinets": [
@@ -22209,7 +22268,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "タイトーステーション 千歳店",
-		"address": "北海道千歳市北栄2−12−5",
+		"address": "北海道千歳市北栄2-12-5",
 		"lat": 42.83339419827501,
 		"lng": 141.645053871164,
 		"cabinets": [
@@ -22239,7 +22298,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "タイトーステーション 和光店",
-		"address": "埼玉県和光市丸山台1−4−5",
+		"address": "埼玉県和光市丸山台1-4-5",
 		"lat": 35.7866435,
 		"lng": 139.6138036,
 		"cabinets": [
@@ -22266,7 +22325,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "タイトーステーション 大宮店",
-		"address": "埼玉県さいたま市大宮区大門町1−1",
+		"address": "埼玉県さいたま市大宮区大門町1-1",
 		"lat": 35.90744667623512,
 		"lng": 139.6255973944775,
 		"cabinets": [
@@ -22323,7 +22382,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "タイトーステーション 宇都宮ベルモール店",
-		"address": "栃木県宇都宮市陽東6−2−1ベルモール内2F",
+		"address": "栃木県宇都宮市陽東6-2-1ベルモール内2F",
 		"lat": 36.55602815330737,
 		"lng": 139.9281451079346,
 		"cabinets": [
@@ -22347,7 +22406,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "タイトーステーション 小田原店",
-		"address": "神奈川県小田原市栄町1−3−12",
+		"address": "神奈川県小田原市栄町1-3-12",
 		"lat": 35.2549374,
 		"lng": 139.1561373,
 		"cabinets": [
@@ -22377,7 +22436,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "タイトーステーション 弥富店",
-		"address": "愛知県弥富市五明1371−4",
+		"address": "愛知県弥富市五明1371-4",
 		"lat": 35.1144064,
 		"lng": 136.71925740000006,
 		"cabinets": [
@@ -22401,7 +22460,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "タイトーステーション 所沢店",
-		"address": "埼玉県所沢市日吉町3−7",
+		"address": "埼玉県所沢市日吉町3-7",
 		"lat": 35.7880928,
 		"lng": 139.4723684,
 		"cabinets": [
@@ -22428,7 +22487,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "タイトーステーション 旭サンモール店",
-		"address": "千葉県旭市イ−2676−1　サンモール3F",
+		"address": "千葉県旭市イ-2676-1　サンモール3F",
 		"lat": 35.72482259499993,
 		"lng": 140.65930192506175,
 		"cabinets": [
@@ -22449,7 +22508,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "タイトーステーション 柏店",
-		"address": "千葉県柏市柏2−3−1フーサワビル",
+		"address": "千葉県柏市柏2-3-1フーサワビル",
 		"lat": 35.8613823,
 		"lng": 139.9727044,
 		"cabinets": [
@@ -22476,7 +22535,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション 池袋西口店",
-		"address": "東京都豊島区西池袋1−15−9第一西池ビル",
+		"address": "東京都豊島区西池袋1-15-9第一西池ビル",
 		"lat": 35.7305503,
 		"lng": 139.7097415,
 		"cabinets": [
@@ -22527,7 +22586,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション 渋谷店",
-		"address": "東京都渋谷区渋谷1−24−12渋谷東映プラザ",
+		"address": "東京都渋谷区渋谷1-24-12渋谷東映プラザ",
 		"lat": 35.65985204002188,
 		"lng": 139.70199283743432,
 		"cabinets": [
@@ -22554,7 +22613,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション 町田店",
-		"address": "東京都町田市原町田6−21−23　松山ビル1階",
+		"address": "東京都町田市原町田6-21-23　松山ビル1階",
 		"lat": 35.542713244142064,
 		"lng": 139.44848605277866,
 		"cabinets": [
@@ -22581,7 +22640,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "タイトーステーション 盛岡マッハランド店",
-		"address": "岩手県盛岡市上堂1−2−38マッハランド内",
+		"address": "岩手県盛岡市上堂1-2-38マッハランド内",
 		"lat": 39.723165360686494,
 		"lng": 141.12645175449222,
 		"cabinets": [
@@ -22605,7 +22664,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション 秋葉原店",
-		"address": "東京都千代田区外神田4−2−2貴三ビル",
+		"address": "東京都千代田区外神田4-2-2貴三ビル",
 		"lat": 35.70022192831575,
 		"lng": 139.77171785031453,
 		"cabinets": [
@@ -22632,7 +22691,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "タイトーステーション 船橋店",
-		"address": "千葉県船橋市本町1−6−1",
+		"address": "千葉県船橋市本町1-6-1",
 		"lat": 35.6998912,
 		"lng": 139.9859705,
 		"cabinets": [
@@ -22659,7 +22718,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "タイトーステーション 藤沢店",
-		"address": "神奈川県藤沢市南藤沢21−1",
+		"address": "神奈川県藤沢市南藤沢21-1",
 		"lat": 35.3372817,
 		"lng": 139.4873362,
 		"cabinets": [
@@ -22704,7 +22763,7 @@
 		"country": "JP",
 		"area": "石川県",
 		"storeName": "タイトーステーション 金沢店",
-		"address": "石川県金沢市片町2−1−7宇都宮片町ビル",
+		"address": "石川県金沢市片町2-1-7宇都宮片町ビル",
 		"lat": 36.5613365,
 		"lng": 136.6529997,
 		"cabinets": [
@@ -22728,7 +22787,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "タイトーステーション 難波店",
-		"address": "大阪府大阪市中央区難波千日前15−12",
+		"address": "大阪府大阪市中央区難波千日前15-12",
 		"lat": 34.6633633,
 		"lng": 135.5031909,
 		"cabinets": [
@@ -22755,7 +22814,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーションBIGFUN平和島店",
-		"address": "東京都大田区平和島1丁目1−1BIGFUN平和島",
+		"address": "東京都大田区平和島1丁目1-1BIGFUN平和島",
 		"lat": 35.584355180861806,
 		"lng": 139.74085188783556,
 		"cabinets": [
@@ -22779,7 +22838,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "タイトーステーションフェドラ大須店",
-		"address": "愛知県名古屋市中区大須3−30−31",
+		"address": "愛知県名古屋市中区大須3-30-31",
 		"lat": 35.1594771,
 		"lng": 136.9054347,
 		"cabinets": [
@@ -22851,7 +22910,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "タイトーステーション仙台名掛丁店",
-		"address": "宮城県仙台市青葉区中央1−7−13",
+		"address": "宮城県仙台市青葉区中央1-7-13",
 		"lat": 38.26194339084924,
 		"lng": 140.87920762271915,
 		"cabinets": [
@@ -22881,7 +22940,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション国分寺店",
-		"address": "東京都国分寺市本町3−5−11",
+		"address": "東京都国分寺市本町3-5-11",
 		"lat": 35.7007309,
 		"lng": 139.4813627,
 		"cabinets": [
@@ -22911,7 +22970,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "タイトーステーション大阪日本橋店",
-		"address": "大阪府大阪市浪速区日本橋4−9−14",
+		"address": "大阪府大阪市浪速区日本橋4-9-14",
 		"lat": 34.66039311243442,
 		"lng": 135.50614555767208,
 		"cabinets": [
@@ -22938,7 +22997,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "タイトーステーション広島本通店",
-		"address": "広島県広島市中区本通3−5せらかぐ本通ビル",
+		"address": "広島県広島市中区本通3-5せらかぐ本通ビル",
 		"lat": 34.39279837443898,
 		"lng": 132.4603899502972,
 		"cabinets": [
@@ -22962,7 +23021,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "タイトーステーション広島紙屋町店",
-		"address": "広島県広島市中区紙屋町2−2−21",
+		"address": "広島県広島市中区紙屋町2-2-21",
 		"lat": 34.39405386033357,
 		"lng": 132.4560507717756,
 		"cabinets": [
@@ -23013,7 +23072,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "タイトーステーション摂津富田店",
-		"address": "大阪府高槻市大畑町13−1　イオン摂津富田店2階",
+		"address": "大阪府高槻市大畑町13-1　イオン摂津富田店2階",
 		"lat": 34.8374982,
 		"lng": 135.5894744,
 		"cabinets": [
@@ -23037,7 +23096,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション新宿東口店",
-		"address": "東京都新宿区新宿3−22−7　指田ビル",
+		"address": "東京都新宿区新宿3-22-7　指田ビル",
 		"lat": 35.69328019150724,
 		"lng": 139.7015307668995,
 		"cabinets": [
@@ -23091,7 +23150,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "タイトーステーション札幌狸小路2丁目店",
-		"address": "北海道札幌市中央区南3条西2丁目−14",
+		"address": "北海道札幌市中央区南3条西2丁目-14",
 		"lat": 43.05733562965091,
 		"lng": 141.35545295092618,
 		"cabinets": [
@@ -23118,7 +23177,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "タイトーステーション横浜西口五番街店",
-		"address": "神奈川県横浜市西区南幸1−12ー9",
+		"address": "神奈川県横浜市西区南幸1-12ー9",
 		"lat": 35.4646858,
 		"lng": 139.6195818,
 		"cabinets": [
@@ -23166,7 +23225,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "タイトーステーション海老名ビナウォーク店",
-		"address": "神奈川県海老名市中央1−18−1　ビナウォーク6番館2F",
+		"address": "神奈川県海老名市中央1-18-1　ビナウォーク6番館2F",
 		"lat": 35.4527589,
 		"lng": 139.3956832,
 		"cabinets": [
@@ -23193,7 +23252,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "タイトーステーション溝の口",
-		"address": "神奈川県川崎市高津区溝口1−11−8OKKA634ビル3階",
+		"address": "神奈川県川崎市高津区溝口1-11-8OKKA634ビル3階",
 		"lat": 35.6002204,
 		"lng": 139.6124232,
 		"cabinets": [
@@ -23223,7 +23282,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "タイトーステーション福岡天神店",
-		"address": "福岡県福岡市中央区天神2−6−35サザンクロスビル",
+		"address": "福岡県福岡市中央区天神2-6-35サザンクロスビル",
 		"lat": 33.5896519,
 		"lng": 130.3973464,
 		"cabinets": [
@@ -23250,7 +23309,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション立川北口店",
-		"address": "東京都立川市曙町2−4−5クリサス立川2・3F",
+		"address": "東京都立川市曙町2-4-5クリサス立川2・3F",
 		"lat": 35.6991102,
 		"lng": 139.4120958,
 		"cabinets": [
@@ -23280,7 +23339,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトーステーション錦糸町楽天地店",
-		"address": "東京都墨田区江東橋4−27−14楽天地ビルB1F",
+		"address": "東京都墨田区江東橋4-27-14楽天地ビルB1F",
 		"lat": 35.6964979,
 		"lng": 139.815807,
 		"cabinets": [
@@ -23331,7 +23390,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "タイトー新宿南口ゲームワールド店",
-		"address": "東京都新宿区新宿3−35−8",
+		"address": "東京都新宿区新宿3-35-8",
 		"lat": 35.68986596324073,
 		"lng": 139.70225423802867,
 		"cabinets": [
@@ -23496,7 +23555,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "チャリオット五井店",
-		"address": "千葉県市原市五井中央西2−1−2",
+		"address": "千葉県市原市五井中央西2-1-2",
 		"lat": 35.51361109629973,
 		"lng": 140.0898120710251,
 		"cabinets": [
@@ -23886,7 +23945,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "テクモピア伊丹",
-		"address": "兵庫県伊丹市藤ノ木1−1−1イオンモール伊丹3F",
+		"address": "兵庫県伊丹市藤ノ木1-1-1イオンモール伊丹3F",
 		"lat": 34.78136480341226,
 		"lng": 135.42393823652344,
 		"cabinets": [
@@ -23967,7 +24026,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ドットコム葛西",
-		"address": "東京都江戸川区中葛西3−35−5",
+		"address": "東京都江戸川区中葛西3-35-5",
 		"lat": 35.664342788425145,
 		"lng": 139.87218898159733,
 		"cabinets": [
@@ -24111,7 +24170,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "トムソーヤのなかまたち藻岩店",
-		"address": "北海道札幌市南区川治二条2−1−1イオン札幌藻岩店",
+		"address": "北海道札幌市南区川治二条2-1-1イオン札幌藻岩店",
 		"lat": 42.999313,
 		"lng": 141.336483,
 		"cabinets": [
@@ -24132,7 +24191,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "トムソーヤの仲間たちアリオ市原",
-		"address": "千葉県市原市更級4−3−2アリオ市原店2F",
+		"address": "千葉県市原市更級4-3-2アリオ市原店2F",
 		"lat": 35.50812992475687,
 		"lng": 140.10163276881713,
 		"cabinets": [
@@ -24186,7 +24245,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "トライセン中津店",
-		"address": "大分県中津市下池永67−3",
+		"address": "大分県中津市下池永67-3",
 		"lat": 33.589677614707064,
 		"lng": 131.2110359533035,
 		"cabinets": [
@@ -24213,7 +24272,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "トライセン萩原",
-		"address": "大分県大分市萩原4−227−7",
+		"address": "大分県大分市萩原4-227-7",
 		"lat": 33.2491774,
 		"lng": 131.6436745,
 		"cabinets": [
@@ -24384,7 +24443,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "ドリームキャンディ",
-		"address": "三重県伊賀市小田町711−1",
+		"address": "三重県伊賀市小田町711-1",
 		"lat": 34.7752694,
 		"lng": 136.12279390000003,
 		"cabinets": [
@@ -24474,7 +24533,7 @@
 		"country": "JP",
 		"area": "宮崎県",
 		"storeName": "ドリームランド宮崎ナナイロ",
-		"address": "宮崎県宮崎市橘通西3−10−32宮崎ナナイロ西館3F",
+		"address": "宮崎県宮崎市橘通西3-10-32宮崎ナナイロ西館3F",
 		"lat": 31.9160367,
 		"lng": 131.4227644,
 		"cabinets": [
@@ -24498,7 +24557,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "トレジャーサバイバル",
-		"address": "山形県山形市北町2−2−45",
+		"address": "山形県山形市北町2-2-45",
 		"lat": 38.268743,
 		"lng": 140.32938,
 		"cabinets": [
@@ -24642,7 +24701,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "ネオブラボー",
-		"address": "山口県防府市高倉1−3−30",
+		"address": "山口県防府市高倉1-3-30",
 		"lat": 34.0549567,
 		"lng": 131.5591985,
 		"cabinets": [
@@ -24741,7 +24800,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ハイテクランドセガ渋谷",
-		"address": "東京都渋谷区渋谷1−14−14EST1階・7階",
+		"address": "東京都渋谷区渋谷1-14-14EST1階・7階",
 		"lat": 35.6600164,
 		"lng": 139.7025897,
 		"cabinets": [
@@ -24969,7 +25028,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "パスカランド博多店",
-		"address": "福岡県福岡市東区東浜1−1−1ゆめタウン博多店2階",
+		"address": "福岡県福岡市東区東浜1-1-1ゆめタウン博多店2階",
 		"lat": 33.6122355,
 		"lng": 130.4123165,
 		"cabinets": [
@@ -24996,7 +25055,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "パスカランド大川店",
-		"address": "福岡県大川市上巻430−1ゆめタウン2F",
+		"address": "福岡県大川市上巻430-1ゆめタウン2F",
 		"lat": 33.2027312,
 		"lng": 130.3880983,
 		"cabinets": [
@@ -25023,7 +25082,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "パスカランド大牟田店",
-		"address": "福岡県大牟田市旭町2丁目28−1",
+		"address": "福岡県大牟田市旭町2丁目28-1",
 		"lat": 33.036694094680264,
 		"lng": 130.4538265424667,
 		"cabinets": [
@@ -25104,7 +25163,7 @@
 		"country": "JP",
 		"area": "佐賀県",
 		"storeName": "パスカランド鳥栖",
-		"address": "佐賀県鳥栖市本鳥栖町537−1フレスポ鳥栖店2階",
+		"address": "佐賀県鳥栖市本鳥栖町537-1フレスポ鳥栖店2階",
 		"lat": 33.3758911,
 		"lng": 130.5168476,
 		"cabinets": [
@@ -25131,7 +25190,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "パスカランド黒崎店",
-		"address": "福岡県北九州市八幡西区西曲里町3−1",
+		"address": "福岡県北九州市八幡西区西曲里町3-1",
 		"lat": 33.859785,
 		"lng": 130.7602544,
 		"cabinets": [
@@ -25158,7 +25217,7 @@
 		"country": "JP",
 		"area": "熊本県",
 		"storeName": "パスカワールドグリーンランド店",
-		"address": "熊本県荒尾市本井手1574−54",
+		"address": "熊本県荒尾市本井手1574-54",
 		"lat": 32.9878473,
 		"lng": 130.4712114,
 		"cabinets": [
@@ -25209,7 +25268,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "パラボランド上尾ショーサンプラザ店",
-		"address": "埼玉県上尾市谷津2−1−1ショーサンプラザ5階",
+		"address": "埼玉県上尾市谷津2-1-1ショーサンプラザ5階",
 		"lat": 35.9719968,
 		"lng": 139.58857,
 		"cabinets": [
@@ -25281,7 +25340,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "パルケ・デ・アミーゴ!山形店",
-		"address": "山形県山形市嶋北1−3−1",
+		"address": "山形県山形市嶋北1-3-1",
 		"lat": 38.2836662,
 		"lng": 140.3216001,
 		"cabinets": [
@@ -25323,7 +25382,7 @@
 		"country": "JP",
 		"area": "京都府",
 		"storeName": "パルケ上賀茂店",
-		"address": "京都府京都市北区上賀茂西河原1−1",
+		"address": "京都府京都市北区上賀茂西河原1-1",
 		"lat": 35.0669415,
 		"lng": 135.7460749,
 		"cabinets": [
@@ -25422,7 +25481,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "ハローズガーデン新三田店",
-		"address": "兵庫県三田市けやき台1−6−4三田ウッディタウンサティ2番街",
+		"address": "兵庫県三田市けやき台1-6-4三田ウッディタウンサティ2番街",
 		"lat": 34.9081575,
 		"lng": 135.18615750000004,
 		"cabinets": [
@@ -25470,7 +25529,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "ハローズガーデン長岡店",
-		"address": "新潟県長岡市千秋2−278アピタリバーサイド千秋長岡店2F",
+		"address": "新潟県長岡市千秋2-278アピタリバーサイド千秋長岡店2F",
 		"lat": 37.4607294,
 		"lng": 138.8267708,
 		"cabinets": [
@@ -25491,7 +25550,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "バローランド中津川店",
-		"address": "岐阜県中津川市淀川町3−8ルビットタウン2F",
+		"address": "岐阜県中津川市淀川町3-8ルビットタウン2F",
 		"lat": 35.4982192,
 		"lng": 137.5077693,
 		"cabinets": [
@@ -25512,7 +25571,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "バンバン衣山店",
-		"address": "愛媛県松山市衣山1−248−1",
+		"address": "愛媛県松山市衣山1-248-1",
 		"lat": 33.8524719,
 		"lng": 132.7457465,
 		"cabinets": [
@@ -25539,7 +25598,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "ビーカム成沢店",
-		"address": "山形県山形市成沢西5−3−27",
+		"address": "山形県山形市成沢西5-3-27",
 		"lat": 38.2085455,
 		"lng": 140.3177274,
 		"cabinets": [
@@ -25593,7 +25652,7 @@
 		"country": "JP",
 		"area": "和歌山県",
 		"storeName": "ピタゴラス和歌山",
-		"address": "和歌山県和歌山市土入73−1",
+		"address": "和歌山県和歌山市土入73-1",
 		"lat": 34.2528724,
 		"lng": 135.1456279,
 		"cabinets": [
@@ -25656,7 +25715,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ビデオゲームミュージアムロボット深谷店",
-		"address": "埼玉県深谷市上柴町西4−12−1",
+		"address": "埼玉県深谷市上柴町西4-12-1",
 		"lat": 36.17963922001598,
 		"lng": 139.29880125952457,
 		"cabinets": [
@@ -25851,7 +25910,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "ピンクパンサー土浦店",
-		"address": "茨城県土浦市木田余4585−3",
+		"address": "茨城県土浦市木田余4585-3",
 		"lat": 36.1065463,
 		"lng": 140.2151975,
 		"cabinets": [
@@ -25971,7 +26030,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ファンタジーウエストタウン西尾店",
-		"address": "愛知県西尾市高鼻町3−23−9ヴェルサウォーク西尾店3F",
+		"address": "愛知県西尾市高鼻町3-23-9ヴェルサウォーク西尾店3F",
 		"lat": 34.8633981,
 		"lng": 137.0593664,
 		"cabinets": [
@@ -25992,7 +26051,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "ファンタジードーム八戸",
-		"address": "青森県八戸市江陽2−14−1",
+		"address": "青森県八戸市江陽2-14-1",
 		"lat": 40.52187214782014,
 		"lng": 141.50270911468044,
 		"cabinets": [
@@ -26043,7 +26102,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ファンタジープラザ名古屋",
-		"address": "愛知県名古屋市北区玄馬町234−1ﾄﾞﾝｷﾎｰﾃ名古屋本店2階",
+		"address": "愛知県名古屋市北区玄馬町234-1ﾄﾞﾝｷﾎｰﾃ名古屋本店2階",
 		"lat": 35.2264606,
 		"lng": 136.9089964,
 		"cabinets": [
@@ -26223,7 +26282,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "ふぇすたらんど五日市店",
-		"address": "広島県広島市佐伯区八幡1−24−17サンリブ五日市店2F",
+		"address": "広島県広島市佐伯区八幡1-24-17サンリブ五日市店2F",
 		"lat": 34.386820931562525,
 		"lng": 132.35833231399943,
 		"cabinets": [
@@ -26277,7 +26336,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "ふぇすたらんど倉敷マスカット店",
-		"address": "岡山県倉敷市松島1163−2山陽マルナカマスカット店別館3F",
+		"address": "岡山県倉敷市松島1163-2山陽マルナカマスカット店別館3F",
 		"lat": 34.62774331823515,
 		"lng": 133.8024727067932,
 		"cabinets": [
@@ -26379,7 +26438,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "ふぇすたらんど広店",
-		"address": "広島県呉市広本町2丁目17−1　イオン広店4F",
+		"address": "広島県呉市広本町2丁目17-1　イオン広店4F",
 		"lat": 34.2338435,
 		"lng": 132.6230721,
 		"cabinets": [
@@ -26427,7 +26486,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "ふぇすたらんど新居浜店",
-		"address": "愛媛県新居浜市上泉町12−1",
+		"address": "愛媛県新居浜市上泉町12-1",
 		"lat": 33.936321,
 		"lng": 133.3106012,
 		"cabinets": [
@@ -26604,7 +26663,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "フタバボウル泉大津店",
-		"address": "大阪府泉大津市松之浜町1−2−53",
+		"address": "大阪府泉大津市松之浜町1-2-53",
 		"lat": 34.51085831847596,
 		"lng": 135.4156271981476,
 		"cabinets": [
@@ -26658,7 +26717,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "フタバ図書アルティランド",
-		"address": "広島県広島市西区草津南4−7−1　アルパーク北棟2F",
+		"address": "広島県広島市西区草津南4-7-1　アルパーク北棟2F",
 		"lat": 34.375512,
 		"lng": 132.3933319,
 		"cabinets": [
@@ -26685,7 +26744,7 @@
 		"country": "JP",
 		"area": "京都府",
 		"storeName": "プラサカプコン京都店",
-		"address": "京都府京都市右京区西院追分町25−1イオンモール京都五条3F",
+		"address": "京都府京都市右京区西院追分町25-1イオンモール京都五条3F",
 		"lat": 34.9974534,
 		"lng": 135.7273526,
 		"cabinets": [
@@ -26712,7 +26771,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "プラサカプコン吉祥寺店",
-		"address": "東京都武蔵野市吉祥寺本町1−10−1いなりやビル地下1階",
+		"address": "東京都武蔵野市吉祥寺本町1-10-1いなりやビル地下1階",
 		"lat": 35.705361,
 		"lng": 139.5790984,
 		"cabinets": [
@@ -26739,7 +26798,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "プラサカプコン大分店",
-		"address": "大分県大分市公園通り西2−1パークプレイス大分2F",
+		"address": "大分県大分市公園通り西2-1パークプレイス大分2F",
 		"lat": 33.195360735859744,
 		"lng": 131.65792353096617,
 		"cabinets": [
@@ -26826,7 +26885,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "プラサカプコン広島店",
-		"address": "広島県広島市佐伯区石内東4丁目1−1ジアウトレット広島",
+		"address": "広島県広島市佐伯区石内東4丁目1-1ジアウトレット広島",
 		"lat": 34.4117273,
 		"lng": 132.3976117,
 		"cabinets": [
@@ -26934,7 +26993,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "プラサカプコン新居浜店",
-		"address": "愛媛県新居浜市前田町8−8イオンモール新居浜2F",
+		"address": "愛媛県新居浜市前田町8-8イオンモール新居浜2F",
 		"lat": 33.9537705,
 		"lng": 133.2688546,
 		"cabinets": [
@@ -27024,7 +27083,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "プラサカプコン直方店",
-		"address": "福岡県直方市湯野原2−1−1イオンモール直方2F",
+		"address": "福岡県直方市湯野原2-1-1イオンモール直方2F",
 		"lat": 33.7689496,
 		"lng": 130.7497505,
 		"cabinets": [
@@ -27108,7 +27167,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "プラサカプコン羽生店",
-		"address": "埼玉県羽生市川崎2−281−3イオンモール羽生2階",
+		"address": "埼玉県羽生市川崎2-281-3イオンモール羽生2階",
 		"lat": 36.14286116797027,
 		"lng": 139.54274602222904,
 		"cabinets": [
@@ -27162,7 +27221,7 @@
 		"country": "JP",
 		"area": "高知県",
 		"storeName": "プラサカプコン高知",
-		"address": "高知県高知市秦南町1−4−8イオンモール高知3F",
+		"address": "高知県高知市秦南町1-4-8イオンモール高知3F",
 		"lat": 33.576424787411405,
 		"lng": 133.54245958470779,
 		"cabinets": [
@@ -27258,7 +27317,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "プリモピア鴻巣店",
-		"address": "埼玉県鴻巣市北新宿225−1ウニクス鴻巣1階",
+		"address": "埼玉県鴻巣市北新宿225-1ウニクス鴻巣1階",
 		"lat": 36.1122808,
 		"lng": 139.4400077,
 		"cabinets": [
@@ -27333,7 +27392,7 @@
 		"country": "JP",
 		"area": "山梨県",
 		"storeName": "プレイタウンパル富士吉田店",
-		"address": "山梨県富士吉田市新西原4−12−15",
+		"address": "山梨県富士吉田市新西原4-12-15",
 		"lat": 35.48310524082727,
 		"lng": 138.7796890484101,
 		"cabinets": [
@@ -27510,7 +27569,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "プレイランド大和鶴間",
-		"address": "神奈川県大和市下鶴間1−3−1イトーヨーカドー大和鶴間店3F",
+		"address": "神奈川県大和市下鶴間1-3-1イトーヨーカドー大和鶴間店3F",
 		"lat": 35.4905089,
 		"lng": 139.457133,
 		"cabinets": [
@@ -27591,7 +27650,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "プレビ　アリオ橋本店",
-		"address": "神奈川県相模原市緑区大山町1−22アリオ橋本店内2階",
+		"address": "神奈川県相模原市緑区大山町1-22アリオ橋本店内2階",
 		"lat": 35.5910509,
 		"lng": 139.3497503,
 		"cabinets": [
@@ -27639,7 +27698,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "プレビ　トナリエ四日市",
-		"address": "三重県四日市市安島1−3−31トナリエ5階",
+		"address": "三重県四日市市安島1-3-31トナリエ5階",
 		"lat": 34.9686061,
 		"lng": 136.6166547,
 		"cabinets": [
@@ -27669,7 +27728,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "プレビ　ららぽーとTOKYOーBAY店",
-		"address": "千葉県船橋市浜町2−1−1ららぽーとTOKYOBAY西館3階",
+		"address": "千葉県船橋市浜町2-1-1ららぽーとTOKYOBAY西館3階",
 		"lat": 35.68628059702499,
 		"lng": 139.99039273439325,
 		"cabinets": [
@@ -27807,7 +27866,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "ペップ魚町",
-		"address": "福岡県北九州市小倉北区魚町2−4−20",
+		"address": "福岡県北九州市小倉北区魚町2-4-20",
 		"lat": 33.883906839062185,
 		"lng": 130.88031085893022,
 		"cabinets": [
@@ -28047,7 +28106,7 @@
 		"country": "JP",
 		"area": "香川県",
 		"storeName": "マックスプラザ善通寺",
-		"address": "香川県善通寺市中村町1798−2",
+		"address": "香川県善通寺市中村町1798-2",
 		"lat": 34.24360483098066,
 		"lng": 133.76401476256558,
 		"cabinets": [
@@ -28101,7 +28160,7 @@
 		"country": "JP",
 		"area": "香川県",
 		"storeName": "まるゲ",
-		"address": "香川県高松市南新町8−12",
+		"address": "香川県高松市南新町8-12",
 		"lat": 34.3391520789328,
 		"lng": 134.0493515386578,
 		"cabinets": [
@@ -28155,7 +28214,7 @@
 		"country": "JP",
 		"area": "鹿児島県",
 		"storeName": "マンガ倉庫鹿屋店",
-		"address": "鹿児島県鹿屋市寿8丁目714−2",
+		"address": "鹿児島県鹿屋市寿8丁目714-2",
 		"lat": 31.3833665,
 		"lng": 130.8765948,
 		"cabinets": [
@@ -28230,7 +28289,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ムー大陸西尾シャオ店",
-		"address": "愛知県西尾市下町御城下23−1シャオ2F",
+		"address": "愛知県西尾市下町御城下23-1シャオ2F",
 		"lat": 34.867782767364666,
 		"lng": 137.0454314619019,
 		"cabinets": [
@@ -28257,7 +28316,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ムトス相模原店",
-		"address": "神奈川県相模原市中央区中央2−1−5",
+		"address": "神奈川県相模原市中央区中央2-1-5",
 		"lat": 35.5735451,
 		"lng": 139.3710572,
 		"cabinets": [
@@ -28320,7 +28379,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "メジャーロード白根",
-		"address": "新潟県新潟市南区上下諏訪木論地948−2",
+		"address": "新潟県新潟市南区上下諏訪木論地948-2",
 		"lat": 37.76059713396011,
 		"lng": 139.02221394183346,
 		"cabinets": [
@@ -28374,7 +28433,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "モーリーファンタジーf 岐阜",
-		"address": "岐阜県岐阜市正木中1−2−1マーサ21北館3F",
+		"address": "岐阜県岐阜市正木中1-2-1マーサ21北館3F",
 		"lat": 35.4484474,
 		"lng": 136.7449465,
 		"cabinets": [
@@ -28428,7 +28487,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "モーリーファンタジーf 新瑞橋",
-		"address": "愛知県名古屋市南区菊住1丁目7−10　イオンモール新瑞橋店3F",
+		"address": "愛知県名古屋市南区菊住1丁目7-10　イオンモール新瑞橋店3F",
 		"lat": 35.1147088,
 		"lng": 136.93525,
 		"cabinets": [
@@ -28458,7 +28517,7 @@
 		"country": "JP",
 		"area": "香川県",
 		"storeName": "モーリーファンタジーf 綾川",
-		"address": "香川県綾歌郡綾川町萱原822−1　イオン綾川SC3F",
+		"address": "香川県綾歌郡綾川町萱原822-1　イオン綾川SC3F",
 		"lat": 34.2516659,
 		"lng": 133.931004,
 		"cabinets": [
@@ -28488,7 +28547,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "モーリーファンタジーf 茨木",
-		"address": "大阪府茨木市松ケ本町8−30−5　イオンSC4F",
+		"address": "大阪府茨木市松ケ本町8-30-5　イオンSC4F",
 		"lat": 34.810615223375024,
 		"lng": 135.55853846137688,
 		"cabinets": [
@@ -28518,7 +28577,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "モーリーファンタジーf加西北条",
-		"address": "兵庫県加西市北条町北条308−1イオン加西北条2F",
+		"address": "兵庫県加西市北条町北条308-1イオン加西北条2F",
 		"lat": 34.9304411,
 		"lng": 134.8284644,
 		"cabinets": [
@@ -28545,7 +28604,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "モーリーファンタジーf富士南",
-		"address": "静岡県富士市鮫島118−10　イオンタウン富士南2F",
+		"address": "静岡県富士市鮫島118-10　イオンタウン富士南2F",
 		"lat": 35.139724558763696,
 		"lng": 138.6758022012723,
 		"cabinets": [
@@ -28575,7 +28634,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "モーリーファンタジーf広島祇園",
-		"address": "広島県広島市安佐南区祇園3−2−1　イオン広島祇園SC3F",
+		"address": "広島県広島市安佐南区祇園3-2-1　イオン広島祇園SC3F",
 		"lat": 34.44404557818127,
 		"lng": 132.46155085337296,
 		"cabinets": [
@@ -28635,7 +28694,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "モーリーファンタジーいわき",
-		"address": "福島県いわき市平字三倉68−1イオン3F",
+		"address": "福島県いわき市平字三倉68-1イオン3F",
 		"lat": 37.0510809,
 		"lng": 140.8981859,
 		"cabinets": [
@@ -28713,7 +28772,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "モーリーファンタジー三沢",
-		"address": "青森県三沢市松園町3−10−1ビードルプラザ三沢店1F",
+		"address": "青森県三沢市松園町3-10-1ビードルプラザ三沢店1F",
 		"lat": 40.6749926,
 		"lng": 141.3630299,
 		"cabinets": [
@@ -28734,7 +28793,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "モーリーファンタジー三笠店",
-		"address": "北海道三笠市岡山1059−1スーパーセンター1F",
+		"address": "北海道三笠市岡山1059-1スーパーセンター1F",
 		"lat": 43.2435815,
 		"lng": 141.8055111,
 		"cabinets": [
@@ -28779,7 +28838,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "モーリーファンタジー下妻",
-		"address": "茨城県下妻市掘籠972−1イオン下妻店2F",
+		"address": "茨城県下妻市掘籠972-1イオン下妻店2F",
 		"lat": 36.190045892870664,
 		"lng": 139.98972162229006,
 		"cabinets": [
@@ -28896,7 +28955,7 @@
 		"country": "JP",
 		"area": "宮崎県",
 		"storeName": "モーリーファンタジー延岡",
-		"address": "宮崎県延岡市旭町2−2−1イオン延岡店2F",
+		"address": "宮崎県延岡市旭町2-2-1イオン延岡店2F",
 		"lat": 32.5723427,
 		"lng": 131.6700874,
 		"cabinets": [
@@ -28917,7 +28976,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "モーリーファンタジー明石店",
-		"address": "兵庫県明石市大久保町ゆりのき通り3−3−1イオン明石3番街3F",
+		"address": "兵庫県明石市大久保町ゆりのき通り3-3-1イオン明石3番街3F",
 		"lat": 34.67862389636021,
 		"lng": 134.93512363372952,
 		"cabinets": [
@@ -28968,7 +29027,7 @@
 		"country": "JP",
 		"area": "山形県",
 		"storeName": "モーリーファンタジー東根",
-		"address": "山形県東根市さくらんぼ駅前3−7−15ｲｵﾝ東根店2F",
+		"address": "山形県東根市さくらんぼ駅前3-7-15ｲｵﾝ東根店2F",
 		"lat": 38.4270881,
 		"lng": 140.3874879,
 		"cabinets": [
@@ -29013,7 +29072,7 @@
 		"country": "JP",
 		"area": "秋田県",
 		"storeName": "モーリーファンタジー能代",
-		"address": "秋田県能代市柳町11−1　3F",
+		"address": "秋田県能代市柳町11-1　3F",
 		"lat": 40.20909,
 		"lng": 140.0246518,
 		"cabinets": [
@@ -29034,7 +29093,7 @@
 		"country": "JP",
 		"area": "沖縄県",
 		"storeName": "モーリーファンタジー那覇",
-		"address": "沖縄県那覇市金城5−10−2　イオン那覇店3F",
+		"address": "沖縄県那覇市金城5-10-2　イオン那覇店3F",
 		"lat": 26.1970331,
 		"lng": 127.6658532,
 		"cabinets": [
@@ -29064,7 +29123,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "モーリーファンタジー長吉",
-		"address": "大阪府大阪市平野区長吉長原西1−1−10　イオン長吉4F",
+		"address": "大阪府大阪市平野区長吉長原西1-1-10　イオン長吉4F",
 		"lat": 34.6082731,
 		"lng": 135.5661424,
 		"cabinets": [
@@ -29106,7 +29165,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "モーリーファンタジー館山",
-		"address": "千葉県館山市八幡545−1　イオン館山店1F",
+		"address": "千葉県館山市八幡545-1　イオン館山店1F",
 		"lat": 35.0082482,
 		"lng": 139.8620603,
 		"cabinets": [
@@ -29157,7 +29216,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "モンテカルロ",
-		"address": "埼玉県深谷市西島3−1−2",
+		"address": "埼玉県深谷市西島3-1-2",
 		"lat": 36.1919914,
 		"lng": 139.2805057,
 		"cabinets": [
@@ -29238,7 +29297,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "ユーズランド下田店",
-		"address": "青森県上北郡おいらせ町中野平40−1イオンモール下田1F",
+		"address": "青森県上北郡おいらせ町中野平40-1イオンモール下田1F",
 		"lat": 40.6014566,
 		"lng": 141.41778390000002,
 		"cabinets": [
@@ -29406,7 +29465,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ユーズランド春日部店",
-		"address": "埼玉県春日部市下柳420−1イオンモール春日部2F",
+		"address": "埼玉県春日部市下柳420-1イオンモール春日部2F",
 		"lat": 35.9885734,
 		"lng": 139.7898122,
 		"cabinets": [
@@ -29433,7 +29492,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ユーズランド東浦店",
-		"address": "愛知県知多郡東浦町緒川旭13−2イオンモール東浦2F",
+		"address": "愛知県知多郡東浦町緒川旭13-2イオンモール東浦2F",
 		"lat": 34.97813181192088,
 		"lng": 136.9742667341461,
 		"cabinets": [
@@ -29460,7 +29519,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "ユーズランド水戸内原店",
-		"address": "茨城県水戸市内原2−1イオンモール水戸内原2F",
+		"address": "茨城県水戸市内原2-1イオンモール水戸内原2F",
 		"lat": 36.37396288950651,
 		"lng": 140.35838955980228,
 		"cabinets": [
@@ -29574,7 +29633,7 @@
 		"country": "JP",
 		"area": "山口県",
 		"storeName": "ゆめシティ　ゆめパーク",
-		"address": "山口県下関市伊倉新町3−1−1",
+		"address": "山口県下関市伊倉新町3-1-1",
 		"lat": 34.006734845052264,
 		"lng": 130.93405505767214,
 		"cabinets": [
@@ -29697,7 +29756,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "ラウンドワンJR尼崎駅前店",
-		"address": "兵庫県尼崎市潮江1−4−5プラストいきいき館4階",
+		"address": "兵庫県尼崎市潮江1-4-5プラストいきいき館4階",
 		"lat": 34.7334158491698,
 		"lng": 135.43297192090154,
 		"cabinets": [
@@ -29778,7 +29837,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワンさいたま・上里店",
-		"address": "埼玉県児玉郡上里町大字金久保394−1",
+		"address": "埼玉県児玉郡上里町大字金久保394-1",
 		"lat": 36.25998003590755,
 		"lng": 139.13743807354126,
 		"cabinets": [
@@ -29805,7 +29864,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワンさいたま・栗橋店",
-		"address": "埼玉県久喜市小右衛門192−1",
+		"address": "埼玉県久喜市小右衛門192-1",
 		"lat": 36.1235137,
 		"lng": 139.7151734,
 		"cabinets": [
@@ -29832,7 +29891,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワンさいたま・鴻巣店",
-		"address": "埼玉県鴻巣市箕田3163−7",
+		"address": "埼玉県鴻巣市箕田3163-7",
 		"lat": 36.0806388,
 		"lng": 139.4902256,
 		"cabinets": [
@@ -29889,7 +29948,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "ラウンドワンみえ川越インターチェンジ店",
-		"address": "三重県三重郡川越町南福崎851−1",
+		"address": "三重県三重郡川越町南福崎851-1",
 		"lat": 35.02290147217703,
 		"lng": 136.68352991904908,
 		"cabinets": [
@@ -29943,7 +30002,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワンららぽーと和泉店",
-		"address": "大阪府和泉市あゆみ野4−4−7　4階　42100番",
+		"address": "大阪府和泉市あゆみ野4-4-7　4階　42100番",
 		"lat": 34.4356803,
 		"lng": 135.4479088,
 		"cabinets": [
@@ -29997,7 +30056,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ラウンドワンららぽーと湘南平塚店",
-		"address": "神奈川県平塚市天沼10−13階 33280番",
+		"address": "神奈川県平塚市天沼10-13階 33280番",
 		"lat": 35.3379406,
 		"lng": 139.3560477,
 		"cabinets": [
@@ -30024,7 +30083,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワンわらび店",
-		"address": "埼玉県蕨市北町5−1−6",
+		"address": "埼玉県蕨市北町5-1-6",
 		"lat": 35.8307831,
 		"lng": 139.6742333,
 		"cabinets": [
@@ -30081,7 +30140,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワン上尾店",
-		"address": "埼玉県上尾市大字平塚917−1",
+		"address": "埼玉県上尾市大字平塚917-1",
 		"lat": 35.98573208623946,
 		"lng": 139.60784023306576,
 		"cabinets": [
@@ -30108,7 +30167,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ラウンドワン中川1号線店",
-		"address": "愛知県名古屋市中川区法蔵町2−23",
+		"address": "愛知県名古屋市中川区法蔵町2-23",
 		"lat": 35.1236443,
 		"lng": 136.8636045,
 		"cabinets": [
@@ -30192,7 +30251,7 @@
 		"country": "JP",
 		"area": "宮城県",
 		"storeName": "ラウンドワン仙台苦竹店",
-		"address": "宮城県仙台市宮城野区苦竹1−7−10",
+		"address": "宮城県仙台市宮城野区苦竹1-7-10",
 		"lat": 38.2680832,
 		"lng": 140.9172451,
 		"cabinets": [
@@ -30249,7 +30308,7 @@
 		"country": "JP",
 		"area": "佐賀県",
 		"storeName": "ラウンドワン佐賀店",
-		"address": "佐賀県佐賀市兵庫北4−2−1",
+		"address": "佐賀県佐賀市兵庫北4-2-1",
 		"lat": 33.2752276255775,
 		"lng": 130.30105511849365,
 		"cabinets": [
@@ -30276,7 +30335,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワン入間店",
-		"address": "埼玉県入間市小谷田3−7−25",
+		"address": "埼玉県入間市小谷田3-7-25",
 		"lat": 35.8279801,
 		"lng": 139.3760089,
 		"cabinets": [
@@ -30303,7 +30362,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ラウンドワン函館店",
-		"address": "北海道函館市西桔梗町848−11",
+		"address": "北海道函館市西桔梗町848-11",
 		"lat": 41.82463797010178,
 		"lng": 140.71751477301632,
 		"cabinets": [
@@ -30330,7 +30389,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "ラウンドワン前橋店",
-		"address": "群馬県前橋市天川大島町1101−1",
+		"address": "群馬県前橋市天川大島町1101-1",
 		"lat": 36.3687628,
 		"lng": 139.1052489,
 		"cabinets": [
@@ -30384,7 +30443,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン千日前店",
-		"address": "大阪府大阪市中央区難波1−3−1",
+		"address": "大阪府大阪市中央区難波1-3-1",
 		"lat": 34.6675295,
 		"lng": 135.5027825,
 		"cabinets": [
@@ -30438,7 +30497,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ラウンドワン半田店",
-		"address": "愛知県半田市瑞穂町6−7−8",
+		"address": "愛知県半田市瑞穂町6-7-8",
 		"lat": 34.88537600846208,
 		"lng": 136.94137621904906,
 		"cabinets": [
@@ -30465,7 +30524,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ラウンドワン南砂店",
-		"address": "東京都江東区南砂6−7−15トピレックプラザ4F",
+		"address": "東京都江東区南砂6-7-15トピレックプラザ4F",
 		"lat": 35.671843089516535,
 		"lng": 139.83697814669654,
 		"cabinets": [
@@ -30492,7 +30551,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "ラウンドワン博多半道橋店",
-		"address": "福岡県福岡市博多区半道橋2−2−8",
+		"address": "福岡県福岡市博多区半道橋2-2-8",
 		"lat": 33.584067,
 		"lng": 130.4383464,
 		"cabinets": [
@@ -30573,7 +30632,7 @@
 		"country": "JP",
 		"area": "和歌山県",
 		"storeName": "ラウンドワン和歌山店",
-		"address": "和歌山県和歌山市小雑賀739−3",
+		"address": "和歌山県和歌山市小雑賀739-3",
 		"lat": 34.19846120983911,
 		"lng": 135.1859699841309,
 		"cabinets": [
@@ -30627,7 +30686,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン堺中央環状店",
-		"address": "大阪府堺市東区石原町2−241",
+		"address": "大阪府堺市東区石原町2-241",
 		"lat": 34.5569759,
 		"lng": 135.5365126,
 		"cabinets": [
@@ -30681,7 +30740,7 @@
 		"country": "JP",
 		"area": "大分県",
 		"storeName": "ラウンドワン大分店",
-		"address": "大分県大分市萩原2−13−17",
+		"address": "大分県大分市萩原2-13-17",
 		"lat": 33.2489675,
 		"lng": 131.6402343,
 		"cabinets": [
@@ -30708,7 +30767,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワン大宮店",
-		"address": "埼玉県さいたま市大宮区宮町4−90−7",
+		"address": "埼玉県さいたま市大宮区宮町4-90-7",
 		"lat": 35.9108281,
 		"lng": 139.6254402,
 		"cabinets": [
@@ -30738,7 +30797,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "ラウンドワン大野城店",
-		"address": "福岡県大野城市御笠川1−18−16",
+		"address": "福岡県大野城市御笠川1-18-16",
 		"lat": 33.546419,
 		"lng": 130.4822611,
 		"cabinets": [
@@ -30765,7 +30824,7 @@
 		"country": "JP",
 		"area": "奈良県",
 		"storeName": "ラウンドワン奈良・ミナーラ店",
-		"address": "奈良県奈良市二条大路南1−3−1ミ・ナーラ5階",
+		"address": "奈良県奈良市二条大路南1-3-1ミ・ナーラ5階",
 		"lat": 34.68491160000001,
 		"lng": 135.80254049999996,
 		"cabinets": [
@@ -30792,7 +30851,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "ラウンドワン姫路飾磨店",
-		"address": "兵庫県姫路市飾磨区中島1−254",
+		"address": "兵庫県姫路市飾磨区中島1-254",
 		"lat": 34.7923295,
 		"lng": 134.6870919,
 		"cabinets": [
@@ -30819,7 +30878,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "ラウンドワン宇都宮店",
-		"address": "栃木県宇都宮市江曽島町2072−1",
+		"address": "栃木県宇都宮市江曽島町2072-1",
 		"lat": 36.5406864,
 		"lng": 139.8868934,
 		"cabinets": [
@@ -30846,7 +30905,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン守口店",
-		"address": "大阪府守口市佐太東町2−6−14ジャガーグリーン2F",
+		"address": "大阪府守口市佐太東町2-6-14ジャガーグリーン2F",
 		"lat": 34.75609546229841,
 		"lng": 135.5885314463104,
 		"cabinets": [
@@ -30876,7 +30935,7 @@
 		"country": "JP",
 		"area": "宮崎県",
 		"storeName": "ラウンドワン宮崎店",
-		"address": "宮崎県宮崎市中村東3−4−60",
+		"address": "宮崎県宮崎市中村東3-4-60",
 		"lat": 31.8953441,
 		"lng": 131.4175947,
 		"cabinets": [
@@ -30903,7 +30962,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "ラウンドワン富士店",
-		"address": "静岡県富士市八代町4−15",
+		"address": "静岡県富士市八代町4-15",
 		"lat": 35.153122547629536,
 		"lng": 138.6938122765887,
 		"cabinets": [
@@ -30960,7 +31019,7 @@
 		"country": "JP",
 		"area": "山梨県",
 		"storeName": "ラウンドワン山梨・石和店",
-		"address": "山梨県笛吹市石和町広瀬737−1",
+		"address": "山梨県笛吹市石和町広瀬737-1",
 		"lat": 35.6435384,
 		"lng": 138.6227229,
 		"cabinets": [
@@ -30990,7 +31049,7 @@
 		"country": "JP",
 		"area": "岡山県",
 		"storeName": "ラウンドワン岡山妹尾店",
-		"address": "岡山県岡山市南区妹尾3413−1",
+		"address": "岡山県岡山市南区妹尾3413-1",
 		"lat": 34.6230198,
 		"lng": 133.8695548,
 		"cabinets": [
@@ -31017,7 +31076,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン岸和田店",
-		"address": "大阪府岸和田市八阪町2−11−1",
+		"address": "大阪府岸和田市八阪町2-11-1",
 		"lat": 34.4565318,
 		"lng": 135.3885664,
 		"cabinets": [
@@ -31047,7 +31106,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ラウンドワン川崎大師店",
-		"address": "神奈川県川崎市川崎区殿町1−5−1",
+		"address": "神奈川県川崎市川崎区殿町1-5-1",
 		"lat": 35.5380415,
 		"lng": 139.7416951,
 		"cabinets": [
@@ -31074,7 +31133,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ラウンドワン市原店",
-		"address": "千葉県市原市八幡北町3−5−1",
+		"address": "千葉県市原市八幡北町3-5-1",
 		"lat": 35.5474924506885,
 		"lng": 140.1233713399506,
 		"cabinets": [
@@ -31101,7 +31160,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ラウンドワン市川鬼高店",
-		"address": "千葉県市川市鬼高4−1−3",
+		"address": "千葉県市川市鬼高4-1-3",
 		"lat": 35.71122068121047,
 		"lng": 139.92747949510647,
 		"cabinets": [
@@ -31131,7 +31190,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "ラウンドワン広島店",
-		"address": "広島県広島市中区立町3−11",
+		"address": "広島県広島市中区立町3-11",
 		"lat": 34.39370127708191,
 		"lng": 132.46010387420506,
 		"cabinets": [
@@ -31158,7 +31217,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ラウンドワン府中本町駅前",
-		"address": "東京都府中市本町1−13−3カネタビル",
+		"address": "東京都府中市本町1-13-3カネタビル",
 		"lat": 35.6672709,
 		"lng": 139.4774004,
 		"cabinets": [
@@ -31185,7 +31244,7 @@
 		"country": "JP",
 		"area": "徳島県",
 		"storeName": "ラウンドワン徳島・万代店",
-		"address": "徳島県徳島市万代町4−19−1",
+		"address": "徳島県徳島市万代町4-19-1",
 		"lat": 34.06479082315941,
 		"lng": 134.56467388530223,
 		"cabinets": [
@@ -31239,7 +31298,7 @@
 		"country": "JP",
 		"area": "新潟県",
 		"storeName": "ラウンドワン新潟店",
-		"address": "新潟県新潟市中央区美咲町2−1−38",
+		"address": "新潟県新潟市中央区美咲町2-1-38",
 		"lat": 37.88810958284381,
 		"lng": 139.01768674009077,
 		"cabinets": [
@@ -31266,7 +31325,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ラウンドワン旭川店",
-		"address": "北海道旭川市永山三条1−4−7",
+		"address": "北海道旭川市永山三条1-4-7",
 		"lat": 43.78637346773256,
 		"lng": 142.3974371227539,
 		"cabinets": [
@@ -31293,7 +31352,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "ラウンドワン朝霞店",
-		"address": "埼玉県朝霞市膝折町2−16−10",
+		"address": "埼玉県朝霞市膝折町2-16-10",
 		"lat": 35.7902754,
 		"lng": 139.5796457,
 		"cabinets": [
@@ -31350,7 +31409,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ラウンドワン札幌北21条店",
-		"address": "北海道札幌市東区北二十一条東1−1−21",
+		"address": "北海道札幌市東区北二十一条東1-1-21",
 		"lat": 43.086762669369904,
 		"lng": 141.34970463372952,
 		"cabinets": [
@@ -31380,7 +31439,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "ラウンドワン札幌白石本通店",
-		"address": "北海道札幌市白石区本通16丁目北1−50",
+		"address": "北海道札幌市白石区本通16丁目北1-50",
 		"lat": 43.0367922,
 		"lng": 141.43287808836055,
 		"cabinets": [
@@ -31407,7 +31466,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン東大阪店",
-		"address": "大阪府東大阪市若江南町1−2−12",
+		"address": "大阪府東大阪市若江南町1-2-12",
 		"lat": 34.6530441,
 		"lng": 135.6063264,
 		"cabinets": [
@@ -31437,7 +31496,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン東淀川店",
-		"address": "大阪府大阪市東淀川区菅原7−14−28",
+		"address": "大阪府大阪市東淀川区菅原7-14-28",
 		"lat": 34.7427577,
 		"lng": 135.5250375,
 		"cabinets": [
@@ -31464,7 +31523,7 @@
 		"country": "JP",
 		"area": "愛媛県",
 		"storeName": "ラウンドワン松山店",
-		"address": "愛媛県松山市東長戸1−3−10",
+		"address": "愛媛県松山市東長戸1-3-10",
 		"lat": 33.8665121,
 		"lng": 132.7515765,
 		"cabinets": [
@@ -31491,7 +31550,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ラウンドワン板橋店",
-		"address": "東京都板橋区相生町16−13",
+		"address": "東京都板橋区相生町16-13",
 		"lat": 35.7766273,
 		"lng": 139.6786153,
 		"cabinets": [
@@ -31518,7 +31577,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン枚方店",
-		"address": "大阪府枚方市高野道1−20−20",
+		"address": "大阪府枚方市高野道1-20-20",
 		"lat": 34.8432521,
 		"lng": 135.6986977,
 		"cabinets": [
@@ -31545,7 +31604,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン梅田店",
-		"address": "大阪府大阪市北区小松原町4−16",
+		"address": "大阪府大阪市北区小松原町4-16",
 		"lat": 34.703046035336456,
 		"lng": 135.5010681809856,
 		"cabinets": [
@@ -31572,7 +31631,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ラウンドワン横浜綱島店",
-		"address": "神奈川県横浜市港北区樽町2−6−40T-PLATZ内",
+		"address": "神奈川県横浜市港北区樽町2-6-40T-PLATZ内",
 		"lat": 35.5319981,
 		"lng": 139.6371792,
 		"cabinets": [
@@ -31602,7 +31661,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ラウンドワン横浜駅西口店",
-		"address": "神奈川県横浜市西区南幸2−8−16",
+		"address": "神奈川県横浜市西区南幸2-8-16",
 		"lat": 35.4639294,
 		"lng": 139.6179961,
 		"cabinets": [
@@ -31632,7 +31691,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ラウンドワン武蔵村山店",
-		"address": "東京都武蔵村山市伊奈平3−1−1",
+		"address": "東京都武蔵村山市伊奈平3-1-1",
 		"lat": 35.73532905260245,
 		"lng": 139.38236187909854,
 		"cabinets": [
@@ -31659,7 +31718,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ラウンドワン池袋店",
-		"address": "東京都豊島区東池袋1−14−1",
+		"address": "東京都豊島区東池袋1-14-1",
 		"lat": 35.73013524529164,
 		"lng": 139.71520489203067,
 		"cabinets": [
@@ -31719,7 +31778,7 @@
 		"country": "JP",
 		"area": "沖縄県",
 		"storeName": "ラウンドワン沖縄・宜野湾店",
-		"address": "沖縄県宜野湾市真志喜3−28−8",
+		"address": "沖縄県宜野湾市真志喜3-28-8",
 		"lat": 26.27585421646083,
 		"lng": 127.73100905463104,
 		"cabinets": [
@@ -31746,7 +31805,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "ラウンドワン津・高茶屋店",
-		"address": "三重県津市高茶屋小森町277−8",
+		"address": "三重県津市高茶屋小森町277-8",
 		"lat": 34.6724656,
 		"lng": 136.5194702,
 		"cabinets": [
@@ -31773,7 +31832,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "ラウンドワン浜大津アーカス店",
-		"address": "滋賀県大津市浜町2−1浜大津アーカス内",
+		"address": "滋賀県大津市浜町2-1浜大津アーカス内",
 		"lat": 35.010808045986316,
 		"lng": 135.86660014893494,
 		"cabinets": [
@@ -31800,7 +31859,7 @@
 		"country": "JP",
 		"area": "静岡県",
 		"storeName": "ラウンドワン浜松店",
-		"address": "静岡県浜松市東区天王町諏訪1981−17",
+		"address": "静岡県浜松市東区天王町諏訪1981-17",
 		"lat": 34.737903590641,
 		"lng": 137.764171604721,
 		"cabinets": [
@@ -31857,7 +31916,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "ラウンドワン町田店",
-		"address": "東京都町田市森野1−13−14",
+		"address": "東京都町田市森野1-13-14",
 		"lat": 35.54396646674992,
 		"lng": 139.44323083498762,
 		"cabinets": [
@@ -31887,7 +31946,7 @@
 		"country": "JP",
 		"area": "岩手県",
 		"storeName": "ラウンドワン盛岡店",
-		"address": "岩手県盛岡市盛岡駅西通2−10−35",
+		"address": "岩手県盛岡市盛岡駅西通2-10-35",
 		"lat": 39.7003942,
 		"lng": 141.1331774,
 		"cabinets": [
@@ -31914,7 +31973,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "ラウンドワン福山店",
-		"address": "広島県福山市明神町1−9−28",
+		"address": "広島県福山市明神町1-9-28",
 		"lat": 34.489206192639486,
 		"lng": 133.3924382269836,
 		"cabinets": [
@@ -31941,7 +32000,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "ラウンドワン福岡天神店",
-		"address": "福岡県福岡市中央区天神2−6−12",
+		"address": "福岡県福岡市中央区天神2-6-12",
 		"lat": 33.589463,
 		"lng": 130.3967853,
 		"cabinets": [
@@ -31995,7 +32054,7 @@
 		"country": "JP",
 		"area": "秋田県",
 		"storeName": "ラウンドワン秋田店",
-		"address": "秋田県秋田市卸町1−1−2",
+		"address": "秋田県秋田市卸町1-1-2",
 		"lat": 39.70203189065408,
 		"lng": 140.1094121037048,
 		"cabinets": [
@@ -32022,7 +32081,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "ラウンドワン習志野店",
-		"address": "千葉県習志野市芝園1−4−5",
+		"address": "千葉県習志野市芝園1-4-5",
 		"lat": 35.660210231751456,
 		"lng": 140.02261003558192,
 		"cabinets": [
@@ -32076,7 +32135,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン豊中店",
-		"address": "大阪府豊中市名神口1−1−1",
+		"address": "大阪府豊中市名神口1-1-1",
 		"lat": 34.75740264190711,
 		"lng": 135.46565781904906,
 		"cabinets": [
@@ -32106,7 +32165,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "ラウンドワン豊橋店",
-		"address": "愛知県豊橋市大岩町字岩田27−2",
+		"address": "愛知県豊橋市大岩町字岩田27-2",
 		"lat": 34.7237006,
 		"lng": 137.4326113,
 		"cabinets": [
@@ -32133,7 +32192,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "ラウンドワン郡山店",
-		"address": "福島県郡山市向河原町4−55",
+		"address": "福島県郡山市向河原町4-55",
 		"lat": 37.4023215,
 		"lng": 140.395636,
 		"cabinets": [
@@ -32217,7 +32276,7 @@
 		"country": "JP",
 		"area": "青森県",
 		"storeName": "ラウンドワン青森店",
-		"address": "青森県青森市浜田3−1−1",
+		"address": "青森県青森市浜田3-1-1",
 		"lat": 40.79869392232356,
 		"lng": 140.7484106079346,
 		"cabinets": [
@@ -32271,7 +32330,7 @@
 		"country": "JP",
 		"area": "香川県",
 		"storeName": "ラウンドワン高松店",
-		"address": "香川県高松市松島町2−7−43",
+		"address": "香川県高松市松島町2-7-43",
 		"lat": 34.3389079,
 		"lng": 134.0670672,
 		"cabinets": [
@@ -32298,7 +32357,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "ラウンドワン高槻店",
-		"address": "大阪府高槻市辻子3−6−4",
+		"address": "大阪府高槻市辻子3-6-4",
 		"lat": 34.8326157,
 		"lng": 135.6300541,
 		"cabinets": [
@@ -32325,7 +32384,7 @@
 		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "ラウンドワン高津店",
-		"address": "神奈川県川崎市高津区二子4−8−1",
+		"address": "神奈川県川崎市高津区二子4-8-1",
 		"lat": 35.602811835326804,
 		"lng": 139.61960140562667,
 		"cabinets": [
@@ -32352,7 +32411,7 @@
 		"country": "JP",
 		"area": "高知県",
 		"storeName": "ラウンドワン高知店",
-		"address": "高知県高知市南宝永町4−12",
+		"address": "高知県高知市南宝永町4-12",
 		"lat": 33.5578349,
 		"lng": 133.5543516,
 		"cabinets": [
@@ -32598,7 +32657,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "ルビットランド高山店",
-		"address": "岐阜県高山市岡本町3丁目18−2ルビットタウン2F",
+		"address": "岐阜県高山市岡本町3丁目18-2ルビットタウン2F",
 		"lat": 36.14963100300207,
 		"lng": 137.24699725396727,
 		"cabinets": [
@@ -32643,7 +32702,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "三冠王バッティングセンター",
-		"address": "長崎県佐世保市相浦町2689−1",
+		"address": "長崎県佐世保市相浦町2689-1",
 		"lat": 33.19076009145336,
 		"lng": 129.65290899154047,
 		"cabinets": [
@@ -32697,7 +32756,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "世田谷オークラボウル",
-		"address": "東京都世田谷区桜3−24−1",
+		"address": "東京都世田谷区桜3-24-1",
 		"lat": 35.64052,
 		"lng": 139.6386376,
 		"cabinets": [
@@ -32916,7 +32975,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "半田メトロポリス",
-		"address": "愛知県半田市旭町3−11−1",
+		"address": "愛知県半田市旭町3-11-1",
 		"lat": 34.87466369205313,
 		"lng": 136.9216480470825,
 		"cabinets": [
@@ -33102,7 +33161,7 @@
 		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "大垣メトロポリス",
-		"address": "岐阜県大垣市三塚町西沼523−1",
+		"address": "岐阜県大垣市三塚町西沼523-1",
 		"lat": 35.3670652023352,
 		"lng": 136.62923328719887,
 		"cabinets": [
@@ -33132,7 +33191,7 @@
 		"country": "JP",
 		"area": "栃木県",
 		"storeName": "大田原スポーツランド",
-		"address": "栃木県那須塩原市一区町104−60",
+		"address": "栃木県那須塩原市一区町104-60",
 		"lat": 36.8519301,
 		"lng": 139.993356,
 		"cabinets": [
@@ -33234,7 +33293,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "安城メトロポリス",
-		"address": "愛知県安城市浜富町6−8",
+		"address": "愛知県安城市浜富町6-8",
 		"lat": 34.955195299699035,
 		"lng": 137.0973455037049,
 		"cabinets": [
@@ -33261,7 +33320,7 @@
 		"country": "JP",
 		"area": "北海道",
 		"storeName": "宝島　函館店",
-		"address": "北海道函館市美原1−7−1　MEGAドン・キホーテ函館店2F",
+		"address": "北海道函館市美原1-7-1　MEGAドン・キホーテ函館店2F",
 		"lat": 41.8135092,
 		"lng": 140.7562953,
 		"cabinets": [
@@ -33282,7 +33341,7 @@
 		"country": "JP",
 		"area": "茨城県",
 		"storeName": "宝島　勝田店",
-		"address": "茨城県ひたちなか市石川町1−1MEGAドン・キホーテ勝田店2F",
+		"address": "茨城県ひたちなか市石川町1-1MEGAドン・キホーテ勝田店2F",
 		"lat": 36.3931124,
 		"lng": 140.5274577,
 		"cabinets": [
@@ -33327,7 +33386,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "宝島　桐生店",
-		"address": "群馬県桐生市永楽町5−10MEGAドン・キホーテ桐生店3F",
+		"address": "群馬県桐生市永楽町5-10MEGAドン・キホーテ桐生店3F",
 		"lat": 36.41249440512736,
 		"lng": 139.33585527459104,
 		"cabinets": [
@@ -33357,7 +33416,7 @@
 		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "宝島　浦和美園店",
-		"address": "埼玉県さいたま市緑区美園5−50−1イオンモール浦和美園2F",
+		"address": "埼玉県さいたま市緑区美園5-50-1イオンモール浦和美園2F",
 		"lat": 35.8912268,
 		"lng": 139.731012,
 		"cabinets": [
@@ -33384,7 +33443,7 @@
 		"country": "JP",
 		"area": "東京都",
 		"storeName": "宝島　瑞江店",
-		"address": "東京都江戸川区瑞江2−1−2ドン・キホーテラパーク瑞江店4F",
+		"address": "東京都江戸川区瑞江2-1-2ドン・キホーテラパーク瑞江店4F",
 		"lat": 35.692846730009585,
 		"lng": 139.89675292453694,
 		"cabinets": [
@@ -33651,7 +33710,7 @@
 		"country": "JP",
 		"area": "福島県",
 		"storeName": "嶺宝スポーツセンター",
-		"address": "福島県いわき市小名浜住吉折返2−2",
+		"address": "福島県いわき市小名浜住吉折返2-2",
 		"lat": 36.9742494549186,
 		"lng": 140.89055803254087,
 		"cabinets": [
@@ -33966,7 +34025,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "柏ガリバー",
-		"address": "千葉県柏市柏1−1−11ファミリかしわ地下",
+		"address": "千葉県柏市柏1-1-11ファミリかしわ地下",
 		"lat": 35.8616855,
 		"lng": 139.9711177,
 		"cabinets": [
@@ -34014,7 +34073,7 @@
 		"country": "JP",
 		"area": "千葉県",
 		"storeName": "柏駅前ヤングボウル",
-		"address": "千葉県柏市柏1−3−1",
+		"address": "千葉県柏市柏1-3-1",
 		"lat": 35.8606968,
 		"lng": 139.9712677,
 		"cabinets": [
@@ -34212,7 +34271,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "楽市楽座イオンモール名古屋茶屋店",
-		"address": "愛知県名古屋市港区西茶屋2−11イオンモール名古屋茶屋3階",
+		"address": "愛知県名古屋市港区西茶屋2-11イオンモール名古屋茶屋3階",
 		"lat": 35.1036419,
 		"lng": 136.8248297,
 		"cabinets": [
@@ -34290,7 +34349,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座イオンモール大牟田店",
-		"address": "福岡県大牟田市岬町3−4",
+		"address": "福岡県大牟田市岬町3-4",
 		"lat": 33.0306171,
 		"lng": 130.4281279,
 		"cabinets": [
@@ -34317,7 +34376,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "楽市楽座イオンモール大阪ドーム店",
-		"address": "大阪府大阪市西区千代崎3−13−1",
+		"address": "大阪府大阪市西区千代崎3-13-1",
 		"lat": 34.67087525017763,
 		"lng": 135.4776337507874,
 		"cabinets": [
@@ -34344,7 +34403,7 @@
 		"country": "JP",
 		"area": "宮崎県",
 		"storeName": "楽市楽座イオンモール宮崎店",
-		"address": "宮崎県宮崎市新別府町江口862−1イオンモール宮崎店2F",
+		"address": "宮崎県宮崎市新別府町江口862-1イオンモール宮崎店2F",
 		"lat": 31.92335395357945,
 		"lng": 131.45467283096616,
 		"cabinets": [
@@ -34455,7 +34514,7 @@
 		"country": "JP",
 		"area": "三重県",
 		"storeName": "楽市楽座イオンモール東員店",
-		"address": "三重県員弁郡東員町大字長深字築田510−1",
+		"address": "三重県員弁郡東員町大字長深字築田510-1",
 		"lat": 35.06178244093516,
 		"lng": 136.57935542949144,
 		"cabinets": [
@@ -34539,7 +34598,7 @@
 		"country": "JP",
 		"area": "山梨県",
 		"storeName": "楽市楽座イオンモール甲府店",
-		"address": "山梨県中巨摩郡昭和町飯喰1505−1イオンモール2011",
+		"address": "山梨県中巨摩郡昭和町飯喰1505-1イオンモール2011",
 		"lat": 35.62322077692733,
 		"lng": 138.52757599765323,
 		"cabinets": [
@@ -34566,7 +34625,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "楽市楽座イオンモール神戸北店",
-		"address": "兵庫県神戸市北区上津台8−1−1",
+		"address": "兵庫県神戸市北区上津台8-1-1",
 		"lat": 34.8600756,
 		"lng": 135.1942047,
 		"cabinets": [
@@ -34620,7 +34679,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座イオンモール福岡店",
-		"address": "福岡県糟屋郡粕屋町大字酒殿字老ノ木192−1 2F",
+		"address": "福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1 2F",
 		"lat": 33.5971692,
 		"lng": 130.47911509999994,
 		"cabinets": [
@@ -34644,7 +34703,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座イオンモール福津店",
-		"address": "福岡県福津市日蒔野6−16−1　イオンモール福津店3F",
+		"address": "福岡県福津市日蒔野6-16-1　イオンモール福津店3F",
 		"lat": 33.7532433,
 		"lng": 130.49379220000003,
 		"cabinets": [
@@ -34668,7 +34727,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座イオンモール筑紫野店",
-		"address": "福岡県筑紫野市立明寺434−1イオンモール筑紫野店3階",
+		"address": "福岡県筑紫野市立明寺434-1イオンモール筑紫野店3階",
 		"lat": 33.4809383,
 		"lng": 130.5267763,
 		"cabinets": [
@@ -34695,7 +34754,7 @@
 		"country": "JP",
 		"area": "宮崎県",
 		"storeName": "楽市楽座イオンモール都城駅前店",
-		"address": "宮崎県都城市栄町4672−5ｲｵﾝﾓｰﾙ都城駅前店2階",
+		"address": "宮崎県都城市栄町4672-5ｲｵﾝﾓｰﾙ都城駅前店2階",
 		"lat": 31.7352977,
 		"lng": 131.0800559,
 		"cabinets": [
@@ -34743,7 +34802,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座くりえいと宗像",
-		"address": "福岡県宗像市くりえいと1−4−4",
+		"address": "福岡県宗像市くりえいと1-4-4",
 		"lat": 33.8105202,
 		"lng": 130.5635801,
 		"cabinets": [
@@ -34800,7 +34859,7 @@
 		"country": "JP",
 		"area": "熊本県",
 		"storeName": "楽市楽座小川店",
-		"address": "熊本県宇城市小川町河江1−1",
+		"address": "熊本県宇城市小川町河江1-1",
 		"lat": 32.595792940491044,
 		"lng": 130.7049965900742,
 		"cabinets": [
@@ -34821,7 +34880,7 @@
 		"country": "JP",
 		"area": "広島県",
 		"storeName": "楽市楽座広島店",
-		"address": "広島県広島市南区段原南1−3−52広島段原SC7階7001",
+		"address": "広島県広島市南区段原南1-3-52広島段原SC7階7001",
 		"lat": 34.3852255,
 		"lng": 132.47601859999997,
 		"cabinets": [
@@ -34896,7 +34955,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座行橋店",
-		"address": "福岡県行橋市西泉6−1−1",
+		"address": "福岡県行橋市西泉6-1-1",
 		"lat": 33.71700849343529,
 		"lng": 130.97163169325404,
 		"cabinets": [
@@ -34920,7 +34979,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "楽市楽座黒崎店",
-		"address": "福岡県北九州市八幡西区桜ヶ丘町1−3フレスポ黒崎2階",
+		"address": "福岡県北九州市八幡西区桜ヶ丘町1-3フレスポ黒崎2階",
 		"lat": 33.8656842,
 		"lng": 130.7560629,
 		"cabinets": [
@@ -34950,7 +35009,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "楽市街道 名古屋店",
-		"address": "愛知県北名古屋市中之郷新明45−1",
+		"address": "愛知県北名古屋市中之郷新明45-1",
 		"lat": 35.239849,
 		"lng": 136.8488049,
 		"cabinets": [
@@ -35103,7 +35162,7 @@
 		"country": "JP",
 		"area": "滋賀県",
 		"storeName": "滋賀レジャーランド大津店",
-		"address": "滋賀県大津市におの浜3−1−43　イオンタウンアヤハプラザ内",
+		"address": "滋賀県大津市におの浜3-1-43　イオンタウンアヤハプラザ内",
 		"lat": 35.0039335,
 		"lng": 135.8834052,
 		"cabinets": [
@@ -35208,7 +35267,7 @@
 		"country": "JP",
 		"area": "福井県",
 		"storeName": "福井レジャーランド板垣店",
-		"address": "福井県福井市下馬3−102",
+		"address": "福井県福井市下馬3-102",
 		"lat": 36.042308920176566,
 		"lng": 136.23376256217955,
 		"cabinets": [
@@ -35394,7 +35453,7 @@
 		"country": "JP",
 		"area": "群馬県",
 		"storeName": "群馬レジャーランド高崎駅東口店",
-		"address": "群馬県高崎市江木町333−1高崎EXビル",
+		"address": "群馬県高崎市江木町333-1高崎EXビル",
 		"lat": 36.329871607750796,
 		"lng": 139.01285747976226,
 		"cabinets": [
@@ -35424,7 +35483,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "西友川西ゲームパーク",
-		"address": "兵庫県川西市栄町16−8",
+		"address": "兵庫県川西市栄町16-8",
 		"lat": 34.8285653,
 		"lng": 135.4122562,
 		"cabinets": [
@@ -35451,7 +35510,7 @@
 		"country": "JP",
 		"area": "愛知県",
 		"storeName": "豊川メトロポリス",
-		"address": "愛知県豊川市下長山町上アライ14−1",
+		"address": "愛知県豊川市下長山町上アライ14-1",
 		"lat": 34.8025832,
 		"lng": 137.3845019,
 		"cabinets": [
@@ -35478,7 +35537,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "遊スペース アローズ",
-		"address": "兵庫県神戸市西区丸塚2丁目9−18",
+		"address": "兵庫県神戸市西区丸塚2丁目9-18",
 		"lat": 34.6791423,
 		"lng": 134.9829518,
 		"cabinets": [
@@ -35508,7 +35567,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "遊スペース　スプラ",
-		"address": "兵庫県加古川市尾上町安田351−1",
+		"address": "兵庫県加古川市尾上町安田351-1",
 		"lat": 34.7456374,
 		"lng": 134.8356588,
 		"cabinets": [
@@ -35535,7 +35594,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "遊スペース マジカル",
-		"address": "兵庫県神戸市中央区琴ノ緒町5−2−3",
+		"address": "兵庫県神戸市中央区琴ノ緒町5-2-3",
 		"lat": 34.6955046,
 		"lng": 135.1950389,
 		"cabinets": [
@@ -35607,7 +35666,7 @@
 		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "遊楽舎　姫路花田店",
-		"address": "兵庫県姫路市花田町上原田2−1ビッグエムワン2F",
+		"address": "兵庫県姫路市花田町上原田2-1ビッグエムワン2F",
 		"lat": 34.8385533,
 		"lng": 134.7291667,
 		"cabinets": [
@@ -35634,7 +35693,7 @@
 		"country": "JP",
 		"area": "福岡県",
 		"storeName": "遊遊パークフォレオ博多店",
-		"address": "福岡県福岡市博多区東那珂1−14−46フォレオ博多2F",
+		"address": "福岡県福岡市博多区東那珂1-14-46フォレオ博多2F",
 		"lat": 33.5741951,
 		"lng": 130.4396956,
 		"cabinets": [
@@ -35658,7 +35717,7 @@
 		"country": "JP",
 		"area": "佐賀県",
 		"storeName": "遊道楽嘉瀬店",
-		"address": "佐賀県佐賀市嘉瀬町中原2488−1",
+		"address": "佐賀県佐賀市嘉瀬町中原2488-1",
 		"lat": 33.2422048,
 		"lng": 130.2565009,
 		"cabinets": [
@@ -35718,7 +35777,7 @@
 		"country": "JP",
 		"area": "長崎県",
 		"storeName": "遊道楽時津店",
-		"address": "長崎県西彼杵郡時津町元村郷863−10",
+		"address": "長崎県西彼杵郡時津町元村郷863-10",
 		"lat": 32.8201499,
 		"lng": 129.8473443,
 		"cabinets": [
@@ -35745,7 +35804,7 @@
 		"country": "JP",
 		"area": "山梨県",
 		"storeName": "都留ファミリーボウル",
-		"address": "山梨県都留市上谷6−7−13",
+		"address": "山梨県都留市上谷6-7-13",
 		"lat": 35.5452336,
 		"lng": 138.9041981,
 		"cabinets": [
@@ -35787,7 +35846,7 @@
 		"country": "JP",
 		"area": "大阪府",
 		"storeName": "関大前フタバボウル",
-		"address": "大阪府吹田市千里山東1−7−18",
+		"address": "大阪府吹田市千里山東1-7-18",
 		"lat": 34.7728868,
 		"lng": 135.5062606,
 		"cabinets": [

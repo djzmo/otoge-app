@@ -13,7 +13,8 @@ export function convertToGameTitle(gameEnum: GameEnum) {
     [GameEnum.ONGEKI]: "O.N.G.E.K.I.",
     [GameEnum.DANCERUSH_STARDOM]: "DANCERUSH STARDOM",
     [GameEnum.DANCEDANCEREVOLUTION]: "DanceDanceRevolution",
-    [GameEnum.DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL]: "DanceDanceRevolution 20th anniversary model",
+    [GameEnum.DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL]:
+      "DanceDanceRevolution 20th anniversary model",
     [GameEnum.GITADORA_DRUMMANIA]: "GITADORA DrumMania",
     [GameEnum.GITADORA_GUITARFREAKS]: "GITADORA GuitarFreaks",
     [GameEnum.BEATMANIA_IIDX]: "beatmania IIDX",

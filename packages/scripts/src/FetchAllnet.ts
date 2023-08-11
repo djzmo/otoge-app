@@ -2,7 +2,7 @@ import axios from "axios"
 import { Text } from "domhandler"
 import * as cheerio from "cheerio"
 import { CabinetInfo, GameEnum, Store } from "@otoge.app/shared"
-import { toHalfWidthAlphanumeric } from "./util/TextUtil"
+import { normalizeDashes, toHalfWidthAlphanumeric } from "./util/TextUtil"
 import { writeResult } from "./util/StoreUtil"
 
 const outputDir = "../../data"
@@ -78,12 +78,12 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
     const storeList = $areaPage("ul.store_list > li")
     for (const store of storeList) {
       const li = cheerio.load(store)
-      const storeName = toHalfWidthAlphanumeric(
-        li("span.store_name").text()
-      ).replaceAll("−", "-")
-      const address = toHalfWidthAlphanumeric(
-        li("span.store_address").text()
-      ).replaceAll("−", "-")
+      const storeName = normalizeDashes(
+        toHalfWidthAlphanumeric(li("span.store_name").text())
+      )
+      const address = normalizeDashes(
+        toHalfWidthAlphanumeric(li("span.store_address").text())
+      )
 
       const detailsUrlStrMatches = li(".bt_details_en")
         .attr("onclick")

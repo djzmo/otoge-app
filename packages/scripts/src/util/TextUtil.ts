@@ -35,3 +35,7 @@ export const createRomanization = (text: string) => {
     .trim()
     .replace(/ +(?= )/g, "")
 }
+
+export const normalizeDashes = (text: string) => {
+  return text.replaceAll(/([—−])/g, "-")
+}
