@@ -5,5 +5,9 @@ interface AllNetContextInfo {
   allNetGm?: string
 }
 
-type ContextInfo = AllNetContextInfo
+interface EAmusementContextInfo {
+  eAmusementFdesc?: string
+}
+
+interface ContextInfo extends AllNetContextInfo, EAmusementContextInfo {}
 export default ContextInfo
