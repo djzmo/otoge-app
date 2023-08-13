@@ -11788,8 +11788,8 @@
 		"address": "長野市権堂町1506-3長電権堂第2ビル1F",
 		"access": "長野電鉄権堂駅徒歩2分",
 		"openingHours": "9:00～24:00",
-		"lat": null,
-		"lng": null,
+		"lat": 36.6539597,
+		"lng": 138.1923597,
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
@@ -16338,8 +16338,8 @@
 		"address": "高松市多肥下町字凹原630マルナカパワシティレインボー店2F",
 		"access": "マルナカレインボー店内",
 		"openingHours": "10:00～22:00",
-		"lat": null,
-		"lng": null,
+		"lat": 34.301493,
+		"lng": 134.057677,
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
@@ -18311,8 +18311,8 @@
 		"address": "札幌市白石区栄通19-11-43",
 		"access": "札幌市営地下鉄南郷18丁目駅下車徒歩15分",
 		"openingHours": "10:00～24:00",
-		"lat": null,
-		"lng": null,
+		"lat": 43.027011,
+		"lng": 141.436563,
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
@@ -24521,8 +24521,8 @@
 		"storeName": "ソユートイズニューヨーク守谷店",
 		"address": "守谷市百合ケ丘3向原249-1ロックシティ守谷SC",
 		"openingHours": "9:00～24:00",
-		"lat": null,
-		"lng": null,
+		"lat": 35.94595,
+		"lng": 139.98669,
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
@@ -30113,8 +30113,8 @@
 		"area": "北海道",
 		"storeName": "ハロータイトー釧路貝塚店",
 		"address": "釧路市貝塚3-2-28コープさっぽろ釧路貝塚店1F",
-		"lat": null,
-		"lng": null,
+		"lat": 42.99835,
+		"lng": 144.414307,
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
@@ -41410,7 +41410,8 @@
 		},
 		"alternateArea": "FUKUOKA KEN",
 		"alternateStoreName": "RAKUICHI RAKUZA ION MORU FUKUOKA TEN",
-		"alternateAddress": "FUKUOKA KEN KASUYA GUN KASUYA MACHI DAIJI SAKADO JI RO NO KI 1 9 2 − 1 2 F"
+		"alternateAddress": "FUKUOKA KEN KASUYA GUN KASUYA MACHI DAIJI SAKADO JI RO NO KI 1 9 2 − 1 2 F",
+		"access": "福岡空港から車で10分ダイヤモンドシティルクレ内2階"
 	},
 	{
 		"country": "JP",
