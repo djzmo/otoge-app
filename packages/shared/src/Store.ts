@@ -10,8 +10,8 @@ export default interface Store {
   address: string
   alternateAddress?: string
   access?: string
-  lat?: number
-  lng?: number
+  lat: number
+  lng: number
   openingHours?: string
   cabinets: CabinetInfo[]
   context: ContextInfo
