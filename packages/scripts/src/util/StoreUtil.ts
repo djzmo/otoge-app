@@ -7,6 +7,8 @@ import {
 } from "./TextUtil"
 import { existsSync } from "fs"
 import fs from "fs/promises"
+import { compareTwoStrings } from "string-similarity"
+import { asyncFilter } from "./CollectionUtil"
 
 export const updateStore = (
   existing: Store,
@@ -69,12 +71,16 @@ export const updateStore = (
   return merged
 }
 
-export const mergeStores = (
+export const mergeStores = async (
   master: Store[],
   candidates: Store[],
   gameEnum: GameEnum,
   contextIdKey: string
-): Store[] => {
+): Promise<Store[]> => {
+  console.debug(
+    `Merging result to master data... Candidates to process: ${candidates.length}`
+  )
+
   const getContextId = (store: Store, contextKey: string) =>
     contextKey === "allNetSid"
       ? store.context.allNetSid
@@ -96,6 +102,7 @@ export const mergeStores = (
   }
 
   // By context ID
+  console.debug(`Merging by context ID... Remaining: ${candidates.length}`)
   const candidateIdToIndex = Object.fromEntries(
     candidates.map((store, index) => [getContextId(store, contextIdKey), index])
   )
@@ -123,22 +130,31 @@ export const mergeStores = (
     master[masterIndex] = updateStore(existing, candidate, gameEnum, true)
     processedCandidateIndex.push(candidateIndex)
   }
+  console.debug(`Merged ${processedCandidateIndex.length} store(s)`)
 
   removeProcessed()
 
   // By exact store name
+  console.debug(
+    `Merging by exact store name... Remaining: ${
+      candidates.length - processedCandidateIndex.length
+    }`
+  )
   if (candidates.length > 0) {
     const candidateNameToIndex = Object.fromEntries(
-      candidates.map((store, index) => [store.storeName, index])
+      candidates.map((store, index) => [
+        store.storeName.replaceAll(/\s+/g, ""),
+        index,
+      ])
     )
     const masterNameToIndex: { [storeName: string]: number } = {}
     const candidateByName = Object.fromEntries(
-      candidates.map(store => [store.storeName, store])
+      candidates.map(store => [store.storeName.replaceAll(/\s+/g, ""), store])
     )
     const masterByName = Object.fromEntries(
       master.map((store, index) => {
-        masterNameToIndex[store.storeName] = index
-        return [store.storeName, store]
+        masterNameToIndex[store.storeName.replaceAll(/\s+/g, "")] = index
+        return [store.storeName.replaceAll(/\s+/g, ""), store]
       })
     )
     for (const [storeName, candidate] of Object.entries(candidateByName)) {
@@ -152,29 +168,111 @@ export const mergeStores = (
       processedCandidateIndex.push(candidateIndex)
     }
   }
+  console.debug(`Merged ${processedCandidateIndex.length} store(s)`)
 
   removeProcessed()
 
   // By address
+  console.debug(
+    `Merging by address... Remaining: ${
+      candidates.length - processedCandidateIndex.length
+    }`
+  )
   if (candidates.length > 0) {
+    const masterByArea: { [area: string]: Store[] } = {}
+    let currentCount = 1
     for (const candidate of candidates) {
-      const foundList = master.filter(compare => {
-        return (
-          (compare.address.includes(candidate.address) ||
-            candidate.address.includes(compare.address)) &&
-          (compare.storeName.includes(candidate.storeName) ||
-            candidate.storeName.includes(compare.storeName))
+      if (!(candidate.area in masterByArea)) {
+        masterByArea[candidate.area] = master.filter(
+          store => store.area === candidate.area
         )
-      })
-      if (foundList.length === 1) {
+      }
+      process.stdout.write(
+        `[${currentCount} / ${candidates.length}] Merging ${candidate.storeName}... `
+      )
+      const foundList = await asyncFilter(
+        masterByArea[candidate.area],
+        async (compare: Store) => {
+          const compareNameNs = compare.storeName
+            .toLowerCase()
+            .replaceAll(/\s+/g, "")
+          const candidateNameNs = candidate.storeName
+            .toLowerCase()
+            .replaceAll(/\s+/g, "")
+          if (
+            !compareNameNs.includes(candidateNameNs) &&
+            !candidateNameNs.includes(compareNameNs)
+          ) {
+            if (compareTwoStrings(compareNameNs, candidateNameNs) < 0.6) {
+              return false
+            }
+          }
+          const compareAddrNs = compare.address.replaceAll(/\s+/g, "")
+          const candidateAddrNs = candidate.address.replaceAll(/\s+/g, "")
+          const compareAddr = await normalize(compareAddrNs)
+          const candidateAddr = await normalize(candidateAddrNs)
+          const chomeRegex = /([0-9]{1,3})-([0-9]{1,3})(?:-([0-9]{1,3}))?/
+          const compareAddrMatch = chomeRegex.exec(compareAddrNs)
+          const candidateAddrMatch = chomeRegex.exec(candidateAddrNs)
+          if (
+            compareAddrMatch != null &&
+            candidateAddrMatch != null &&
+            compareAddrMatch.length >= 3 &&
+            candidateAddrMatch.length >= 3
+          ) {
+            const compareChome = compareAddrMatch[1]
+            const candidateChome = candidateAddrMatch[1]
+            const compareBanchi = compareAddrMatch[2]
+            const candidateBanchi = candidateAddrMatch[2]
+            const compareGo =
+              compareAddrMatch.length > 3 ? compareAddrMatch[3] : null
+            const candidateGo =
+              candidateAddrMatch.length > 3 ? candidateAddrMatch[3] : null
+            return (
+              compareAddr.pref === candidateAddr.pref &&
+              compareAddr.city === candidateAddr.city &&
+              compareAddr.town === candidateAddr.town &&
+              compareChome === candidateChome &&
+              compareBanchi === candidateBanchi &&
+              compareGo === candidateGo
+            )
+          } else {
+            return (
+              compareAddr.pref === candidateAddr.pref &&
+              compareAddr.city === candidateAddr.city &&
+              compareAddr.town === candidateAddr.town &&
+              (compareAddr.addr.includes(candidateAddr.addr) ||
+                candidateAddr.addr.includes(compareAddr.addr))
+            )
+          }
+        }
+      )
+      if (foundList.length > 0) {
         const existing = foundList[0]
         const masterIndex = master.indexOf(existing)
         const candidateIndex = candidates.indexOf(candidate)
         master[masterIndex] = updateStore(existing, candidate, gameEnum)
         processedCandidateIndex.push(candidateIndex)
+        if (foundList.length > 1) {
+          process.stdout.write(
+            "MERGED - Ambiguous: " + JSON.stringify({ candidate, foundList })
+          )
+        } else {
+          process.stdout.write("MERGED")
+        }
+      } else {
+        process.stdout.write("NEW")
       }
+      process.stdout.write("\n")
     }
   }
+  console.debug(`Merged ${processedCandidateIndex.length} store(s)`)
+
+  removeProcessed()
+
+  console.debug(
+    `Merge completed. ${candidates.length} new store(s) will be added.`
+  )
 
   return [...master, ...candidates]
 }
@@ -221,7 +319,7 @@ export const writeResult = async (
 
     if (existingData) {
       const existingDataParsed: Store[] = JSON.parse(existingData)
-      const mergedData = mergeStores(
+      const mergedData = await mergeStores(
         existingDataParsed,
         newData,
         gameEnum,
