@@ -211,7 +211,7 @@ export const mergeStores = async (
           const candidateAddrNs = candidate.address.replaceAll(/\s+/g, "")
           const compareAddr = await normalize(compareAddrNs)
           const candidateAddr = await normalize(candidateAddrNs)
-          const chomeRegex = /([0-9]{1,3})-([0-9]{1,3})(?:-([0-9]{1,3}))?/
+          const chomeRegex = /([0-9]{1,4})-([0-9]{1,4})(?:-([0-9]{1,4}))?/
           const compareAddrMatch = chomeRegex.exec(compareAddrNs)
           const candidateAddrMatch = chomeRegex.exec(candidateAddrNs)
           if (
