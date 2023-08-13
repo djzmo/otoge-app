@@ -127,7 +127,7 @@ export const mergeStores = async (
     }
     const masterIndex = masterIdToIndex[id]
     const candidateIndex = candidateIdToIndex[id]
-    master[masterIndex] = updateStore(existing, candidate, gameEnum, true)
+    master[masterIndex] = updateStore(existing, candidate, gameEnum)
     processedCandidateIndex.push(candidateIndex)
   }
   console.debug(`Merged ${processedCandidateIndex.length} store(s)`)
@@ -264,6 +264,7 @@ export const mergeStores = async (
         process.stdout.write("NEW")
       }
       process.stdout.write("\n")
+      currentCount++
     }
   }
   console.debug(`Merged ${processedCandidateIndex.length} store(s)`)

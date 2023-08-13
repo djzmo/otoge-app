@@ -80,6 +80,8 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
     return
   }
 
+  console.log(`FetchEAmusement: Fetching ${gameId}...`)
+
   const gameEnum = gameIdMapping[gameId]
   const fetchList = [...Array(47).keys()].map(
     i => "JP-" + (i + 1).toString().padStart(2, "0")
