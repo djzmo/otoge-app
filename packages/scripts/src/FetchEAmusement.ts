@@ -88,7 +88,7 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 
   // Fetch based on `fetchList` and store in `result`.
   // e.g. ["JP-01", "JP-02", ..., "JP-47"]
-  for (const pref of ["JP-13"]) {
+  for (const pref of fetchList) {
     let currentPage = 1
     let pageCount = 1
 
@@ -155,8 +155,6 @@ const gameIdMapping: { [gm: string]: GameEnum } = {
 
       process.stdout.write("OK\n")
     }
-
-    break
   }
 
   await writeResult(result, gameEnum, "eAmusementFdesc", outputDir)
