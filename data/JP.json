@@ -48,6 +48,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -137,6 +143,25 @@
 	{
 		"country": "JP",
 		"area": "愛知県",
+		"storeName": "ADXマミー八事店",
+		"address": "名古屋市昭和区広路町字北石坂102-4",
+		"lat": 35.1371687,
+		"lng": 136.964233,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "b59f1f4d3bfa1ba1ea358ff1862c2c5c"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "ADX MAMI YAGOTO TEN",
+		"alternateAddress": "NAGOYA SHI SHOWA KU HIROJI MACHI JI KITA SEKI ZAKA 102 - 4"
+	},
+	{
+		"country": "JP",
+		"area": "愛知県",
 		"storeName": "ADXマミー出川店",
 		"address": "愛知県春日井市不二ヶ丘1丁目5番地",
 		"lat": 35.2673215,
@@ -183,6 +208,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -208,6 +239,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -232,6 +269,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -263,6 +306,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -296,12 +345,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "45",
-			"allNetSid": "25477"
+			"allNetSid": "25477",
+			"eAmusementFdesc": "2b729fca988ccbebc3e595e1a160197e"
 		},
 		"alternateArea": "KAGOSHIMA KEN",
 		"alternateStoreName": "AMUSEMENTCITYG - STA",
@@ -332,6 +388,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -365,6 +427,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -398,6 +466,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -430,6 +504,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -466,6 +546,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -509,6 +592,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -542,6 +628,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -611,6 +700,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -672,6 +764,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -688,6 +783,30 @@
 	},
 	{
 		"country": "JP",
+		"area": "愛知県",
+		"storeName": "BOX.Q3",
+		"address": "名古屋市中村区則武1-16-8第一Uコーポ1F",
+		"access": "各線名古屋駅 太閤口徒歩5分",
+		"openingHours": "10:00～24:00",
+		"lat": 35.17310098,
+		"lng": 136.876603,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "5254a50fcbb33137a5936ebc92a9fa66"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "BOX . Q 3",
+		"alternateAddress": "NAGOYA SHI NAKAMURA KU NORITAKE 1 - 16 - 8 DAI ICHI U KOPO 1 F"
+	},
+	{
+		"country": "JP",
 		"area": "大阪府",
 		"storeName": "Dino茨木店",
 		"address": "茨木市永代町5ソシオビルB1F110",
@@ -701,6 +820,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -759,6 +884,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -795,6 +923,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -864,6 +995,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -900,6 +1034,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -991,6 +1131,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1024,6 +1170,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1061,6 +1213,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -1093,6 +1248,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1156,6 +1317,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1192,6 +1359,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1228,6 +1401,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -1289,6 +1465,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1324,6 +1506,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1359,6 +1547,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1392,6 +1586,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -1455,6 +1652,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1532,12 +1735,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "34",
-			"allNetSid": "21317"
+			"allNetSid": "21317",
+			"eAmusementFdesc": "c26e2b535619955261f81807fb48a648"
 		},
 		"alternateArea": "YAMAGUCHI KEN",
 		"alternateStoreName": "GAME ・ PAFUE HAGI",
@@ -1568,6 +1775,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1624,6 +1837,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -1796,6 +2015,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2000,6 +2225,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2205,12 +2436,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "32",
-			"allNetSid": "21530"
+			"allNetSid": "21530",
+			"eAmusementFdesc": "ca5ff7867f6b196e70771e0cbd8237bf"
 		},
 		"alternateArea": "OKAYAMA KEN",
 		"alternateStoreName": "GIGO ION MORU OKAYAMA",
@@ -2379,6 +2617,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2494,6 +2738,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2561,6 +2811,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2598,6 +2854,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2860,6 +3122,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -2894,6 +3162,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3117,6 +3391,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3241,6 +3521,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3308,6 +3594,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3399,6 +3691,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3433,6 +3731,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3470,6 +3774,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3709,6 +4019,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3800,6 +4116,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3831,6 +4153,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3895,6 +4223,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -3932,6 +4266,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4030,6 +4370,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4067,6 +4413,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4251,6 +4603,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4288,6 +4646,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4322,6 +4686,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4562,6 +4932,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4767,6 +5143,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -4918,6 +5300,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -4951,12 +5336,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "22",
-			"allNetSid": "29267"
+			"allNetSid": "29267",
+			"eAmusementFdesc": "eeeb7b09942828429d4e0f2a86b33bbc"
 		},
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "GIGO KASUGAI",
@@ -4987,6 +5379,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5378,6 +5776,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5415,6 +5819,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5563,6 +5973,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5594,12 +6010,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "13",
-			"allNetSid": "20123"
+			"allNetSid": "20123",
+			"eAmusementFdesc": "f4eb4903f97cf95b895d27b30a951eb5"
 		},
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "GIGO EBINA",
@@ -5630,6 +6053,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5731,6 +6160,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5816,6 +6251,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -5961,6 +6402,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6062,6 +6509,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6218,6 +6671,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6306,6 +6765,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6337,6 +6802,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6431,6 +6902,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6468,6 +6945,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6502,6 +6985,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6539,6 +7028,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6663,6 +7158,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6727,6 +7228,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6761,6 +7268,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6828,6 +7341,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6862,6 +7381,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6896,6 +7421,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -6933,6 +7464,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7138,6 +7675,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7383,6 +7926,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7455,6 +8004,28 @@
 		"alternateArea": "MIYAGI KEN",
 		"alternateStoreName": "HAPIPILAND FURUKAWA TEN",
 		"alternateAddress": "OSAKI SHI FURUKAWA SAWADA JI TO JO 15 ION TAUN FURUKAWA 2 F"
+	},
+	{
+		"country": "JP",
+		"area": "神奈川県",
+		"storeName": "HapipiLand子供の国店",
+		"address": "横浜市青葉区奈良1-2-1三和ショッピングセンター3F",
+		"lat": 35.55709,
+		"lng": 139.48435,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "94450896eda29c25883ff9f57acb6a99"
+		},
+		"alternateArea": "KANAGAWA KEN",
+		"alternateStoreName": "HAPIPILAND KODOMO NO KUNI TEN",
+		"alternateAddress": "YOKOHAMA SHI AOBA KU NARA 1 - 2 - 1 SANWA SHOPPINGU SENTA 3 F"
 	},
 	{
 		"country": "JP",
@@ -7602,6 +8173,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7643,6 +8220,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7684,6 +8267,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "茨城県",
+		"storeName": "K-1BOWL",
+		"address": "日立市石名坂町2-2-10",
+		"lat": 36.513432,
+		"lng": 140.605082,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "7688bbc369dace6ea432c984ef3c753c"
+		},
+		"alternateArea": "IBARAKI KEN",
+		"alternateStoreName": "K - 1 BOWL",
+		"alternateAddress": "HITACHI SHI ISHINAZAKA MACHI 2 - 2 - 10"
+	},
+	{
+		"country": "JP",
 		"area": "栃木県",
 		"storeName": "KOKADOタウン小山店",
 		"address": "栃木県小山市中久喜1467-1ｲｵﾝﾓｰﾙ小山店2F",
@@ -7716,12 +8318,16 @@
 			},
 			{
 				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "20",
-			"allNetSid": "25944"
+			"allNetSid": "25944",
+			"eAmusementFdesc": "1f03e8b9a895f69225939790854665da"
 		},
 		"alternateArea": "GIFU KEN",
 		"alternateStoreName": "KS MINOKAMO TEN",
@@ -7819,6 +8425,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7850,6 +8462,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -7872,6 +8490,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -9091,6 +9715,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -9578,6 +10205,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -9841,6 +10474,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -9878,6 +10517,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -9997,6 +10642,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -10189,6 +10840,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10223,6 +10877,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -10254,12 +10914,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "2",
-			"allNetSid": "26897"
+			"allNetSid": "26897",
+			"eAmusementFdesc": "c49eb98a4481a25ea1df17612da22c7d"
 		},
 		"alternateArea": "IWATE KEN",
 		"alternateStoreName": "PALO KUJI",
@@ -10287,6 +10951,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -10349,6 +11019,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10404,12 +11077,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "35",
-			"allNetSid": "25128"
+			"allNetSid": "25128",
+			"eAmusementFdesc": "e50a5dca43d9b737bb60da35fc752be2"
 		},
 		"alternateArea": "TOKUSHIMA KEN",
 		"alternateStoreName": "PALO KOMATSU TO",
@@ -10525,6 +11205,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10574,16 +11257,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
-			"allNetSid": "23620"
+			"allNetSid": "23620",
+			"eAmusementFdesc": "be620bc7c89c0f7c70da03c478b17770"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "PALO EBETSU",
-		"alternateAddress": "HOKKAIDO EBETSU SHI SAIWAI MACHI 35 3 F"
+		"alternateAddress": "HOKKAIDO EBETSU SHI SAIWAI MACHI 35 3 F",
+		"openingHours": "9:00～21:00"
 	},
 	{
 		"country": "JP",
@@ -10625,6 +11313,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10655,6 +11346,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10689,6 +11383,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10723,6 +11420,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10784,6 +11484,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -10848,6 +11554,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -10911,6 +11623,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -10979,6 +11694,7 @@
 		"area": "福島県",
 		"storeName": "SOYU E-STUDIO須賀川店",
 		"address": "福島県須賀川市古河105イオンタウン須賀川B棟内",
+		"openingHours": "10:00～24:00",
 		"lat": 37.2984206,
 		"lng": 140.3852977,
 		"cabinets": [
@@ -10990,12 +11706,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "6",
-			"allNetSid": "25910"
+			"allNetSid": "25910",
+			"eAmusementFdesc": "4321abfee3efe28f0d16b4b71208a57d"
 		},
 		"alternateArea": "FUKUSHIMA KEN",
 		"alternateStoreName": "SOYU E - STUDIO SUKAGAWA TEN",
@@ -11377,6 +12100,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11439,6 +12168,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11475,6 +12210,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11516,6 +12257,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -11549,6 +12293,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -11606,6 +12353,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11623,6 +12376,8 @@
 		"area": "静岡県",
 		"storeName": "THE 3RD PLANET 島田店",
 		"address": "静岡県島田市中溝町2531",
+		"access": "藤枝バイパス旗指IC5分TSUTAYA2F",
+		"openingHours": "10:00-24:00",
 		"lat": 34.838152980043745,
 		"lng": 138.16600508836063,
 		"cabinets": [
@@ -11634,12 +12389,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "27941"
+			"allNetSid": "27941",
+			"eAmusementFdesc": "15c1f7094dd6ce5f75c78aca0b7c12dd"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "THE 3 RD PLANET SHIMADA TEN",
@@ -11669,6 +12428,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -11733,6 +12495,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -11769,6 +12534,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -11793,6 +12561,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -11842,6 +12613,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11876,6 +12653,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11912,6 +12695,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -11949,6 +12738,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12050,6 +12845,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12081,6 +12882,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12169,6 +12976,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12233,6 +13046,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12269,6 +13088,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12306,6 +13131,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12339,6 +13170,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12374,6 +13208,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12407,6 +13247,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12434,16 +13280,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "12",
-			"allNetSid": "26738"
+			"allNetSid": "26738",
+			"eAmusementFdesc": "ebccef4a37f8cf46f8f1e70d877ce5c0"
 		},
 		"alternateArea": "TOKYO TO",
 		"alternateStoreName": "ADOAZU KAMEIDO TEN",
-		"alternateAddress": "TOKYO TO KOTO KU KAMEIDO 5 − 2 − 6 SANEBIRU 1 〜 5 KAI"
+		"alternateAddress": "TOKYO TO KOTO KU KAMEIDO 5 − 2 − 6 SANEBIRU 1 〜 5 KAI",
+		"access": "明治通りラーメン「日高屋」隣",
+		"openingHours": "10:00～23:45"
 	},
 	{
 		"country": "JP",
@@ -12464,6 +13316,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12545,6 +13400,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12575,6 +13433,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12608,6 +13469,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12634,6 +13498,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12662,6 +13529,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12694,6 +13567,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12725,6 +13601,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12760,6 +13639,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12818,6 +13700,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12854,6 +13739,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -12889,6 +13780,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -12927,6 +13821,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13009,6 +13909,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13043,6 +13949,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13077,6 +13989,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13116,6 +14031,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13152,6 +14070,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13191,6 +14112,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13227,6 +14151,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13261,6 +14188,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13295,6 +14228,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13333,6 +14269,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13367,6 +14309,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13403,6 +14351,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13425,12 +14379,16 @@
 		"cabinets": [
 			{
 				"game": "ONGEKI"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "26879"
+			"allNetSid": "26879",
+			"eAmusementFdesc": "dfc5034476d573586fd741cf52426c7b"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "APINA OOSUKA TEN",
@@ -13461,6 +14419,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13497,6 +14461,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13534,6 +14504,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13570,6 +14546,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -13608,6 +14587,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13638,6 +14623,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13672,6 +14663,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13850,6 +14847,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13889,6 +14892,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13919,12 +14928,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "25318"
+			"allNetSid": "25318",
+			"eAmusementFdesc": "e3775aef7355e3df6920f42d4d06b158"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "APINA HAMAMATSU TEN",
@@ -13952,6 +14965,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -13983,6 +15002,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14017,6 +15039,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14052,6 +15080,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14083,6 +15117,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14119,6 +15156,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14144,6 +15187,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14175,6 +15221,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14214,6 +15263,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14250,6 +15305,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14286,6 +15347,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14319,6 +15383,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14358,6 +15425,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14397,6 +15467,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14425,6 +15501,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14461,6 +15540,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14500,6 +15585,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14536,6 +15627,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14599,6 +15696,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14635,6 +15735,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14668,6 +15771,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14729,6 +15835,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14765,6 +15877,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14861,6 +15979,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -14919,6 +16040,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14953,6 +16080,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -14989,6 +16122,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15046,6 +16182,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15109,6 +16248,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15140,6 +16285,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15200,6 +16348,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15231,6 +16382,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15289,6 +16443,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15324,6 +16481,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15373,6 +16533,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15404,6 +16567,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15437,12 +16603,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "20137"
+			"allNetSid": "20137",
+			"eAmusementFdesc": "db05d4da0b54e33564cdd69b3c13c263"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "AMYUJIAMU KAWAGUCHI TEN",
@@ -15470,6 +16640,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15501,6 +16674,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15564,6 +16740,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -15601,6 +16780,27 @@
 		"alternateArea": "HYOGO KEN",
 		"alternateStoreName": "AMYUZUAIRANDO WADAYAMA",
 		"alternateAddress": "HYOGO KEN ASAGO SHI WADAYAMA MACHI HIRATAOKA 774 BANCHI ION WADAYAMA TEN 1 F"
+	},
+	{
+		"country": "JP",
+		"area": "沖縄県",
+		"storeName": "アミューズジョイBOX",
+		"address": "那覇市首里儀保町3-16",
+		"access": "モノレール首里儀保駅となり",
+		"openingHours": "9:00～24:00",
+		"lat": 26.225635,
+		"lng": 127.718938,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "c796240b8baa78b7f83d2fe01f1e9bd6"
+		},
+		"alternateArea": "OKINAWA KEN",
+		"alternateStoreName": "AMYUZUJOI BOX",
+		"alternateAddress": "NAHA SHI SHURIGIBO MACHI 3 - 16"
 	},
 	{
 		"country": "JP",
@@ -15665,6 +16865,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15704,6 +16910,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15769,6 +16981,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15808,6 +17026,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15835,12 +17059,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "24629"
+			"allNetSid": "24629",
+			"eAmusementFdesc": "6888707ac6f190b20c3cf27c63d2da5a"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "AMYUZUMENTO FUNFUN KOSHIGAYA TEN",
@@ -15898,6 +17129,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15937,6 +17174,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -15976,6 +17219,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16057,6 +17303,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16102,6 +17354,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16160,6 +17415,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16185,6 +17443,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16272,6 +17533,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16297,6 +17564,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16343,6 +17613,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16371,6 +17647,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16453,6 +17735,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16538,16 +17826,22 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "37",
-			"allNetSid": "27368"
+			"allNetSid": "27368",
+			"eAmusementFdesc": "6367b40384ed7c865abf3dd590341bf6"
 		},
 		"alternateArea": "EHIME KEN",
 		"alternateStoreName": "AMYUZUMENTO PAKU M G ASODA",
-		"alternateAddress": "EHIME KEN MATSUYAMA SHI ASODA MACHI 4 − 4 − 3 2 DAI ICHI JIDOSHA KYOSHUJO BIRU 1 KAI"
+		"alternateAddress": "EHIME KEN MATSUYAMA SHI ASODA MACHI 4 − 4 − 3 2 DAI ICHI JIDOSHA KYOSHUJO BIRU 1 KAI",
+		"access": "第一教習所より徒歩1分",
+		"openingHours": "9:30～22:00"
 	},
 	{
 		"country": "JP",
@@ -16559,12 +17853,16 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "37",
-			"allNetSid": "21412"
+			"allNetSid": "21412",
+			"eAmusementFdesc": "d624c3f360b0fb3cbeac870a3011255c"
 		},
 		"alternateArea": "EHIME KEN",
 		"alternateStoreName": "AMYUZUMENTO PAKU M G TOYO",
@@ -16610,6 +17908,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16649,6 +17950,26 @@
 	},
 	{
 		"country": "JP",
+		"area": "岩手県",
+		"storeName": "アミューズメントパークアルコ",
+		"address": "紫波郡矢巾町南矢幅第7地割425-3",
+		"openingHours": "10:00～21:00",
+		"lat": 39.61104836,
+		"lng": 141.1523873,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "ad922213a4a9b85404fa6017c9e2dba1"
+		},
+		"alternateArea": "IWATE KEN",
+		"alternateStoreName": "AMYUZUMENTOPAKUARUKO",
+		"alternateAddress": "SHIWA GUN YAHABA MACHI MINAMIYAHABA DAI 7 CHI WARI 425 - 3"
+	},
+	{
+		"country": "JP",
 		"area": "宮城県",
 		"storeName": "アミューズメントパークサムワン",
 		"address": "宮城県柴田郡村田町沼辺時牡丹山42-1",
@@ -16682,6 +18003,8 @@
 		"area": "神奈川県",
 		"storeName": "アミューズメントパークジアス上大岡",
 		"address": "神奈川県横浜市港南区上大岡西2-1-28",
+		"access": "京浜急行「上大岡駅」下車徒歩3分、横浜市営地下鉄「上大岡駅」下車徒歩1分赤い風船モールパート1 F1階",
+		"openingHours": "10:00～24:00",
 		"lat": 35.4066319,
 		"lng": 139.5961022,
 		"cabinets": [
@@ -16693,12 +18016,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "13",
-			"allNetSid": "28853"
+			"allNetSid": "28853",
+			"eAmusementFdesc": "1ae9352835f7ff7a794d38ea4e08d2fa"
 		},
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "AMYUZUMENTOPAKUJIASU KAMIOOKA",
@@ -16756,6 +18083,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16792,6 +18122,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16831,6 +18167,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "栃木県",
+		"storeName": "アミューズメントヒカリ",
+		"address": "宇都宮市江野町7-13ヒカリビル1F",
+		"lat": 36.56004,
+		"lng": 139.88167,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "f01002ffb8926557413e42a2bbb69b66"
+		},
+		"alternateArea": "TOCHIGI KEN",
+		"alternateStoreName": "AMYUZUMENTO HIKARI",
+		"alternateAddress": "UTSUNOMIYA SHI ENO MACHI 7 - 13 HIKARIBIRU 1 F"
+	},
+	{
+		"country": "JP",
 		"area": "埼玉県",
 		"storeName": "アミューズメントフィールドバイヨン",
 		"address": "埼玉県ふじみ野市うれし野2-16-1LCモールうれし野2F",
@@ -16848,6 +18203,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -16918,6 +18276,69 @@
 	},
 	{
 		"country": "JP",
+		"area": "神奈川県",
+		"storeName": "アミューズメントベネクス川崎店",
+		"address": "川崎市川崎区鋼管通4-8-3",
+		"access": "浜川崎駅から車で5分",
+		"openingHours": "9:00～24:00(日祝8:00～24:00)",
+		"lat": 35.511637,
+		"lng": 139.71314,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "35c2b17deaf75908dcefa56a88a8db42"
+		},
+		"alternateArea": "KANAGAWA KEN",
+		"alternateStoreName": "AMYUZUMENTOBENEKUSU KAWASAKI TEN",
+		"alternateAddress": "KAWASAKI SHI KAWASAKI KU KOKANDORI 4 - 8 - 3"
+	},
+	{
+		"country": "JP",
+		"area": "埼玉県",
+		"storeName": "アミューズメントベネクス川越",
+		"address": "川越市大仙波440-1",
+		"access": "小仙波交差点近く",
+		"openingHours": "10:00～24:00(一部24時間)",
+		"lat": 35.908772,
+		"lng": 139.500868,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "255b98fd1cf507bbfd6174633bc1b2f6"
+		},
+		"alternateArea": "SAITAMA KEN",
+		"alternateStoreName": "AMYUZUMENTOBENEKUSU KAWAGOE",
+		"alternateAddress": "KAWAGOE SHI OSEMBA 440 - 1"
+	},
+	{
+		"country": "JP",
+		"area": "埼玉県",
+		"storeName": "アミューズメントベネクス浦和店",
+		"address": "さいたま市南区辻7-2-8",
+		"access": "国道17号沿い",
+		"openingHours": "10:00～24:00",
+		"lat": 35.83454735,
+		"lng": 139.6681232,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "ddcaffbd32d8bd0987d47257fbfd8a39"
+		},
+		"alternateArea": "SAITAMA KEN",
+		"alternateStoreName": "AMYUZUMENTOBENEKUSU URAWA TEN",
+		"alternateAddress": "SAITAMA SHI MINAMI KU TSUJI 7 - 2 - 8"
+	},
+	{
+		"country": "JP",
 		"area": "兵庫県",
 		"storeName": "アミューズメントミール",
 		"address": "三田市対中町5-21",
@@ -16931,6 +18352,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -16982,6 +18409,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17043,6 +18476,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17079,6 +18518,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17125,6 +18570,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -17156,6 +18604,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17179,16 +18633,41 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "22",
-			"allNetSid": "21638"
+			"allNetSid": "21638",
+			"eAmusementFdesc": "ab7827fe013b77c9d13f4a5cbe815900"
 		},
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "IGURU BORU",
 		"alternateAddress": "AICHI KEN CHIRYU SHI TAKARA MACHI SHIO 掻 58"
+	},
+	{
+		"country": "JP",
+		"area": "北海道",
+		"storeName": "イオン千歳 キッズ･パーク",
+		"address": "千歳市栄町6-51イオン千歳店内",
+		"access": "JR千歳駅下車徒歩5分",
+		"openingHours": "9:00～21:00",
+		"lat": 42.8289225,
+		"lng": 141.6483496,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "525f060179aeb1dbf17c317ddcfc212c"
+		},
+		"alternateArea": "HOKKAIDO",
+		"alternateStoreName": "ION SEN SAI KIZZU ・ PAKU",
+		"alternateAddress": "CHITOSE SHI SAKAE MACHI 6 - 51 ION SEN SAI TENNAI"
 	},
 	{
 		"country": "JP",
@@ -17305,6 +18784,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17359,6 +18844,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17395,6 +18886,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17430,6 +18927,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17466,6 +18969,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17504,6 +19013,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17543,6 +19058,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17580,6 +19101,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17616,6 +19143,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17652,6 +19185,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17688,6 +19227,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17724,6 +19269,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17766,6 +19317,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17801,6 +19358,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17840,6 +19403,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17876,6 +19445,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17909,6 +19484,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -17948,6 +19526,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -17984,6 +19568,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18013,6 +19600,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -18044,6 +19637,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -18124,6 +19723,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -18173,12 +19778,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "20",
-			"allNetSid": "25605"
+			"allNetSid": "25605",
+			"eAmusementFdesc": "51937a83e098188feff1959e9f87a777"
 		},
 		"alternateArea": "GIFU KEN",
 		"alternateStoreName": "ORIENTARU BATTEINGU KANI TEN",
@@ -18250,6 +19859,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18271,6 +19883,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18295,6 +19910,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18316,6 +19934,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18350,6 +19971,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18406,6 +20030,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18467,6 +20094,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18570,6 +20200,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18599,6 +20232,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18662,6 +20298,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18755,6 +20394,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18812,6 +20454,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18848,6 +20493,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18881,6 +20529,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18912,6 +20563,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18945,6 +20599,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -18968,16 +20625,25 @@
 		"cabinets": [
 			{
 				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
-			"allNetSid": "24291"
+			"allNetSid": "24291",
+			"eAmusementFdesc": "d2a6165b5538848b71be8d4157c9185a"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "GYARAKUSHIGETO HOSHIGAURA",
-		"alternateAddress": "HOKKAIDO KUSHIRO SHI HOSHIGAURAODORI 2 − 5"
+		"alternateAddress": "HOKKAIDO KUSHIRO SHI HOSHIGAURAODORI 2 − 5",
+		"access": "星が浦大通2丁目 バス停近く",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -18998,6 +20664,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19031,6 +20700,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19067,6 +20739,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19102,6 +20777,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19138,6 +20819,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19169,6 +20853,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19200,6 +20887,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19232,6 +20925,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19263,6 +20959,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19299,6 +20998,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19377,16 +21082,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "28401"
+			"allNetSid": "28401",
+			"eAmusementFdesc": "bb9bb32a78df6c9af3c1730720eeda25"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "GEMUIMPURINSU",
-		"alternateAddress": "SHIZUOKA KEN SHIZUOKA SHI SHIMIZU KU TENJIN 1 - 2 - 6"
+		"alternateAddress": "SHIZUOKA KEN SHIZUOKA SHI SHIMIZU KU TENJIN 1 - 2 - 6",
+		"access": "東名高速静岡ICから車で30分",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -19430,6 +21141,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19454,6 +21168,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19478,6 +21198,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19515,6 +21238,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19569,6 +21298,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19599,16 +21331,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "13",
-			"allNetSid": "27301"
+			"allNetSid": "27301",
+			"eAmusementFdesc": "cfa6294b874e165430f339f4a81b2006"
 		},
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "GEMU KOSUMO TSURUMI TEN",
-		"alternateAddress": "KANAGAWA KEN YOKOHAMA SHI TSURUMI KU TOYOOKA MACHI 1 7 − 4"
+		"alternateAddress": "KANAGAWA KEN YOKOHAMA SHI TSURUMI KU TOYOOKA MACHI 1 7 − 4",
+		"access": "JR「鶴見駅」西口徒歩1分",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -19629,6 +21367,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19692,6 +21436,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19725,6 +21475,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19755,6 +21508,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19782,16 +21538,21 @@
 			},
 			{
 				"game": "CHUNITHM"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "15",
-			"allNetSid": "25473"
+			"allNetSid": "25473",
+			"eAmusementFdesc": "549deed6218261f770b95ccb656f35a4"
 		},
 		"alternateArea": "TOYAMA KEN",
 		"alternateStoreName": "GEMU SUPOTTO 3 0 6",
-		"alternateAddress": "TOYAMA KEN TAKAOKA SHI SHOWA MACHI 2 − 2 6 7 − 5"
+		"alternateAddress": "TOYAMA KEN TAKAOKA SHI SHOWA MACHI 2 − 2 6 7 − 5",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -19812,6 +21573,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19837,6 +21604,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -19887,6 +21657,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -19923,6 +21699,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20009,6 +21791,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20070,6 +21858,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -20107,6 +21898,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20146,6 +21943,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20203,6 +22006,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20257,6 +22066,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -20296,6 +22108,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20333,6 +22151,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20367,6 +22191,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20397,6 +22227,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20434,6 +22270,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20473,6 +22315,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20510,6 +22358,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20544,6 +22398,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20572,6 +22432,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20599,6 +22465,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20654,6 +22526,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20667,6 +22545,27 @@
 		"alternateAddress": "SAITAMA KEN SOKA SHI HIKAWA MACHI 2125 - 1",
 		"access": "東武伊勢崎線草加駅徒歩1分",
 		"openingHours": "～24:00"
+	},
+	{
+		"country": "JP",
+		"area": "広島県",
+		"storeName": "ゲームファンタジア",
+		"address": "広島市安佐南区緑井6-21-1フィエラ･ディ･プローバ7F",
+		"access": "山陽自動車道広島IC出入口すぐ国道54号線沿い",
+		"openingHours": "10:00～翌3:00",
+		"lat": 34.473782,
+		"lng": 132.485605,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "b7990a66e12824059f57bd31be0bccd0"
+		},
+		"alternateArea": "HIROSHIMA KEN",
+		"alternateStoreName": "GEMU FUANTAJIA",
+		"alternateAddress": "HIROSHIMA SHI ASAMINAMI KU MIDORII 6 - 21 - 1 FUIERA ・ DEI ・ PUROBA 7 F"
 	},
 	{
 		"country": "JP",
@@ -20690,6 +22589,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20726,6 +22631,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20762,6 +22673,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20798,6 +22715,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -20962,6 +22885,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21004,6 +22930,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21064,6 +22996,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21100,6 +23038,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21136,6 +23080,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21173,6 +23123,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21212,6 +23168,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21255,6 +23217,26 @@
 		"alternateArea": "OITA KEN",
 		"alternateStoreName": "GEMU RABO SAIDO SEBUN",
 		"alternateAddress": "OITA KEN OITA SHI KAMIMUNAKATA MINAMI 1 CHOME 6 4 9 − 1"
+	},
+	{
+		"country": "JP",
+		"area": "沖縄県",
+		"storeName": "ゲームランドジャイジャングル宮古南店",
+		"address": "宮古島市平良字久貝1072-11",
+		"openingHours": "10:00～24:00",
+		"lat": 24.793155,
+		"lng": 125.276591,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "29daf26fedb61197b3a4ae0eb8ff7a6f"
+		},
+		"alternateArea": "OKINAWA KEN",
+		"alternateStoreName": "GEMURANDOJAIJANGURU MIYAFURU MINAMI TEN",
+		"alternateAddress": "MIYAKOJIMA SHI TAIRA JI KUGAI 1072 - 11"
 	},
 	{
 		"country": "JP",
@@ -21571,6 +23553,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21590,6 +23575,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21612,6 +23600,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21641,6 +23635,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21675,6 +23672,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21714,6 +23717,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21753,6 +23762,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -21816,6 +23831,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21870,6 +23888,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21899,6 +23920,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21930,6 +23954,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -21987,16 +24014,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "28979"
+			"allNetSid": "28979",
+			"eAmusementFdesc": "952c9cc80f3f818e91e0f209d8f6de3e"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "SAPURA FUJI ASOBI TAUN",
-		"alternateAddress": "SHIZUOKA KEN FUJI SHI NAGATACHO 2 − 9 9"
+		"alternateAddress": "SHIZUOKA KEN FUJI SHI NAGATACHO 2 − 9 9",
+		"access": "東名高速富士I.C車で10分",
+		"openingHours": "10:00～24:00 土日祝9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -22088,6 +24121,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22113,16 +24152,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "45",
-			"allNetSid": "28903"
+			"allNetSid": "28903",
+			"eAmusementFdesc": "3b47c55d7ddc8bae5fc8029356b7fd20"
 		},
 		"alternateArea": "KAGOSHIMA KEN",
 		"alternateStoreName": "SANAMYUZU KANOYA TEN",
-		"alternateAddress": "KAGOSHIMA KEN KANOYA SHI FUDAMOTO 2 CHOME 3798 - 1"
+		"alternateAddress": "KAGOSHIMA KEN KANOYA SHI FUDAMOTO 2 CHOME 3798 - 1",
+		"openingHours": "9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -22164,12 +24208,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "45",
-			"allNetSid": "28061"
+			"allNetSid": "28061",
+			"eAmusementFdesc": "2c38909d48e0a2dceb74c842051c5d63"
 		},
 		"alternateArea": "KAGOSHIMA KEN",
 		"alternateStoreName": "SANGEMUSU TEMMON KAN TEN",
@@ -22215,6 +24263,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -22243,6 +24294,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -22271,6 +24325,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -22302,6 +24359,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -22339,6 +24399,27 @@
 	},
 	{
 		"country": "JP",
+		"area": "香川県",
+		"storeName": "シーサイドボウル高松",
+		"address": "高松市浜ノ町59-10シーサイドボウル内ゲームコーナー",
+		"access": "JR高松駅徒歩10分",
+		"openingHours": "10:00～24:00",
+		"lat": 34.3497543,
+		"lng": 134.0387349,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "56685777617a849276045e0bf2a973d5"
+		},
+		"alternateArea": "KAGAWA KEN",
+		"alternateStoreName": "SHISAIDO BORU TAKAMATSU",
+		"alternateAddress": "TAKAMATSU SHI HAMANO MACHI 59 - 10 SHISAIDO BORU NAI GEMU KONA"
+	},
+	{
+		"country": "JP",
 		"area": "栃木県",
 		"storeName": "シーサイドリゾートアミューズメントパーク",
 		"address": "栃木県宇都宮市睦町7-3",
@@ -22362,6 +24443,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22398,6 +24485,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22462,6 +24555,25 @@
 	{
 		"country": "JP",
 		"area": "沖縄県",
+		"storeName": "ジョイジャングル石垣店",
+		"address": "石垣市字真栄里239-18",
+		"lat": 24.337219,
+		"lng": 124.180789,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "2c3cb45cc820ffad61a73d71519e4c84"
+		},
+		"alternateArea": "OKINAWA KEN",
+		"alternateStoreName": "JOIJANGURU ISHIGAKI TEN",
+		"alternateAddress": "ISHIGAKI SHI JI MAEZATO 239 - 18"
+	},
+	{
+		"country": "JP",
+		"area": "沖縄県",
 		"storeName": "ジョイジャングル美浜",
 		"address": "沖縄県中頭郡北谷町美浜15-68",
 		"lat": 26.3172082,
@@ -22469,16 +24581,22 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "46",
-			"allNetSid": "26161"
+			"allNetSid": "26161",
+			"eAmusementFdesc": "c27d9980bb7d0f22e04a74e16a2ec87a"
 		},
 		"alternateArea": "OKINAWA KEN",
 		"alternateStoreName": "JOIJANGURU MIHAMA",
-		"alternateAddress": "OKINAWA KEN NAKAGAMI GUN CHATAN MACHI MIHAMA 1 5 − 6 8"
+		"alternateAddress": "OKINAWA KEN NAKAGAMI GUN CHATAN MACHI MIHAMA 1 5 − 6 8",
+		"access": "カーニバルパーク観覧車横",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -22496,16 +24614,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "27",
-			"allNetSid": "28916"
+			"allNetSid": "28916",
+			"eAmusementFdesc": "649b5e62e7d31d6e1f2921c5c0133825"
 		},
 		"alternateArea": "HYOGO KEN",
 		"alternateStoreName": "JOIPURAZA TOYOOKA TEN",
-		"alternateAddress": "HYOGO KEN TOYOOKA SHI KAHIRO MACHI 7 − 3 2 KOPUDEIZU TOYOOKA NAI"
+		"alternateAddress": "HYOGO KEN TOYOOKA SHI KAHIRO MACHI 7 − 3 2 KOPUDEIZU TOYOOKA NAI",
+		"openingHours": "10:00～22:00 金・土・祝前日10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -22533,6 +24656,8 @@
 		"area": "静岡県",
 		"storeName": "ジョイランドアミューズ諏訪店",
 		"address": "静岡県沼津市大諏訪20-2",
+		"access": "JRかたはま駅  2? 旧1号沿い",
+		"openingHours": "10:00～24:00",
 		"lat": 35.10844121558573,
 		"lng": 138.83220780653141,
 		"cabinets": [
@@ -22547,12 +24672,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "25557"
+			"allNetSid": "25557",
+			"eAmusementFdesc": "0053a3b6830596888b6e9fa79e856cd7"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "JOIRANDOAMYUZU SUWA TEN",
@@ -22574,6 +24703,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22602,6 +24737,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22633,6 +24774,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22669,6 +24816,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22705,6 +24858,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22741,6 +24900,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22780,6 +24945,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22843,6 +25014,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22879,6 +25056,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22915,6 +25098,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22951,6 +25140,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -22986,6 +25181,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23023,6 +25224,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23057,6 +25264,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23094,6 +25307,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23133,6 +25352,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23172,6 +25397,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23208,6 +25439,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23234,6 +25471,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -23398,12 +25638,16 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "20827"
+			"allNetSid": "20827",
+			"eAmusementFdesc": "a5552b7c65c48d7cb41a22fee1bf84fb"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "SUKUUEAWANSAISUPO TEN",
@@ -23543,6 +25787,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23689,6 +25939,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -23713,16 +25966,22 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "22",
-			"allNetSid": "27925"
+			"allNetSid": "27925",
+			"eAmusementFdesc": "369e8115e729a701580eba21cfb970d7"
 		},
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "SUPESUSHATORU SHIOGAMAGUCHI",
-		"alternateAddress": "AICHI KEN NAGOYA SHI TEMPAKU KU SHIOGAMAGUCHI 2 − 4 1 4"
+		"alternateAddress": "AICHI KEN NAGOYA SHI TEMPAKU KU SHIOGAMAGUCHI 2 − 4 1 4",
+		"access": "地下鉄名城線塩釜口駅前",
+		"openingHours": "9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -23746,6 +26005,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23782,6 +26047,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23818,6 +26089,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -23848,16 +26125,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "42",
-			"allNetSid": "27908"
+			"allNetSid": "27908",
+			"eAmusementFdesc": "8aea2a3d0470c5ab84cecdbbffde9a8a"
 		},
 		"alternateArea": "KUMAMOTO KEN",
 		"alternateStoreName": "SUPORA KUHONJI",
-		"alternateAddress": "KUMAMOTO KEN KUMAMOTO SHI CHUO KU KUHONJI 5 CHOME 10 - 15"
+		"alternateAddress": "KUMAMOTO KEN KUMAMOTO SHI CHUO KU KUHONJI 5 CHOME 10 - 15",
+		"access": "JR豊肥本線南熊本駅徒歩10分",
+		"openingHours": "10:00～翌3:00"
 	},
 	{
 		"country": "JP",
@@ -23878,16 +26164,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "42",
-			"allNetSid": "25239"
+			"allNetSid": "25239",
+			"eAmusementFdesc": "98e1c49840ba44122e83178b86999b1e"
 		},
 		"alternateArea": "KUMAMOTO KEN",
 		"alternateStoreName": "SUPORA KIKUYO",
-		"alternateAddress": "KUMAMOTO KEN KIKUCHI GUN KIKUYO MACHI TSUKURE DA 飼 DAI 2 6 1 7 − 2"
+		"alternateAddress": "KUMAMOTO KEN KIKUCHI GUN KIKUYO MACHI TSUKURE DA 飼 DAI 2 6 1 7 − 2",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -23923,6 +26214,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -23955,6 +26249,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -24060,6 +26357,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -24391,12 +26694,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "24821"
+			"allNetSid": "24821",
+			"eAmusementFdesc": "65b8d372efefc806ebdfc835ca80c152"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "SOYUGEMUFUIRUDO SHOBU TEN",
@@ -24502,6 +26809,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -24551,12 +26864,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "2",
-			"allNetSid": "24952"
+			"allNetSid": "24952",
+			"eAmusementFdesc": "66f20ea60e44266cd994ffcf64826d21"
 		},
 		"alternateArea": "IWATE KEN",
 		"alternateStoreName": "SOYUFUAMIRIGEMUFUIRUDO HANAMAKI TEN",
@@ -24737,6 +27057,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -24792,6 +27115,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -24903,6 +27232,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -24925,6 +27257,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -24953,6 +27288,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25008,6 +27349,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25041,6 +27388,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25075,6 +27428,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25109,6 +27468,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25134,6 +27496,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25165,6 +27530,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25238,12 +27609,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "43",
-			"allNetSid": "25091"
+			"allNetSid": "25091",
+			"eAmusementFdesc": "ab8f1998a4312007bca65ef57d3c13c1"
 		},
 		"alternateArea": "OITA KEN",
 		"alternateStoreName": "TAITO F SUTESHON YUMETAUN BEPPU TEN",
@@ -25268,6 +27643,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25347,6 +27725,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25408,6 +27789,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25470,6 +27857,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25495,6 +27885,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25529,6 +27922,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25563,6 +27962,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25597,6 +28002,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25631,6 +28042,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25692,6 +28106,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25751,6 +28171,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25781,6 +28207,9 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25809,6 +28238,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25833,6 +28265,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25867,6 +28302,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25891,6 +28329,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25922,6 +28363,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -25971,6 +28418,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -25998,16 +28448,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "25299"
+			"allNetSid": "25299",
+			"eAmusementFdesc": "82844e1f70da02ebdc6023fc31345cba"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "TAITO SUTESHON ARIO YAO TEN",
-		"alternateAddress": "OSAKA FU YAO SHI HIKARI MACHI 2 − 3 ITOYOKADOARIO HACHI BI 3 F"
+		"alternateAddress": "OSAKA FU YAO SHI HIKARI MACHI 2 − 3 ITOYOKADOARIO HACHI BI 3 F",
+		"access": "近鉄八尾駅からすぐそこ!! イトーヨーカドーアリオ八尾の3階で 赤いインベーダー看板がMAXパワーで営業中",
+		"openingHours": "10:00～23:00"
 	},
 	{
 		"country": "JP",
@@ -26022,16 +28478,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "15",
-			"allNetSid": "27747"
+			"allNetSid": "27747",
+			"eAmusementFdesc": "07f4a4d91e8db4c0f8416c054acb529e"
 		},
 		"alternateArea": "TOYAMA KEN",
 		"alternateStoreName": "TAITO SUTESHON FUABORE FUCHU TEN",
-		"alternateAddress": "TOYAMA KEN TOYAMA SHI FUCHU MACHI SHIMOKUTSUWADA 1 6 5 − 1 FUYUCHAFUABORE 2 F"
+		"alternateAddress": "TOYAMA KEN TOYAMA SHI FUCHU MACHI SHIMOKUTSUWADA 1 6 5 − 1 FUYUCHAFUABORE 2 F",
+		"access": "高山本線速星駅より徒歩15分 または富山駅よりファボーレ前バス停下車",
+		"openingHours": "平日10:00～24:00 土日祝9:30～24:00"
 	},
 	{
 		"country": "JP",
@@ -26046,16 +28511,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "12",
-			"allNetSid": "26165"
+			"allNetSid": "26165",
+			"eAmusementFdesc": "6522df25c20be7f7fef344fc9694c05f"
 		},
 		"alternateArea": "TOKYO TO",
 		"alternateStoreName": "TAITO SUTESHON UENO AMEYOKO TEN",
-		"alternateAddress": "TOKYO TO TAITO KU UENO 4 − 1 0 − 1 7"
+		"alternateAddress": "TOKYO TO TAITO KU UENO 4 − 1 0 − 1 7",
+		"access": "上野駅から徒歩2分!アメヤ横丁入ってすぐ",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -26073,6 +28544,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26106,6 +28580,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26193,6 +28670,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26223,6 +28703,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26259,6 +28742,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26286,6 +28775,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26337,12 +28829,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "11",
-			"allNetSid": "25231"
+			"allNetSid": "25231",
+			"eAmusementFdesc": "7df581cd305dafaa8fd3539bd81ac696"
 		},
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "TAITO SUTESHON FUNABASHI TEN",
@@ -26364,6 +28860,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26390,6 +28889,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26420,6 +28922,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26456,6 +28961,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26486,6 +28997,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26511,6 +29025,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26530,6 +29047,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26564,6 +29084,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26645,6 +29171,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26681,6 +29213,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26720,6 +29255,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26759,6 +29297,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26796,6 +29340,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26832,6 +29382,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -26858,6 +29414,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26883,6 +29442,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26916,6 +29478,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -26946,6 +29511,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27006,6 +29574,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27039,6 +29613,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27075,6 +29652,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27109,6 +29692,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27145,6 +29734,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27169,12 +29764,16 @@
 		"cabinets": [
 			{
 				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "7",
-			"allNetSid": "23941"
+			"allNetSid": "23941",
+			"eAmusementFdesc": "f4ec7c6fa3edd65f52423bc5f753eea8"
 		},
 		"alternateArea": "IBARAKI KEN",
 		"alternateStoreName": "TAITO SUTESHON MITO MINAMI TEN",
@@ -27192,6 +29791,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27226,6 +29828,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27260,6 +29868,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27296,6 +29910,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27335,6 +29955,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27369,6 +29995,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27402,6 +30034,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27438,6 +30076,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27474,6 +30118,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27513,6 +30163,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27544,6 +30200,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27580,6 +30239,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27640,6 +30305,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27670,6 +30341,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27684,6 +30358,26 @@
 	},
 	{
 		"country": "JP",
+		"area": "静岡県",
+		"storeName": "タカダバッティングセンター",
+		"address": "富士市田島75-1",
+		"openingHours": "店舗に直接お問い合わせください",
+		"lat": 35.150984,
+		"lng": 138.695805,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "a5b1a2647f554cc6043d5b474d6630b9"
+		},
+		"alternateArea": "SHIZUOKA KEN",
+		"alternateStoreName": "TAKADABATTEINGUSENTA",
+		"alternateAddress": "FUJI SHI TAJIMA 75 - 1"
+	},
+	{
+		"country": "JP",
 		"area": "京都府",
 		"storeName": "タカラ島亀岡",
 		"address": "京都府亀岡市篠町野条上又11-1ｱﾙ・ﾌﾟﾗｻﾞ亀岡店3F",
@@ -27695,6 +30389,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27722,6 +30419,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27800,6 +30500,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27837,6 +30540,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27861,16 +30570,22 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "11",
-			"allNetSid": "28398"
+			"allNetSid": "28398",
+			"eAmusementFdesc": "cc7547a287ee57a978d33b88d616b22f"
 		},
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "CHARIOTTO TATSUMI TEN",
-		"alternateAddress": "CHIBA KEN ICHIHARA SHI ICHIHARA 500 - 1"
+		"alternateAddress": "CHIBA KEN ICHIHARA SHI ICHIHARA 500 - 1",
+		"access": "館山自動車道蘇我ICより車で10分、国道297号線沿い",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -27885,6 +30600,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -27964,6 +30682,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -27997,6 +30721,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28036,6 +30763,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28072,6 +30805,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28108,6 +30847,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28144,6 +30889,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28207,6 +30958,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28350,6 +31107,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28384,6 +31147,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28420,6 +31189,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28453,12 +31225,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "21189"
+			"allNetSid": "21189",
+			"eAmusementFdesc": "22eb35b89275cc80c602b2cba76ec756"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "TOPPU RAN HIGASHIOSAKA TEN",
@@ -28522,6 +31298,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28566,6 +31345,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28645,6 +31427,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28681,6 +31469,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28733,6 +31527,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -28754,6 +31554,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28788,6 +31591,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28824,6 +31630,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28863,6 +31672,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28899,6 +31711,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28938,6 +31753,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28974,6 +31792,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -28998,12 +31819,16 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "8",
-			"allNetSid": "21012"
+			"allNetSid": "21012",
+			"eAmusementFdesc": "047a543fe306f1422beb64cc46a0a559"
 		},
 		"alternateArea": "TOCHIGI KEN",
 		"alternateStoreName": "DORIMUFUAKUTORIAROHA ! KANUMA TEN",
@@ -29022,6 +31847,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -29044,16 +31872,42 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "7",
-			"allNetSid": "21007"
+			"allNetSid": "21007",
+			"eAmusementFdesc": "71cff64af95bc37ed0bb8526f40d2fff"
 		},
 		"alternateArea": "IBARAKI KEN",
 		"alternateStoreName": "DORIMUFUAKUTORIBUIBUI ! SAKAI MACHI TEN",
 		"alternateAddress": "IBARAKI KEN SASHIMA GUN SAKAI MACHI 1 3 2 7 − 1 MGM PAWA SENTA NAI 1 F"
+	},
+	{
+		"country": "JP",
+		"area": "愛知県",
+		"storeName": "ドリームプラネット今池店",
+		"address": "名古屋市千種区今池5-10-1ドン･キホーテ今池店3F",
+		"lat": 35.168408,
+		"lng": 136.937199,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "e8dfd09ae21a8b90b5d96864eb30be82"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "DORIMUPURANETTO IMAIKE TEN",
+		"alternateAddress": "NAGOYA SHI CHIKUSA KU IMAIKE 5 - 10 - 1 DON ・ KIHOTE IMAIKE TEN 3 F"
 	},
 	{
 		"country": "JP",
@@ -29098,6 +31952,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29207,6 +32067,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "岩手県",
+		"storeName": "ニコアプレイランド",
+		"address": "二戸市米沢字荒谷25",
+		"lat": 40.282931,
+		"lng": 141.294292,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "a982c1b50b1e2fb2254200f7619d5d91"
+		},
+		"alternateArea": "IWATE KEN",
+		"alternateStoreName": "NIKOAPUREIRANDO",
+		"alternateAddress": "FUTADO SHI YONEZAWA JI ARATANI 25"
+	},
+	{
+		"country": "JP",
 		"area": "山口県",
 		"storeName": "ネオブラボー",
 		"address": "山口県防府市高倉1-3-30",
@@ -29227,6 +32106,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29308,6 +32193,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29418,6 +32309,27 @@
 	},
 	{
 		"country": "JP",
+		"area": "東京都",
+		"storeName": "ハイパーレーン",
+		"address": "豊島区東池袋1-43-14D-BOXビル3F",
+		"access": "JR池袋駅東口下車徒歩2分",
+		"openingHours": "10:00～翌3:00",
+		"lat": 35.73279418,
+		"lng": 139.7139846,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "666895c27f521a44494b7e4d794c5f4d"
+		},
+		"alternateArea": "TOKYO TO",
+		"alternateStoreName": "HAIPAREN",
+		"alternateAddress": "TOSHIMA KU HIGASHIIKEBUKURO 1 - 43 - 14 D - BOX BIRU 3 F"
+	},
+	{
+		"country": "JP",
 		"area": "石川県",
 		"storeName": "バイパスレジャーランド加賀店",
 		"address": "石川県加賀市箱宮町ヲ1-1",
@@ -29438,6 +32350,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29465,6 +32383,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29496,6 +32420,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29777,6 +32707,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -29807,6 +32743,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -29924,12 +32863,16 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "5",
-			"allNetSid": "20510"
+			"allNetSid": "20510",
+			"eAmusementFdesc": "075430ff15824ab223926be759630f33"
 		},
 		"alternateArea": "YAMAGATA KEN",
 		"alternateStoreName": "PARUKEDEAMIGO",
@@ -29954,6 +32897,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -29986,16 +32932,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "11",
-			"allNetSid": "26903"
+			"allNetSid": "26903",
+			"eAmusementFdesc": "52afc483376e80cd197e81f8ca188dab"
 		},
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "PARE PARE INAGE NAGANUMA TEN",
-		"alternateAddress": "CHIBA KEN CHIBA SHI INAGE KU NAGANUMAHARA MACHI 731 - 17 FURESUPO INAGE A 2 MUNE 4"
+		"alternateAddress": "CHIBA KEN CHIBA SHI INAGE KU NAGANUMAHARA MACHI 731 - 17 FURESUPO INAGE A 2 MUNE 4",
+		"access": "JR稲毛駅より京成バス山王町行き、ヴィルフォーレ下車2分",
+		"openingHours": "9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -30055,12 +33007,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "27",
-			"allNetSid": "24373"
+			"allNetSid": "24373",
+			"eAmusementFdesc": "7c09e8d01265b94dc93f7ebeea3d0e06"
 		},
 		"alternateArea": "HYOGO KEN",
 		"alternateStoreName": "HAROZU GADEN SHIMMITA TEN",
@@ -30118,6 +33077,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30194,6 +33156,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30263,6 +33228,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30288,6 +33259,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30310,6 +33287,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30344,6 +33324,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30377,6 +33363,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30433,12 +33425,19 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "42",
-			"allNetSid": "24231"
+			"allNetSid": "24231",
+			"eAmusementFdesc": "24ca65b5ca62e54c51ffacaf104dad8c"
 		},
 		"alternateArea": "KUMAMOTO KEN",
 		"alternateStoreName": "PINOKIORANDO HONDO",
@@ -30481,6 +33480,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30524,6 +33526,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30546,6 +33551,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30595,6 +33603,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30634,6 +33645,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30671,6 +33688,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30710,6 +33733,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30764,6 +33793,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30827,6 +33862,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -30863,6 +33904,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -30942,6 +33986,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -31140,6 +34190,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -31340,6 +34393,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -31364,6 +34420,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -31425,6 +34484,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -31482,6 +34547,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -31544,6 +34615,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -31555,6 +34629,27 @@
 		"alternateArea": "HIROSHIMA KEN",
 		"alternateStoreName": "FUTABATOSHO ARUTEIRANDO",
 		"alternateAddress": "HIROSHIMA KEN HIROSHIMA SHI NISHI KU KUSATSUMINAMI 4 − 7 − 1 ARU PAKU KITA TO 2 F"
+	},
+	{
+		"country": "JP",
+		"area": "奈良県",
+		"storeName": "ブック245内 合栄産業",
+		"address": "大和郡山市横田町75-1",
+		"access": "西名阪郡山IC折りなら方向国道25号線との交差点そば。中華料理北京の地下",
+		"openingHours": "一部24時間営業",
+		"lat": 34.61956937,
+		"lng": 135.80205,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "bd4f55fdc82031edf4bace73e66f253a"
+		},
+		"alternateArea": "NARA KEN",
+		"alternateStoreName": "BUKKU 245 NAI GO SAKAE SANGYO",
+		"alternateAddress": "YAMATOKORIYAMA SHI YOKOTA MACHI 75 - 1"
 	},
 	{
 		"country": "JP",
@@ -32073,6 +35168,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32100,16 +35201,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "33",
-			"allNetSid": "27732"
+			"allNetSid": "27732",
+			"eAmusementFdesc": "f81f41c12aebacc35c103b66c29dcdb0"
 		},
 		"alternateArea": "HIROSHIMA KEN",
 		"alternateStoreName": "BURAKKU JAKKU HIGASHIHIROSHIMA TEN",
-		"alternateAddress": "HIROSHIMA KEN HIGASHIHIROSHIMA SHI SAIJOCHOMISONOU 6120"
+		"alternateAddress": "HIROSHIMA KEN HIGASHIHIROSHIMA SHI SAIJOCHOMISONOU 6120",
+		"access": "山陽自動車道西条ICより車で15分375号線経由円城寺入口交差点よりすぐ加茂ボウル内",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -32130,6 +35240,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -32165,6 +35278,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32226,6 +35345,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32253,6 +35378,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -32289,6 +35417,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32319,16 +35453,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "37",
-			"allNetSid": "28672"
+			"allNetSid": "28672",
+			"eAmusementFdesc": "03c3cf2df86514b7facdf12d203f615f"
 		},
 		"alternateArea": "EHIME KEN",
 		"alternateStoreName": "PUREIDOMU MATSUYAMA",
-		"alternateAddress": "EHIME KEN MATSUYAMA SHI YOGOMINAMI 4 CHOME 9 − 4 0"
+		"alternateAddress": "EHIME KEN MATSUYAMA SHI YOGOMINAMI 4 CHOME 9 − 4 0",
+		"access": "伊予鉄鎌田駅より徒歩2分",
+		"openingHours": "9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -32346,6 +35489,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32372,16 +35521,22 @@
 			},
 			{
 				"game": "CHUNITHM"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "15",
-			"allNetSid": "28311"
+			"allNetSid": "28311",
+			"eAmusementFdesc": "f2cffab7a5c93380119762cf6ac59ce4"
 		},
 		"alternateArea": "TOYAMA KEN",
 		"alternateStoreName": "PUREIRANDOIN KUROBE",
-		"alternateAddress": "TOYAMA KEN KUROBE SHI KUTSUKAKE 645"
+		"alternateAddress": "TOYAMA KEN KUROBE SHI KUTSUKAKE 645",
+		"access": "国道8号線沿い黒部IC入口交差点近く",
+		"openingHours": "5:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -32408,6 +35563,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32547,6 +35708,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32632,6 +35799,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32897,6 +36070,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32926,6 +36105,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -32990,6 +36175,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33018,6 +36209,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33042,6 +36239,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33106,6 +36309,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33157,6 +36366,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33179,16 +36394,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "36",
-			"allNetSid": "25135"
+			"allNetSid": "25135",
+			"eAmusementFdesc": "f6c8a8a7b35b354f0dec8d966cb95d83"
 		},
 		"alternateArea": "KAGAWA KEN",
 		"alternateStoreName": "MARU GE",
-		"alternateAddress": "KAGAWA KEN TAKAMATSU SHI MINAMISHIN MACHI 8 − 1 2"
+		"alternateAddress": "KAGAWA KEN TAKAMATSU SHI MINAMISHIN MACHI 8 − 1 2",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -33263,6 +36483,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33276,6 +36502,25 @@
 		"alternateAddress": "TOKYO TO NERIMA KU NUKUI 1 − 1 − 2 YK BIRU 2 F",
 		"access": "西武池袋線中村橋駅徒歩2分",
 		"openingHours": "10:00～24:00"
+	},
+	{
+		"country": "JP",
+		"area": "沖縄県",
+		"storeName": "ミルキーズ",
+		"address": "うるま市江洲450-1サンエー具志川メインシティ2F",
+		"lat": 26.352706,
+		"lng": 127.82564,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "dbdb4246e093c11aadfaa5d60e272d24"
+		},
+		"alternateArea": "OKINAWA KEN",
+		"alternateStoreName": "MIRUKIZU",
+		"alternateAddress": "URUMA SHI ESU 450 - 1 SANE GUSHIKAWA MEIN SHITEI 2 F"
 	},
 	{
 		"country": "JP",
@@ -33299,6 +36544,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33332,6 +36580,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33372,6 +36623,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33385,6 +36642,27 @@
 		"alternateAddress": "KANAGAWA KEN SAGAMIHARA SHI CHUO KU CHUO 2 − 1 − 5",
 		"access": "JR横浜線相模原駅徒歩15分国道16号線近く",
 		"openingHours": "10:00～24:00"
+	},
+	{
+		"country": "JP",
+		"area": "鳥取県",
+		"storeName": "メカランド サルビア",
+		"address": "鳥取市南隈860",
+		"access": "ジャスコ鳥取北店より徒歩15分",
+		"openingHours": "10:00～翌3:00",
+		"lat": 35.51980336,
+		"lng": 134.2034528,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "7e18d1270b015d4ff88fc226e5f59064"
+		},
+		"alternateArea": "TOTTORI KEN",
+		"alternateStoreName": "MEKA RANDO SARUBIA",
+		"alternateAddress": "TOTTORI SHI MINAMIGAKUMA 860"
 	},
 	{
 		"country": "JP",
@@ -33411,6 +36689,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33444,6 +36725,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33477,6 +36761,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33513,6 +36800,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33573,6 +36863,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33607,6 +36900,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33641,6 +36937,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -33701,12 +37003,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "25082"
+			"allNetSid": "25082",
+			"eAmusementFdesc": "a399ac2cde3c8ddaf9a9c516b5de066d"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "MO RI FUANTAJI F FUJI MINAMI",
@@ -33731,12 +37037,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "33",
-			"allNetSid": "24532"
+			"allNetSid": "24532",
+			"eAmusementFdesc": "1ea141a005c14860255b241caf80131e"
 		},
 		"alternateArea": "HIROSHIMA KEN",
 		"alternateStoreName": "MO RI FUANTAJI F HIROSHIMA GION",
@@ -33764,6 +37074,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -33852,6 +37165,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -34111,6 +37427,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -34160,6 +37479,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -34219,6 +37541,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34321,6 +37649,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34357,6 +37691,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34391,6 +37731,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34417,6 +37763,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34442,6 +37794,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -34479,6 +37834,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34515,6 +37876,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34554,6 +37921,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34582,6 +37955,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -34619,6 +37995,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34679,6 +38061,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34715,6 +38103,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34754,6 +38148,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34788,6 +38188,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34821,6 +38227,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34860,6 +38272,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -34985,12 +38403,16 @@
 			},
 			{
 				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "1",
-			"allNetSid": "26634"
+			"allNetSid": "26634",
+			"eAmusementFdesc": "9fa0bdcb8f6075f4813651ed7210b893"
 		},
 		"alternateArea": "AOMORI KEN",
 		"alternateStoreName": "YURI NO KI BORU",
@@ -35018,6 +38440,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35054,6 +38482,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35090,6 +38524,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35124,6 +38564,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35160,6 +38606,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35199,6 +38651,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35235,6 +38693,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35270,6 +38734,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35306,6 +38776,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35342,6 +38818,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35377,6 +38859,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35413,6 +38901,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35452,6 +38946,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35488,6 +38988,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35524,6 +39030,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35560,6 +39072,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35596,6 +39114,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35635,6 +39159,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35671,6 +39201,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35710,6 +39246,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35746,6 +39288,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35782,6 +39330,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35818,6 +39372,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35854,6 +39414,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35890,6 +39456,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35926,6 +39498,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35961,6 +39539,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -35997,6 +39581,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36033,6 +39623,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36069,6 +39665,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36105,6 +39707,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36140,6 +39748,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36176,6 +39790,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36212,6 +39832,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36248,6 +39874,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36284,6 +39916,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36320,6 +39958,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36359,6 +40003,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36395,6 +40045,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36431,6 +40087,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36465,6 +40127,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36501,6 +40169,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36540,6 +40214,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36576,6 +40256,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36615,6 +40301,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36651,6 +40343,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36690,6 +40388,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36726,6 +40430,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36765,6 +40475,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36801,6 +40517,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36837,6 +40559,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36876,6 +40604,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36912,6 +40646,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36948,6 +40688,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -36984,6 +40730,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37020,6 +40772,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37054,6 +40812,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37090,6 +40854,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37126,6 +40896,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37165,6 +40941,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37204,6 +40986,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37240,6 +41028,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37279,6 +41073,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37315,6 +41115,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37351,6 +41157,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37387,6 +41199,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37423,6 +41241,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37459,6 +41283,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37498,6 +41328,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37537,6 +41373,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37573,6 +41415,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37612,6 +41460,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37650,6 +41504,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37686,6 +41546,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37722,6 +41588,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37758,6 +41630,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37797,6 +41675,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37833,6 +41717,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37872,6 +41762,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37908,6 +41804,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37944,6 +41846,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -37980,6 +41888,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38016,6 +41930,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38052,6 +41972,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38088,6 +42014,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38124,6 +42056,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38163,6 +42101,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38199,6 +42143,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38234,6 +42184,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38273,6 +42229,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38309,6 +42271,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38345,6 +42313,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38401,6 +42375,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38432,6 +42412,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38468,6 +42454,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38504,6 +42496,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38543,6 +42541,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38579,6 +42583,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38618,6 +42628,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38675,6 +42691,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38714,6 +42736,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38750,6 +42778,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38799,6 +42833,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "千葉県",
+		"storeName": "りらくCAFE野田店",
+		"address": "野田市中野台鹿島町6-1",
+		"lat": 35.947729,
+		"lng": 139.853953,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "5d3e7f69f8d83188ebea4c8e7f88afa9"
+		},
+		"alternateArea": "CHIBA KEN",
+		"alternateStoreName": "RI RAKU CAFE NODA TEN",
+		"alternateAddress": "NODA SHI NAKANODAIKASHIMA MACHI 6 - 1"
+	},
+	{
+		"country": "JP",
 		"area": "東京都",
 		"storeName": "ル･モンド 巣鴨店",
 		"address": "豊島区巣鴨2-5-9",
@@ -38808,6 +42861,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -38833,6 +42889,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38878,6 +42940,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -38903,6 +42968,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38938,6 +43009,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -38974,6 +43051,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39010,6 +43093,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -39059,6 +43145,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39139,6 +43231,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39152,6 +43250,25 @@
 		"alternateAddress": "FUKUOKA KEN KASUYA GUN KASUYA MACHI DAIJI NAKAHARA 2706 NAKAHARA FUAMIRI PURAZA 2 F",
 		"access": "国道3号線博多バイパスを空港口交差点から北へ5分ほど。",
 		"openingHours": "一部24時間営業"
+	},
+	{
+		"country": "JP",
+		"area": "埼玉県",
+		"storeName": "加須バッティングセンター",
+		"address": "加須市志多見1382-20",
+		"lat": 36.13496163,
+		"lng": 139.5536828,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "de951e882e8b6502e06be7c0e5f10d90"
+		},
+		"alternateArea": "SAITAMA KEN",
+		"alternateStoreName": "KAZO BATTEINGU SENTA",
+		"alternateAddress": "KAZO SHI SHIDAMI 1382 - 20"
 	},
 	{
 		"country": "JP",
@@ -39196,6 +43313,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39235,6 +43358,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39272,6 +43401,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39311,6 +43446,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39390,6 +43531,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39426,6 +43573,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39460,6 +43613,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39541,6 +43700,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39578,6 +43743,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -39609,6 +43777,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39639,6 +43813,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39672,6 +43852,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -39704,6 +43887,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39740,6 +43929,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -39809,12 +44004,19 @@
 			},
 			{
 				"game": "CHUNITHM"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "20701"
+			"allNetSid": "20701",
+			"eAmusementFdesc": "985f0b6ab132a43ef5fecf03493eee59"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "TAKARAJIMA HINENO TEN",
@@ -39870,16 +44072,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "25738"
+			"allNetSid": "25738",
+			"eAmusementFdesc": "8097be940d218f6ed2deec48227b6668"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "TAKARAJIMA URAWA MISONO TEN",
-		"alternateAddress": "SAITAMA KEN SAITAMA SHI MIDORI KU MISONO 5 − 5 0 − 1 ION MORU URAWA MISONO 2 F"
+		"alternateAddress": "SAITAMA KEN SAITAMA SHI MIDORI KU MISONO 5 − 5 0 − 1 ION MORU URAWA MISONO 2 F",
+		"access": "イオン浦和美園ショッピングセンター内 2階",
+		"openingHours": "9:00～23:00"
 	},
 	{
 		"country": "JP",
@@ -39992,6 +44200,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40033,6 +44247,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "福井県",
+		"storeName": "小浜ショッピングセンター",
+		"address": "小浜市四谷町20-102Fゲームコーナー",
+		"lat": 35.496666,
+		"lng": 135.74919,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "326100c45d2b1f7da40f3508d01edb7e"
+		},
+		"alternateArea": "FUKUI KEN",
+		"alternateStoreName": "OBAMA SHOPPINGU SENTA",
+		"alternateAddress": "OBAMA SHI YOTSUYA MACHI 20 - 102 F GEMU KONA"
+	},
+	{
+		"country": "JP",
 		"area": "神奈川県",
 		"storeName": "小田原メトロポリス",
 		"address": "神奈川県小田原市前川字相坪219-4",
@@ -40050,6 +44283,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40089,6 +44328,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40176,6 +44421,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40219,6 +44470,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -40253,6 +44507,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40264,6 +44524,25 @@
 		"alternateArea": "TOKYO TO",
 		"alternateStoreName": "SHINJUKU SUPOTSU RANDO HONKAN",
 		"alternateAddress": "TOKYO TO SHINJUKU KU SHINJUKU 3 - 22 - 12"
+	},
+	{
+		"country": "JP",
+		"area": "長野県",
+		"storeName": "新飯田オークラボウル 内ムサシ",
+		"address": "飯田市東中央通り3297-1",
+		"lat": 35.510458,
+		"lng": 137.836813,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "64de87ee12e4709b34f522147e9acb6e"
+		},
+		"alternateArea": "NAGANO KEN",
+		"alternateStoreName": "NIIDA OKURABOURU UCHI MUSASHI",
+		"alternateAddress": "IDA SHI HIGASHICHUODORI 3297 - 1"
 	},
 	{
 		"country": "JP",
@@ -40281,6 +44560,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40386,6 +44671,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40420,6 +44711,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40454,6 +44751,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40491,6 +44794,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40530,6 +44839,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40565,6 +44880,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -40666,6 +44984,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "静岡県",
+		"storeName": "柿田川パークレーンズ",
+		"address": "駿東郡清水町玉川61-2サントムーン柿田川2F",
+		"lat": 35.10966,
+		"lng": 138.903304,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "69b3772c633e14df6f9118ae061d2d0f"
+		},
+		"alternateArea": "SHIZUOKA KEN",
+		"alternateStoreName": "KAKITA GAWA PAKURENZU",
+		"alternateAddress": "SUNTO GUN SHIMIZU MACHI TAMAGAWA 61 - 2 SANTOMUN KAKITA GAWA 2 F"
+	},
+	{
+		"country": "JP",
 		"area": "奈良県",
 		"storeName": "楽市楽座 イオンモール大和郡山店",
 		"address": "奈良県大和郡山市下三橋町741-333イオンモール大和郡山店",
@@ -40686,6 +45023,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -40733,6 +45073,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -40839,6 +45185,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -40866,16 +45215,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "37",
-			"allNetSid": "21024"
+			"allNetSid": "21024",
+			"eAmusementFdesc": "a4207f6d407e76178f7c5b0553a0b2a7"
 		},
 		"alternateArea": "EHIME KEN",
 		"alternateStoreName": "RAKUICHI RAKUZA ION MORU IMABARI TEN",
-		"alternateAddress": "EHIME KEN IMABARI SHI NIGIWAI HIROBA 1 - 1"
+		"alternateAddress": "EHIME KEN IMABARI SHI NIGIWAI HIROBA 1 - 1",
+		"openingHours": "10:00～21:00"
 	},
 	{
 		"country": "JP",
@@ -40917,16 +45271,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "21202"
+			"allNetSid": "21202",
+			"eAmusementFdesc": "65dca94e7c3d0b0c55d9b9c147fa2f58"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "RAKUICHI RAKUZA ION MORU SHIJONAWATE TEN",
-		"alternateAddress": "OSAKA FU SHIJONAWATE SHI SUNA 4 - 3 - 2 ION MORU SHIJONAWATE TEN 3 F"
+		"alternateAddress": "OSAKA FU SHIJONAWATE SHI SUNA 4 - 3 - 2 ION MORU SHIJONAWATE TEN 3 F",
+		"openingHours": "10:00～21:00"
 	},
 	{
 		"country": "JP",
@@ -40947,6 +45306,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41010,16 +45372,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "22744"
+			"allNetSid": "22744",
+			"eAmusementFdesc": "82e7050b04e9bb3e639a1a207bee5e3a"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "RAKUICHI RAKUZA ION MORU OSAKADOMU TEN",
-		"alternateAddress": "OSAKA FU OSAKA SHI NISHI KU CHIYOZAKI 3 − 1 3 − 1"
+		"alternateAddress": "OSAKA FU OSAKA SHI NISHI KU CHIYOZAKI 3 − 1 3 − 1",
+		"access": "野田阪神前、鶴町四丁目、地下鉄住之江公園方面から「ドーム前千代崎」バス停下車 なんば、天保山方面から「大正橋」バス停下車",
+		"openingHours": "10:00～21:00"
 	},
 	{
 		"country": "JP",
@@ -41043,6 +45411,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41111,6 +45485,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41179,6 +45559,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41218,6 +45601,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41245,6 +45631,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41300,6 +45689,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41330,6 +45722,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41369,6 +45764,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41540,6 +45941,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41579,6 +45986,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41591,6 +46004,27 @@
 		"alternateStoreName": "RAKUICHI RAKUZA SANSUTORITO HAMAKITA TEN",
 		"alternateAddress": "SHIZUOKA KEN HAMAMATSU SHI HAMAKITA KU HIRAKUCHI 2 8 6 1 SANSUTORITO HAMAKITA",
 		"openingHours": "10:00～22:00"
+	},
+	{
+		"country": "JP",
+		"area": "熊本県",
+		"storeName": "楽市楽座スーパードーム小川店",
+		"address": "宇城市小川町河江1-1",
+		"access": "3号線沿いダイヤモンドシティ熊本南店敷地内",
+		"openingHours": "10:00～24:00",
+		"lat": 32.59734721,
+		"lng": 130.7066968,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "54aee64fa383a68e46b28f504d612b14"
+		},
+		"alternateArea": "KUMAMOTO KEN",
+		"alternateStoreName": "RAKUICHI RAKUZA SUPADOMU OGAWA TEN",
+		"alternateAddress": "宇 JOSHI OGAWA MACHI KAWAE 1 - 1"
 	},
 	{
 		"country": "JP",
@@ -41655,16 +46089,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "13",
-			"allNetSid": "25712"
+			"allNetSid": "25712",
+			"eAmusementFdesc": "962e2e549c2ff566f0cc5cac83173a8e"
 		},
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "RAKUICHI RAKUZA SHONAN FUJISAWA TEN",
-		"alternateAddress": "KANAGAWA KEN FUJISAWA SHI TSUJIDOSHIN MACHI 4 - 3 - 5 ミスターマックス SHONAN FUJISAWA SC 2 F"
+		"alternateAddress": "KANAGAWA KEN FUJISAWA SHI TSUJIDOSHIN MACHI 4 - 3 - 5 ミスターマックス SHONAN FUJISAWA SC 2 F",
+		"access": "ミスターマックス湘南藤沢SC2F",
+		"openingHours": "10:00～22:00"
 	},
 	{
 		"country": "JP",
@@ -41688,6 +46131,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41718,6 +46164,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41756,6 +46208,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41846,6 +46304,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41872,6 +46336,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -41922,17 +46392,23 @@
 		"area": "東京都",
 		"storeName": "池袋ゲーセンミカドINランブルプラザ",
 		"address": "東京都豊島区東池袋1-42-19",
+		"access": "池袋駅東口徒歩3分。ヤマダ電気様裏手。パチンコマルハン様向かい。",
+		"openingHours": "10:00～24:00",
 		"lat": 35.732465715742705,
 		"lng": 139.71354282275388,
 		"cabinets": [
 			{
 				"game": "ONGEKI"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "12",
-			"allNetSid": "24789"
+			"allNetSid": "24789",
+			"eAmusementFdesc": "70d925bbc784a05b9e8edd4e4c6f8ce0"
 		},
 		"alternateArea": "TOKYO TO",
 		"alternateStoreName": "IKEBUKURO GESEMMIKADO IN RAMBURUPURAZA",
@@ -41954,6 +46430,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -41992,6 +46471,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42041,6 +46526,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -42079,6 +46567,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42115,6 +46609,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42167,6 +46667,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -42203,6 +46706,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42239,6 +46748,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42274,6 +46789,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42311,6 +46832,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42350,6 +46877,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42417,6 +46950,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42510,6 +47049,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42560,6 +47105,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -42584,6 +47132,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42646,6 +47200,26 @@
 	},
 	{
 		"country": "JP",
+		"area": "宮城県",
+		"storeName": "遊楽館ジョイフル",
+		"address": "気仙沼市松川37-1",
+		"openingHours": "平日11:00～23:55 土日祝10:00～23:55",
+		"lat": 38.891162,
+		"lng": 141.560179,
+		"cabinets": [
+			{
+				"game": "BEATMANIA_IIDX"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "add2fd345dda927fda600dc9e7233daf"
+		},
+		"alternateArea": "MIYAGI KEN",
+		"alternateStoreName": "YURAKU KAN JOIFURU",
+		"alternateAddress": "KESENNUMA SHI MATSUGAWA 37 - 1"
+	},
+	{
+		"country": "JP",
 		"area": "福岡県",
 		"storeName": "遊遊パークフォレオ博多店",
 		"address": "福岡県福岡市博多区東那珂1-14-46フォレオ博多2F",
@@ -42693,6 +47267,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
@@ -42719,6 +47299,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -42777,6 +47360,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -42807,6 +47393,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
 			}
 		],
 		"context": {
@@ -42829,12 +47418,19 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "16",
-			"allNetSid": "24845"
+			"allNetSid": "24845",
+			"eAmusementFdesc": "f1ae6cc31e8dd82d9050cf2ae1ba13fe"
 		},
 		"alternateArea": "ISHIKAWA KEN",
 		"alternateStoreName": "KANAZAWA METOROPORISU",
@@ -42862,6 +47458,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
 			}
 		],
 		"context": {
