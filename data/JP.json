@@ -69,6 +69,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -235,6 +238,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -272,6 +278,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -308,6 +317,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -351,6 +363,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -448,6 +463,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -496,6 +514,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -544,6 +565,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -679,6 +703,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -799,6 +826,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -863,6 +893,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -989,6 +1022,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -1112,6 +1148,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -1154,6 +1193,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -1260,6 +1302,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -1345,6 +1390,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -1805,6 +1853,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -1946,6 +1997,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -2797,6 +2851,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -2994,6 +3051,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -3155,12 +3215,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "11",
-			"allNetSid": "26043"
+			"allNetSid": "26043",
+			"eAmusementFdesc": "8b8e420ff5a16ec4053519dc7ac62487"
 		},
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "GIGO FUESUTEIBARU UOKU SOGA",
@@ -3320,6 +3384,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -3677,12 +3744,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "29191"
+			"allNetSid": "29191",
+			"eAmusementFdesc": "5fb7d90ff90be3a08102277b0ab8b761"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "GIGO IMAFUKU",
@@ -3801,6 +3872,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -3907,6 +3981,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -3999,6 +4076,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -4359,6 +4439,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -4530,6 +4613,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -4828,6 +4914,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -4880,6 +4969,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -4929,6 +5021,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -4975,6 +5070,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -5632,6 +5730,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -5675,6 +5776,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -6087,6 +6191,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -6142,6 +6249,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -6296,6 +6406,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -6385,6 +6498,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -6419,6 +6535,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -6601,6 +6720,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -7057,6 +7179,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -7343,6 +7468,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -7763,6 +7891,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8179,12 +8310,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "7",
-			"allNetSid": "25157"
+			"allNetSid": "25157",
+			"eAmusementFdesc": "7b74a5359ffff55a65d582973453fd3b"
 		},
 		"alternateArea": "IBARAKI KEN",
 		"alternateStoreName": "GIGO RYUGASAKI",
@@ -8373,6 +8508,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8592,6 +8730,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8632,6 +8773,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8694,6 +8838,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8795,6 +8942,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8914,6 +9064,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8960,6 +9113,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -8988,6 +9144,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -10222,6 +10381,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -10892,6 +11054,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11000,6 +11165,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11369,6 +11537,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11409,6 +11580,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11443,6 +11617,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11492,6 +11669,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11520,6 +11700,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11557,6 +11740,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11582,12 +11768,16 @@
 			},
 			{
 				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "30",
-			"allNetSid": "24982"
+			"allNetSid": "24982",
+			"eAmusementFdesc": "ceba1472d4e5de7c11c4d9ceeb27cb11"
 		},
 		"alternateArea": "TOTTORI KEN",
 		"alternateStoreName": "PALO SAKAIMINATO",
@@ -11624,6 +11814,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11685,6 +11878,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11752,6 +11948,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11866,6 +12065,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11899,6 +12101,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11939,6 +12144,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -11988,6 +12196,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12016,12 +12227,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
-			"allNetSid": "26266"
+			"allNetSid": "26266",
+			"eAmusementFdesc": "9af5d1c78f498bffd384655250553593"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "PALO TOMAKOMAI",
@@ -12058,6 +12273,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12134,6 +12352,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12209,6 +12430,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12304,6 +12528,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12362,12 +12589,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "26",
-			"allNetSid": "21081"
+			"allNetSid": "21081",
+			"eAmusementFdesc": "225a3fbaa95846977a0cf7ce8de08812"
 		},
 		"alternateArea": "OSAKA FU",
 		"alternateStoreName": "SOYU GAME FIELD SAKAI TEPPO MACHI TEN",
@@ -12707,6 +12938,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12787,6 +13021,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -12891,6 +13128,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -13411,6 +13651,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -13501,6 +13744,27 @@
 	},
 	{
 		"country": "JP",
+		"area": "愛知県",
+		"storeName": "アーチ北山バッティングセンター",
+		"address": "豊橋市北山町字西ノ原40-20",
+		"access": "小松原街道の北山交差点そば",
+		"openingHours": "10:00～24:00",
+		"lat": 34.73281548,
+		"lng": 137.3977467,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "64a8138926834d5ee04f38f6c837aa7c"
+		},
+		"alternateArea": "AICHI KEN",
+		"alternateStoreName": "ACHI KITAYAMA BATTEINGU SENTA",
+		"alternateAddress": "TOYOHASHI SHI KITAYAMA MACHI JI NISHINOHARA 40 - 20"
+	},
+	{
+		"country": "JP",
 		"area": "大阪府",
 		"storeName": "あうとばぁん",
 		"address": "大阪府東大阪市小若江3-6-15",
@@ -13576,6 +13840,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -13804,6 +14071,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14268,6 +14538,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14343,6 +14616,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14712,6 +14988,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14758,6 +15037,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14801,6 +15083,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14849,6 +15134,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14897,6 +15185,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -14951,6 +15242,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15036,6 +15330,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15129,6 +15426,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15175,6 +15475,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15223,6 +15526,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15248,6 +15554,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15300,6 +15609,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15351,6 +15663,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15400,6 +15715,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15445,6 +15763,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15504,6 +15825,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15604,6 +15928,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15712,6 +16039,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15803,6 +16133,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15854,6 +16187,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15936,6 +16272,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -15976,6 +16315,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16103,6 +16445,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16151,6 +16496,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16276,6 +16624,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16324,6 +16675,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16411,6 +16765,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16462,6 +16819,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16519,6 +16879,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16667,6 +17030,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16721,6 +17087,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16799,6 +17168,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -16962,6 +17334,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17019,6 +17394,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17079,6 +17457,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17243,6 +17624,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17291,6 +17675,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17639,6 +18026,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17729,6 +18119,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17848,6 +18241,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -17882,6 +18278,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18088,6 +18487,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18145,6 +18547,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18228,6 +18633,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18285,6 +18693,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18403,6 +18814,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18448,6 +18862,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18583,6 +19000,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18631,6 +19051,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18698,6 +19121,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18726,6 +19152,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -18828,6 +19257,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19051,6 +19483,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19297,6 +19732,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19408,6 +19846,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19465,6 +19906,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19558,6 +20002,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19719,6 +20166,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19852,6 +20302,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -19946,6 +20399,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20169,6 +20625,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20235,6 +20694,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20289,6 +20751,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20339,6 +20804,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20390,6 +20858,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20443,6 +20914,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20488,6 +20962,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20540,6 +21017,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20636,6 +21116,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20687,6 +21170,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20735,6 +21221,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20789,6 +21278,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20839,6 +21331,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20896,6 +21391,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20944,6 +21442,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -20986,6 +21487,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21082,6 +21586,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21129,6 +21636,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21178,6 +21688,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21442,6 +21955,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21481,6 +21997,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21554,6 +22073,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21619,6 +22141,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -21899,6 +22424,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22001,6 +22529,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22070,6 +22601,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22194,6 +22728,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22304,6 +22841,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22346,6 +22886,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22394,6 +22937,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22406,6 +22952,25 @@
 		"alternateStoreName": "KYAROMU OUME TEN",
 		"alternateAddress": "TOKYO TO OUME SHI CHIGASE MACHI 4 - 326 - 1",
 		"openingHours": "10:00～翌5:00"
+	},
+	{
+		"country": "JP",
+		"area": "京都府",
+		"storeName": "キョーイチアミューズメントパーク吉祥院",
+		"address": "京都市南区吉祥院石原長田町1-2",
+		"lat": 34.9659257,
+		"lng": 135.7233057,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "eb64ec0bbeab9bee9a62e1c6fe0a698e"
+		},
+		"alternateArea": "KYOTO FU",
+		"alternateStoreName": "KYOICHIAMYUZUMENTOPAKU KISSHOIN",
+		"alternateAddress": "KYOTO SHI MINAMI KU KISSHOINISHIHARANAGATA MACHI 1 - 2"
 	},
 	{
 		"country": "JP",
@@ -22450,6 +23015,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22498,6 +23066,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22622,6 +23193,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22656,6 +23230,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22764,6 +23341,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22856,6 +23436,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -22971,6 +23554,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23106,6 +23692,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23181,6 +23770,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23256,6 +23848,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23292,6 +23887,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23336,6 +23934,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23364,6 +23965,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23420,6 +24024,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23474,6 +24081,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23578,6 +24188,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23645,6 +24258,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23694,6 +24310,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23745,6 +24364,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23814,6 +24436,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23871,6 +24496,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -23931,6 +24559,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -24147,6 +24778,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -24265,6 +24899,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -24363,6 +25000,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -24463,6 +25103,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -24538,6 +25181,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -24900,6 +25546,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25056,6 +25705,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25099,6 +25751,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25156,6 +25811,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25219,6 +25877,26 @@
 		"alternateArea": "OKINAWA KEN",
 		"alternateStoreName": "GEMURANDOJAIJANGURU MIYAFURU MINAMI TEN",
 		"alternateAddress": "MIYAKOJIMA SHI TAIRA JI KUGAI 1072 - 11"
+	},
+	{
+		"country": "JP",
+		"area": "沖縄県",
+		"storeName": "ゲームランドジョイジャングルinあやぱに",
+		"address": "石垣市新川730石垣あやぱにボウル内",
+		"openingHours": "10:00～24:00",
+		"lat": 24.355043,
+		"lng": 124.146806,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "2a230d75b2f5e1dcc257311d7a6d0c1f"
+		},
+		"alternateArea": "OKINAWA KEN",
+		"alternateStoreName": "GEMURANDOJOIJANGURU IN AYA PANI",
+		"alternateAddress": "ISHIGAKI SHI SHINKAWA 730 ISHIGAKI AYA PANI BORU NAI"
 	},
 	{
 		"country": "JP",
@@ -25544,6 +26222,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25590,6 +26271,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25705,6 +26389,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25762,6 +26449,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25819,6 +26509,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25894,6 +26587,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25957,6 +26653,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -25992,6 +26691,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26211,6 +26913,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26242,6 +26947,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26393,6 +27101,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26461,6 +27172,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26554,6 +27268,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26704,6 +27421,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26740,6 +27460,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26763,16 +27486,22 @@
 		"cabinets": [
 			{
 				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
-			"allNetSid": "24589"
+			"allNetSid": "24589",
+			"eAmusementFdesc": "4122e8cc263c4d5cd370979f814ea6b3"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "JOIRANDOAMYUZU MI SHIMA",
-		"alternateAddress": "SHIZUOKA KEN MISHIMA SHI UMENA 3 0 8 − 6"
+		"alternateAddress": "SHIZUOKA KEN MISHIMA SHI UMENA 3 0 8 − 6",
+		"access": "国道136沿い 伊豆方面右側",
+		"openingHours": "9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -26798,6 +27527,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26835,6 +27567,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26881,6 +27616,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26918,6 +27656,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -26969,6 +27710,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27059,6 +27803,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27116,6 +27863,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27239,6 +27989,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27376,6 +28129,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27434,6 +28190,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27529,6 +28288,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27589,6 +28351,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27649,6 +28414,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27697,6 +28465,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27760,6 +28531,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -27911,6 +28685,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28063,6 +28840,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28212,6 +28992,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28287,6 +29070,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28335,6 +29121,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28422,6 +29211,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28467,6 +29259,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28552,6 +29347,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28666,6 +29464,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28745,16 +29546,21 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "24374"
+			"allNetSid": "24374",
+			"eAmusementFdesc": "641819b7ea21697895e7d0a28999f184"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "SOYUGEMUFUIRUDO KAWAGUCHI TEN",
-		"alternateAddress": "SAITAMA KEN KAWAGUCHI SHI NAMIKIMOTO MACHI 1 − 7 9 ARIO KAWAGUCHI 3 F"
+		"alternateAddress": "SAITAMA KEN KAWAGUCHI SHI NAMIKIMOTO MACHI 1 − 7 9 ARIO KAWAGUCHI 3 F",
+		"openingHours": "10:00～22:00"
 	},
 	{
 		"country": "JP",
@@ -28832,6 +29638,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28918,6 +29727,9 @@
 		"cabinets": [
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -28932,8 +29744,8 @@
 		"area": "北海道",
 		"storeName": "ソユーゲームフィールド発寒",
 		"address": "北海道札幌市西区発寒8条12丁目1 イオン札幌発寒SC3F",
-        "access": "イオン札幌発寒ショッピングセンター内3F",
-        "openingHours": "9:00～22:00",
+		"access": "イオン札幌発寒ショッピングセンター内3F",
+		"openingHours": "9:00～22:00",
 		"lat": 43.09642223076628,
 		"lng": 141.2764948600494,
 		"cabinets": [
@@ -28946,15 +29758,15 @@
 			{
 				"game": "CHUNITHM_NEW"
 			},
-            {
-              "game": "DANCERUSH_STARDOM"
-            }
+			{
+				"game": "DANCERUSH_STARDOM"
+			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
 			"allNetSid": "23969",
-            "eAmusementFdesc": "0f68b61c0d923cfed022c9b885321983"
+			"eAmusementFdesc": "0f68b61c0d923cfed022c9b885321983"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "SOYUGEMUFUIRUDO HATSUSAMU",
@@ -29088,12 +29900,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "19",
-			"allNetSid": "22437"
+			"allNetSid": "22437",
+			"eAmusementFdesc": "902bdaf6072b3a8d33baeeae4f391822"
 		},
 		"alternateArea": "NAGANO KEN",
 		"alternateStoreName": "SOYUGEMUFUIRUDO NAGANO TEN",
@@ -29154,6 +29970,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -29178,6 +29997,9 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -29218,6 +30040,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -29481,6 +30306,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -29736,6 +30564,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -29861,6 +30692,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30036,6 +30870,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30345,6 +31182,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30474,6 +31314,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30688,6 +31531,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30715,6 +31561,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30892,6 +31741,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -30988,6 +31840,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31027,6 +31882,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31072,6 +31930,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31171,6 +32032,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31261,6 +32125,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31297,6 +32164,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31397,6 +32267,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31465,6 +32338,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31555,6 +32431,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31666,6 +32545,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31765,6 +32647,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31810,6 +32695,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31855,6 +32743,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31912,6 +32803,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -31964,6 +32858,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32015,6 +32912,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32050,6 +32950,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32087,6 +32990,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32129,6 +33035,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32234,6 +33143,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32270,6 +33182,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32315,6 +33230,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32524,6 +33442,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32573,6 +33494,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32687,6 +33611,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32742,6 +33669,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -32940,6 +33870,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33025,6 +33958,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33106,6 +34042,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33193,6 +34132,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33232,6 +34174,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33313,6 +34258,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33362,6 +34310,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33425,6 +34376,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33447,16 +34401,21 @@
 		"cabinets": [
 			{
 				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
-			"allNetSid": "21106"
+			"allNetSid": "21106",
+			"eAmusementFdesc": "421dece59238718c4dd4f33baa3b7b82"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "DEINOSUPAKU KAMIISO",
-		"alternateAddress": "HOKKAIDO HOKUTO SHI NANAEHAMA 7 CHOME 14 BANCHI 1 スーパーセンタートライアル KAMIISO TEN 1 KAI"
+		"alternateAddress": "HOKKAIDO HOKUTO SHI NANAEHAMA 7 CHOME 14 BANCHI 1 スーパーセンタートライアル KAMIISO TEN 1 KAI",
+		"openingHours": "月曜～木曜10:00～20:00 / 金曜10:00～22:00 / 土日祝9:00～22:00"
 	},
 	{
 		"country": "JP",
@@ -33612,6 +34571,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33699,6 +34661,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33747,6 +34712,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -33825,6 +34793,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34020,6 +34991,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34059,6 +35033,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34095,6 +35072,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34327,6 +35307,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34375,6 +35358,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34439,6 +35425,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34506,6 +35495,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34545,6 +35537,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34593,6 +35588,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34632,6 +35630,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34683,6 +35684,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34755,6 +35759,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34783,6 +35790,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34808,6 +35818,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -34900,6 +35913,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35017,6 +36033,9 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35147,6 +36166,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35243,6 +36265,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35316,6 +36341,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35398,6 +36426,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35694,6 +36725,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -35847,6 +36881,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36167,6 +37204,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36251,6 +37291,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36368,6 +37411,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36407,6 +37453,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36576,6 +37625,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36662,6 +37714,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36713,6 +37768,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36762,6 +37820,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36813,6 +37874,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36873,6 +37937,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36900,12 +37967,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "22",
-			"allNetSid": "20004"
+			"allNetSid": "20004",
+			"eAmusementFdesc": "b86f72dfe0d8c8547cbe942f76e0a93c"
 		},
 		"alternateArea": "AICHI KEN",
 		"alternateStoreName": "FUANTAJI PURAZA CHIYODA KYO TEN",
@@ -36951,6 +38022,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -36990,6 +38064,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -37081,6 +38158,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -37418,6 +38498,25 @@
 	},
 	{
 		"country": "JP",
+		"area": "徳島県",
+		"storeName": "ふぇすたらんど脇町店",
+		"address": "美馬市脇町字拝原1711-1マルナカ脇町店2F",
+		"lat": 34.064534,
+		"lng": 134.165672,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "9db08a2d5eaa36f0a78fa4974a4ec13e"
+		},
+		"alternateArea": "TOKUSHIMA KEN",
+		"alternateStoreName": "FU ESUTARANDO WAKI MACHI TEN",
+		"alternateAddress": "MIMA SHI WAKI MACHI JI HAIBARA 1711 - 1 MARUNAKA WAKI MACHI TEN 2 F"
+	},
+	{
+		"country": "JP",
 		"area": "熊本県",
 		"storeName": "ふぇすたらんど菊陽店",
 		"address": "熊本県菊池郡菊陽町津久礼2472",
@@ -37485,6 +38584,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -37512,6 +38614,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -37579,6 +38684,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -37746,6 +38854,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -38284,6 +39395,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -38509,6 +39623,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -38641,6 +39758,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -38676,6 +39796,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -38730,6 +39853,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -38770,6 +39896,33 @@
 		"alternateArea": "AKITA KEN",
 		"alternateStoreName": "PUREIRANDOSOPIA I TOKU AKU ROSU NOSHIRO TEN",
 		"alternateAddress": "AKITA KEN NOSHIRO SHI JI TERA KO 70 I TOKU AKU ROSU NOSHIRO TENNAI"
+	},
+	{
+		"country": "JP",
+		"area": "福島県",
+		"storeName": "プレイランドプレビ鹿島店",
+		"address": "いわき市鹿島町米田字日渡5鹿島ショッピングセンターエブリア内",
+		"access": "鹿島ショッピングセンターエブリア内。",
+		"openingHours": "10:00～20:00",
+		"lat": 36.99372904670128,
+		"lng": 140.9051074957008,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			},
+			{
+				"game": "ONGEKI"
+			}
+		],
+		"context": {
+			"allNetCt": "1000",
+			"allNetAt": "6",
+			"allNetSid": "27897",
+			"eAmusementFdesc": "86ce1786f0d5c417fb9c9ba7955a96bd"
+		},
+		"alternateArea": "FUKUSHIMA KEN",
+		"alternateStoreName": "PUREIRANDOPUREBI KASHIMA TEN",
+		"alternateAddress": "IWAKI SHI KASHIMAMACHIKOMODA JI HIWATASHI 5 KASHIMA SHOPPINGUSENTAEBURIA NAI"
 	},
 	{
 		"country": "JP",
@@ -38969,6 +40122,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39007,27 +40163,6 @@
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "PUREBI RARAPOTO TOKYO BAY TEN",
 		"alternateAddress": "CHIBA KEN FUNABASHI SHI HAMACHO 2 − 1 − 1 RARAPOTO TOKYOBAY NISHI KAN 3 KAI"
-	},
-	{
-		"country": "JP",
-		"area": "福島県",
-		"storeName": "プレビ 鹿島エブリア店",
-		"address": "福島県いわき市鹿島町米田字日渡5 鹿島エブリア店2階",
-		"lat": 36.99372904670128,
-		"lng": 140.9051074957008,
-		"cabinets": [
-			{
-				"game": "ONGEKI"
-			}
-		],
-		"context": {
-			"allNetCt": "1000",
-			"allNetAt": "6",
-			"allNetSid": "27897"
-		},
-		"alternateArea": "FUKUSHIMA KEN",
-		"alternateStoreName": "PUREBI KASHIMA EBURIA TEN",
-		"alternateAddress": "FUKUSHIMA KEN IWAKI SHI KASHIMAMACHIKOMODA JI HIWATASHI 5 KASHIMA EBURIA TEN 2 KAI"
 	},
 	{
 		"country": "JP",
@@ -39256,6 +40391,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39297,6 +40435,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39376,6 +40517,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39525,6 +40669,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39596,6 +40743,26 @@
 		"alternateArea": "GUMMA KEN",
 		"alternateStoreName": "MATORIKUSU MAEBASHI TEN",
 		"alternateAddress": "MAEBASHI SHI KOAIGI MACHI 563 - 3"
+	},
+	{
+		"country": "JP",
+		"area": "千葉県",
+		"storeName": "マリンガーデンららぽーと船橋店",
+		"address": "船橋市浜町2-1-1 ららぽーとTOKYO-BAY西館3F",
+		"openingHours": "施設の営業時間に準じる",
+		"lat": 35.686494,
+		"lng": 139.990234,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "6966212eb46de5e0642946e990f336a5"
+		},
+		"alternateArea": "CHIBA KEN",
+		"alternateStoreName": "MARIN GADEN RARAPOTO FUNABASHI TEN",
+		"alternateAddress": "FUNABASHI SHI HAMACHO 2 - 1 - 1 RARAPOTO TOKYO - BAY NISHI KAN 3 F"
 	},
 	{
 		"country": "JP",
@@ -39705,6 +40872,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39763,6 +40933,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39857,6 +41030,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39883,6 +41059,9 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39929,6 +41108,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -39971,6 +41153,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40016,6 +41201,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40061,6 +41249,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40182,6 +41373,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40234,6 +41428,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40270,6 +41467,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40309,6 +41509,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40343,6 +41546,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40392,6 +41598,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40526,12 +41735,16 @@
 		"cabinets": [
 			{
 				"game": "MAIMAI_DX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
-			"allNetSid": "24101"
+			"allNetSid": "24101",
+			"eAmusementFdesc": "809f5477e5bcc29da2e210924b046186"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "MO RI FUANTAJI SAN KASA TEN",
@@ -40574,12 +41787,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "7",
-			"allNetSid": "24496"
+			"allNetSid": "24496",
+			"eAmusementFdesc": "bee774fb972b7eb4b6dc3f94e8b037a8"
 		},
 		"alternateArea": "IBARAKI KEN",
 		"alternateStoreName": "MO RI FUANTAJI SHIMOZUMA",
@@ -40607,6 +41824,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40671,12 +41891,16 @@
 		"cabinets": [
 			{
 				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "39",
-			"allNetSid": "23705"
+			"allNetSid": "23705",
+			"eAmusementFdesc": "d807b12e456c27d0c52e600514ca5259"
 		},
 		"alternateArea": "FUKUOKA KEN",
 		"alternateStoreName": "MO RI FUANTAJI OMUTA",
@@ -40795,6 +42019,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40832,6 +42059,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40857,6 +42087,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40897,6 +42130,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -40942,12 +42178,16 @@
 		"cabinets": [
 			{
 				"game": "HATSUNE_MIKU_PROJECT_DIVA_ARCADE"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "41",
-			"allNetSid": "23102"
+			"allNetSid": "23102",
+			"eAmusementFdesc": "f2603624ee87ce34eb0fdf88af37c60d"
 		},
 		"alternateArea": "NAGASAKI KEN",
 		"alternateStoreName": "MO RI FUANTAJI NAGASAKI",
@@ -40973,6 +42213,25 @@
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "MO RI FUANTAJI TATEYAMA",
 		"alternateAddress": "CHIBA KEN TATEYAMA SHI YAHATA 5 4 5 − 1 ION TATEYAMA TEN 1 F"
+	},
+	{
+		"country": "JP",
+		"area": "北海道",
+		"storeName": "モーリーファンタジー麻生",
+		"address": "札幌市北区北39条西4-1-5イオン札幌麻生店4F",
+		"lat": 43.107033,
+		"lng": 141.339504,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "a261d3103afd0b238cb98e3df5340a77"
+		},
+		"alternateArea": "HOKKAIDO",
+		"alternateStoreName": "MO RI FUANTAJI ASO",
+		"alternateAddress": "SAPPORO SHI KITA KU KITA 39 JO NISHI 4 - 1 - 5 ION SAPPORO ASO TEN 4 F"
 	},
 	{
 		"country": "JP",
@@ -41005,6 +42264,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41099,6 +42361,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41165,6 +42430,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41217,6 +42485,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41396,6 +42667,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41462,6 +42736,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41570,6 +42847,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41658,6 +42938,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -41715,6 +42998,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42085,6 +43371,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42145,6 +43434,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42315,6 +43607,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42360,6 +43655,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42416,6 +43714,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42524,6 +43825,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42581,6 +43885,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42695,6 +44002,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42812,6 +44122,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42866,6 +44179,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -42923,6 +44239,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43037,6 +44356,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43151,6 +44473,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43208,6 +44533,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43265,6 +44593,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43321,6 +44652,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43435,6 +44769,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43540,6 +44877,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43698,6 +45038,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43755,6 +45098,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43917,6 +45263,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -43974,6 +45323,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44137,6 +45489,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44197,6 +45552,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44254,6 +45612,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44314,6 +45675,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44533,6 +45897,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44641,6 +46008,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44701,6 +46071,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44758,6 +46131,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44815,6 +46191,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44917,6 +46296,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -44972,6 +46354,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45143,6 +46528,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45314,6 +46702,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45371,6 +46762,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45479,6 +46873,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45590,6 +46987,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45644,6 +47044,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45704,6 +47107,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45815,6 +47221,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45874,6 +47283,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45931,6 +47343,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -45988,6 +47403,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46222,6 +47640,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46390,6 +47811,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46447,6 +47871,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46498,6 +47925,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46555,6 +47985,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46603,6 +48036,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46720,6 +48156,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46836,6 +48275,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46893,6 +48335,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -46950,6 +48395,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47187,6 +48635,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47247,6 +48698,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47298,6 +48752,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47352,6 +48809,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47424,6 +48884,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47481,6 +48944,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47526,6 +48992,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47583,6 +49052,9 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47606,6 +49078,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47688,6 +49163,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47799,6 +49277,9 @@
 		"cabinets": [
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47942,6 +49423,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -47994,6 +49478,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48037,6 +49524,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48088,6 +49578,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48137,6 +49630,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48197,6 +49693,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48255,6 +49754,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48336,6 +49838,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48412,6 +49917,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48425,6 +49933,27 @@
 		"alternateAddress": "AICHI KEN NAGOYA SHI MINAMI KU UCHIDABASHI 2 - 26 - 22",
 		"access": "名鉄常滑線豊田本町駅近く",
 		"openingHours": "一部24時間営業"
+	},
+	{
+		"country": "JP",
+		"area": "福岡県",
+		"storeName": "国分バッティングセンター",
+		"address": "久留米市国分町1408",
+		"access": "国道3号線「刈原」交差点より競輪場方面へ",
+		"openingHours": "10:00～24:00",
+		"lat": 33.29941014,
+		"lng": 130.5328341,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "d36cee45a473fd7bae506be0df042297"
+		},
+		"alternateArea": "FUKUOKA KEN",
+		"alternateStoreName": "KOKUBU BATTEINGU SENTA",
+		"alternateAddress": "KURUME SHI KOKUBU MACHI 1408"
 	},
 	{
 		"country": "JP",
@@ -48512,6 +50041,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48651,6 +50183,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48694,6 +50229,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48781,6 +50319,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48822,6 +50363,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -48979,6 +50523,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -49013,6 +50560,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -49115,6 +50665,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -49299,6 +50852,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -49404,6 +50960,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -49828,6 +51387,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -49888,6 +51450,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -50011,6 +51576,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -50081,6 +51649,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -50858,6 +52429,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51095,6 +52669,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51332,6 +52909,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51449,6 +53029,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51646,6 +53229,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51698,6 +53284,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51757,6 +53346,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51814,6 +53406,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51929,6 +53524,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -51986,6 +53584,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52042,6 +53643,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52097,6 +53701,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52157,6 +53764,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52170,6 +53780,25 @@
 		"alternateAddress": "GUMMA KEN TAKASAKI SHI EGI MACHI 3 3 3 − 1 TAKASAKI E X BIRU",
 		"access": "JR高崎駅東口徒歩10分",
 		"openingHours": "一部24時間営業"
+	},
+	{
+		"country": "JP",
+		"area": "千葉県",
+		"storeName": "茂原ヤングボウル",
+		"address": "茂原市高師4-5",
+		"lat": 35.434983,
+		"lng": 140.293146,
+		"cabinets": [
+			{
+				"game": "JUBEAT"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "f704f5fe182df71599e57cfd1621efa0"
+		},
+		"alternateArea": "CHIBA KEN",
+		"alternateStoreName": "SHIGEHARA YAN GUBOURU",
+		"alternateAddress": "MOHARA SHI TAKASHI 4 - 5"
 	},
 	{
 		"country": "JP",
@@ -52190,6 +53819,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52233,6 +53865,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52338,6 +53973,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52362,16 +54000,22 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "0",
-			"allNetSid": "20688"
+			"allNetSid": "20688",
+			"eAmusementFdesc": "b1aab9e72a53b34ffabbdb7cd214af0d"
 		},
 		"alternateArea": "HOKKAIDO",
 		"alternateStoreName": "遊 RANDO FURANO TEN",
-		"alternateAddress": "HOKKAIDO FURANO SHI YAYOI MACHI 5 BAN 5 0 GO"
+		"alternateAddress": "HOKKAIDO FURANO SHI YAYOI MACHI 5 BAN 5 0 GO",
+		"access": "富良野駅徒歩10分",
+		"openingHours": "13:00～翌1:00"
 	},
 	{
 		"country": "JP",
@@ -52391,6 +54035,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52424,6 +54071,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52571,6 +54221,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
@@ -52600,6 +54253,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "JUBEAT"
 			}
 		],
 		"context": {
