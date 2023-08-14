@@ -54,6 +54,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -214,6 +220,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -245,6 +257,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -275,6 +293,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -312,6 +336,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -351,6 +381,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -394,6 +427,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -433,6 +472,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -472,6 +517,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -510,6 +561,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -631,6 +688,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -703,6 +766,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -826,6 +895,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -960,6 +1035,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -998,6 +1079,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -1137,6 +1224,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -1176,6 +1269,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -1254,6 +1353,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -1323,6 +1428,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -1365,6 +1473,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -1658,6 +1769,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -1738,6 +1852,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -1781,6 +1901,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -3128,6 +3254,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -3697,6 +3829,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -4122,6 +4260,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -4229,6 +4373,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -4272,6 +4422,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -4609,6 +4765,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -4652,6 +4814,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -4692,6 +4860,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -5782,6 +5956,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -5825,6 +6005,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -6257,6 +6443,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -6408,6 +6600,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -6515,6 +6713,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -6677,6 +6881,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -6951,6 +7161,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -6991,6 +7207,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -7034,6 +7256,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -7347,6 +7575,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -7387,6 +7621,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -7470,6 +7710,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -8179,6 +8425,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -8226,6 +8478,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -8275,6 +8533,12 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -8431,6 +8695,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -8468,6 +8738,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -9718,6 +9994,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -10957,6 +11239,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -11083,6 +11371,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -11316,6 +11610,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -11423,6 +11723,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -11560,6 +11866,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -11626,6 +11938,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -11712,6 +12030,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12106,6 +12430,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12174,6 +12504,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12216,6 +12552,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12260,6 +12602,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12296,6 +12644,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12359,6 +12713,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12392,6 +12752,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12537,6 +12903,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12619,6 +12991,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12627,6 +13005,28 @@
 		"alternateArea": "KUMAMOTO KEN",
 		"alternateStoreName": "THE 3 RD PURANETTO KA DORI TEN",
 		"alternateAddress": "KUMAMOTO SHI CHUO KU TETORIHON MACHI 4 - 12"
+	},
+	{
+		"country": "JP",
+		"area": "高知県",
+		"storeName": "u!帯屋町店",
+		"address": "高知市帯屋町1-13-21",
+		"lat": 33.560235,
+		"lng": 133.538643,
+		"cabinets": [
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "4210ef5969fd8669caba78be56aede68"
+		},
+		"alternateArea": "KOCHI KEN",
+		"alternateStoreName": "U ! OBIYA MACHI TEN",
+		"alternateAddress": "KOCHI SHI OBIYA MACHI 1 - 13 - 21"
 	},
 	{
 		"country": "JP",
@@ -12701,6 +13101,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12744,6 +13150,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12851,6 +13263,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -12888,6 +13306,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13052,6 +13476,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13094,6 +13524,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -13137,6 +13570,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -13283,6 +13719,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -13570,6 +14009,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13642,6 +14087,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13827,6 +14278,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13915,6 +14372,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13955,6 +14418,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -13992,6 +14461,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14034,6 +14509,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14073,6 +14554,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14115,6 +14602,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14154,6 +14647,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14275,6 +14774,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14315,6 +14820,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14357,6 +14868,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14425,6 +14942,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14467,6 +14990,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14510,6 +15039,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14549,6 +15084,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14593,6 +15134,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14629,6 +15176,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14669,6 +15222,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14853,6 +15412,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14898,6 +15463,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -14971,6 +15542,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15005,6 +15582,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15045,6 +15628,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15162,6 +15751,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15224,6 +15819,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15269,6 +15870,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15311,6 +15918,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15350,6 +15963,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15386,6 +16005,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15428,6 +16053,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15473,6 +16104,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15504,6 +16141,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15546,6 +16189,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -15591,6 +16237,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15633,6 +16285,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15699,6 +16357,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15738,6 +16402,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15841,6 +16511,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -15883,6 +16559,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16046,6 +16728,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16086,6 +16774,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16125,6 +16819,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16254,6 +16954,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16385,6 +17091,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16446,6 +17158,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16643,6 +17361,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16837,6 +17561,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16871,6 +17601,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16916,6 +17652,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -16987,6 +17729,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17032,6 +17780,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17135,6 +17889,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17309,6 +18069,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17418,6 +18184,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17539,6 +18311,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17567,6 +18345,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17653,6 +18437,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -17741,6 +18531,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18086,6 +18882,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18128,6 +18930,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18175,6 +18983,12 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18206,6 +19020,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18358,6 +19178,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18482,6 +19308,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18524,6 +19356,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -18790,6 +19625,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18850,6 +19691,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18892,6 +19739,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18933,6 +19786,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -18975,6 +19834,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19019,6 +19884,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19107,6 +19978,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19149,6 +20026,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19191,6 +20074,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19233,6 +20122,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19275,6 +20170,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19323,6 +20224,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19364,6 +20271,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19409,6 +20322,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19451,6 +20370,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19487,6 +20412,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19532,6 +20463,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19571,6 +20508,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19606,6 +20549,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19643,6 +20592,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19781,6 +20736,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19862,6 +20823,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19886,6 +20853,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19913,6 +20886,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19937,6 +20916,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -19974,6 +20959,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20033,6 +21024,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20203,6 +21200,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20301,6 +21304,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20397,6 +21406,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20457,6 +21472,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20496,6 +21517,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20566,6 +21593,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20667,6 +21700,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20703,6 +21742,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20742,6 +21787,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20783,6 +21834,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20822,6 +21879,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20893,6 +21956,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -20928,6 +21997,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21004,6 +22079,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -21058,16 +22136,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "13",
-			"allNetSid": "28485"
+			"allNetSid": "28485",
+			"eAmusementFdesc": "fa82db940e00553ddf7aae56bf85d280"
 		},
 		"alternateArea": "KANAGAWA KEN",
 		"alternateStoreName": "GEMUINFUANFUAN FUJISAWA TEN",
-		"alternateAddress": "KANAGAWA KEN FUJISAWA SHI KUGENUMAISHIGAMI 1 − 3 − 8"
+		"alternateAddress": "KANAGAWA KEN FUJISAWA SHI KUGENUMAISHIGAMI 1 − 3 − 8",
+		"access": "JR「藤沢駅」南口徒歩1分本通り商店街イトーヨーカドー手前",
+		"openingHours": "9:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -21144,6 +22231,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21201,6 +22291,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -21244,6 +22337,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21334,6 +22433,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21442,6 +22547,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21511,6 +22622,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21541,6 +22658,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21705,6 +22828,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21797,6 +22926,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21904,6 +23039,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -21949,6 +23090,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22012,6 +23159,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22114,6 +23267,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22157,6 +23316,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22197,6 +23362,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22233,6 +23404,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22276,6 +23453,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22321,6 +23504,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22364,6 +23553,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22404,6 +23599,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22438,6 +23639,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22532,6 +23739,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22595,6 +23808,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22637,6 +23856,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -22721,6 +23946,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23086,6 +24317,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23174,6 +24411,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23556,6 +24799,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23606,6 +24855,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23638,6 +24893,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -23678,6 +24936,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23723,6 +24987,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23768,6 +25038,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23834,6 +25110,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -23891,6 +25170,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -23923,6 +25208,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -24127,6 +25415,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24155,6 +25449,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -24266,6 +25563,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24449,6 +25752,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24491,6 +25800,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -24584,6 +25896,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24709,6 +26027,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -24743,6 +26064,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24822,6 +26149,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24906,6 +26239,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -24951,6 +26290,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25020,6 +26365,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25062,6 +26413,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25146,6 +26503,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25230,6 +26593,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25358,6 +26727,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25403,6 +26778,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25499,6 +26880,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -25641,6 +27028,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -26131,6 +27524,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -26167,6 +27566,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -26870,6 +28275,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27121,6 +28532,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27294,6 +28711,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27355,6 +28775,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27434,6 +28860,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27860,6 +29292,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27888,6 +29323,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27928,6 +29369,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -27968,6 +29415,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28045,6 +29498,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28112,6 +29571,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28210,6 +29675,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -28305,6 +29773,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28421,6 +29895,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28547,6 +30027,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28583,6 +30069,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28673,6 +30165,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28706,6 +30204,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28748,6 +30252,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28778,6 +30288,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28832,6 +30348,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28863,6 +30385,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -28925,6 +30453,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -29000,6 +30531,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29050,6 +30587,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29090,6 +30633,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29177,6 +30726,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29216,6 +30771,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29303,6 +30864,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29346,6 +30913,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29388,6 +30961,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29417,6 +30996,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29445,6 +31030,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29481,6 +31072,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29514,6 +31111,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29698,6 +31301,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29740,6 +31349,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29794,6 +31409,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29834,6 +31455,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29874,6 +31501,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29916,6 +31549,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -29961,6 +31600,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30001,6 +31646,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30040,6 +31691,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30124,6 +31781,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30169,6 +31832,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30245,6 +31914,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30311,6 +31986,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30392,6 +32073,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30422,6 +32109,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30546,6 +32239,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30573,6 +32272,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30688,6 +32393,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30769,6 +32480,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30853,6 +32570,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30895,6 +32615,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -30964,6 +32690,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31153,6 +32885,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31301,6 +33039,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31348,6 +33092,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31433,6 +33183,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31475,6 +33231,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31533,6 +33295,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31557,6 +33325,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31675,6 +33449,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31756,6 +33536,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31795,6 +33581,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -31958,6 +33750,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -32199,6 +33997,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -32356,6 +34160,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -32426,6 +34236,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -32713,6 +34529,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -32900,6 +34722,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -32935,6 +34763,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33159,6 +34993,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33234,6 +35074,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33265,6 +35111,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33290,6 +35142,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33330,6 +35188,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33529,6 +35393,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33554,6 +35424,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33651,6 +35527,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33694,6 +35576,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33739,6 +35627,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33868,6 +35762,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -33992,6 +35892,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -34618,6 +36524,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -34642,6 +36551,12 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35174,6 +37089,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35243,6 +37164,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35284,6 +37211,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35423,6 +37356,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35495,6 +37434,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35524,6 +37469,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35569,6 +37520,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -35875,12 +37832,19 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "10",
-			"allNetSid": "20663"
+			"allNetSid": "20663",
+			"eAmusementFdesc": "ffa4daac475be79ec3cc26bfa819422f"
 		},
 		"alternateArea": "SAITAMA KEN",
 		"alternateStoreName": "PUREBI ALCO KOSHIGAYA SHOPPINGU SUKUEA",
@@ -36076,6 +38040,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36111,6 +38081,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36181,6 +38157,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36215,6 +38197,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -36245,6 +38230,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36315,6 +38306,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36372,6 +38369,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36629,6 +38632,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36692,6 +38701,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36728,6 +38743,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36764,6 +38785,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36803,6 +38830,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -36866,6 +38896,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36903,6 +38939,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36943,6 +38985,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -36973,16 +39021,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "27",
-			"allNetSid": "24330"
+			"allNetSid": "24330",
+			"eAmusementFdesc": "d136c09760a204b28df8a24a018ad870"
 		},
 		"alternateArea": "HYOGO KEN",
 		"alternateStoreName": "MO RI FUANTAJI F KASAI HOJO",
-		"alternateAddress": "HYOGO KEN KASAI SHI HOJOCHOHOJO 3 0 8 − 1 ION KASAI HOJO 2 F"
+		"alternateAddress": "HYOGO KEN KASAI SHI HOJOCHOHOJO 3 0 8 − 1 ION KASAI HOJO 2 F",
+		"access": "北条鉄道 北条町駅 徒歩7分",
+		"openingHours": "9:00～21:00"
 	},
 	{
 		"country": "JP",
@@ -37077,6 +39134,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -37465,6 +39528,28 @@
 	},
 	{
 		"country": "JP",
+		"area": "鳥取県",
+		"storeName": "モーリーファンタジー米子駅前",
+		"address": "米子市末広町311イオン3F",
+		"lat": 35.4229363,
+		"lng": 133.3308754,
+		"cabinets": [
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "c224f4107a8d226b50b378a51cabfb1d"
+		},
+		"alternateArea": "TOTTORI KEN",
+		"alternateStoreName": "MO RI FUANTAJI YONAGO EKI MAE",
+		"alternateAddress": "YONAGO SHI SUEHIRO MACHI 311 ION 3 F"
+	},
+	{
+		"country": "JP",
 		"area": "山形県",
 		"storeName": "モーリーファンタジー米沢",
 		"address": "山形県米沢市春日2-13-4 2F",
@@ -37482,6 +39567,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -37697,6 +39788,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -37737,6 +39831,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -37769,6 +39869,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -37882,6 +39988,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38001,6 +40113,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38109,6 +40227,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38154,6 +40278,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38194,6 +40324,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38278,6 +40414,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38406,6 +40548,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38612,6 +40760,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38657,6 +40811,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38699,6 +40859,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38740,6 +40906,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38782,6 +40954,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38865,6 +41043,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38952,6 +41136,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -38994,6 +41184,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39036,6 +41232,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39078,6 +41280,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39120,6 +41328,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39165,6 +41379,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39207,6 +41427,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39252,6 +41478,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39294,6 +41526,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39336,6 +41574,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39378,6 +41622,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39420,6 +41670,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39462,6 +41718,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39504,6 +41766,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39545,6 +41813,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39587,6 +41861,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39629,6 +41909,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39713,6 +41999,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39754,6 +42046,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39838,6 +42136,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -39880,6 +42184,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40009,6 +42319,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40051,6 +42367,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40093,6 +42415,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40175,6 +42503,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40220,6 +42554,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40262,6 +42602,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40307,6 +42653,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40436,6 +42788,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40481,6 +42839,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40523,6 +42887,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40610,6 +42980,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40652,6 +43028,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40694,6 +43076,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40818,6 +43206,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40860,6 +43254,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40902,6 +43302,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40947,6 +43353,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -40992,6 +43404,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41079,6 +43497,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41121,6 +43545,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41205,6 +43635,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41247,6 +43683,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41289,6 +43731,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41379,6 +43827,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41466,6 +43920,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41510,6 +43970,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41552,6 +44018,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41594,6 +44066,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41636,6 +44114,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41681,6 +44165,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41723,6 +44213,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41768,6 +44264,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41810,6 +44312,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41852,6 +44360,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41894,6 +44408,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -41936,6 +44456,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42020,6 +44546,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42107,6 +44639,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42149,6 +44687,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42190,6 +44734,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42235,6 +44785,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42277,6 +44833,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42319,6 +44881,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42381,6 +44949,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42418,6 +44992,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42502,6 +45082,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42547,6 +45133,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42589,6 +45181,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42697,6 +45295,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42742,6 +45346,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -42784,6 +45394,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -42895,6 +45508,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -42974,6 +45590,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43015,6 +45637,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43028,6 +45656,25 @@
 		"alternateAddress": "NAGASAKI KEN SASEBO SHI AINOURA MACHI 2 6 8 9 − 1",
 		"access": "松浦電鉄「相浦」下車車10分ほど。",
 		"openingHours": "10:00～24:00"
+	},
+	{
+		"country": "JP",
+		"area": "埼玉県",
+		"storeName": "三郷ヤングボウル",
+		"address": "三郷市戸ヶ崎5-131",
+		"lat": 35.797059,
+		"lng": 139.859974,
+		"cabinets": [
+			{
+				"game": "GITADORA_GUITARFREAKS"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "2d3e9b19e9a0a17827cb71f9c10987b4"
+		},
+		"alternateArea": "SAITAMA KEN",
+		"alternateStoreName": "MISATO YANGU BORU",
+		"alternateAddress": "MISATO SHI TO KE SAKI 5 - 131"
 	},
 	{
 		"country": "JP",
@@ -43151,6 +45798,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43237,6 +45890,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43282,6 +45941,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43319,6 +45984,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43364,6 +46035,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43407,6 +46084,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43452,6 +46135,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43537,6 +46226,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43619,6 +46314,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43746,6 +46447,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43783,6 +46490,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43819,6 +46532,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -43855,6 +46574,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -43893,6 +46615,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -44171,6 +46896,12 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44206,6 +46937,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44334,6 +47071,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44427,6 +47170,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44451,6 +47200,12 @@
 		"cabinets": [
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44473,6 +47228,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -44513,6 +47271,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44677,6 +47441,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44800,6 +47570,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44845,6 +47621,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -44992,6 +47774,12 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -45026,6 +47814,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -45079,6 +47873,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -45770,6 +48570,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -45992,6 +48798,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46214,6 +49026,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46268,16 +49086,25 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "39",
-			"allNetSid": "26282"
+			"allNetSid": "26282",
+			"eAmusementFdesc": "018975a0a852d8d97dede622ffac9a06"
 		},
 		"alternateArea": "FUKUOKA KEN",
 		"alternateStoreName": "RAKUICHI KAIDO KURUME TEN",
-		"alternateAddress": "FUKUOKA KEN KURUME SHI SHINGO GAWA 2 - 7 - 10 KURUME AMYUZUMENTO BIRU NAI"
+		"alternateAddress": "FUKUOKA KEN KURUME SHI SHINGO GAWA 2 - 7 - 10 KURUME AMYUZUMENTO BIRU NAI",
+		"access": "久留米ICから車で5分国道210号線沿い",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
@@ -46310,6 +49137,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46342,6 +49175,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46373,6 +49212,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
@@ -46477,6 +49319,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46573,6 +49421,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46615,6 +49469,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46670,6 +49530,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46712,6 +49575,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46754,6 +49623,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46795,6 +49670,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46838,6 +49719,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -46883,6 +49770,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -47055,6 +49948,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -47273,6 +50172,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -47363,6 +50268,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -47424,6 +50335,12 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "GITADORA_GUITARFREAKS"
 			}
 		],
 		"context": {
@@ -47539,16 +50456,22 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "GITADORA_DRUMMANIA"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "11",
-			"allNetSid": "23204"
+			"allNetSid": "23204",
+			"eAmusementFdesc": "4914c4e448ccdc353c7fa9e01fd58b81"
 		},
 		"alternateArea": "CHIBA KEN",
 		"alternateStoreName": "TATEYAMA YAN GUBOURU",
-		"alternateAddress": "CHIBA KEN TATEYAMA SHI HOJO 1564"
+		"alternateAddress": "CHIBA KEN TATEYAMA SHI HOJO 1564",
+		"access": "JR館山駅より徒歩12分",
+		"openingHours": "10:00～24:00"
 	},
 	{
 		"country": "JP",
