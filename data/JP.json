@@ -72,6 +72,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -241,6 +244,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -281,6 +287,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -366,6 +375,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -466,6 +478,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -517,6 +532,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -568,6 +586,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -615,6 +636,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -925,6 +949,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -961,6 +988,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1025,6 +1055,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1305,6 +1338,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1509,6 +1545,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1554,6 +1593,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1593,6 +1635,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1701,6 +1746,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1856,6 +1904,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -1942,6 +1993,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -2000,6 +2054,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -2459,6 +2516,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -5024,6 +5084,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -5073,6 +5136,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -6252,6 +6318,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -7182,6 +7251,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -8038,6 +8110,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -8511,6 +8586,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -8776,6 +8854,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -8841,6 +8922,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -8993,6 +9077,25 @@
 	{
 		"country": "JP",
 		"area": "福井県",
+		"storeName": "Let's Waku2 ベル店",
+		"address": "福井市花堂南2-16-1",
+		"lat": 36.03383952,
+		"lng": 136.2120541,
+		"cabinets": [
+			{
+				"game": "POP_N_MUSIC"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "e95f526e278c47beddf91f2558cc5ad0"
+		},
+		"alternateArea": "FUKUI KEN",
+		"alternateStoreName": "LET ' S WAKU 2 BERU TEN",
+		"alternateAddress": "FUKUI SHI HANANDOMINAMI 2 - 16 - 1"
+	},
+	{
+		"country": "JP",
+		"area": "福井県",
 		"storeName": "Let’s WAKU2 エルパ",
 		"address": "福井県福井市大和田2-1212",
 		"lat": 36.0957091,
@@ -9067,6 +9170,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -9116,6 +9222,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -9147,6 +9256,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -9886,6 +9998,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -10458,6 +10573,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -10808,6 +10926,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -10883,6 +11004,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -10914,6 +11038,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -10978,6 +11105,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11057,6 +11187,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11168,6 +11301,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11540,6 +11676,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11583,6 +11722,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11672,6 +11814,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11703,6 +11848,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11743,6 +11891,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11771,6 +11922,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11817,6 +11971,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -11951,6 +12108,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -12104,6 +12264,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -12355,6 +12518,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -12390,6 +12556,25 @@
 		"alternateArea": "TOTTORI KEN",
 		"alternateStoreName": "PALO TOTTORI TEN",
 		"alternateAddress": "TOTTORI KEN TOTTORI SHI TENJIN MACHI 1 2 F"
+	},
+	{
+		"country": "JP",
+		"area": "青森県",
+		"storeName": "PALO黒石",
+		"address": "黒石市富士見103-3",
+		"lat": 40.6669347,
+		"lng": 140.5990552,
+		"cabinets": [
+			{
+				"game": "POP_N_MUSIC"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "deee26a4cf3e956148afa5a48580276e"
+		},
+		"alternateArea": "AOMORI KEN",
+		"alternateStoreName": "PALO KUROISHI",
+		"alternateAddress": "KUROISHI SHI FUJIMI 103 - 3"
 	},
 	{
 		"country": "JP",
@@ -12433,6 +12618,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -12531,6 +12719,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -12801,6 +12992,8 @@
 		"area": "秋田県",
 		"storeName": "SOYUGameField御所野店",
 		"address": "秋田県秋田市御所野地蔵田1-1-1イオンモール秋田2F",
+		"access": "JR奥羽本線・羽越線東口より秋田市営バス御所野ニュータウン行きニュータウン入口下車徒歩2分",
+		"openingHours": "10:00～24:00",
 		"lat": 39.66341429285994,
 		"lng": 140.1610980386231,
 		"cabinets": [
@@ -12812,12 +13005,16 @@
 			},
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "4",
-			"allNetSid": "28775"
+			"allNetSid": "28775",
+			"eAmusementFdesc": "a271dc827bda7004f998ac968fea1d4e"
 		},
 		"alternateArea": "AKITA KEN",
 		"alternateStoreName": "SOYUGAMEFIELD GOSHONO TEN",
@@ -13024,6 +13221,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13078,6 +13278,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13131,6 +13334,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13173,6 +13379,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13326,6 +13535,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13447,6 +13659,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13474,6 +13689,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13535,6 +13753,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13557,6 +13778,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13654,6 +13878,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13843,6 +14070,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -13892,6 +14122,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14013,6 +14246,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14074,6 +14310,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14171,6 +14410,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14320,6 +14562,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14541,6 +14786,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14758,6 +15006,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14800,6 +15051,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14838,6 +15092,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14891,6 +15148,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -14991,6 +15251,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15040,6 +15303,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15086,6 +15352,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15188,6 +15457,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15245,6 +15517,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15333,6 +15608,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15429,6 +15707,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15529,6 +15810,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15612,6 +15896,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15666,6 +15953,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15828,6 +16118,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15876,6 +16169,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -15931,6 +16227,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16075,6 +16374,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16136,6 +16438,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16190,6 +16495,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16275,6 +16583,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16318,6 +16629,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16499,6 +16813,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16527,6 +16844,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16567,6 +16887,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16627,6 +16950,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16723,6 +17049,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16822,6 +17151,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16882,6 +17214,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -16970,6 +17305,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17033,6 +17371,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17090,6 +17431,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17171,6 +17515,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17219,6 +17566,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17337,6 +17687,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17397,6 +17750,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17460,6 +17816,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17499,6 +17858,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17575,6 +17937,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17627,6 +17992,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17678,6 +18046,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17816,6 +18187,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -17913,6 +18287,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18029,6 +18406,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18067,6 +18447,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18244,6 +18627,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18550,6 +18936,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18636,6 +19025,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18696,6 +19088,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18817,6 +19212,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18865,6 +19263,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -18907,6 +19308,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19003,6 +19407,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19124,6 +19531,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19260,6 +19670,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19294,6 +19707,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19346,6 +19762,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19386,6 +19805,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19486,6 +19908,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19601,6 +20026,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19704,6 +20132,9 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19735,6 +20166,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19849,6 +20283,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19909,6 +20346,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -19965,6 +20405,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20005,6 +20448,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20169,6 +20615,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20305,6 +20754,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20350,6 +20802,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20384,6 +20839,25 @@
 		"alternateArea": "FUKUI KEN",
 		"alternateStoreName": "ARU ・ PURAZA BORU SABAE",
 		"alternateAddress": "FUKUI KEN SABAE SHI SHIMOKOBATA MACHI 1 6 JI SHITAMACHI 6 − 1"
+	},
+	{
+		"country": "JP",
+		"area": "兵庫県",
+		"storeName": "アルクリオ 3Fゲームコーナー",
+		"address": "淡路市志筑新島10-3",
+		"lat": 34.4267445,
+		"lng": 134.9047334,
+		"cabinets": [
+			{
+				"game": "POP_N_MUSIC"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "b037a52455c9b81e503f7048d1a4efd8"
+		},
+		"alternateArea": "HYOGO KEN",
+		"alternateStoreName": "ARUKU RIO 3 F GEMU KONA",
+		"alternateAddress": "AWAJI SHI SHIZUKINIJIMA 10 - 3"
 	},
 	{
 		"country": "JP",
@@ -20439,6 +20913,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20465,6 +20942,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20628,6 +21108,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20697,6 +21180,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20754,6 +21240,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20807,6 +21296,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20861,6 +21353,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -20917,6 +21412,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21020,6 +21518,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21119,6 +21620,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21173,6 +21677,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21281,6 +21788,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21334,6 +21844,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21394,6 +21907,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21490,6 +22006,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21541,6 +22060,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21589,6 +22111,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21639,6 +22164,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -21812,6 +22340,27 @@
 	},
 	{
 		"country": "JP",
+		"area": "埼玉県",
+		"storeName": "オートパーラー上尾",
+		"address": "上尾市大字久保70-2",
+		"access": "国道17号久保交差点そば",
+		"openingHours": "一部24時間営業",
+		"lat": 35.9914843,
+		"lng": 139.5785345,
+		"cabinets": [
+			{
+				"game": "POP_N_MUSIC"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "b17540faca2c3c2395027d4056579dc5"
+		},
+		"alternateArea": "SAITAMA KEN",
+		"alternateStoreName": "OTO PARA AGEO",
+		"alternateAddress": "AGEO SHI DAIJI KUBO 70 - 2"
+	},
+	{
+		"country": "JP",
 		"area": "岐阜県",
 		"storeName": "オリエンタルバッティング可児店",
 		"address": "岐阜県可児市今渡695-1",
@@ -21958,6 +22507,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22000,6 +22552,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22076,6 +22631,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22320,6 +22878,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22427,6 +22988,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22604,6 +23168,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22844,6 +23411,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22889,6 +23459,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -22940,6 +23513,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23018,6 +23594,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23069,6 +23648,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23103,6 +23685,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23149,6 +23734,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23233,6 +23821,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23344,6 +23935,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23439,6 +24033,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23499,6 +24096,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23557,6 +24157,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23614,6 +24217,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23653,6 +24259,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23695,6 +24304,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23773,6 +24385,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23809,6 +24424,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23851,6 +24469,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -23937,6 +24558,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24027,6 +24651,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24084,6 +24711,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24191,6 +24821,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24261,6 +24894,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24313,6 +24949,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24439,6 +25078,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24562,6 +25204,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24672,6 +25317,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24720,6 +25368,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24781,6 +25432,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24841,6 +25495,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24902,6 +25559,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -24954,6 +25614,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25106,6 +25769,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25184,6 +25850,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25232,6 +25901,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25274,6 +25946,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25325,6 +26000,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25549,6 +26227,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25754,6 +26435,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25814,6 +26498,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -25889,6 +26576,9 @@
 		"cabinets": [
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26225,6 +26915,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26274,6 +26967,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26308,6 +27004,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26343,6 +27042,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26392,6 +27094,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26452,6 +27157,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26512,6 +27220,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26590,6 +27301,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -26916,6 +27630,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27067,6 +27784,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27175,6 +27895,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27222,6 +27945,9 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27271,6 +27997,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27390,6 +28119,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27424,6 +28156,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27530,6 +28265,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27570,6 +28308,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27619,6 +28360,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27659,6 +28403,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27713,6 +28460,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27806,6 +28556,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27866,6 +28619,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -27992,6 +28748,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28034,6 +28793,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28088,6 +28850,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28132,6 +28897,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28193,6 +28961,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28239,6 +29010,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28291,6 +29065,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28354,6 +29131,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28417,6 +29197,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28468,6 +29251,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28500,6 +29286,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28534,6 +29323,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28843,6 +29635,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28877,6 +29672,9 @@
 			},
 			{
 				"game": "SOUND_VOLTEX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -28995,6 +29793,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -29214,6 +30015,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -29619,6 +30423,27 @@
 	{
 		"country": "JP",
 		"area": "北海道",
+		"storeName": "ソユーゲームフィールド旭川西店",
+		"address": "旭川市緑町23-2161-3イオンモール旭川西3F",
+		"access": "JR旭川駅より車で15分",
+		"openingHours": "10:00～21:00",
+		"lat": 43.79429834,
+		"lng": 142.3255915,
+		"cabinets": [
+			{
+				"game": "POP_N_MUSIC"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "3ebe1685dfe3be5b60b1e99fa3ed4729"
+		},
+		"alternateArea": "HOKKAIDO",
+		"alternateStoreName": "SOYUGEMUFUIRUDO ASAHIKAWA NISHI TEN",
+		"alternateAddress": "ASAHIKAWA SHI MIDORICHO 23 - 2161 - 3 ION MORU ASAHIKAWA NISHI 3 F"
+	},
+	{
+		"country": "JP",
+		"area": "北海道",
 		"storeName": "ソユーゲームフィールド旭川駅前店",
 		"address": "北海道旭川市宮下通7-2-5ｲｵﾝﾓｰﾙ旭川駅前4F",
 		"lat": 43.76400559012282,
@@ -29845,6 +30670,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -29973,6 +30801,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30043,6 +30874,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30309,6 +31143,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30488,6 +31325,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30567,6 +31407,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30652,6 +31495,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30695,6 +31541,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30760,6 +31609,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -30873,6 +31725,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31099,6 +31954,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31136,6 +31994,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31185,6 +32046,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31231,6 +32095,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31317,6 +32184,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31399,6 +32269,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31610,6 +32483,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31744,6 +32620,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31843,6 +32722,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31885,6 +32767,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -31933,6 +32818,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32035,6 +32923,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32074,6 +32965,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32128,6 +33022,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32167,6 +33064,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32227,6 +33127,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32270,6 +33173,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32341,6 +33247,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32386,6 +33295,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32434,6 +33346,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32490,6 +33405,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32548,6 +33466,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32593,16 +33514,21 @@
 		"cabinets": [
 			{
 				"game": "CHUNITHM_NEW"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "36",
-			"allNetSid": "26810"
+			"allNetSid": "26810",
+			"eAmusementFdesc": "ab4d078a7eb66ff77467ef24dfe63b73"
 		},
 		"alternateArea": "KAGAWA KEN",
 		"alternateStoreName": "TAITO SUTESHON MARUGAME",
-		"alternateAddress": "KAGAWA KEN MARUGAME SHI KAWANISHICHOMINAMI 1280 - 1 FUJIBURAN MARUGAME NAI"
+		"alternateAddress": "KAGAWA KEN MARUGAME SHI KAWANISHICHOMINAMI 1280 - 1 FUJIBURAN MARUGAME NAI",
+		"openingHours": "月～木10:00～21:00 金10:00～23:00 土・日・祝9:00～ 23:00"
 	},
 	{
 		"country": "JP",
@@ -32650,6 +33576,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32746,6 +33675,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32806,6 +33738,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32861,6 +33796,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32915,6 +33853,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32953,6 +33894,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -32993,6 +33937,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33038,6 +33985,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33077,6 +34027,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33146,6 +34099,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33185,6 +34141,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33233,6 +34192,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33282,6 +34244,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33330,6 +34295,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33357,6 +34325,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33390,6 +34361,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33445,6 +34419,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33497,6 +34474,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33551,6 +34531,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33614,6 +34597,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33672,6 +34658,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33717,6 +34706,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33813,6 +34805,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33873,6 +34868,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33907,6 +34905,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33961,6 +34962,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -33974,6 +34978,27 @@
 		"alternateAddress": "TOKYO TO SUMIDA KU KOTO KYO 4 − 2 7 − 1 4 RAKUTEN CHI BIRU B 1 F",
 		"access": "東京メトロ半蔵門線・錦糸町駅2番出口直通!東京楽天地ビル地下1階",
 		"openingHours": "10:00～24:00"
+	},
+	{
+		"country": "JP",
+		"area": "青森県",
+		"storeName": "タイトーステーション青森アムゼ店",
+		"address": "青森市緑3-9-2アムゼ内",
+		"access": "JR青森駅より南東へ車で15分",
+		"openingHours": "10:00～22:00",
+		"lat": 40.8064486,
+		"lng": 140.7509622,
+		"cabinets": [
+			{
+				"game": "POP_N_MUSIC"
+			}
+		],
+		"context": {
+			"eAmusementFdesc": "722c0a8c929d52e5a919e944b4e546ca"
+		},
+		"alternateArea": "AOMORI KEN",
+		"alternateStoreName": "TAITO SUTESHON AOMORI AMUZE TEN",
+		"alternateAddress": "AOMORI SHI MIDORI 3 - 9 - 2 AMUZE NAI"
 	},
 	{
 		"country": "JP",
@@ -34045,6 +35070,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34078,6 +35106,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34177,6 +35208,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34313,6 +35347,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34346,6 +35383,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34478,6 +35518,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34517,6 +35560,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34574,6 +35620,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34664,6 +35713,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34715,6 +35767,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34796,6 +35851,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -34994,6 +36052,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35075,6 +36136,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35154,6 +36218,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35207,6 +36274,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35310,6 +36380,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35361,6 +36434,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35428,6 +36504,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35498,6 +36577,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35633,6 +36715,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35687,6 +36772,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35793,6 +36881,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -35916,6 +37007,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36036,6 +37130,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36169,6 +37266,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36344,6 +37444,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36429,6 +37532,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36728,6 +37834,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36930,6 +38039,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -36971,6 +38083,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37207,6 +38322,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37294,6 +38412,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37362,6 +38483,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37414,6 +38538,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37456,6 +38583,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37570,6 +38700,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37628,6 +38761,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37717,6 +38853,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37823,6 +38962,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37877,6 +39019,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -37940,6 +39085,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -38025,6 +39173,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -38161,6 +39312,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -38750,6 +39904,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -38857,6 +40014,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -39398,6 +40558,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -39476,6 +40639,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -39526,6 +40692,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -39626,6 +40795,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -39761,6 +40933,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -39856,6 +41031,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40394,6 +41572,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40438,6 +41619,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40520,6 +41704,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40557,6 +41744,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40593,6 +41783,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40672,6 +41865,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40735,6 +41931,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40875,6 +42074,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -40936,6 +42138,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41033,6 +42238,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41062,6 +42270,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41111,6 +42322,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41156,6 +42370,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41204,6 +42421,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41252,6 +42472,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41376,6 +42599,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41431,6 +42657,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41470,6 +42699,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41512,6 +42744,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41549,6 +42784,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41601,6 +42839,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41738,6 +42979,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41827,6 +43071,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -41973,6 +43220,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42022,6 +43272,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42062,6 +43315,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42090,6 +43346,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42133,6 +43392,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42224,6 +43486,9 @@
 		"cabinets": [
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42364,6 +43629,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42433,6 +43701,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42670,6 +43941,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42850,6 +44124,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -42899,6 +44176,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43001,6 +44281,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43135,6 +44418,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43226,6 +44512,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43317,6 +44606,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43374,6 +44666,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43437,6 +44732,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43550,6 +44848,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43610,6 +44911,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43658,6 +44962,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43717,6 +45024,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43765,6 +45075,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43828,6 +45141,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43888,6 +45204,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -43945,6 +45264,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44005,6 +45327,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44062,6 +45387,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44125,6 +45453,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44182,6 +45513,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44299,6 +45633,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44359,6 +45696,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44416,6 +45756,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44476,6 +45819,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44536,6 +45882,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44596,6 +45945,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44655,6 +46007,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44712,6 +46067,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44772,6 +46130,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44820,6 +46181,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44880,6 +46244,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44933,6 +46300,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -44984,6 +46354,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45041,6 +46414,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45101,6 +46477,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45203,6 +46582,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45266,6 +46648,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45326,6 +46711,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45383,6 +46771,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45432,6 +46823,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45492,6 +46886,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45555,6 +46952,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45615,6 +47015,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45678,6 +47081,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45780,6 +47186,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45837,6 +47246,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45900,6 +47312,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -45957,6 +47372,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46011,6 +47429,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46074,6 +47495,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46134,6 +47558,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46194,6 +47621,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46245,6 +47675,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46299,6 +47732,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46357,6 +47793,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46414,6 +47853,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46468,6 +47910,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46531,6 +47976,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46591,6 +48039,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46642,6 +48093,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46705,6 +48159,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46765,6 +48222,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46816,6 +48276,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46876,6 +48339,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46930,6 +48396,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -46990,6 +48459,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47047,6 +48519,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47110,6 +48585,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47161,6 +48639,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47224,6 +48705,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47286,6 +48770,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47346,6 +48833,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47406,6 +48896,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47463,6 +48956,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47523,6 +49019,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47580,6 +49079,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47643,6 +49145,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47697,6 +49202,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47754,6 +49262,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47814,6 +49325,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47874,6 +49388,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47928,6 +49445,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -47988,6 +49508,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48039,6 +49562,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48099,6 +49625,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48159,6 +49688,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48215,6 +49747,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48278,6 +49813,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48338,6 +49876,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48398,6 +49939,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48475,6 +50019,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48527,6 +50074,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48578,6 +50128,9 @@
 			},
 			{
 				"game": "DANCERUSH_STARDOM"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48638,6 +50191,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48701,6 +50257,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48755,6 +50314,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48812,6 +50374,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48887,6 +50452,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48947,6 +50515,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -48995,6 +50566,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49081,6 +50655,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49115,6 +50692,9 @@
 			},
 			{
 				"game": "GITADORA_DRUMMANIA"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49206,6 +50786,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49253,6 +50836,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49426,6 +51012,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49633,6 +51222,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49696,6 +51288,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49757,6 +51352,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49811,6 +51409,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -49920,6 +51521,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50044,6 +51648,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50186,6 +51793,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50232,6 +51842,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50280,6 +51893,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50489,6 +52105,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50563,6 +52182,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50668,6 +52290,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50758,6 +52383,9 @@
 		"cabinets": [
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50855,6 +52483,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -50963,6 +52594,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -51120,6 +52754,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -51240,6 +52877,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -51390,6 +53030,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -51453,6 +53096,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -51491,6 +53137,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -52132,6 +53781,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -52432,6 +54084,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -52672,6 +54327,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -52775,6 +54433,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -52912,6 +54573,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53032,6 +54696,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53076,6 +54743,9 @@
 			},
 			{
 				"game": "DANCEDANCEREVOLUTION_20TH_ANNIVERSARY_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53170,18 +54840,22 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
 			"allNetCt": "1000",
 			"allNetAt": "21",
 			"allNetSid": "25015",
-			"eAmusementFdesc": "b9660fb1b2fd6356a5a3de0b860e06a3"
+			"eAmusementFdesc": "21528878e96b7966b9b059a3198b6443"
 		},
 		"alternateArea": "SHIZUOKA KEN",
 		"alternateStoreName": "NUMAZU BATTEINGU SUTAJIAMU",
 		"alternateAddress": "SHIZUOKA KEN NUMAZU SHI OKAISSHIKI 1 9 − 2",
-		"openingHours": "10:00～24:00"
+		"openingHours": "10:00～24:00",
+		"access": "東名高速沼津IC下りて沼津方面車で5分"
 	},
 	{
 		"country": "JP",
@@ -53232,6 +54906,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53349,6 +55026,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53409,6 +55089,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53527,6 +55210,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53587,6 +55273,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53767,6 +55456,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -53976,6 +55668,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -54038,6 +55733,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -54074,6 +55772,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -54224,6 +55925,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -54256,6 +55960,9 @@
 			},
 			{
 				"game": "JUBEAT"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -54390,6 +56097,9 @@
 			},
 			{
 				"game": "GITADORA_GUITARFREAKS"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
@@ -54430,6 +56140,9 @@
 			},
 			{
 				"game": "BEATMANIA_IIDX_LIGHTNING_MODEL"
+			},
+			{
+				"game": "POP_N_MUSIC"
 			}
 		],
 		"context": {
