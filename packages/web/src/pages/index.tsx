@@ -1,11 +1,22 @@
-import { Inter } from 'next/font/google'
+import {Inter} from 'next/font/google'
 import Map from "@/components/Map";
 import MapProvider from "@/contexts/MapProvider";
-import {FaMusic} from "react-icons/fa6";
+import MainSheet from "@/components/MainSheet";
+import StoreSheet from "@/components/StoreSheet";
+import {useState} from "react";
+import {Store} from "@otoge.app/shared";
 
 const inter = Inter({ subsets: ['latin'] })
 
+
 export default function Home() {
+    const [selectedStore, setSelectedStore] = useState<Store | undefined>()
+    const onSelectStore = (data: Store) => {
+        setSelectedStore(data)
+    }
+    const onStoreSheetClose = () => {
+        setSelectedStore(undefined)
+    }
   return (
     <MapProvider>
       <main
@@ -20,16 +31,8 @@ export default function Home() {
                   zoom={13}
               />
           </div>
-          <div className="absolute left-0 w-full">
-              <div className="p-4">
-                  <input type="text" id="hs-leading-icon" name="hs-leading-icon"
-                         className="py-3 px-4 pl-11 block w-full border-gray-200 shadow-sm rounded-md text-sm rounded-3xl focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
-                         placeholder="Search location or game name" />
-                      <div className="absolute inset-y-0 left-0 flex items-center pointer-events-none z-20 pl-8">
-                          <FaMusic className="text-white" />
-                      </div>
-              </div>
-          </div>
+          <MainSheet onSelectStore={onSelectStore} className={`${selectedStore != null ? "hidden" : ""}`} />
+          <StoreSheet data={selectedStore} isOpen={selectedStore != null} onClose={onStoreSheetClose} />
       </main>
     </MapProvider>
   )
