@@ -34,6 +34,8 @@ export default function Map(props: GoogleMapProps) {
           streetViewControl: false,
           fullscreenControl: false,
           mapTypeControl: false,
+          zoomControl: false,
+          gestureHandling: 'greedy'
         }}
         mapContainerStyle={{ height: "100vh", width: "100wh" }}
         {...props}
