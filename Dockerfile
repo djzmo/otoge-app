@@ -13,7 +13,7 @@ EXPOSE 3000
 CMD lerna run start --scope=@otoge.app/api
 
 FROM base as base-web
-#ENV REACT_APP_GOOGLE_MAPS_API_KEY=AIzaSyBQzjeZMmOMg3_oEaKf1Ef2q80QgXwKbWk
+#ENV REACT_APP_GOOGLE_MAPS_API_KEY=
 #ENV REACT_APP_API_BASE_URL=https://otoge.app
 RUN lerna run build --scope=@otoge.app/web
 
