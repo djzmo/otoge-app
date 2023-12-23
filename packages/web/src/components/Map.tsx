@@ -7,12 +7,16 @@ import {
   LoadScript,
   Marker,
 } from "@react-google-maps/api"
+import mapStyles from "../styles/mapStyles.json"
+import {useTheme} from "next-themes";
 
 interface MapProps {
   className?: string
 }
 
 export default function Map(props: GoogleMapProps | MapProps) {
+    const { theme, setTheme } = useTheme()
+    const styles = mapStyles[theme === "dark" ? "dark" : "light"]
   const { markers, setMap, selectedStore, setSelectedStore, stores } =
     useContext(MapContext)
   const onLoad = useCallback(
@@ -37,7 +41,8 @@ export default function Map(props: GoogleMapProps | MapProps) {
           fullscreenControl: false,
           mapTypeControl: false,
           gestureHandling: 'greedy',
-          zoomControl: false
+          zoomControl: false,
+          styles
         }}
         mapContainerStyle={{ height: "100vh", width: "100wh" }}
         {...props}

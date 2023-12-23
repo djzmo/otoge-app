@@ -8,7 +8,6 @@ import {Store} from "@otoge.app/shared";
 
 const inter = Inter({ subsets: ['latin'] })
 
-
 export default function Home() {
     const [selectedStore, setSelectedStore] = useState<Store | undefined>()
     const onSelectStore = (data: Store) => {
@@ -32,7 +31,7 @@ export default function Home() {
               />
           </div>
           <MainSheet onSelectStore={onSelectStore} className={`${selectedStore != null ? "hidden" : ""}`} />
-          <StoreSheet data={selectedStore} isOpen={selectedStore != null} onClose={onStoreSheetClose} />
+          {/*<StoreSheet data={selectedStore} isOpen={selectedStore != null} onClose={onStoreSheetClose} />*/}
       </main>
     </MapProvider>
   )

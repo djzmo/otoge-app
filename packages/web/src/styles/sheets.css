@@ -1,0 +1,29 @@
+.react-spring-sheets-sheet {
+    z-index: 100;
+    position: fixed;
+    height: calc(100vh + 100px);
+    width: 100%;
+    border-radius: 12px 12px 0px;
+    background: #fff;
+}
+
+.react-spring-sheets-header {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: ns-resize;
+    touch-action: none;
+}
+
+.react-spring-sheets-header-handle {
+    width: 36px;
+    height: 4px;
+    border-radius: 99px;
+    background-color: rgb(221, 221, 221);
+}
+
+.react-spring-sheets-body {
+    overflow-y: auto;
+    touch-action: none;
+}

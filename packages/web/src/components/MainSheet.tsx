@@ -1,8 +1,10 @@
-import Sheet, {SheetRef} from "react-modal-sheet";
 import {FaLocationArrow, FaMagnifyingGlass} from "react-icons/fa6";
 import SearchListItem from "@/components/SearchListItem";
 import {ChangeEvent, useRef, useState} from "react";
 import {GameEnum, Store} from "@otoge.app/shared";
+import {Sheet, SheetRef} from "@/components/sheets/Sheet";
+import {SheetHeader} from "@/components/sheets/SheetHeader";
+import {SheetBody} from "@/components/sheets/SheetBody";
 
 enum SheetState {
     DEFAULT,
@@ -20,7 +22,7 @@ export default function MainSheet({ onSelectStore, className }: MainSheetProps) 
     const [isSearchFocused, setIsSearchFocused] = useState(false)
     const [sheetState, setSheetState] = useState(SheetState.DEFAULT)
     const [searchKeyword, setSearchKeyword] = useState("")
-    const sheetRef = useRef<SheetRef>()
+    const sheetRef = useRef<SheetRef>(null)
     const dummyStore: Store = {
         "country": "JP",
         "area": "長野県",
@@ -49,15 +51,19 @@ export default function MainSheet({ onSelectStore, className }: MainSheetProps) 
         "alternateStoreName": "HAPIPILAND SAKU",
         "alternateAddress": "NAGANO KEN SAKU SHI IWAMURADA 6 - 2 SAKU SUTESHON PAKU NAI"
     }
-    const snapTo = (i: number) => sheetRef.current?.snapTo(i)
+    const snapTo = (pxOrPercentage: number | string) => sheetRef.current?.snapTo(pxOrPercentage)
     const onSearchFocus = () => {
-        snapTo(0)
-        setIsSearchFocused(true)
+        snapTo('90')
     }
     const onSearchBlur = () => {
+        if (searchKeyword.length < 2) {
+            setSearchKeyword('')
+            snapTo(300)
+        }
     }
     const onSearchChange = (e: ChangeEvent<HTMLInputElement>) => {
         setSearchKeyword(e.target.value)
+        setIsSearchFocused(e.target.value.length > 0)
         if (e.target.value.length >= 2) {
             setSheetState(SheetState.SEARCH_PREVIEW)
         } else {
@@ -67,32 +73,33 @@ export default function MainSheet({ onSelectStore, className }: MainSheetProps) 
     const onCancelSearch = () => {
         setSheetState(SheetState.DEFAULT)
         setSearchKeyword("")
-        snapTo(1)
+        setIsSearchFocused(false)
+        snapTo(300)
     }
     const onSheetSnap = (snapIndex: number) => {
         setCurrentSnap(snapIndex)
     }
     const onSearchNearest = () => {
-        snapTo(1)
+        snapTo(100)
         setSheetState(SheetState.SEARCH_RESULT)
     }
     const onSearchListItemClick = (data: Store) => {
-        snapTo(1)
+        snapTo(100)
         onSelectStore(data)
     }
     return (
-        <Sheet ref={sheetRef} isOpen={true} onClose={() => {}} snapPoints={[1, 350, 100]} initialSnap={1} onSnap={onSheetSnap} className={className}>
-            <Sheet.Container className="!rounded-2xl">
-                <Sheet.Header />
-                <Sheet.Content className="flex flex-row gap-4">
+        <Sheet isOpen={true} ref={sheetRef} snapPoints={[100, 300, '90']} initialSnap={300}>
+            <SheetHeader />
+            <SheetBody>
+                <div className="flex flex-col gap-4">
                     <section className="px-5">
                         <div className="flex">
                             <div
-                                className="absolute inset-y-0 left-4.5 top-3.5 pointer-events-none z-20 pl-4 text-white">
+                                className="absolute pointer-events-none z-20 pt-3.5 pl-4 text-white">
                                 <FaMagnifyingGlass />
                             </div>
                             <input type="text" id="hs-leading-icon" name="hs-leading-icon"
-                                   className="inline-flex py-3 px-4 pl-11 block w-full border-gray-200 shadow-sm rounded-md text-sm focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400"
+                                   className="inline-flex py-3 px-4 pl-11 block w-full border-gray-200 shadow-sm rounded-md text-sm focus:z-10 focus:border-blue-500 focus:ring-blue-500 dark:bg-slate-800 dark:border-gray-700 dark:text-gray-400"
                                    placeholder="Search location"
                                    value={searchKeyword}
                                    onChange={onSearchChange}
@@ -116,22 +123,73 @@ export default function MainSheet({ onSelectStore, className }: MainSheetProps) 
                                 <p className="mt-2 text-gray-800 dark:text-gray-400">
                                     With supporting text below as a natural lead-in to additional content.
                                 </p>
-                                <a className="mt-3 inline-flex items-center gap-2 mt-5 text-sm font-medium text-blue-500 hover:text-blue-700"
-                                   href="#">
-                                    Card link
-                                </a>
+                            </div>
+                        </div>
+                    </section>
+                    <section className={`px-5 ${sheetState !== SheetState.DEFAULT ? "hidden" : ""}`}>
+                        <h3>Games</h3>
+                        <div
+                            className="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
+                            <div className="p-4 md:p-5">
+                                <p className="mt-2 text-gray-800 dark:text-gray-400">
+                                    With supporting text below as a natural lead-in to additional content.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section className={`px-5 ${sheetState !== SheetState.DEFAULT ? "hidden" : ""}`}>
+                        <h3>Games</h3>
+                        <div
+                            className="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
+                            <div className="p-4 md:p-5">
+                                <p className="mt-2 text-gray-800 dark:text-gray-400">
+                                    With supporting text below as a natural lead-in to additional content.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section className={`px-5 ${sheetState !== SheetState.DEFAULT ? "hidden" : ""}`}>
+                        <h3>Games</h3>
+                        <div
+                            className="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
+                            <div className="p-4 md:p-5">
+                                <p className="mt-2 text-gray-800 dark:text-gray-400">
+                                    With supporting text below as a natural lead-in to additional content.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section className={`px-5 ${sheetState !== SheetState.DEFAULT ? "hidden" : ""}`}>
+                        <h3>Games</h3>
+                        <div
+                            className="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
+                            <div className="p-4 md:p-5">
+                                <p className="mt-2 text-gray-800 dark:text-gray-400">
+                                    With supporting text below as a natural lead-in to additional content.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section className={`px-5 ${sheetState !== SheetState.DEFAULT ? "hidden" : ""}`}>
+                        <h3>Games</h3>
+                        <div
+                            className="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
+                            <div className="p-4 md:p-5">
+                                <p className="mt-2 text-gray-800 dark:text-gray-400">
+                                    With supporting text below as a natural lead-in to additional content.
+                                </p>
                             </div>
                         </div>
                     </section>
                     <section className={`px-5 absolute bottom-0 ${sheetState !== SheetState.DEFAULT ? "hidden" : ""}`}>
                         made with
                     </section>
-                </Sheet.Content>
+                </div>
                 <button type="button"
                         className={`${currentSnap === 0 ? "hidden" : ""} absolute right-3 top-[-4rem] rounded-full py-4 px-4 inline-flex justify-center items-center gap-2 rounded-md bg-gray-100 border border-transparent font-semibold text-gray-800 hover:text-white hover:bg-gray-800 focus:outline-none focus:ring-2 ring-offset-white focus:ring-gray-800 focus:ring-offset-2 transition-all text-sm dark:bg-gray-700 dark:hover:bg-gray-900 dark:text-white`}>
                     <FaLocationArrow />
                 </button>
-            </Sheet.Container>
+            </SheetBody>
         </Sheet>
     )
 }

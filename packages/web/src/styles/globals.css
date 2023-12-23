@@ -2,3 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer {
+    .sheet-header {
+        @apply h-8 w-full flex items-center justify-center;
+    }
+
+    .sheet-drag-left {
+        @apply w-4 h-1 bg-gray-100 rounded-l-full;
+    }
+
+    .sheet-drag-right {
+        @apply w-4 h-1 bg-gray-100 rounded-r-full;
+    }
+}
