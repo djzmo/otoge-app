@@ -1,60 +1,41 @@
 {
   "name": "@otoge.app/web",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "private": true,
-  "dependencies": {
-    "@chakra-ui/icons": "^2.0.16",
-    "@chakra-ui/react": "^2.4.6",
-    "@otoge.app/shared": "*",
-    "@react-google-maps/api": "^2.17.1",
-    "axios": "^1.2.2",
-    "framer-motion": "^6.5.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-google-font-loader": "^1.1.0",
-    "react-icons": "^3.11.0",
-    "react-scripts": "5.0.1"
-  },
   "scripts": {
-    "lint": "eslint --ext .ts,.tsx .",
-    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|tsx)\"",
-    "dev": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "start": "serve -s build"
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|tsx)\""
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "dependencies": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "next": "15.4.6",
+    "@react-google-maps/api": "^2.19.3",
+    "axios": "^1.6.8",
+    "change-case": "^5.4.3",
+    "class-variance-authority": "^0.7.0",
+    "lucide-react": "^0.468.0",
+    "react-hot-toast": "^2.4.1",
+    "react-remove-scroll": "^2.5.9",
+    "react-swipeable": "^7.0.1",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul": "^1.1.2"
   },
   "devDependencies": {
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
-    "@tsconfig/create-react-app": "^1.0.3",
-    "@types/jest": "^28.1.8",
-    "@types/node": "^12.20.55",
-    "@types/react": "^18.0.26",
-    "@types/react-dom": "^18.0.10",
-    "@typescript-eslint/eslint-plugin": "^5.48.0",
-    "@typescript-eslint/parser": "^5.48.0",
-    "eslint": "^8.31.0",
-    "eslint-config-react-app": "^7.0.1",
-    "eslint-plugin-react": "^7.31.11",
-    "prettier": "^2.8.2",
-    "serve": "^14.1.2",
-    "typescript": "^4.9.4",
-    "web-vitals": "^2.1.4"
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.6",
+    "@eslint/eslintrc": "^3",
+    "autoprefixer": "^10.4.18",
+    "prettier": "^3.2.5"
   }
 }
