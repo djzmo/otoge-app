@@ -10,15 +10,19 @@
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|tsx)\""
   },
   "dependencies": {
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.4.6",
     "@react-google-maps/api": "^2.19.3",
+    "@react-navigation/bottom-tabs": "^7.4.5",
+    "@react-navigation/native": "^7.1.17",
     "axios": "^1.6.8",
     "change-case": "^5.4.3",
     "class-variance-authority": "^0.7.0",
     "lucide-react": "^0.468.0",
+    "next": "15.4.6",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
     "react-hot-toast": "^2.4.1",
+    "react-native-safe-area-context": "^5.6.0",
+    "react-native-screens": "^4.13.1",
     "react-remove-scroll": "^2.5.9",
     "react-swipeable": "^7.0.1",
     "tailwind-merge": "^2.2.2",
@@ -26,16 +30,16 @@
     "vaul": "^1.1.2"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "autoprefixer": "^10.4.18",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
-    "@eslint/eslintrc": "^3",
-    "autoprefixer": "^10.4.18",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
