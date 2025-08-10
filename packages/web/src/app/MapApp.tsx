@@ -14,6 +14,7 @@ import { filterStoreByGame } from "@/util/GameUtil";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import AdvancedMarker from "@/components/AdvancedMarker";
 import useWindowSize from "@/hooks/useWindowSize";
+import CurrentLocationMarker from "@/components/CurrentLocationMarker";
 
 const GOOGLE_MAPS_LIBRARIES: "marker"[] = ["marker"];
 
@@ -39,6 +40,7 @@ export default function MapApp({ initialSearchQuery }: MapAppProps = {}) {
   const [isInFullscreen, setIsInFullscreen] = useState(false);
   const [lastAutoSelectQuery, setLastAutoSelectQuery] = useState<string | null>(null);
   const [isNearbySearch, setIsNearbySearch] = useState(false);
+  const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null);
 
   const { width } = useWindowSize();
   const [mounted, setMounted] = useState(false);
@@ -46,7 +48,7 @@ export default function MapApp({ initialSearchQuery }: MapAppProps = {}) {
   const isLargeScreen = width >= 1024; // Tailwind's default lg breakpoint
 
   const onLoad = useCallback((map: google.maps.Map) => {
-    map.setCenter({
+    map.setCenter({ // Tokyo
       lat: 35.6793168,
       lng: 139.761269,
     });
@@ -55,6 +57,36 @@ export default function MapApp({ initialSearchQuery }: MapAppProps = {}) {
 
   const onUnmount = useCallback(() => {
     setMap(null);
+  }, []);
+
+  // track user location
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (!("geolocation" in navigator)) return;
+
+    let watchId: number | null = null;
+
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        setUserLocation({ lat: pos.coords.latitude, lng: pos.coords.longitude });
+      },
+      () => {},
+      { enableHighAccuracy: true, timeout: 10000, maximumAge: 5000 },
+    );
+
+    watchId = navigator.geolocation.watchPosition(
+      (pos) => {
+        setUserLocation({ lat: pos.coords.latitude, lng: pos.coords.longitude });
+      },
+      () => {},
+      { enableHighAccuracy: true, timeout: 20000, maximumAge: 5000 },
+    );
+
+    return () => {
+      if (watchId != null) {
+        navigator.geolocation.clearWatch(watchId);
+      }
+    };
   }, []);
 
   const fitBoundsToResult = useCallback(
@@ -68,20 +100,24 @@ export default function MapApp({ initialSearchQuery }: MapAppProps = {}) {
         bounds.extend(new google.maps.LatLng(store.lat, store.lng));
       }
 
+      // consider user location when in nearby mode
+      if (isNearbySearch && userLocation) {
+        bounds.extend(new google.maps.LatLng(userLocation.lat, userLocation.lng));
+      }
+
       if (map != null) {
         map.fitBounds(bounds);
         map.setZoom((map.getZoom() ?? 14) - 1);
         map.panBy(0, 150);
       }
     },
-    [map],
+    [map, isNearbySearch, userLocation],
   );
 
   const onCloseStoreDetails = useCallback(() => {
     setSelectedStore(undefined);
     fitBoundsToResult(searchResult);
 
-    // Restore URL to current shallow state when closing details
     if (typeof window !== "undefined") {
       if (isNearbySearch) {
         if (window.location.pathname !== "/map/nearby") {
@@ -231,6 +267,7 @@ export default function MapApp({ initialSearchQuery }: MapAppProps = {}) {
                   onClick={() => setSelectedStore(store)}
                 />
               ))}
+              <CurrentLocationMarker map={map} position={userLocation} />
             </GoogleMap>
           )}
         </ErrorBoundary>
