@@ -13,10 +13,15 @@ import Store from "@/domain/Store";
 import { filterStoreByGame } from "@/util/GameUtil";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import AdvancedMarker from "@/components/AdvancedMarker";
+import useWindowSize from "@/hooks/useWindowSize";
 
 const GOOGLE_MAPS_LIBRARIES: "marker"[] = ["marker"];
 
-export default function MapApp() {
+interface MapAppProps {
+  initialSearchQuery?: string;
+}
+
+export default function MapApp({ initialSearchQuery }: MapAppProps = {}) {
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
@@ -30,8 +35,15 @@ export default function MapApp() {
   const [selectedStore, setSelectedStore] = useState<Store | undefined>();
   const [textMode, setTextMode] = useState("original");
   const [gameFilter, setGameFilter] = useState<GameEnum>();
-  const [searchKeyword, setSearchKeyword] = useState("");
+  const [searchKeyword, setSearchKeyword] = useState(initialSearchQuery || "");
   const [isInFullscreen, setIsInFullscreen] = useState(false);
+  const [lastAutoSelectQuery, setLastAutoSelectQuery] = useState<string | null>(null);
+  const [isNearbySearch, setIsNearbySearch] = useState(false);
+
+  const { width } = useWindowSize();
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
+  const isLargeScreen = width >= 1024; // Tailwind's default lg breakpoint
 
   const onLoad = useCallback((map: google.maps.Map) => {
     map.setCenter({
@@ -68,7 +80,23 @@ export default function MapApp() {
   const onCloseStoreDetails = useCallback(() => {
     setSelectedStore(undefined);
     fitBoundsToResult(searchResult);
-  }, [fitBoundsToResult, searchResult]);
+
+    // Restore URL to current shallow state when closing details
+    if (typeof window !== "undefined") {
+      if (isNearbySearch) {
+        if (window.location.pathname !== "/map/nearby") {
+          window.history.replaceState(null, "", "/map/nearby");
+        }
+      } else if (searchKeyword && searchKeyword.length > 1) {
+        const target = `/map/search/${encodeURIComponent(searchKeyword)}`;
+        if (window.location.pathname !== target) {
+          window.history.replaceState(null, "", target);
+        }
+      } else if (window.location.pathname !== "/map") {
+        window.history.replaceState(null, "", "/map");
+      }
+    }
+  }, [fitBoundsToResult, searchResult, isNearbySearch, searchKeyword]);
 
   const focusSelectedStore = useCallback(() => {
     if (map && selectedStore) {
@@ -111,6 +139,36 @@ export default function MapApp() {
     fitBoundsToResult(newFilteredResult);
   }, [fitBoundsToResult, gameFilter, searchResult]);
 
+  // enable nearby mode when landing on /map/nearby
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const path = window.location.pathname;
+    if (path === "/map/nearby" && !isNearbySearch) {
+      setIsNearbySearch(true);
+    }
+  }, [isNearbySearch]);
+
+  // auto-select matching store when loaded with /map/store/:storeName
+  useEffect(() => {
+    if (!initialSearchQuery || initialSearchQuery.length === 0) return;
+    if (lastAutoSelectQuery === initialSearchQuery) return;
+    if (searchResult.length === 0) return;
+
+    const normalized = (s: string) => s.trim().toLowerCase();
+    const queryNorm = normalized(initialSearchQuery);
+
+    const match = searchResult.find((s) =>
+      normalized(s.storeName) === queryNorm ||
+      (s.alternateStoreName ? normalized(s.alternateStoreName) === queryNorm : false),
+    );
+
+    if (match) {
+      setSelectedStore(match);
+      setLastAutoSelectQuery(initialSearchQuery);
+    }
+  }, [initialSearchQuery, searchResult, lastAutoSelectQuery]);
+
+
   return (
     <SearchContext.Provider
       value={{
@@ -126,6 +184,8 @@ export default function MapApp() {
         setSearchKeyword,
         isInFullscreen,
         setIsInFullscreen,
+        isNearbySearch,
+        setIsNearbySearch,
       }}
     >
       <div id="root">
@@ -184,8 +244,11 @@ export default function MapApp() {
             </div>
           }
         >
-          <DiscoverySheet open={selectedStore == null} />
-          <DiscoverySidebar />
+          {mounted && (isLargeScreen ? (
+            <DiscoverySidebar />
+          ) : (
+            <DiscoverySheet open={selectedStore == null} />
+          ))}
         </ErrorBoundary>
 
         <ErrorBoundary
@@ -197,12 +260,16 @@ export default function MapApp() {
             </div>
           }
         >
-          <StoreSheet onClose={onCloseStoreDetails} />
-          <StoreSidebar onClose={onCloseStoreDetails} />
+          {isLargeScreen ? (
+            <StoreSidebar onClose={onCloseStoreDetails} />
+          ) : (
+            <StoreSheet onClose={onCloseStoreDetails} />
+          )}
         </ErrorBoundary>
 
         <Toaster />
       </div>
+      <div className="h-[60px] md:hidden" />
     </SearchContext.Provider>
   );
 }

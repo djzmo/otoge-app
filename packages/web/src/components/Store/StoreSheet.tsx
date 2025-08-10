@@ -32,7 +32,7 @@ export default function StoreSheet({ onClose }: StoreSheetProps) {
       snapPoints={["148px", "355px", 1]}
       activeSnapPoint={snap}
       setActiveSnapPoint={setSnap}
-      shouldScaleBackground={true}
+      shouldScaleBackground={false}
       modal={false}
     >
       <Drawer.Overlay className="fixed inset-0 bg-black/40" />

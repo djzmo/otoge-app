@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useContext, useEffect, useState } from "react";
+import { useCallback, useContext, useEffect, useRef, useState } from "react";
 import toast from "react-hot-toast";
 import StoreApi from "@/api/StoreApi";
 import SearchBarPanel from "@/components/Discovery/SearchBar/SearchBarPanel";
@@ -23,11 +23,11 @@ export default function DiscoveryPanel({
   onSearchFocus,
   sheetMode,
 }: DiscoveryPanelProps) {
-  const { searchKeyword, searchResult, setSearchResult, setGameFilter } =
+  const { searchKeyword, searchResult, setSearchResult, setGameFilter, isNearbySearch, setIsNearbySearch } =
     useContext(SearchContext);
 
   const [isLoading, setIsLoading] = useState(false);
-  const [isNearbySearch, setIsNearbySearch] = useState(false);
+  const nearbyTriggeredRef = useRef(false);
 
   const recommendedGames = [
     GameEnum.BEATMANIA_IIDX,
@@ -54,12 +54,17 @@ export default function DiscoveryPanel({
               lng,
               gameFilter,
             );
-            setIsNearbySearch(true);
+            if (setIsNearbySearch) setIsNearbySearch(true);
             if (setSearchResult) {
               setSearchResult(result);
             }
             if (setGameFilter) {
               setGameFilter(gameFilter);
+            }
+            if (typeof window !== "undefined") {
+              if (window.location.pathname !== "/map/nearby") {
+                window.history.replaceState(null, "", "/map/nearby");
+              }
             }
           } catch (e) {
             toast.error("Failed to load");
@@ -79,7 +84,7 @@ export default function DiscoveryPanel({
         },
       );
     },
-    [setGameFilter, setSearchResult],
+    [setGameFilter, setSearchResult, setIsNearbySearch],
   );
 
   const performSearchKeyword = useCallback(
@@ -91,7 +96,7 @@ export default function DiscoveryPanel({
       setIsLoading(true);
       try {
         const result = await StoreApi.searchByText(keyword);
-        setIsNearbySearch(false);
+        if (setIsNearbySearch) setIsNearbySearch(false);
         if (setSearchResult) {
           setSearchResult(result);
         }
@@ -102,7 +107,7 @@ export default function DiscoveryPanel({
         setIsLoading(false);
       }
     },
-    [setSearchResult],
+    [setSearchResult, setIsNearbySearch],
   );
 
   const onClickNearbyGameItem = useCallback(
@@ -122,11 +127,12 @@ export default function DiscoveryPanel({
   }, [onSearchCanceled]);
 
   const onSearchBarCancel = useCallback(() => {
-    setIsNearbySearch(false);
+    if (setIsNearbySearch) setIsNearbySearch(false);
+    nearbyTriggeredRef.current = false;
     if (onSearchCanceled) {
       onSearchCanceled();
     }
-  }, [onSearchCanceled]);
+  }, [onSearchCanceled, setIsNearbySearch]);
 
   const onSearchBarFocus = useCallback(() => {
     if (onSearchFocus) {
@@ -141,6 +147,43 @@ export default function DiscoveryPanel({
 
     return () => clearTimeout(delayDebounceFn);
   }, [searchKeyword, performSearchKeyword]);
+
+  // trigger nearby search when visited by URL
+  useEffect(() => {
+    if (isNearbySearch && !nearbyTriggeredRef.current) {
+      nearbyTriggeredRef.current = true;
+      performSearchNearby();
+    }
+  }, [isNearbySearch, performSearchNearby]);
+
+  // persist search/nearby state in the URL without navigating
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    const currentPath = window.location.pathname;
+    const isStorePath = currentPath.startsWith("/map/store/");
+
+    if (isStorePath) {
+      // will not override while a place is selected
+      return;
+    }
+
+    if (isNearbySearch) {
+      if (currentPath !== "/map/nearby") {
+        window.history.replaceState(null, "", "/map/nearby");
+      }
+      return;
+    }
+
+    if (searchKeyword && searchKeyword.length > 1) {
+      const targetPath = `/map/search/${encodeURIComponent(searchKeyword)}`;
+      if (currentPath !== targetPath) {
+        window.history.replaceState(null, "", targetPath);
+      }
+    } else if (currentPath !== "/map") {
+      window.history.replaceState(null, "", "/map");
+    }
+  }, [searchKeyword, isNearbySearch]);
 
   const onSearchBarSearchNearby = useCallback(async () => {
     performSearchNearby();

@@ -17,6 +17,8 @@ interface SearchContextValue {
   setSearchKeyword?: Dispatch<SetStateAction<string>>;
   isInFullscreen: boolean;
   setIsInFullscreen?: Dispatch<SetStateAction<boolean>>;
+  isNearbySearch: boolean;
+  setIsNearbySearch?: Dispatch<SetStateAction<boolean>>;
 }
 
 const SearchContext = createContext<SearchContextValue>({
@@ -24,6 +26,7 @@ const SearchContext = createContext<SearchContextValue>({
   textMode: "original",
   searchKeyword: "",
   isInFullscreen: false,
+  isNearbySearch: false,
 });
 
 export default SearchContext;

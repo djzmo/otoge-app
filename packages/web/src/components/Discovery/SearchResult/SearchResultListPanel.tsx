@@ -85,6 +85,12 @@ export default function SearchResultListPanel({
       if (setSelectedStore) {
         setSelectedStore(store);
       }
+      if (typeof window !== "undefined") {
+        const targetPath = `/map/store/${encodeURIComponent(store.storeName)}`;
+        if (window.location.pathname !== targetPath) {
+          window.history.replaceState(null, "", targetPath);
+        }
+      }
     },
     [setSelectedStore],
   );
@@ -154,7 +160,7 @@ export default function SearchResultListPanel({
       >
         {filteredResult.length === 0 && (
           <p className="text-center text-sm text-gray-700 py-10">
-            No matching places found
+            No matching stores found
           </p>
         )}
         {filteredResult.map((store, index) => {
