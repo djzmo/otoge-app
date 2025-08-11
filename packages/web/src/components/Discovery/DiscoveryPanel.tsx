@@ -46,43 +46,51 @@ export default function DiscoveryPanel({
   const performSearchNearby = useCallback(
     (gameFilter?: GameEnum) => {
       setIsLoading(true);
-      navigator?.geolocation.getCurrentPosition(
-        async ({ coords: { latitude: lat, longitude: lng } }) => {
-          try {
-            const result = await StoreApi.searchByPosition(
-              lat,
-              lng,
-              gameFilter,
-            );
-            if (setIsNearbySearch) setIsNearbySearch(true);
-            if (setSearchResult) {
-              setSearchResult(result);
-            }
-            if (setGameFilter) {
-              setGameFilter(gameFilter);
-            }
-            if (typeof window !== "undefined") {
-              if (window.location.pathname !== "/map/nearby") {
-                window.history.replaceState(null, "", "/map/nearby");
+      const nearbyPromise = new Promise<void>((resolve, reject) => {
+        navigator?.geolocation.getCurrentPosition(
+          async ({ coords: { latitude: lat, longitude: lng } }) => {
+            try {
+              const result = await StoreApi.searchByPosition(
+                lat,
+                lng,
+                gameFilter,
+              );
+              if (setIsNearbySearch) setIsNearbySearch(true);
+              if (setSearchResult) {
+                setSearchResult(result);
               }
+              if (setGameFilter) {
+                setGameFilter(gameFilter);
+              }
+              if (typeof window !== "undefined") {
+                if (window.location.pathname !== "/map/nearby") {
+                  window.history.replaceState(null, "", "/map/nearby");
+                }
+              }
+              resolve();
+            } catch (e) {
+              console.error(e);
+              reject(e as Error);
             }
-          } catch (e) {
-            toast.error("Failed to load");
+          },
+          (e) => {
             console.error(e);
-          } finally {
-            setIsLoading(false);
-          }
-        },
-        (e) => {
-          if (e.code === 1) {
-            toast.error("Please allow geolocation");
-          } else {
-            toast.error(e.message);
-          }
-          console.error(e);
-          setIsLoading(false);
-        },
-      );
+            if (e.code === 1) {
+              reject(new Error("Please allow geolocation"));
+            } else {
+              reject(new Error(e.message));
+            }
+          },
+        );
+      });
+
+      toast.promise(nearbyPromise, {
+        loading: "Searching nearby...",
+        success: "Nearby results loaded",
+        error: (err) => (err?.message ? err.message : "Failed to load"),
+      });
+
+      nearbyPromise.finally(() => setIsLoading(false));
     },
     [setGameFilter, setSearchResult, setIsNearbySearch],
   );
