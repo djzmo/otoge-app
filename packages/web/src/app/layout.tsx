@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import BottomTabs from "@/components/BottomTabs";
+import MenuSidebar from "@/components/MenuSidebar";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -60,8 +61,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.variable} antialiased`}>
+        <MenuSidebar />
         <ErrorBoundary>
-          {children}
+          <main className="pb-16 md:pb-0 md:ml-20">{children}</main>
           <BottomTabs />
         </ErrorBoundary>
       </body>

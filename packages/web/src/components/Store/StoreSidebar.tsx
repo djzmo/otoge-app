@@ -13,7 +13,7 @@ export default function StoreSidebar({ onClose }: StoreSidebarProps) {
   const { selectedStore } = useContext(SearchContext);
   return (
     selectedStore && (
-      <div className="hidden fixed top-0 start-0 bottom-0 w-96 bg-white border-e border-gray-200 pt-7 pb-10 md:block md:translate-x-0 md:end-auto md:bottom-0">
+      <div className="hidden fixed top-0 left-0 md:left-20 bottom-0 w-96 bg-white border-e border-gray-200 pt-7 pb-10 md:block md:translate-x-0 md:right-auto md:bottom-0 z-40">
         <Header />
         <StorePanel onClose={onClose} canScroll={true} />
       </div>
