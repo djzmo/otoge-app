@@ -10,6 +10,7 @@ interface SearchBarPanelProps {
   onBlur: () => void;
   onCancel: () => void;
   onFocus: () => void;
+  onSubmit: () => void;
   onSearchNearby: () => void;
   className?: string;
 }
@@ -21,6 +22,7 @@ export default function SearchBarPanel({
   onBlur,
   onCancel,
   onFocus,
+  onSubmit,
   onSearchNearby,
 }: SearchBarPanelProps) {
   const {
@@ -47,6 +49,7 @@ export default function SearchBarPanel({
 
   const onKeyUp = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter") {
+      onSubmit();
       (e.target as HTMLInputElement).blur();
     }
   };

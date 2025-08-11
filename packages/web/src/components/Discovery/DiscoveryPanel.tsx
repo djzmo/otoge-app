@@ -108,6 +108,12 @@ export default function DiscoveryPanel({
         if (setSearchResult) {
           setSearchResult(result);
         }
+        if (typeof window !== "undefined") {
+          const targetPath = `/map/search/${encodeURIComponent(keyword)}`;
+          if (window.location.pathname !== targetPath) {
+            window.history.replaceState(null, "", targetPath);
+          }
+        }
       } catch (e) {
         toast.error("Failed to load");
         console.error(e);
@@ -148,13 +154,9 @@ export default function DiscoveryPanel({
     }
   }, [onSearchFocus]);
 
-  useEffect(() => {
-    const delayDebounceFn = setTimeout(async () => {
-      await performSearchKeyword(searchKeyword);
-    }, 500);
-
-    return () => clearTimeout(delayDebounceFn);
-  }, [searchKeyword, performSearchKeyword]);
+  const onSearchBarSubmit = useCallback(() => {
+    performSearchKeyword(searchKeyword);
+  }, [performSearchKeyword, searchKeyword]);
 
   // trigger nearby search when visited by URL
   useEffect(() => {
@@ -164,7 +166,7 @@ export default function DiscoveryPanel({
     }
   }, [isNearbySearch, performSearchNearby]);
 
-  // persist search/nearby state in the URL without navigating
+  // persist nearby state in the URL without navigating; keyword-based path is handled in performSearchKeyword
   useEffect(() => {
     if (typeof window === "undefined") return;
 
@@ -172,7 +174,6 @@ export default function DiscoveryPanel({
     const isStorePath = currentPath.startsWith("/map/store/");
 
     if (isStorePath) {
-      // will not override while a place is selected
       return;
     }
 
@@ -183,15 +184,10 @@ export default function DiscoveryPanel({
       return;
     }
 
-    if (searchKeyword && searchKeyword.length > 1) {
-      const targetPath = `/map/search/${encodeURIComponent(searchKeyword)}`;
-      if (currentPath !== targetPath) {
-        window.history.replaceState(null, "", targetPath);
-      }
-    } else if (currentPath !== "/map") {
+    if (!isNearbySearch && searchResult.length === 0 && currentPath !== "/map") {
       window.history.replaceState(null, "", "/map");
     }
-  }, [searchKeyword, isNearbySearch]);
+  }, [isNearbySearch, searchResult.length]);
 
   const onSearchBarSearchNearby = useCallback(async () => {
     performSearchNearby();
@@ -205,13 +201,12 @@ export default function DiscoveryPanel({
         onBlur={onSearchBarBlur}
         onCancel={onSearchBarCancel}
         onFocus={onSearchBarFocus}
+        onSubmit={onSearchBarSubmit}
         onSearchNearby={onSearchBarSearchNearby}
         className="flex flex-none px-4 mb-4"
       />
 
-      {(isNearbySearch ||
-        searchKeyword.length > 1 ||
-        searchResult.length > 0) && (
+      {(isNearbySearch || searchResult.length > 0) && (
         <SearchResultListPanel
           canScroll={canScroll}
           isNearbySearch={isNearbySearch}
@@ -220,9 +215,7 @@ export default function DiscoveryPanel({
         />
       )}
 
-      {!isNearbySearch &&
-        searchKeyword.length <= 1 &&
-        searchResult.length === 0 && (
+      {!isNearbySearch && searchResult.length === 0 && (
           <FindNearbyListPanel
             canScroll={canScroll}
             games={recommendedGames}
