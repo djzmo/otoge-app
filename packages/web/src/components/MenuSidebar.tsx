@@ -43,7 +43,7 @@ export default function MenuSidebar() {
   };
 
   return (
-    <aside className="hidden md:flex fixed left-0 top-0 bottom-0 w-20 bg-white border-r border-gray-200 z-30">
+    <aside className="hidden lg:flex fixed left-0 top-0 bottom-0 w-20 bg-white border-r border-gray-200 z-30">
       <nav className="flex flex-col w-full py-4" aria-label="Primary">
         {tabs.map((tab) => {
           const IconComponent = tab.icon;

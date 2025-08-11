@@ -63,7 +63,7 @@ export default function RootLayout({
       <body className={`${inter.variable} antialiased`}>
         <MenuSidebar />
         <ErrorBoundary>
-          <main className="pb-16 md:pb-0 md:ml-20">{children}</main>
+          <main className="pb-16 lg:pb-0 lg:ml-20">{children}</main>
           <BottomTabs />
         </ErrorBoundary>
       </body>
